@@ -293,6 +293,11 @@
     ["Campaign-long","Ongoing","National Society toolkit uptake, statements of support","ahead"]
   ];
   // date, sessions, views, users — refreshed on request
+  // Fallback only. Overwritten by emt_data/web.json when that file exists —
+  // see applyWeb() below. Left in so the page still renders something
+  // truthful if the GA4 step is failing.
+  var WEB_LIVE    = false;
+  var SEARCH_LIVE = false;
   var WEB_ASOF   = "2 Sept, 14:10";
   var WEB_SERIES = [["2026-09-01",12,17,6],["2026-09-02",41,59,31]];
   var WEB_EXTRA  = { avgDuration: 281 };   // seconds, latest day with traffic
@@ -381,9 +386,34 @@
     h = h || FALLBACK.history;
     return loadJSON(latestSnapshotPath(h)).then(function(s){
       if(!histOK || !s) loadFailed(!histOK ? "emt_history.json" : "the latest snapshot");
-      render(h, s || FALLBACK.snapshot);
+      return loadJSON("emt_data/web.json").then(function(w){
+        applyWeb(w);
+        render(h, s || FALLBACK.snapshot);
+      });
     });
   });
+
+  // A missing or empty web.json is not an error worth shouting about — it
+  // just means the GA4 step has not run yet, or is failing. The fallback
+  // values and the "hand-refreshed" stamp both stay, so the page degrades
+  // into exactly what it was before rather than into a lie.
+  function applyWeb(w){
+    if(!w || !w.series || !w.series.length) return;
+    WEB_SERIES = w.series;
+    WEB_EXTRA  = { avgDuration: w.avg_duration || 0 };
+    WEB_LIVE   = true;
+    var t = new Date(w.generated_at);
+    WEB_ASOF = isNaN(t.getTime()) ? String(w.generated_at)
+      : t.toLocaleString("en-GB",{day:"numeric",month:"short",
+                                  hour:"2-digit",minute:"2-digit"});
+    if(w.search && w.search.rows && w.search.rows.length){
+      SEARCH_LIVE = true;
+      SEARCH_ROWS = w.search.rows.slice(0,10).map(function(r){
+        return [r.query, String(r.impressions), String(r.clicks),
+                r.position ? String(r.position) : "\u2014"];
+      });
+    }
+  }
 
   function render(history,snapshot){
     var s=snapshot.summary||FALLBACK.snapshot.summary;
@@ -464,8 +494,15 @@
       ["Avg. time on page",WEB_EXTRA.avgDuration+"s","Latest day with traffic","sky"]
     ].map(kpiHTML).join("");
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
-    el("webAsOf").textContent="GA4 \u00b7 hand-refreshed "+WEB_ASOF;
-    el("searchAsOf").textContent="Search Console \u00b7 4 Aug \u2013 1 Sept \u00b7 hand-refreshed";
+    el("webAsOf").textContent = WEB_LIVE
+      ? "GA4 \u00b7 live, updated " + WEB_ASOF
+      : "GA4 \u00b7 hand-refreshed " + WEB_ASOF;
+    // Search Console can succeed or fail independently of GA4, so it gets
+    // its own flag. Otherwise a skipped GSC fetch would sit under a label
+    // claiming it was live.
+    el("searchAsOf").textContent = SEARCH_LIVE
+      ? "Search Console \u00b7 live, updated " + WEB_ASOF
+      : "Search Console \u00b7 4 Aug \u2013 1 Sept \u00b7 hand-refreshed";
 
     el("searchKpis").innerHTML=SEARCH_KPIS.map(kpiHTML).join("");
     el("searchTable").innerHTML=rows(SEARCH_ROWS);
