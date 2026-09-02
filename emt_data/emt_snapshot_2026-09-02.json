@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated": "2026-09-02T20:08:37.103115+00:00",
+    "generated": "2026-09-02T20:15:47.409122+00:00",
     "window_hours": 24,
     "total": 0,
     "text_available": 0,
@@ -11,7 +11,9 @@
     "own_posts": 0,
     "movement_posts": 0,
     "external_posts": 0,
-    "reach_available": false,
+    "reach_available": true,
+    "reach_measurement": "REACH_COUNT",
+    "reach_error": "TOTAL_REACH -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a9883f2d6f6597b15c0ab39\",\"code\":400,\"message\":\"Unknown measurement: TOTAL_REACH for report: SPRINKSIGHTS\"}]}",
     "total_reach": 0,
     "own_reach": 0,
     "movement_reach": 0,
