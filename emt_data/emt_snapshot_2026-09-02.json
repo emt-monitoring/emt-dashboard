@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "generated": "2026-09-02T10:56:49.544398+00:00",
+    "window_hours": 24,
+    "total": 0,
+    "text_available": 0,
+    "text_masked": 0,
+    "earned_media": 0,
+    "social": 0,
+    "by_source": {},
+    "own_posts": 0,
+    "movement_posts": 0,
+    "external_posts": 0,
+    "amplification": null,
+    "earned_by_platform": {},
+    "top_outlets": {},
+    "earned_top": [],
+    "campaign_named": 0,
+    "treaty_only": 0,
+    "by_day": {},
+    "by_platform": {},
+    "by_language": {},
+    "by_sentiment": {},
+    "astronauts": {},
+    "risk_vectors": {},
+    "risk_examples": {},
+    "top_posts": []
+  },
+  "items": []
+}
