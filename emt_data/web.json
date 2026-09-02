@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:41:12+00:00",
+  "generated_at": "2026-09-02T19:53:56+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-01",
   "series": [
@@ -11,18 +11,18 @@
     ],
     [
       "2026-09-02",
-      60,
-      85,
+      61,
+      92,
       46
     ]
   ],
-  "avg_duration": 246,
+  "avg_duration": 253,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 68,
-      "views": 89,
+      "sessions": 69,
+      "views": 96,
       "users": 46
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "label": "Unassigned",
-      "value": 31
+      "value": 32
     },
     {
       "label": "Referral",
@@ -72,7 +72,7 @@
     },
     {
       "label": "United States",
-      "value": 14
+      "value": 15
     },
     {
       "label": "Lebanon",
