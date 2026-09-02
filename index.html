@@ -1,4 +1,4 @@
-<title>Earth's Missing Treaty — Live</title>
+undefined<title>Earth's Missing Treaty — Live</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
@@ -146,6 +146,19 @@
     color:var(--muted);display:flex;flex-direction:column;gap:8px}
 
   @media (prefers-reduced-motion: reduce){*{transition:none!important}}
+    .donut-wrap{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+    .donut{width:128px;height:128px;flex:0 0 auto}
+    .legend{flex:1 1 180px;min-width:180px}
+    .lg-row{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:12px}
+    .lg-dot{width:9px;height:9px;border-radius:2px;flex:0 0 auto}
+    .lg-lab{color:var(--ink-2);flex:1 1 auto}
+    .lg-val{color:var(--muted);font-variant-numeric:tabular-nums}
+    .hbars{display:flex;flex-direction:column;gap:7px;margin-top:4px}
+    .hb{display:flex;align-items:center;gap:10px;font-size:12px}
+    .hb-lab{flex:0 0 116px;color:var(--ink-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .hb-track{flex:1 1 auto;height:8px;background:var(--panel-2);border-radius:4px;overflow:hidden}
+    .hb-fill{display:block;height:100%;border-radius:4px}
+    .hb-val{flex:0 0 44px;text-align:right;color:var(--muted);font-variant-numeric:tabular-nums}
 </style>
 
 <div class="hero">
@@ -231,6 +244,13 @@
       <div class="sec-head"><h3>Campaign website</h3><span class="eyebrow" id="webAsOf">GA4</span></div>
       <div class="kpis tight" id="webKpis"></div>
       <div class="card" style="margin-top:14px"><h4>Sessions and views, daily</h4><div id="webTrend"></div></div>
+      <div class="card"><h4>Where visitors came from</h4>
+        <p class="kpi-note" style="margin:-6px 0 10px">Direct means no referrer was sent \u2014 expected from a QR code, a printed billboard or a messaging app.</p>
+        <div id="webChannels"></div></div>
+      <div class="card"><h4>Language version read</h4>
+        <p class="kpi-note" style="margin:-6px 0 10px">Taken from the page path, so this is the version people actually opened, not their browser setting.</p>
+        <div id="webLangs"></div></div>
+      <div class="card"><h4>Top countries</h4><div id="webCountries"></div></div>
     </section>
 
     <section>
@@ -297,6 +317,10 @@
   // see applyWeb() below. Left in so the page still renders something
   // truthful if the GA4 step is failing.
   var WEB_LIVE    = false;
+  var WEB_CHANNELS = [];
+  var WEB_COUNTRIES = [];
+  var WEB_ACTIONS = [];
+  var WEB_PAGES = [];
   var SEARCH_LIVE = false;
   var WEB_ASOF   = "2 Sept, 14:10";
   var WEB_SERIES = [["2026-09-01",12,17,6],["2026-09-02",41,59,31]];
@@ -402,6 +426,10 @@
     WEB_SERIES = w.series;
     WEB_EXTRA  = { avgDuration: w.avg_duration || 0 };
     WEB_LIVE   = true;
+    WEB_CHANNELS = w.channels || [];
+    WEB_COUNTRIES = w.countries || [];
+    WEB_ACTIONS = w.actions || [];
+    WEB_PAGES = w.by_page || [];
     var t = new Date(w.generated_at);
     WEB_ASOF = isNaN(t.getTime()) ? String(w.generated_at)
       : t.toLocaleString("en-GB",{day:"numeric",month:"short",
@@ -438,11 +466,18 @@
     el("kpis").innerHTML=[
       ["Total mentions",num(s.total),"Media and social","red"],
       ["Media coverage",num(s.earned_media),"News, web, print, broadcast","sky"],
-      ["Social posts",num(s.social),"All platforms","sky"],
+      // Split on purpose. One "social posts" figure mixes our own output with
+      // the response to it, and those are the two things a launch turns on.
+      // Engagement rides in the note beside each count so volume and traction
+      // are never read apart.
+      ["Our posts",num(s.own_posts||0),
+        num(s.own_engagement||0)+" engagements \u00b7 IFRC channels","red"],
+      ["Posts from others",num((s.movement_posts||0)+(s.external_posts||0)),
+        num((s.movement_engagement||0)+(s.external_engagement||0))+
+        " engagements \u00b7 Movement and external","sky"],
       ["Site page views",num(webTot[2]),"Campaign site \u00b7 as of "+WEB_ASOF,"sky"],
       ["Named the campaign",num(s.campaign_named),
-        launched?"Using the campaign name":"Not yet public",launched?"green":"amber"],
-      ["Top-post engagement",num(reach),"Sum of the 25 largest","red"]
+        launched?"Using the campaign name":"Not yet public",launched?"green":"amber"]
     ].map(kpiHTML).join("");
 
     el("phaseTable").innerHTML=PHASES.map(function(p){
@@ -491,9 +526,19 @@
       ["Sessions",num(tot[1]),"Since tracking began","sky"],
       ["Page views",num(tot[2]),"Since tracking began","sky"],
       ["Users",num(tot[3]),"Unique","sky"],
-      ["Avg. time on page",WEB_EXTRA.avgDuration+"s","Latest day with traffic","sky"]
+      ["Avg. time on page",WEB_EXTRA.avgDuration+"s","Latest day with traffic","sky"],
+      // Leaving the page on purpose: opening a PDF or following a link out.
+      // Raw event counts would be meaningless \u2014 page_view dwarfs everything \u2014
+      // so emt_web.py keeps only the intent events.
+      ["Downloads and clicks",num(WEB_ACTIONS.reduce(function(a,x){return a+x.value;},0)),
+        "PDF opens and outbound links","green"]
     ].map(kpiHTML).join("");
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
+    el("webChannels").innerHTML=donutHTML(WEB_CHANNELS);
+    el("webCountries").innerHTML=hbarHTML(WEB_COUNTRIES.slice(0,8),"var(--sky)");
+    el("webLangs").innerHTML=hbarHTML(WEB_PAGES.map(function(p){
+      return {label:p.language, value:p.sessions};
+    }),"var(--red)");
     el("webAsOf").textContent = WEB_LIVE
       ? "GA4 \u00b7 live, updated " + WEB_ASOF
       : "GA4 \u00b7 hand-refreshed " + WEB_ASOF;
@@ -696,6 +741,45 @@
       {name:"Media only",colour:"#7FB3E8",dash:true,values:days.map(function(d){
         return history.days[d].earned_media||0;})}
     ],{id:"m",label:"Daily mention volume"});
+  }
+
+  var PIE_COLOURS=["#ED1B2E","#7FB3E8","#46C08D","#E8A33F","#8E1420","#6E7A8F"];
+
+  // Donut not pie: the hole gives the eye somewhere to rest next to the
+  // legend, and similar-sized slices stay tellable apart at this scale.
+  function donutHTML(items){
+    if(!items || !items.length) return '<p class="empty">Nothing yet.</p>';
+    var total=items.reduce(function(a,i){return a+i.value;},0);
+    if(!total) return '<p class="empty">Nothing yet.</p>';
+    var r=54,c=64,circ=2*Math.PI*r,off=0;
+    var segs=items.map(function(it,ix){
+      var frac=it.value/total;
+      var seg='<circle cx="'+c+'" cy="'+c+'" r="'+r+'" fill="none" stroke="'+
+        PIE_COLOURS[ix%PIE_COLOURS.length]+'" stroke-width="20" stroke-dasharray="'+
+        (frac*circ)+' '+circ+'" stroke-dashoffset="'+(-off)+'" '+
+        'transform="rotate(-90 '+c+' '+c+')"></circle>';
+      off+=frac*circ; return seg;
+    }).join("");
+    var legend=items.map(function(it,ix){
+      return '<div class="lg-row"><span class="lg-dot" style="background:'+
+        PIE_COLOURS[ix%PIE_COLOURS.length]+'"></span><span class="lg-lab">'+
+        esc(it.label)+'</span><span class="lg-val">'+num(it.value)+' \u00b7 '+
+        Math.round(it.value/total*100)+'%</span></div>';
+    }).join("");
+    return '<div class="donut-wrap"><svg viewBox="0 0 128 128" class="donut" '+
+      'role="img" aria-label="Share by source">'+segs+'</svg>'+
+      '<div class="legend">'+legend+'</div></div>';
+  }
+
+  function hbarHTML(items,colour){
+    if(!items || !items.length) return '<p class="empty">Nothing yet.</p>';
+    var max=items[0].value||1;
+    return '<div class="hbars">'+items.map(function(it){
+      return '<div class="hb"><span class="hb-lab">'+esc(it.label)+'</span>'+
+        '<span class="hb-track"><span class="hb-fill" style="width:'+
+        Math.max(2,Math.round(it.value/max*100))+'%;background:'+colour+'"></span></span>'+
+        '<span class="hb-val">'+num(it.value)+'</span></div>';
+    }).join("")+'</div>';
   }
 
   function webTrendHTML(series){
