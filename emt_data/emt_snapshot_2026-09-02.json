@@ -1,18 +1,18 @@
 {
   "summary": {
-    "generated": "2026-09-02T20:22:58.266783+00:00",
+    "generated": "2026-09-02T23:24:22.773726+00:00",
     "window_hours": 24,
-    "total": 1,
-    "text_available": 1,
+    "total": 5,
+    "text_available": 5,
     "text_masked": 0,
-    "earned_media": 1,
+    "earned_media": 5,
     "social": 0,
     "by_source": {
-      "external": 1
+      "external": 5
     },
     "own_posts": 0,
     "movement_posts": 0,
-    "external_posts": 1,
+    "external_posts": 5,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "reach_error": "",
@@ -25,12 +25,70 @@
     "external_engagement": 0,
     "amplification": null,
     "earned_by_platform": {
-      "Web": 1
+      "Web": 4,
+      "Print": 1
     },
     "top_outlets": {
+      "Moreover": 2,
+      "Un": 1,
+      "Au": 1,
       "United Nations": 1
     },
     "earned_top": [
+      {
+        "url": "https://ct.moreover.com/?a=60321050831&p=4vg&v=1&x=TEJX9eNxCxHsEHE2vCMbHQ",
+        "platform": "Print",
+        "outlet": "Moreover",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
+        "created": "2026-09-02T23:24:22.770592+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://webtv.un.org/en/asset/k1h/k1hky0y8ef",
+        "platform": "Web",
+        "outlet": "Un",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
+        "created": "2026-09-02T23:24:22.771587+00:00",
+        "author": "",
+        "astronauts": [
+          "Dr. Sian Proctor"
+        ],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://www.nationaltribune.com.au/disaster-law-research-powers-emergency-career/",
+        "platform": "Web",
+        "outlet": "Au",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
+        "created": "2026-09-02T23:24:22.771935+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "http://ct.moreover.com/?a=60321727605&p=1yx&v=1&x=ebPxYT3hc2ky_uC3AnsSPQ",
+        "platform": "Web",
+        "outlet": "Moreover",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
+        "created": "2026-09-02T23:24:22.772650+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
         "platform": "Web",
@@ -39,28 +97,85 @@
         "language": "en",
         "engagement": 0,
         "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-02T20:22:58.265968+00:00",
+        "created": "2026-09-02T23:24:22.772863+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
       }
     ],
     "campaign_named": 0,
-    "treaty_only": 0,
+    "treaty_only": 1,
     "by_day": {
-      "2026-09-02": 1
+      "2026-09-02": 5
     },
     "by_platform": {
-      "Web": 1
+      "Web": 4,
+      "Print": 1
     },
     "by_language": {
-      "en": 1
+      "en": 5
     },
     "by_sentiment": {},
-    "astronauts": {},
+    "astronauts": {
+      "Dr. Sian Proctor": 1
+    },
     "risk_vectors": {},
     "risk_examples": {},
     "top_posts": [
+      {
+        "url": "https://ct.moreover.com/?a=60321050831&p=4vg&v=1&x=TEJX9eNxCxHsEHE2vCMbHQ",
+        "platform": "Print",
+        "outlet": "Moreover",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
+        "created": "2026-09-02T23:24:22.770592+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://webtv.un.org/en/asset/k1h/k1hky0y8ef",
+        "platform": "Web",
+        "outlet": "Un",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
+        "created": "2026-09-02T23:24:22.771587+00:00",
+        "author": "",
+        "astronauts": [
+          "Dr. Sian Proctor"
+        ],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://www.nationaltribune.com.au/disaster-law-research-powers-emergency-career/",
+        "platform": "Web",
+        "outlet": "Au",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
+        "created": "2026-09-02T23:24:22.771935+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "http://ct.moreover.com/?a=60321727605&p=1yx&v=1&x=ebPxYT3hc2ky_uC3AnsSPQ",
+        "platform": "Web",
+        "outlet": "Moreover",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
+        "created": "2026-09-02T23:24:22.772650+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
         "platform": "Web",
@@ -69,7 +184,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-02T20:22:58.265968+00:00",
+        "created": "2026-09-02T23:24:22.772863+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -79,6 +194,96 @@
   "items": [
     {
       "id": "s0001",
+      "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the Spokesperson for the Secretary-General     \n\n\n\n         The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General.       \n\n         Alright, good afternoon. Thank you for your patience.       \n\n         **Noon Briefing Guest\n\n         In a short while, we will be joined virtually by our guest, Inger Andersen, who, as you know, is the Executive Director of the United Nations Environment Programme (UNEP). She will brief on the launch of the latest UNEP report, called \"Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return\". The report finds that as global temperatures rise, the world must strive to return to below 1.5°C as soon as possible and simultaneously reduce the vulnerability of societies, communities and economies to climate impacts.       \n\n         In a video message on the launch, the Secretary-General noted that humanity is speeding past the limit to avoid climate catastrophe. He pointed out that we are set to breach the 1.5°C limit within the next few years, and this summer's scorching heat, raging wildfires and deadly floods are a warning of what lies ahead.       \n\n         The Secretary-General warned that every fraction of a degree will cost lives, will destroy livelihoods, will deepen inequality and push ecosystems closer to irreversible damage. He stressed that we must make the overshoot as small and short as possible, limiting how high temperatures rise and how long they remain above 1.5, and that the fight for 1.5°C is the fight for humanity.       \n\n         So, we will get Inger very soon, and Inger, I ask for your patience.       \n\n         **Briefings/Tomorrow\n\n         Just a remind",
+      "has_text": true,
+      "url": "https://ct.moreover.com/?a=60321050831&p=4vg&v=1&x=TEJX9eNxCxHsEHE2vCMbHQ",
+      "platform": "Print",
+      "outlet": "Moreover",
+      "source": "external",
+      "language": "en",
+      "language_source": "inferred",
+      "author": "",
+      "created": "2026-09-02T23:24:22.770592+00:00",
+      "day": "2026-09-02",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0002",
+      "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's first international disaster treaty</p> <p> Description</p> <p> Briefers (in-person) are:</p> <p> Dylan Winder, IFRC Permanent Observer to the UN and Director of</p> <p> Humanitarian Diplomacy and Communications;</p> <p> Dr Sian Proctor, Geoscientist and astronaut; and</p> <p> Isabelle Granger, IFRC Global Lead, Disaster Law.</p>",
+      "has_text": true,
+      "url": "https://webtv.un.org/en/asset/k1h/k1hky0y8ef",
+      "platform": "Web",
+      "outlet": "Un",
+      "source": "external",
+      "language": "en",
+      "language_source": "inferred",
+      "author": "",
+      "created": "2026-09-02T23:24:22.771587+00:00",
+      "day": "2026-09-02",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": true,
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0003",
+      "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after disasters in New Zealand and the United States were often voluntary or not explicit.</p> <p> “Utility workers are essential to restoring power, water and other critical services after a disaster, and they can face many of the same hazards as emergency responders. Having clear legal protections helps to keep them safe, clarifies responsibilities and supports a faster, more coordinated recovery,” Evison says.</p> <p> Working with QuakeCoRE, a Centre of Research Excellence that aims to improve earthquake resilience, along with the specialist knowledge Evison developed through her research, have helped launch her career. Before graduating, she secured a Wellington-based role at the Ministry of Business, Innovation and Employment (MBIE) as an advisor in incident management and emergency management.</p> <p> Evison believes her familiarity with New Zealand's Coordinated Incident Management System was a key factor in gaining her role at MBIE.</p> <p> “I looked at it a lot during my master's, so the theoretical knowledge I acquired through my research has been directly applicable to what I am doing,” she says.</p> <p> Her team helps build emergency management and business continuity capability across MBIE and supports incident management teams during local and national responses. Evison has already put her knowledge into practice in the logistics function during responses.</p> <p> While she is not working as a lawyer or providing legal advice, Evison says her UC Law education prepared her for a career extending well beyond conventional legal practice. “The writing, research and critical thinking skills you learn throughout an undergraduate degree and master's are applicable to so many different jobs,” s",
+      "has_text": true,
+      "url": "https://www.nationaltribune.com.au/disaster-law-research-powers-emergency-career/",
+      "platform": "Web",
+      "outlet": "Au",
+      "source": "external",
+      "language": "en",
+      "language_source": "inferred",
+      "author": "",
+      "created": "2026-09-02T23:24:22.771935+00:00",
+      "day": "2026-09-02",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0004",
+      "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
+      "has_text": true,
+      "url": "http://ct.moreover.com/?a=60321727605&p=1yx&v=1&x=ebPxYT3hc2ky_uC3AnsSPQ",
+      "platform": "Web",
+      "outlet": "Moreover",
+      "source": "external",
+      "language": "en",
+      "language_source": "inferred",
+      "author": "",
+      "created": "2026-09-02T23:24:22.772650+00:00",
+      "day": "2026-09-02",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0005",
       "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that humanity is speeding past the limit to avoid climate catastrophe. He pointed out that we are set to breach the 1.5 degree limit within the next few years, and this summer's scorching heat, raging wildfires and deadly floods are a warning of what lies ahead.</p> <p> The Secretary-General warned that every fraction of a degree will cost lives, will destroy livelihoods, will deepen</p> <p> inequality and push ecosystems closer to irreversible damage. He stressed that we must make the overshoot as small and short as possible, limiting how high temperatures rise and how long they remain above 1.5, and that the fight for 1.5 degrees is the fight for humanity.</p> <p> IRAN</p> <p> The Secretary-General is gravely concerned by the renewed exchanges of fire overnight between the United States and the Islamic Republic of Iran. The Secretary-General is deeply alarmed by reports of civilian casualties, including in a strike that reportedly hit a wedding ceremony in Iran. The Secretary-General condemns all attacks against civilians. He recalls that all parties must respect their obligations under international humanitarian law, including the principles of distinction, proportionality, and precaution.</p> <p> As we have seen, few countries in the region are immune from this escalation, with airspace and critical shipping routes continuing to be heavily impacted.</p> <p> The Secretary-General reiterates his call for an immediate cessation of military action and urges all concerned to exercise restraint and refrain from actions and rhetoric that could further escalate already high tensions.</p> <p> Further escalation, as you can imagine, would have devastating consequences for civilians and for the wider region ",
       "has_text": true,
       "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
@@ -88,7 +293,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-02T20:22:58.265968+00:00",
+      "created": "2026-09-02T23:24:22.772863+00:00",
       "day": "2026-09-02",
       "engagement": 0,
       "reach": 0,
