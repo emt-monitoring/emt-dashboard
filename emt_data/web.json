@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:15:49+00:00",
+  "generated_at": "2026-09-02T20:23:01+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-01",
   "series": [
@@ -12,7 +12,7 @@
     [
       "2026-09-02",
       64,
-      101,
+      103,
       48
     ]
   ],
@@ -22,7 +22,7 @@
       "path": "/earthsmissingtreaty",
       "language": "English",
       "sessions": 71,
-      "views": 105,
+      "views": 107,
       "users": 48
     },
     {

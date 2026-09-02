@@ -1,19 +1,21 @@
 {
   "summary": {
-    "generated": "2026-09-02T20:15:47.409122+00:00",
+    "generated": "2026-09-02T20:22:58.266783+00:00",
     "window_hours": 24,
-    "total": 0,
-    "text_available": 0,
+    "total": 1,
+    "text_available": 1,
     "text_masked": 0,
-    "earned_media": 0,
+    "earned_media": 1,
     "social": 0,
-    "by_source": {},
+    "by_source": {
+      "external": 1
+    },
     "own_posts": 0,
     "movement_posts": 0,
-    "external_posts": 0,
+    "external_posts": 1,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
-    "reach_error": "TOTAL_REACH -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a9883f2d6f6597b15c0ab39\",\"code\":400,\"message\":\"Unknown measurement: TOTAL_REACH for report: SPRINKSIGHTS\"}]}",
+    "reach_error": "",
     "total_reach": 0,
     "own_reach": 0,
     "movement_reach": 0,
@@ -22,19 +24,80 @@
     "movement_engagement": 0,
     "external_engagement": 0,
     "amplification": null,
-    "earned_by_platform": {},
-    "top_outlets": {},
-    "earned_top": [],
+    "earned_by_platform": {
+      "Web": 1
+    },
+    "top_outlets": {
+      "United Nations": 1
+    },
+    "earned_top": [
+      {
+        "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
+        "platform": "Web",
+        "outlet": "United Nations",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
+        "created": "2026-09-02T20:22:58.265968+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      }
+    ],
     "campaign_named": 0,
     "treaty_only": 0,
-    "by_day": {},
-    "by_platform": {},
-    "by_language": {},
+    "by_day": {
+      "2026-09-02": 1
+    },
+    "by_platform": {
+      "Web": 1
+    },
+    "by_language": {
+      "en": 1
+    },
     "by_sentiment": {},
     "astronauts": {},
     "risk_vectors": {},
     "risk_examples": {},
-    "top_posts": []
+    "top_posts": [
+      {
+        "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
+        "platform": "Web",
+        "outlet": "United Nations",
+        "source": "external",
+        "language": "en",
+        "engagement": 0,
+        "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
+        "created": "2026-09-02T20:22:58.265968+00:00",
+        "author": "",
+        "astronauts": [],
+        "risk_vectors": []
+      }
+    ]
   },
-  "items": []
+  "items": [
+    {
+      "id": "s0001",
+      "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that humanity is speeding past the limit to avoid climate catastrophe. He pointed out that we are set to breach the 1.5 degree limit within the next few years, and this summer's scorching heat, raging wildfires and deadly floods are a warning of what lies ahead.</p> <p> The Secretary-General warned that every fraction of a degree will cost lives, will destroy livelihoods, will deepen</p> <p> inequality and push ecosystems closer to irreversible damage. He stressed that we must make the overshoot as small and short as possible, limiting how high temperatures rise and how long they remain above 1.5, and that the fight for 1.5 degrees is the fight for humanity.</p> <p> IRAN</p> <p> The Secretary-General is gravely concerned by the renewed exchanges of fire overnight between the United States and the Islamic Republic of Iran. The Secretary-General is deeply alarmed by reports of civilian casualties, including in a strike that reportedly hit a wedding ceremony in Iran. The Secretary-General condemns all attacks against civilians. He recalls that all parties must respect their obligations under international humanitarian law, including the principles of distinction, proportionality, and precaution.</p> <p> As we have seen, few countries in the region are immune from this escalation, with airspace and critical shipping routes continuing to be heavily impacted.</p> <p> The Secretary-General reiterates his call for an immediate cessation of military action and urges all concerned to exercise restraint and refrain from actions and rhetoric that could further escalate already high tensions.</p> <p> Further escalation, as you can imagine, would have devastating consequences for civilians and for the wider region ",
+      "has_text": true,
+      "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
+      "platform": "Web",
+      "outlet": "United Nations",
+      "source": "external",
+      "language": "en",
+      "language_source": "inferred",
+      "author": "",
+      "created": "2026-09-02T20:22:58.265968+00:00",
+      "day": "2026-09-02",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    }
+  ]
 }
