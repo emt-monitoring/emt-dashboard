@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated": "2026-09-02T19:53:53.607907+00:00",
+    "generated": "2026-09-02T20:08:37.103115+00:00",
     "window_hours": 24,
     "total": 0,
     "text_available": 0,
@@ -11,6 +11,11 @@
     "own_posts": 0,
     "movement_posts": 0,
     "external_posts": 0,
+    "reach_available": false,
+    "total_reach": 0,
+    "own_reach": 0,
+    "movement_reach": 0,
+    "external_reach": 0,
     "own_engagement": 0,
     "movement_engagement": 0,
     "external_engagement": 0,
