@@ -471,10 +471,22 @@
       // Engagement rides in the note beside each count so volume and traction
       // are never read apart.
       ["Our posts",num(s.own_posts||0),
-        num(s.own_engagement||0)+" engagements \u00b7 IFRC channels","red"],
+        num(s.own_engagement||0)+" engagements"+reachNote(s,s.own_reach)+
+        " \u00b7 IFRC channels","red"],
       ["Posts from others",num((s.movement_posts||0)+(s.external_posts||0)),
         num((s.movement_engagement||0)+(s.external_engagement||0))+
-        " engagements \u00b7 Movement and external","sky"],
+        " engagements"+reachNote(s,(s.movement_reach||0)+(s.external_reach||0))+
+        " \u00b7 Movement and external","sky"],
+      // Reach is the number this team reads first, so it gets its own tile
+      // rather than living only in the notes. When Sprinklr will not serve
+      // it, the tile says so instead of showing 0 \u2014 which would read as
+      // "nobody saw this" rather than "we could not measure it".
+      ["Total reach",
+        s.reach_available ? num(s.total_reach||0) : "\u2014",
+        s.reach_available
+          ? "Accounts reached \u00b7 Sprinklr " + (s.reach_measurement||"")
+          : "Not returned by Sprinklr this run",
+        s.reach_available ? "red" : "amber"],
       ["Site page views",num(webTot[2]),"Campaign site \u00b7 as of "+WEB_ASOF,"sky"],
       ["Named the campaign",num(s.campaign_named),
         launched?"Using the campaign name":"Not yet public",launched?"green":"amber"]
@@ -566,6 +578,13 @@
     el("methodology").textContent=s.text_masked
       ? s.text_available+" of "+s.total+" items had readable text; the rest returned "+
         "metadata only." : "";
+  }
+
+  // Empty string when reach is unavailable, so the note degrades to just the
+  // engagement figure rather than reading "0 reach" — which would be a
+  // measurement failure dressed up as a result.
+  function reachNote(sum, value){
+    return sum.reach_available ? " · " + num(value||0) + " reach" : "";
   }
 
   function kpiHTML(k){
