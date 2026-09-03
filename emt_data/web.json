@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-03T11:46:04+00:00",
+  "generated_at": "2026-09-03T11:48:18+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      51,
+      52,
       50,
-      46
+      47
     ]
   ],
-  "avg_duration": 65,
+  "avg_duration": 66,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 41,
+      "sessions": 42,
       "views": 41,
-      "users": 36
+      "users": 37
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -93,7 +93,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 38
+      "value": 39
     },
     {
       "label": "Unassigned",
@@ -115,7 +115,7 @@
     },
     {
       "label": "Germany",
-      "value": 5
+      "value": 6
     },
     {
       "label": "Netherlands",
