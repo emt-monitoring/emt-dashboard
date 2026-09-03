@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-03T10:41:44+00:00",
+  "generated_at": "2026-09-03T11:29:52+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      47,
-      48,
-      43
+      49,
+      49,
+      44
     ]
   ],
-  "avg_duration": 71,
+  "avg_duration": 68,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 38,
-      "views": 40,
-      "users": 34
+      "sessions": 40,
+      "views": 41,
+      "users": 35
     },
     {
       "path": "/earthsmissingtreaty/ar",
@@ -93,11 +93,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 37
+      "value": 38
     },
     {
       "label": "Unassigned",
-      "value": 19
+      "value": 21
     },
     {
       "label": "Referral",
@@ -127,7 +127,7 @@
     },
     {
       "label": "Lebanon",
-      "value": 3
+      "value": 4
     },
     {
       "label": "Australia",
@@ -158,6 +158,10 @@
     {
       "label": "file_download",
       "value": 3
+    },
+    {
+      "label": "click",
+      "value": 1
     }
   ],
   "search": null
