@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:32:33+00:00",
+  "generated_at": "2026-09-03T11:46:04+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -15,22 +15,22 @@
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 40,
+      "sessions": 41,
       "views": 41,
-      "users": 35
+      "users": 36
+    },
+    {
+      "path": "/earthsmissingtreaty/es",
+      "language": "Español",
+      "sessions": 2,
+      "views": 2,
+      "users": 2
     },
     {
       "path": "/earthsmissingtreaty/ar",
       "language": "العربية",
       "sessions": 1,
       "views": 0,
-      "users": 1
-    },
-    {
-      "path": "/earthsmissingtreaty/es",
-      "language": "Español",
-      "sessions": 1,
-      "views": 1,
       "users": 1
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "label": "Unassigned",
-      "value": 21
+      "value": 23
     },
     {
       "label": "Referral",
@@ -146,11 +146,11 @@
       "value": 2
     },
     {
-      "label": "Armenia",
-      "value": 1
+      "label": "Spain",
+      "value": 2
     },
     {
-      "label": "Azerbaijan",
+      "label": "Armenia",
       "value": 1
     }
   ],
