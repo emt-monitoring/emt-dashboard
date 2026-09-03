@@ -698,13 +698,20 @@
       :'<p class="empty">Nothing in this window.</p>';
   }
 
-  // Listening rows on this tenant often carry no metrics at all. Show
-  // whichever number is real; show none rather than a zero, because a
-  // printed 0 reads as a measured result instead of a missing one.
+  // Show BOTH numbers when both are real. This used to return potential
+  // audience OR engagement, and since almost every social post has a
+  // follower count, engagement never appeared -- the box said "8 engagements"
+  // above a feed where not one row showed an engagement, so the totals looked
+  // invented. Engagement comes first because that is the figure the box has
+  // to reconcile with. Still nothing rather than a zero: an unmeasured 0
+  // reads as a measured result.
   function metricChip(p){
-    if ((p.reach||0) > 0) return '<span class="eng">'+num(p.reach)+' potential</span>';
-    if ((p.engagement||0) > 0) return '<span class="eng">'+num(p.engagement)+' eng.</span>';
-    return "";
+    var out = "";
+    if ((p.engagement||0) > 0)
+      out += '<span class="eng">'+num(p.engagement)+' eng.</span>';
+    if ((p.reach||0) > 0)
+      out += '<span class="eng">'+num(p.reach)+' potential</span>';
+    return out;
   }
 
   // Who posted it. Author wins over outlet, so a social post reads
