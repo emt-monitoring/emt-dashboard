@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-03T11:29:52+00:00",
+  "generated_at": "2026-09-03T11:32:33+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      49,
-      49,
-      44
+      51,
+      50,
+      46
     ]
   ],
-  "avg_duration": 68,
+  "avg_duration": 65,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
