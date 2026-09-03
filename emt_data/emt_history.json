@@ -51,8 +51,8 @@
         "Facebook": 5,
         "Instagram": 3,
         "TikTok": 1,
-        "Print": 1,
-        "YouTube": 1
+        "YouTube": 1,
+        "Print": 1
       },
       "by_language": {
         "en": 16,
@@ -64,7 +64,7 @@
       "risk_vectors": {
         "venue_uncertainty": 1
       },
-      "updated": "2026-09-03T12:19:34.583946+00:00"
+      "updated": "2026-09-03T12:22:24.058239+00:00"
     }
   }
 }
