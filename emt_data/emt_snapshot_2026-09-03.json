@@ -1,19 +1,19 @@
 {
   "summary": {
-    "generated": "2026-09-03T07:56:52.408201+00:00",
+    "generated": "2026-09-03T08:44:16.132498+00:00",
     "window_hours": 24,
-    "total": 9,
+    "total": 10,
     "text_available": 9,
-    "text_masked": 0,
+    "text_masked": 1,
     "earned_media": 8,
-    "social": 1,
+    "social": 2,
     "by_source": {
-      "external": 8,
+      "external": 9,
       "movement": 1
     },
     "own_posts": 0,
     "movement_posts": 1,
-    "external_posts": 8,
+    "external_posts": 9,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "reach_error": "",
@@ -24,6 +24,7 @@
       "senderProfile",
       "userActions"
     ],
+    "metric_keys_seen": {},
     "total_reach": 0,
     "own_reach": 0,
     "movement_reach": 0,
@@ -59,7 +60,7 @@
         "language": "en",
         "engagement": 0,
         "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
-        "created": "2026-09-03T07:56:52.403047+00:00",
+        "created": "2026-09-03T08:44:16.127270+00:00",
         "author": "Global: Government News and Documents; Political and Economic Organizations News",
         "astronauts": [],
         "risk_vectors": []
@@ -72,7 +73,7 @@
         "language": "es",
         "engagement": 0,
         "text": "  News and Press Release  Nueva York/Ginebra, 3 de septiembre de 2026 – La Federación Internacional de Sociedades de la Cruz Roja y de la Media\n<p>Luna Roja (IFRC) lanza hoy su nueva campaña mundial, \"El tratado que le falta a la Tierra\", para mostrar una cruda realidad: mientras",
-        "created": "2026-09-03T07:56:52.403959+00:00",
+        "created": "2026-09-03T08:44:16.128151+00:00",
         "author": "reliefweb.int",
         "astronauts": [
           "Dr. Sian Proctor",
@@ -92,7 +93,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
-        "created": "2026-09-03T07:56:52.404720+00:00",
+        "created": "2026-09-03T08:44:16.128982+00:00",
         "author": "webtv.un.org",
         "astronauts": [
           "Dr. Sian Proctor"
@@ -107,7 +108,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  News and Press Release  International treaties protect astronauts in distress.\n<p>But if a flood strikes your city, there is still no comprehensive global treaty to help countries cut through red tape and coordinate international assistance.</p> <p> New York/Geneva, 3 September",
-        "created": "2026-09-03T07:56:52.405022+00:00",
+        "created": "2026-09-03T08:44:16.129251+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -120,7 +121,7 @@
         "language": "fr",
         "engagement": 0,
         "text": "  News and Press Release  New York/Genève, le 3 septembre 2026 – La Fédération internationale des Sociétés de la Croix-Rouge et du\n<p>Croissant-Rouge (IFRC) lance aujourd'hui une nouvelle campagne mondiale, intitulée Earth's Missing Treaty (Le traité manquant de la Terre), afin d",
-        "created": "2026-09-03T07:56:52.405642+00:00",
+        "created": "2026-09-03T08:44:16.129852+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -133,7 +134,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
-        "created": "2026-09-03T07:56:52.406274+00:00",
+        "created": "2026-09-03T08:44:16.130483+00:00",
         "author": "Mirage News",
         "astronauts": [],
         "risk_vectors": []
@@ -146,7 +147,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
-        "created": "2026-09-03T07:56:52.406511+00:00",
+        "created": "2026-09-03T08:44:16.130696+00:00",
         "author": "nationaltribune.com.au",
         "astronauts": [],
         "risk_vectors": []
@@ -159,7 +160,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-03T07:56:52.407390+00:00",
+        "created": "2026-09-03T08:44:16.131627+00:00",
         "author": "un.org",
         "astronauts": [],
         "risk_vectors": []
@@ -168,16 +169,18 @@
     "campaign_named": 2,
     "treaty_only": 2,
     "by_day": {
-      "2026-09-03": 9
+      "2026-09-03": 10
     },
     "by_platform": {
       "Web": 7,
       "Print": 1,
+      "X": 1,
       "Facebook": 1
     },
     "by_language": {
       "en": 7,
       "es": 1,
+      "und": 1,
       "fr": 1
     },
     "by_sentiment": {},
@@ -200,7 +203,7 @@
         "language": "en",
         "engagement": 0,
         "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
-        "created": "2026-09-03T07:56:52.403047+00:00",
+        "created": "2026-09-03T08:44:16.127270+00:00",
         "author": "Global: Government News and Documents; Political and Economic Organizations News",
         "astronauts": [],
         "risk_vectors": []
@@ -213,7 +216,7 @@
         "language": "es",
         "engagement": 0,
         "text": "  News and Press Release  Nueva York/Ginebra, 3 de septiembre de 2026 – La Federación Internacional de Sociedades de la Cruz Roja y de la Media\n<p>Luna Roja (IFRC) lanza hoy su nueva campaña mundial, \"El tratado que le falta a la Tierra\", para mostrar una cruda realidad: mientras",
-        "created": "2026-09-03T07:56:52.403959+00:00",
+        "created": "2026-09-03T08:44:16.128151+00:00",
         "author": "reliefweb.int",
         "astronauts": [
           "Dr. Sian Proctor",
@@ -226,6 +229,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://twitter.com/loracnaiara/status/2095431167935656021",
+        "platform": "X",
+        "outlet": "Twitter",
+        "source": "external",
+        "language": "und",
+        "engagement": 0,
+        "text": "",
+        "created": "2026-09-03T08:44:16.128840+00:00",
+        "author": "@loracnaiara",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://webtv.un.org/en/asset/k1h/k1hky0y8ef",
         "platform": "Web",
         "outlet": "Un",
@@ -233,7 +249,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
-        "created": "2026-09-03T07:56:52.404720+00:00",
+        "created": "2026-09-03T08:44:16.128982+00:00",
         "author": "webtv.un.org",
         "astronauts": [
           "Dr. Sian Proctor"
@@ -248,7 +264,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  News and Press Release  International treaties protect astronauts in distress.\n<p>But if a flood strikes your city, there is still no comprehensive global treaty to help countries cut through red tape and coordinate international assistance.</p> <p> New York/Geneva, 3 September",
-        "created": "2026-09-03T07:56:52.405022+00:00",
+        "created": "2026-09-03T08:44:16.129251+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -261,7 +277,7 @@
         "language": "fr",
         "engagement": 0,
         "text": "  News and Press Release  New York/Genève, le 3 septembre 2026 – La Fédération internationale des Sociétés de la Croix-Rouge et du\n<p>Croissant-Rouge (IFRC) lance aujourd'hui une nouvelle campagne mondiale, intitulée Earth's Missing Treaty (Le traité manquant de la Terre), afin d",
-        "created": "2026-09-03T07:56:52.405642+00:00",
+        "created": "2026-09-03T08:44:16.129852+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -274,7 +290,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
-        "created": "2026-09-03T07:56:52.406274+00:00",
+        "created": "2026-09-03T08:44:16.130483+00:00",
         "author": "Mirage News",
         "astronauts": [],
         "risk_vectors": []
@@ -287,7 +303,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
-        "created": "2026-09-03T07:56:52.406511+00:00",
+        "created": "2026-09-03T08:44:16.130696+00:00",
         "author": "nationaltribune.com.au",
         "astronauts": [],
         "risk_vectors": []
@@ -300,7 +316,7 @@
         "language": "en",
         "engagement": 0,
         "text": "When disaster strikes, strong laws save lives. \n\nFrom early warnings to faster humanitarian assistance, the right laws can remove barriers, protect the most vulnerable and ensure no one is left behind.\n\nThe International Federation of Red Cross and Red Crescent Societies is advoc",
-        "created": "2026-09-03T07:56:52.407153+00:00",
+        "created": "2026-09-03T08:44:16.131396+00:00",
         "author": "Nigerian Red Cross Society",
         "astronauts": [],
         "risk_vectors": []
@@ -313,7 +329,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-03T07:56:52.407390+00:00",
+        "created": "2026-09-03T08:44:16.131627+00:00",
         "author": "un.org",
         "astronauts": [],
         "risk_vectors": []
@@ -332,7 +348,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "Global: Government News and Documents; Political and Economic Organizations News",
-      "created": "2026-09-03T07:56:52.403047+00:00",
+      "created": "2026-09-03T08:44:16.127270+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -354,7 +370,7 @@
       "language": "es",
       "language_source": "inferred",
       "author": "reliefweb.int",
-      "created": "2026-09-03T07:56:52.403959+00:00",
+      "created": "2026-09-03T08:44:16.128151+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -374,6 +390,28 @@
     },
     {
       "id": "s0003",
+      "text": "",
+      "has_text": false,
+      "url": "https://twitter.com/loracnaiara/status/2095431167935656021",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@loracnaiara",
+      "created": "2026-09-03T08:44:16.128840+00:00",
+      "day": "2026-09-03",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0004",
       "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's first international disaster treaty</p> <p> Description</p> <p> Briefers (in-person) are:</p> <p> Dylan Winder, IFRC Permanent Observer to the UN and Director of</p> <p> Humanitarian Diplomacy and Communications;</p> <p> Dr Sian Proctor, Geoscientist and astronaut; and</p> <p> Isabelle Granger, IFRC Global Lead, Disaster Law.</p>",
       "has_text": true,
       "url": "https://webtv.un.org/en/asset/k1h/k1hky0y8ef",
@@ -383,7 +421,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "webtv.un.org",
-      "created": "2026-09-03T07:56:52.404720+00:00",
+      "created": "2026-09-03T08:44:16.128982+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -397,7 +435,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0004",
+      "id": "s0005",
       "text": "  News and Press Release  International treaties protect astronauts in distress.\n<p>But if a flood strikes your city, there is still no comprehensive global treaty to help countries cut through red tape and coordinate international assistance.</p> <p> New York/Geneva, 3 September 2026 – The International Federation of Red Cross and Red Crescent Societies (IFRC) is today launching a new global campaign, Earth's Missing Treaty , to highlight a stark reality: while international law protects astronauts in distress, there is no comprehensive international treaty setting out how countries should cooperate to protect people before, during and after disasters.</p> <p> The campaign highlights IFRC's call for countries to support the adoption of the Treaty on the Protection of Persons in the Event of Disasters, which UN Member States have agreed to negotiate and which would be the first comprehensive global treaty dedicated to protecting people before, during and after disasters.</p> <p> A global treaty would provide a common framework for international cooperation before disasters strike and when international assistance is needed. In practice, this could mean faster deployment of humanitarian teams, simpler customs and border procedures for life-saving supplies, more predictable cooperation between governments and humanitarian organisations, lower costs and fewer administrative barriers, and better protection for people affected by disasters.</p> <p> Alongside the campaign, IFRC is publishing new global analysis showing why a disaster treaty is needed and the difference it could make. The research brings together data on disaster risk, protection and barriers to international assistance, alongside four country case studies from Belize, Fiji, Lebanon and Madagascar.</p> <p> Read the case studies for Belize, Fiji, Lebanon and Madagascar</p> <p> In 2027, governments will convene to negotiate the treaty, and IFRC is supporting them throughout the process with technical experti",
       "has_text": true,
       "url": "https://reliefweb.int/report/world/astronauts-heart-new-ifrc-campaign-worlds-first-international-disaster-treaty",
@@ -407,7 +445,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "reliefweb.int",
-      "created": "2026-09-03T07:56:52.405022+00:00",
+      "created": "2026-09-03T08:44:16.129251+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -419,7 +457,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0005",
+      "id": "s0006",
       "text": "  News and Press Release  New York/Genève, le 3 septembre 2026 – La Fédération internationale des Sociétés de la Croix-Rouge et du\n<p>Croissant-Rouge (IFRC) lance aujourd'hui une nouvelle campagne mondiale, intitulée Earth's Missing Treaty (Le traité manquant de la Terre), afin de mettre en lumière une réalité frappante : alors que le droit international impose une obligation globale de secourir les astronautes en détresse, il n'existe aucun traité international global définissant la manière dont les pays doivent coopérer pour protéger les populations avant, pendant et après une catastrophe.</p> <p> Cette campagne vient soutenir l'appel de l'IFRC pour que les États s'engagent en faveur de l'adoption du Traité sur la protection des personnes en cas de catastrophe. Actuellement négocié par les États membres de l'ONU, ce texte constitue le tout premier traité mondial d'envergure dédié à la protection des populations face aux crises humanitaires majeures.</p> <p> Un traité mondial offrirait un cadre commun pour la coopération internationale, aussi bien en amont des catastrophes qu'au moment où l'aide internationale devient nécessaire. En pratique, cela se traduirait par un déploiement plus rapide des équipes humanitaires, des procédures douanières et frontalières simplifiées pour l'acheminement des secours vitaux, une coopération plus prévisible entre les gouvernements et les organisations humanitaires, une réduction des coûts et des barrières administratives, ainsi qu'une meilleure protection des populations touchées par les catastrophes.</p> <p> Cette année, l'IFRC a publié quatre études de cas analysant l'impact potentiel de ce traité sur la protection des personnes lors de catastrophes au Belize, aux Fidji, au Liban et à Madagascar.</p> <p> Lire les études de cas pour le Belize, les Fidji, le Liban et Madagascar (en anglais).</p> <p> En 2027, les gouvernements se réuniront pour négocier ce traité. L'IFRC les accompagnera tout au long de ce processus en leur apportan",
       "has_text": true,
       "url": "https://reliefweb.int/report/world/les-astronautes-au-coeur-de-la-nouvelle-campagne-de-lifrc-pour-le-premier-traite-international-sur-les-catastrophes",
@@ -429,7 +467,7 @@
       "language": "fr",
       "language_source": "inferred",
       "author": "reliefweb.int",
-      "created": "2026-09-03T07:56:52.405642+00:00",
+      "created": "2026-09-03T08:44:16.129852+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -441,7 +479,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0006",
+      "id": "s0007",
       "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
       "has_text": true,
       "url": "http://ct.moreover.com/?a=60321727605&p=1yx&v=1&x=ebPxYT3hc2ky_uC3AnsSPQ",
@@ -451,29 +489,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "Mirage News",
-      "created": "2026-09-03T07:56:52.406274+00:00",
-      "day": "2026-09-03",
-      "engagement": 0,
-      "reach": 0,
-      "sentiment": "",
-      "country": "",
-      "is_campaign": false,
-      "is_treaty": false,
-      "astronauts": [],
-      "risk_vectors": []
-    },
-    {
-      "id": "s0007",
-      "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after disasters in New Zealand and the United States were often voluntary or not explicit.</p> <p> “Utility workers are essential to restoring power, water and other critical services after a disaster, and they can face many of the same hazards as emergency responders. Having clear legal protections helps to keep them safe, clarifies responsibilities and supports a faster, more coordinated recovery,” Evison says.</p> <p> Working with QuakeCoRE, a Centre of Research Excellence that aims to improve earthquake resilience, along with the specialist knowledge Evison developed through her research, have helped launch her career. Before graduating, she secured a Wellington-based role at the Ministry of Business, Innovation and Employment (MBIE) as an advisor in incident management and emergency management.</p> <p> Evison believes her familiarity with New Zealand's Coordinated Incident Management System was a key factor in gaining her role at MBIE.</p> <p> “I looked at it a lot during my master's, so the theoretical knowledge I acquired through my research has been directly applicable to what I am doing,” she says.</p> <p> Her team helps build emergency management and business continuity capability across MBIE and supports incident management teams during local and national responses. Evison has already put her knowledge into practice in the logistics function during responses.</p> <p> While she is not working as a lawyer or providing legal advice, Evison says her UC Law education prepared her for a career extending well beyond conventional legal practice. “The writing, research and critical thinking skills you learn throughout an undergraduate degree and master's are applicable to so many different jobs,” s",
-      "has_text": true,
-      "url": "https://www.nationaltribune.com.au/disaster-law-research-powers-emergency-career/",
-      "platform": "Web",
-      "outlet": "Au",
-      "source": "external",
-      "language": "en",
-      "language_source": "inferred",
-      "author": "nationaltribune.com.au",
-      "created": "2026-09-03T07:56:52.406511+00:00",
+      "created": "2026-09-03T08:44:16.130483+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -486,6 +502,28 @@
     },
     {
       "id": "s0008",
+      "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after disasters in New Zealand and the United States were often voluntary or not explicit.</p> <p> “Utility workers are essential to restoring power, water and other critical services after a disaster, and they can face many of the same hazards as emergency responders. Having clear legal protections helps to keep them safe, clarifies responsibilities and supports a faster, more coordinated recovery,” Evison says.</p> <p> Working with QuakeCoRE, a Centre of Research Excellence that aims to improve earthquake resilience, along with the specialist knowledge Evison developed through her research, have helped launch her career. Before graduating, she secured a Wellington-based role at the Ministry of Business, Innovation and Employment (MBIE) as an advisor in incident management and emergency management.</p> <p> Evison believes her familiarity with New Zealand's Coordinated Incident Management System was a key factor in gaining her role at MBIE.</p> <p> “I looked at it a lot during my master's, so the theoretical knowledge I acquired through my research has been directly applicable to what I am doing,” she says.</p> <p> Her team helps build emergency management and business continuity capability across MBIE and supports incident management teams during local and national responses. Evison has already put her knowledge into practice in the logistics function during responses.</p> <p> While she is not working as a lawyer or providing legal advice, Evison says her UC Law education prepared her for a career extending well beyond conventional legal practice. “The writing, research and critical thinking skills you learn throughout an undergraduate degree and master's are applicable to so many different jobs,” s",
+      "has_text": true,
+      "url": "https://www.nationaltribune.com.au/disaster-law-research-powers-emergency-career/",
+      "platform": "Web",
+      "outlet": "Au",
+      "source": "external",
+      "language": "en",
+      "language_source": "inferred",
+      "author": "nationaltribune.com.au",
+      "created": "2026-09-03T08:44:16.130696+00:00",
+      "day": "2026-09-03",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0009",
       "text": "When disaster strikes, strong laws save lives. \n\nFrom early warnings to faster humanitarian assistance, the right laws can remove barriers, protect the most vulnerable and ensure no one is left behind.\n\nThe International Federation of Red Cross and Red Crescent Societies is advocating for a global Disaster Law Treaty that puts people first.\n\n#DisasterLawTreaty #ProtectPeopleFirst",
       "has_text": true,
       "url": "https://www.facebook.com/reel/1070686215931732/",
@@ -495,7 +533,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "Nigerian Red Cross Society",
-      "created": "2026-09-03T07:56:52.407153+00:00",
+      "created": "2026-09-03T08:44:16.131396+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -507,7 +545,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0009",
+      "id": "s0010",
       "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that humanity is speeding past the limit to avoid climate catastrophe. He pointed out that we are set to breach the 1.5 degree limit within the next few years, and this summer's scorching heat, raging wildfires and deadly floods are a warning of what lies ahead.</p> <p> The Secretary-General warned that every fraction of a degree will cost lives, will destroy livelihoods, will deepen</p> <p> inequality and push ecosystems closer to irreversible damage. He stressed that we must make the overshoot as small and short as possible, limiting how high temperatures rise and how long they remain above 1.5, and that the fight for 1.5 degrees is the fight for humanity.</p> <p> IRAN</p> <p> The Secretary-General is gravely concerned by the renewed exchanges of fire overnight between the United States and the Islamic Republic of Iran. The Secretary-General is deeply alarmed by reports of civilian casualties, including in a strike that reportedly hit a wedding ceremony in Iran. The Secretary-General condemns all attacks against civilians. He recalls that all parties must respect their obligations under international humanitarian law, including the principles of distinction, proportionality, and precaution.</p> <p> As we have seen, few countries in the region are immune from this escalation, with airspace and critical shipping routes continuing to be heavily impacted.</p> <p> The Secretary-General reiterates his call for an immediate cessation of military action and urges all concerned to exercise restraint and refrain from actions and rhetoric that could further escalate already high tensions.</p> <p> Further escalation, as you can imagine, would have devastating consequences for civilians and for the wider region ",
       "has_text": true,
       "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
@@ -517,7 +555,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "un.org",
-      "created": "2026-09-03T07:56:52.407390+00:00",
+      "created": "2026-09-03T08:44:16.131627+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,

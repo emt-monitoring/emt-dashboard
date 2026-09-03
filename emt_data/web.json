@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-03T07:56:54+00:00",
+  "generated_at": "2026-09-03T08:44:18+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      35,
-      35,
-      32
+      43,
+      42,
+      40
     ]
   ],
-  "avg_duration": 25,
+  "avg_duration": 78,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 28,
-      "views": 29,
-      "users": 25
+      "sessions": 34,
+      "views": 35,
+      "users": 31
     },
     {
       "path": "/earthsmissingtreaty/ar",
@@ -27,10 +27,24 @@
       "users": 1
     },
     {
+      "path": "/el/earthsmissingtreaty",
+      "language": "English",
+      "sessions": 1,
+      "views": 1,
+      "users": 1
+    },
+    {
       "path": "/es/earthsmissingtreaty",
       "language": "English",
       "sessions": 1,
       "views": 1,
+      "users": 1
+    },
+    {
+      "path": "/es/earthsmissingtreaty/ar",
+      "language": "العربية",
+      "sessions": 1,
+      "views": 0,
       "users": 1
     },
     {
@@ -72,40 +86,44 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 28
+      "value": 34
     },
     {
       "label": "Unassigned",
-      "value": 14
+      "value": 16
     },
     {
       "label": "Referral",
-      "value": 1
+      "value": 2
     }
   ],
   "countries": [
     {
       "label": "Singapore",
-      "value": 10
+      "value": 11
     },
     {
       "label": "United States",
       "value": 9
     },
     {
+      "label": "Germany",
+      "value": 5
+    },
+    {
+      "label": "Netherlands",
+      "value": 5
+    },
+    {
       "label": "Colombia",
       "value": 4
     },
     {
-      "label": "Netherlands",
-      "value": 4
-    },
-    {
-      "label": "Germany",
-      "value": 3
-    },
-    {
       "label": "Australia",
+      "value": 2
+    },
+    {
+      "label": "Brazil",
       "value": 2
     },
     {
@@ -125,11 +143,7 @@
       "value": 1
     },
     {
-      "label": "Brazil",
-      "value": 1
-    },
-    {
-      "label": "Ireland",
+      "label": "Bolivia",
       "value": 1
     }
   ],
