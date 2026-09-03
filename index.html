@@ -170,6 +170,9 @@
     .feed::-webkit-scrollbar{width:8px}
     .feed::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
     .feed::-webkit-scrollbar-track{background:transparent}
+    .trio-feeds{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+                gap:14px;align-items:start}
+    .trio-feeds > .card + .card{margin-top:0}
     .trio{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
           gap:14px;align-items:start}
     .trio > .card + .card{margin-top:0}
@@ -240,13 +243,17 @@
           <div class="card"><h4>External</h4>
             <div class="kpis tight" id="externalBox"></div></div>
         </div>
-        <div class="duo">
-          <div class="card"><h4>Our own posts</h4>
+        <p class="kpi-note" style="margin:4px 0 12px">Social posts only. Press and web articles are under Media coverage above, so they are not repeated here.</p>
+        <div class="trio-feeds">
+          <div class="card"><h4>IFRC channels · social</h4>
             <div class="controls" id="ownControls"></div>
             <div id="ownFeed" class="feed"></div></div>
-          <div class="card"><h4>Social posts by others</h4>
-            <div class="controls" id="othersControls"></div>
-            <div id="othersFeed" class="feed"></div></div>
+          <div class="card"><h4>Movement · social</h4>
+            <div class="controls" id="movementControls"></div>
+            <div id="movementFeed" class="feed"></div></div>
+          <div class="card"><h4>External · social</h4>
+            <div class="controls" id="externalControls"></div>
+            <div id="externalFeed" class="feed"></div></div>
         </div>
           <p class="kpi-note" style="margin:0">Identified from the posting account, not from the text — an article about the Red Cross counts as external.</p>
         </div>
@@ -259,11 +266,7 @@
         <div class="card"><h4>Platforms</h4><div class="bars" id="platformBars"></div></div>
         <div class="card"><h4>Languages</h4><div class="bars" id="languageBars"></div></div>
       </div>
-      <div class="card">
-        <div class="controls" id="socialControls"></div>
-        <div class="feed" id="socialFeed" class="feed"></div>
-      </div>
-    </section>
+</section>
 
     <section>
       <div class="sec-head"><h3>Campaign website</h3><span class="eyebrow" id="webAsOf">GA4</span></div>
@@ -369,8 +372,9 @@
 
   // feed view state — sort and window, applied client-side
   var FEEDS = {
-    own:    {items:[], sort:"engagement", days:0},
-    others: {items:[], sort:"engagement", days:0},
+    own:      {items:[], sort:"engagement", days:0},
+    movement: {items:[], sort:"engagement", days:0},
+    external: {items:[], sort:"engagement", days:0},
     media:  {items:[], sort:"engagement", days:0},
     social: {items:[], sort:"engagement", days:0}
   };
@@ -511,12 +515,8 @@
     }).join("");
 
     FEEDS.media.items  = s.earned_top||[];
-    FEEDS.social.items = (s.top_posts||[]).filter(function(p){
-      return EARNED.indexOf(p.platform)===-1;});
     mountControls("media","mediaControls","mediaFeed");
-    mountControls("social","socialControls","socialFeed");
     drawFeed("media","mediaFeed");
-    drawFeed("social","socialFeed");
 
     el("outletBars").innerHTML=barsHTML(s.top_outlets);
     var socialPlat = {};
@@ -524,7 +524,15 @@
       if (isSocial(k)) socialPlat[k] = s.by_platform[k];
     });
     el("platformBars").innerHTML=barsHTML(socialPlat,null,"sky");
-    el("languageBars").innerHTML=barsHTML(s.by_language,LANG,"sky");
+    // Social only, to match the Platforms widget beside it. Counting web
+    // articles here made "English" a tally of newswire copy rather than
+    // of the conversation.
+    var socialLang = {};
+    socialItems.forEach(function(x){
+      var k = x.language && x.language !== "und" ? x.language : "Unknown";
+      socialLang[k] = (socialLang[k]||0) + 1;
+    });
+    el("languageBars").innerHTML=barsHTML(socialLang,null,"sky");
     el("trend").innerHTML=trendHTML(history);
 
     // who is talking
@@ -571,16 +579,19 @@
     // Split the raw items by who posted, so each feed carries its own sort
     // and window rather than one blended list.
     var allItems = (snapshot && snapshot.items) || [];
-    FEEDS.own.items    = allItems.filter(function(x){ return x.source === "own"; });
-    // Social only. Web and Print articles live in Media coverage; repeating
-    // them here made "posts by others" mostly newswire duplicates.
-    FEEDS.others.items = allItems.filter(function(x){
-      return x.source !== "own" && isSocial(x.platform);
-    });
+    // All three feeds are social-only. Web and Print articles live in Media
+    // coverage; repeating them here filled these panels with newswire
+    // duplicates and buried the handful of real social posts.
+    var socialItems = allItems.filter(function(x){ return isSocial(x.platform); });
+    FEEDS.own.items      = socialItems.filter(function(x){ return x.source === "own"; });
+    FEEDS.movement.items = socialItems.filter(function(x){ return x.source === "movement"; });
+    FEEDS.external.items = socialItems.filter(function(x){ return x.source === "external"; });
     mountControls("own","ownControls","ownFeed");
-    mountControls("others","othersControls","othersFeed");
+    mountControls("movement","movementControls","movementFeed");
+    mountControls("external","externalControls","externalFeed");
     drawFeed("own","ownFeed");
-    drawFeed("others","othersFeed");
+    drawFeed("movement","movementFeed");
+    drawFeed("external","externalFeed");
 
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
     el("webChannels").innerHTML=donutHTML(WEB_CHANNELS);
