@@ -77,6 +77,10 @@
   .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:22px;
         display:flex;flex-direction:column;gap:17px}
   .card + .card{margin-top:14px}
+  /* That margin is for STACKED cards. Inside .duo they sit side by side,
+     where it pushed the second card down by exactly the grid gap and the
+     pair lost their shared top edge. */
+  .duo > .card + .card{margin-top:0}
   .duo{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;
        align-items:start}
 
