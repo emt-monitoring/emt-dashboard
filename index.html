@@ -461,6 +461,25 @@
   function render(history,snapshot){
     var s=snapshot.summary||FALLBACK.snapshot.summary;
     var launched=(s.campaign_named||0)>0;
+    // Defined here, at the top of render, because the Languages widget
+    // further down consumes socialItems. When this block sat lower the
+    // widget hit an undefined value, render threw, and every feed below
+    // silently stayed empty.
+    var allItems = (snapshot && snapshot.items) || [];
+    // All three feeds are social-only. Web and Print articles live in Media
+    // coverage; repeating them here filled these panels with newswire
+    // duplicates and buried the handful of real social posts.
+    var socialItems = allItems.filter(function(x){ return isSocial(x.platform); });
+    FEEDS.own.items      = socialItems.filter(function(x){ return x.source === "own"; });
+    FEEDS.movement.items = socialItems.filter(function(x){ return x.source === "movement"; });
+    FEEDS.external.items = socialItems.filter(function(x){ return x.source === "external"; });
+    mountControls("own","ownControls","ownFeed");
+    mountControls("movement","movementControls","movementFeed");
+    mountControls("external","externalControls","externalFeed");
+    drawFeed("own","ownFeed");
+    drawFeed("movement","movementFeed");
+    drawFeed("external","externalFeed");
+
 
     if(s.generated){
       var d=new Date(s.generated);
@@ -578,20 +597,6 @@
 
     // Split the raw items by who posted, so each feed carries its own sort
     // and window rather than one blended list.
-    var allItems = (snapshot && snapshot.items) || [];
-    // All three feeds are social-only. Web and Print articles live in Media
-    // coverage; repeating them here filled these panels with newswire
-    // duplicates and buried the handful of real social posts.
-    var socialItems = allItems.filter(function(x){ return isSocial(x.platform); });
-    FEEDS.own.items      = socialItems.filter(function(x){ return x.source === "own"; });
-    FEEDS.movement.items = socialItems.filter(function(x){ return x.source === "movement"; });
-    FEEDS.external.items = socialItems.filter(function(x){ return x.source === "external"; });
-    mountControls("own","ownControls","ownFeed");
-    mountControls("movement","movementControls","movementFeed");
-    mountControls("external","externalControls","externalFeed");
-    drawFeed("own","ownFeed");
-    drawFeed("movement","movementFeed");
-    drawFeed("external","externalFeed");
 
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
     el("webChannels").innerHTML=donutHTML(WEB_CHANNELS);
