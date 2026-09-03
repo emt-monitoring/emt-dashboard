@@ -1,23 +1,30 @@
 {
-  "generated_at": "2026-09-03T12:10:04+00:00",
+  "generated_at": "2026-09-03T12:19:36+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      64,
-      57,
-      59
+      127,
+      124,
+      116
     ]
   ],
-  "avg_duration": 78,
+  "avg_duration": 127,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 54,
-      "views": 48,
-      "users": 49
+      "sessions": 118,
+      "views": 114,
+      "users": 107
+    },
+    {
+      "path": "/earthsmissingtreaty/ar",
+      "language": "العربية",
+      "sessions": 2,
+      "views": 1,
+      "users": 2
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -25,13 +32,6 @@
       "sessions": 2,
       "views": 2,
       "users": 2
-    },
-    {
-      "path": "/earthsmissingtreaty/ar",
-      "language": "العربية",
-      "sessions": 1,
-      "views": 0,
-      "users": 1
     },
     {
       "path": "/el/earthsmissingtreaty",
@@ -93,48 +93,60 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 46
+      "value": 86
     },
     {
       "label": "Unassigned",
-      "value": 25
-    },
-    {
-      "label": "Referral",
-      "value": 4
-    },
-    {
-      "label": "Organic Search",
-      "value": 1
+      "value": 52
     },
     {
       "label": "Organic Social",
+      "value": 11
+    },
+    {
+      "label": "Referral",
+      "value": 10
+    },
+    {
+      "label": "Organic Search",
       "value": 1
     }
   ],
   "countries": [
     {
       "label": "Germany",
-      "value": 12
+      "value": 27
+    },
+    {
+      "label": "United States",
+      "value": 15
+    },
+    {
+      "label": "Switzerland",
+      "value": 13
     },
     {
       "label": "Singapore",
       "value": 12
     },
     {
-      "label": "United States",
-      "value": 10
+      "label": "Ireland",
+      "value": 8
     },
     {
       "label": "Netherlands",
+      "value": 8
+    },
+    {
+      "label": "Sweden",
+      "value": 7
+    },
+    {
+      "label": "Romania",
       "value": 5
     },
     {
       "label": "Colombia",
-      "value": 4
-    },
-    {
-      "label": "Ireland",
       "value": 4
     },
     {
@@ -143,33 +155,21 @@
     },
     {
       "label": "Australia",
-      "value": 2
+      "value": 3
     },
     {
       "label": "Brazil",
-      "value": 2
-    },
-    {
-      "label": "Canada",
-      "value": 2
-    },
-    {
-      "label": "Spain",
-      "value": 2
-    },
-    {
-      "label": "Sweden",
-      "value": 2
+      "value": 3
     }
   ],
   "actions": [
     {
       "label": "file_download",
-      "value": 3
+      "value": 9
     },
     {
       "label": "click",
-      "value": 2
+      "value": 3
     }
   ],
   "search": null
