@@ -267,7 +267,7 @@
           <div class="card"><h4>External</h4>
             <div class="kpis tight" id="externalBox"></div></div>
         </div>
-        <p class="kpi-note" style="margin:4px 0 12px">Social posts only — press and web articles are under Media coverage above. Engagement is Sprinklr’s last measurement of each post, not a live count: it refreshes on Sprinklr’s schedule, so a post with nine likes on the platform may still read five here. Treat it as a floor that rises through the day. Combined followers is the audience each account could reach, added up — not impressions. Nobody, Sprinklr included, can see impressions on a post they do not own, and this tenant reports none even for ours.</p>
+        <p class="kpi-note" style="margin:4px 0 12px">Social posts only — press and web articles are under Media coverage above. Engagement is Sprinklr’s last measurement of each post, not a live count: it refreshes on Sprinklr’s schedule, so a post with nine likes on the platform may still read five here. Treat it as a floor that rises through the day. Reach is real and covers IFRC accounts only — nobody, Sprinklr included, can see reach on an account they do not own, so Movement and external rows show combined followers instead, which is an audience ceiling and not a result. Two further gaps to know about: a post counts only once Sprinklr has reported its reach, so the newest ones and our TikTok and YouTube posts are not in the figure yet; and Sprinklr’s listening does not cover LinkedIn at all, so nothing we post there appears anywhere on this page.</p>
         <div class="trio-feeds">
           <div class="card"><span class="eyebrow src-own">Us</span><h4>IFRC channels · social</h4>
             <div class="controls" id="ownControls"></div>
@@ -585,7 +585,8 @@
       // it is showing either way.
       (OWNED.reach > 0
         ? ["Reach of our posts", num(OWNED.reach),
-           "Platform-reported \u00b7 " + num(OWNED.posts) + " posts", "red"]
+           "IFRC accounts only \u00b7 " + num(OWNED.posts) + " of " +
+           num(FEEDS.own.items.length) + " posts measured", "red"]
         : ["Our combined followers",
            s.reach_available ? num(sumBy(FEEDS.own.items,"reach")) : "\u2014",
            "Follower ceiling \u00b7 platform reach not returned", "amber"]),
@@ -673,7 +674,7 @@
       // So the label changes with the source rather than pretending they
       // are the same measurement.
       var third = (ownedReach > 0)
-        ? ["Reach", num(ownedReach), "Platform-reported \u00b7 accounts reached", tone]
+        ? ["Reach", num(ownedReach), "IFRC accounts only \u00b7 measured posts", tone]
         : ["Combined followers",
            (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
            METRICS_MEASURED ? "Not views \u2014 a ceiling" : "Not returned by Sprinklr",
