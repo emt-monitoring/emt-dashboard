@@ -166,6 +166,10 @@
     .donut-wrap{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
     .donut{width:128px;height:128px;flex:0 0 auto}
     .legend{flex:1 1 180px;min-width:180px}
+  /* That rule is for the donut, where the legend sits BESIDE the chart. In a
+     column flex container flex-basis is a height, so it padded 180px of dead
+     space under the platform bars. */
+  .bars > .legend{flex:0 0 auto;min-width:0}
     .lg-row{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:12px}
     .lg-dot{width:9px;height:9px;border-radius:2px;flex:0 0 auto}
     .lg-lab{color:var(--ink-2);flex:1 1 auto}
@@ -405,11 +409,11 @@
 
   // feed view state — sort and window, applied client-side
   var FEEDS = {
-    own:      {items:[], sort:"engagement", days:0},
-    movement: {items:[], sort:"engagement", days:0},
-    external: {items:[], sort:"engagement", days:0},
-    media:  {items:[], sort:"engagement", days:0},
-    social: {items:[], sort:"engagement", days:0}
+    own:      {items:[], sort:"newest", days:0},
+    movement: {items:[], sort:"newest", days:0},
+    external: {items:[], sort:"newest", days:0},
+    media:  {items:[], sort:"newest", days:0},
+    social: {items:[], sort:"newest", days:0}
   };
   // Web and Print are not social platforms. They belong in Media coverage;
   // mixing them into the social widgets made both harder to read.
@@ -417,8 +421,21 @@
   function isSocial(p){ return NON_SOCIAL.indexOf(p) === -1; }
 
   var WINDOWS = [[0,"All"],[1,"24h"],[7,"7 days"],[30,"30 days"]];
-  var SORTS   = [["engagement","Most engaged"],["newest","Newest"],
-                 ["reach","Most followers"]];
+  // Sorting differs by column because the numbers do. Only our own posts have
+  // platform-reported reach and trustworthy engagement; for everyone else the
+  // one comparable figure is the account's follower count, and "most engaged"
+  // on a lagging Listening count just ranks whichever post Sprinklr refreshed
+  // most recently. Every feed opens on Newest -- during a live campaign what
+  // just landed is the question.
+  var SORT_SETS = {
+    own:      [["newest","Newest"],["engagement","Most engaged"],
+               ["reach","Most reach"]],
+    movement: [["newest","Newest"],["reach","Most followers"]],
+    external: [["newest","Newest"],["reach","Most followers"]],
+    media:    [["newest","Newest"],["reach","Most followers"]],
+    social:   [["newest","Newest"],["reach","Most followers"]]
+  };
+  function sortsFor(k){ return SORT_SETS[k] || SORT_SETS.social; }
 
   function loadJSON(p){return fetch(p,{cache:"no-store"})
     .then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}
@@ -714,7 +731,7 @@
   function mountControls(key,controlId,feedId){
     var f=FEEDS[key];
     var html='<span class="ctrl-label">Sort</span>'+
-      SORTS.map(function(o){
+      sortsFor(key).map(function(o){
         return '<button class="chip" type="button" data-k="'+key+'" data-sort="'+o[0]+'" '+
           'aria-pressed="'+(f.sort===o[0])+'">'+o[1]+"</button>";}).join("")+
       '<span class="ctrl-label" style="margin-left:10px">Window</span>'+
@@ -750,7 +767,7 @@
       });
     }
     list.sort(f.sort==="reach"
-      ? function(a,b){return (b.reach||0)-(a.reach||0);}
+      ? function(a,b){return (b.owned_reach||b.reach||0)-(a.owned_reach||a.reach||0);}
       : f.sort==="newest"
       ? function(a,b){return new Date(b.created||0)-new Date(a.created||0);}
       : function(a,b){return (b.engagement||0)-(a.engagement||0);});
@@ -775,7 +792,12 @@
     var out = "";
     if ((p.engagement||0) > 0)
       out += '<span class="eng">'+num(p.engagement)+' eng.</span>';
-    if ((p.reach||0) > 0)
+    // Our own posts carry a real reach figure from the owned-account report.
+    // Everyone else only has a follower count, so the two are labelled apart
+    // rather than stacked under one word.
+    if ((p.owned_reach||0) > 0)
+      out += '<span class="eng">'+num(p.owned_reach)+' reach</span>';
+    else if ((p.reach||0) > 0)
       out += '<span class="eng">'+num(p.reach)+' followers</span>';
     return out;
   }
