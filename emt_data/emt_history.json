@@ -33,6 +33,30 @@
       "by_sentiment": {},
       "risk_vectors": {},
       "updated": "2026-09-02T23:24:22.773726+00:00"
+    },
+    "2026-09-03": {
+      "total": 8,
+      "text_available": 8,
+      "text_masked": 0,
+      "earned_media": 8,
+      "social": 0,
+      "own_posts": 0,
+      "movement_posts": 0,
+      "external_posts": 8,
+      "campaign_named": 2,
+      "treaty_only": 1,
+      "by_platform": {
+        "Web": 7,
+        "Print": 1
+      },
+      "by_language": {
+        "en": 6,
+        "es": 1,
+        "fr": 1
+      },
+      "by_sentiment": {},
+      "risk_vectors": {},
+      "updated": "2026-09-03T05:57:04.526050+00:00"
     }
   }
 }
