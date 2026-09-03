@@ -163,6 +163,13 @@
     .hb-track{flex:1 1 auto;height:8px;background:var(--panel-2);border-radius:4px;overflow:hidden}
     .hb-fill{display:block;height:100%;border-radius:4px}
     .hb-val{flex:0 0 44px;text-align:right;color:var(--muted);font-variant-numeric:tabular-nums}
+    /* Feeds grow all day as coverage lands. Cap at about eight rows and
+       scroll inside, so the page keeps a fixed shape and the sections
+       below stay reachable. */
+    .feed{max-height:640px;overflow-y:auto;overscroll-behavior:contain}
+    .feed::-webkit-scrollbar{width:8px}
+    .feed::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
+    .feed::-webkit-scrollbar-track{background:transparent}
 </style>
 
 <div class="hero">
@@ -207,13 +214,12 @@
 
     <section>
       <div class="sec-head"><h3>Media coverage</h3></div>
-      <div class="duo">
-        <div class="card"><h4>Outlets covering it</h4><div class="bars" id="outletBars"></div></div>
-        <div class="card"><h4>Tone of coverage</h4><div id="sentiment"></div></div>
-      </div>
+      <div class="card"><h4>Outlets covering it</h4>
+        <p class="kpi-note" style="margin:-6px 0 10px">Ordered by reach rather than mention count \u2014 one piece in a large outlet outweighs several in small ones. Sprinklr returns no domain-authority score, so reach is the closest honest proxy.</p>
+        <div class="bars" id="outletBars"></div></div>
       <div class="card">
         <div class="controls" id="mediaControls"></div>
-        <div class="feed" id="mediaFeed"></div>
+        <div class="feed" id="mediaFeed" class="feed"></div>
       </div>
     </section>
 
@@ -223,6 +229,12 @@
         <div class="card">
           <h4>Us, the Movement, or everyone else</h4>
           <div id="sourceSplit"></div>
+        <div class="duo">
+          <div class="card"><h4>Our own posts</h4>
+            <div class="kpis tight" id="ownBox"></div></div>
+          <div class="card"><h4>Posts by others</h4>
+            <div class="kpis tight" id="othersBox"></div></div>
+        </div>
           <p class="kpi-note" style="margin:0">Identified from the posting account, not from the text — an article about the Red Cross counts as external.</p>
         </div>
         <div class="card">
@@ -240,7 +252,7 @@
       </div>
       <div class="card">
         <div class="controls" id="socialControls"></div>
-        <div class="feed" id="socialFeed"></div>
+        <div class="feed" id="socialFeed" class="feed"></div>
       </div>
     </section>
 
@@ -255,32 +267,6 @@
         <p class="kpi-note" style="margin:-6px 0 10px">Taken from the page path, so this is the version people actually opened, not their browser setting.</p>
         <div id="webLangs"></div></div>
       <div class="card"><h4>Top countries</h4><div id="webCountries"></div></div>
-    </section>
-
-    <section>
-      <div class="sec-head"><h3>Search visibility</h3><span class="eyebrow" id="searchAsOf">Search Console · 4 Aug – 1 Sept</span></div>
-      <div class="kpis tight" id="searchKpis"></div>
-      <div class="card" style="margin-top:14px">
-        <h4>Campaign terms</h4>
-        <p class="kpi-note" style="margin:-6px 0 0">Impressions are how often an ifrc.org page appeared in results. Position is where it ranked — lower is better, 1–10 is the first page.</p>
-        <div class="table-scroll">
-          <table><thead><tr><th>Query</th><th>Impressions</th><th>Clicks</th><th>Avg. position</th></tr></thead>
-          <tbody id="searchTable"></tbody></table>
-        </div>
-      </div>
-      <div class="card">
-        <h4>For scale</h4>
-        <p class="kpi-note" style="margin:-6px 0 0">What ifrc.org already gets, so the campaign numbers can be read against something.</p>
-        <div class="table-scroll">
-          <table><thead><tr><th>Query</th><th>Impressions</th><th>Clicks</th><th>Avg. position</th></tr></thead>
-          <tbody id="searchContextTable"></tbody></table>
-        </div>
-      </div>
-    </section>
-
-    <section>
-      <div class="sec-head"><h3>Flagged for review</h3></div>
-      <div class="card"><div id="riskList"></div></div>
     </section>
   </div>
 
@@ -518,7 +504,6 @@
     el("outletBars").innerHTML=barsHTML(s.top_outlets);
     el("platformBars").innerHTML=barsHTML(s.by_platform,null,"sky");
     el("languageBars").innerHTML=barsHTML(s.by_language,LANG,"sky");
-    el("sentiment").innerHTML=sentimentHTML(s.by_sentiment);
     el("trend").innerHTML=trendHTML(history);
 
     // who is talking
@@ -553,6 +538,24 @@
       ["Downloads and clicks",num(WEB_ACTIONS.reduce(function(a,x){return a+x.value;},0)),
         "PDF opens and outbound links","green"]
     ].map(kpiHTML).join("");
+    // Same three numbers on each side so they read across. Reach shows a
+    // dash, never 0, when Sprinklr withheld it \u2014 a 0 would say "nobody
+    // saw this" when it means "we could not measure it".
+    var rv = function(v){ return s.reach_available ? num(v||0) : "\u2014"; };
+    el("ownBox").innerHTML=[
+      ["Posts",num(s.own_posts||0),"Published on IFRC channels","red"],
+      ["Engagement",num(s.own_engagement||0),"Likes, shares, comments","red"],
+      ["Reach",rv(s.own_reach),"Accounts reached","red"]
+    ].map(kpiHTML).join("");
+    el("othersBox").innerHTML=[
+      ["Posts",num((s.movement_posts||0)+(s.external_posts||0)),
+        "Movement and external","sky"],
+      ["Engagement",num((s.movement_engagement||0)+(s.external_engagement||0)),
+        "Likes, shares, comments","sky"],
+      ["Reach",rv((s.movement_reach||0)+(s.external_reach||0)),
+        "Accounts reached","sky"]
+    ].map(kpiHTML).join("");
+
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
     el("webChannels").innerHTML=donutHTML(WEB_CHANNELS);
     el("webCountries").innerHTML=hbarHTML(WEB_COUNTRIES.slice(0,8),"var(--sky)");
@@ -562,26 +565,10 @@
     el("webAsOf").textContent = WEB_LIVE
       ? "GA4 \u00b7 live, updated " + WEB_ASOF
       : "GA4 \u00b7 hand-refreshed " + WEB_ASOF;
-    // Search Console can succeed or fail independently of GA4, so it gets
-    // its own flag. Otherwise a skipped GSC fetch would sit under a label
-    // claiming it was live.
-    el("searchAsOf").textContent = SEARCH_LIVE
-      ? "Search Console \u00b7 live, updated " + WEB_ASOF
-      : "Search Console \u00b7 4 Aug \u2013 1 Sept \u00b7 hand-refreshed";
 
-    el("searchKpis").innerHTML=SEARCH_KPIS.map(kpiHTML).join("");
-    el("searchTable").innerHTML=rows(SEARCH_ROWS);
-    el("searchContextTable").innerHTML=rows(SEARCH_CONTEXT);
     el("advocacyTable").innerHTML=rows(ADVOCACY_ROWS);
 
     var rv=s.risk_vectors||{},keys=Object.keys(rv);
-    el("riskList").innerHTML=keys.length?keys.map(function(k){
-      var ex=(s.risk_examples||{})[k]||[];
-      return '<div class="item"><div class="item-meta"><span class="pill p-amber">'+
-        esc(k.replace(/_/g," "))+'</span><span class="eng">'+rv[k]+" item"+(rv[k]===1?"":"s")+
-        "</span></div>"+(ex.length?'<p class="item-text">'+esc((ex[0].text||"").slice(0,200))+
-        (ex[0].url?' <a href="'+esc(ex[0].url)+'">see post</a>':"")+"</p>":"")+"</div>";
-    }).join(""):'<p class="empty">Nothing flagged.</p>';
 
     el("methodology").textContent=s.text_masked
       ? s.text_available+" of "+s.total+" items had readable text; the rest returned "+
