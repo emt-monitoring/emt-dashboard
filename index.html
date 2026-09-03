@@ -42,6 +42,19 @@
   .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));gap:14px;
         margin-top:30px}
   .kpis.tight{grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin-top:0}
+  /* Seven tiles, one line, read left to right as the campaign story: how much
+     was said, how much of it named us, where it landed, who said it, and what
+     it drove. Tightened padding and type so they fit without wrapping; below
+     1180px they wrap rather than shrink to unreadable. */
+  .kpis.seven{grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
+  .kpis.seven .kpi{padding:15px 13px}
+  .kpis.seven .kpi-value{font-size:1.85rem}
+  .kpis.seven .kpi-note{font-size:10.5px}
+  @media (max-width:1180px){
+    .kpis.seven{grid-template-columns:repeat(auto-fit,minmax(165px,1fr))}
+    .kpis.seven .kpi{padding:20px}
+    .kpis.seven .kpi-value{font-size:2.5rem}
+  }
   .kpi{background:linear-gradient(160deg,var(--panel) 0%,var(--panel-2) 100%);
        border:1px solid var(--line);border-radius:10px;padding:20px;display:flex;
        flex-direction:column;gap:7px;position:relative;overflow:hidden}
@@ -195,7 +208,7 @@
 </div>
 
 <div class="wrap">
-  <div class="kpis" id="kpis"></div>
+  <div class="kpis seven" id="kpis"></div>
 
   <!-- ═══ LEVEL 1 ═══ -->
   <div class="level">
@@ -517,48 +530,43 @@
 
     var reach=0;(s.top_posts||[]).forEach(function(p){reach+=p.engagement||0;});
     var webTot=WEB_SERIES.reduce(function(a,r){return [0,a[1]+r[1],a[2]+r[2],a[3]+r[3]];},[0,0,0,0]);
+    // Ordered to read as the campaign story, left to right: how much was said,
+    // how much of it actually named us, where it landed, who was talking, and
+    // what it drove on the site.
     el("kpis").innerHTML=[
       ["Total mentions",num(s.total),"Media and social","red"],
-      ["Media coverage",num(s.earned_media),"News, web, print, broadcast","sky"],
-      // Split on purpose. One "social posts" figure mixes our own output with
-      // the response to it, and those are the two things a launch turns on.
-      // Engagement rides in the note beside each count so volume and traction
-      // are never read apart.
-      // Counted from the social-only arrays, like the boxes further down.
-      // Reading the summary here counted press and web articles as "posts
-      // from others", which is the one thing this tile must not do.
-      ["Our posts",num(FEEDS.own.items.length),
-        num(sumBy(FEEDS.own.items,"engagement"))+" engagements"+
-        reachNote(s,sumBy(FEEDS.own.items,"reach"))+
-        " \u00b7 IFRC channels \u00b7 social","red"],
-      ["Posts from others",
-        num(FEEDS.movement.items.length+FEEDS.external.items.length),
-        num(sumBy(FEEDS.movement.items,"engagement")+
-            sumBy(FEEDS.external.items,"engagement"))+" engagements"+
-        reachNote(s,sumBy(FEEDS.movement.items,"reach")+
-                    sumBy(FEEDS.external.items,"reach"))+
-        " \u00b7 Movement and external \u00b7 social","sky"],
-      // Reach is the number this team reads first, so it gets its own tile
-      // rather than living only in the notes. When Sprinklr will not serve
-      // it, the tile says so instead of showing 0 \u2014 which would read as
-      // "nobody saw this" rather than "we could not measure it".
-      ["Combined followers",
-        s.reach_available ? num(s.total_reach||0) : "\u2014",
-        s.reach_available
-          ? "Added-up follower counts \u00b7 not views, not people reached"
-          : "Not returned by Sprinklr this run",
-        s.reach_available ? "red" : "amber"],
-      ["Site page views",num(webTot[2]),"Campaign site \u00b7 as of "+WEB_ASOF,"sky"],
-      // "Named" is the distinction that matters: plenty of coverage discusses
-      // a disaster treaty without ever calling it Earth\u2019s Missing Treaty,
-      // and only the ones that do are carrying the campaign rather than the
-      // subject. Spelled out because nobody can guess it from the label.
+      // "Named" is the distinction that matters: plenty of coverage discusses a
+      // disaster treaty without ever calling it Earth\u2019s Missing Treaty, and
+      // only those are carrying the campaign rather than the subject.
       ["Named the campaign",num(s.campaign_named),
         launched
           ? "Of "+num(s.total||0)+" mentions \u00b7 said \u201cEarth\u2019s Missing"+
             " Treaty\u201d, not just treaty talk"
           : "Not yet public",
-        launched?"green":"amber"]
+        launched?"green":"amber"],
+      ["Media coverage",num(s.earned_media),"News, web, print, broadcast","sky"],
+      // Split on purpose. One "social posts" figure mixes our own output with
+      // the response to it, and those are the two things a launch turns on.
+      // Both counted from the social-only arrays, so press and web articles
+      // cannot leak in.
+      ["Our posts",num(FEEDS.own.items.length),
+        num(sumBy(FEEDS.own.items,"engagement"))+
+        " engagements \u00b7 IFRC channels","red"],
+      ["Posts from others",
+        num(FEEDS.movement.items.length+FEEDS.external.items.length),
+        num(sumBy(FEEDS.movement.items,"engagement")+
+            sumBy(FEEDS.external.items,"engagement"))+
+        " engagements \u00b7 Movement and external","sky"],
+      // Our own posts only. Sprinklr gives no impressions on this tenant, so
+      // this is the follower count of the accounts that posted -- a ceiling,
+      // and named as one rather than dressed up as reach.
+      ["Our combined followers",
+        s.reach_available ? num(sumBy(FEEDS.own.items,"reach")) : "\u2014",
+        s.reach_available
+          ? "Ceiling for our own posts \u00b7 not views"
+          : "Not returned by Sprinklr this run",
+        s.reach_available ? "red" : "amber"],
+      ["Site page views",num(webTot[2]),"Campaign site \u00b7 as of "+WEB_ASOF,"sky"]
     ].map(kpiHTML).join("");
 
     el("phaseTable").innerHTML=PHASES.map(function(p){
@@ -651,9 +659,17 @@
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
     el("webChannels").innerHTML=donutHTML(WEB_CHANNELS);
     el("webCountries").innerHTML=hbarHTML(WEB_COUNTRIES.slice(0,8),"var(--sky)");
-    el("webLangs").innerHTML=hbarHTML(WEB_PAGES.map(function(p){
-      return {label:p.language, value:p.sessions};
-    }),"var(--red)");
+        // One row per LANGUAGE, not per page. Every locale has several pages, so
+    // mapping pages straight to bars listed English four times over. Same
+    // mistake as the social language widget, in a different corner.
+    var webLang = {};
+    WEB_PAGES.forEach(function(p){
+      var k = canonLang(p.language);
+      webLang[k] = (webLang[k]||0) + (p.sessions||0);
+    });
+    el("webLangs").innerHTML = hbarHTML(
+      Object.keys(webLang).map(function(k){return {label:k, value:webLang[k]};})
+        .sort(function(a,b){return b.value-a.value;}), "var(--red)");
     el("webAsOf").textContent = WEB_LIVE
       ? "GA4 \u00b7 live, updated " + WEB_ASOF
       : "GA4 \u00b7 hand-refreshed " + WEB_ASOF;
