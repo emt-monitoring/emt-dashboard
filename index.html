@@ -557,15 +557,17 @@
         num(sumBy(FEEDS.movement.items,"engagement")+
             sumBy(FEEDS.external.items,"engagement"))+
         " engagements \u00b7 Movement and external","sky"],
-      // Our own posts only. Sprinklr gives no impressions on this tenant, so
-      // this is the follower count of the accounts that posted -- a ceiling,
-      // and named as one rather than dressed up as reach.
-      ["Our combined followers",
-        s.reach_available ? num(sumBy(FEEDS.own.items,"reach")) : "\u2014",
-        s.reach_available
-          ? "Ceiling for our own posts \u00b7 not views"
-          : "Not returned by Sprinklr this run",
-        s.reach_available ? "red" : "amber"],
+      // Real reach for our own posts, from POST_REACH_COUNT on Sprinklr’s
+      // owned-account reporting -- the accounts people actually reached, not
+      // the follower ceiling we had to settle for before. Falls back to the
+      // ceiling only if the owned fetch returned nothing, and says which one
+      // it is showing either way.
+      (OWNED.reach > 0
+        ? ["Reach of our posts", num(OWNED.reach),
+           "Platform-reported \u00b7 " + num(OWNED.posts) + " posts", "red"]
+        : ["Our combined followers",
+           s.reach_available ? num(sumBy(FEEDS.own.items,"reach")) : "\u2014",
+           "Follower ceiling \u00b7 platform reach not returned", "amber"]),
       ["Site page views",num(webTot[2]),"Campaign site \u00b7 as of "+WEB_ASOF,"sky"]
     ].map(kpiHTML).join("");
 
@@ -638,20 +640,29 @@
     // payload, and a Facebook post with six visible likes arrives here as 0.
     // So a printed 0 would be a measurement failure wearing the clothes of a
     // result. Dash until the feed actually carries the numbers.
+    var OWNED = s.owned_true || {reach:0, posts:0, engagement:0, video_views:0};
     var METRICS_MEASURED = (s.metric_keys_seen && Object.keys(s.metric_keys_seen).length > 0)
       || ((s.own_engagement||0) + (s.movement_engagement||0) + (s.external_engagement||0)) > 0
       || (s.total_reach||0) > 0;
-    function groupFrom(items, tone){
+    function groupFrom(items, tone, ownedReach){
       var eng = 0, rch = 0;
       items.forEach(function(x){ eng += x.engagement||0; rch += x.reach||0; });
       var note  = METRICS_MEASURED ? "Sprinklr's last count \u2014 a floor" : "Not returned by Sprinklr";
-      var rnote = METRICS_MEASURED ? "Not views \u2014 a ceiling" : "Not returned by Sprinklr";
+      // Our own column can show real platform reach; the other two cannot,
+      // because nobody reports impressions on an account they do not own.
+      // So the label changes with the source rather than pretending they
+      // are the same measurement.
+      var third = (ownedReach > 0)
+        ? ["Reach", num(ownedReach), "Platform-reported \u00b7 accounts reached", tone]
+        : ["Combined followers",
+           (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
+           METRICS_MEASURED ? "Not views \u2014 a ceiling" : "Not returned by Sprinklr",
+           tone];
       return [["Posts", num(items.length), "Social posts captured", tone],
               ["Engagement", METRICS_MEASURED ? num(eng) : "\u2014", note, tone],
-              ["Combined followers", (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
-                rnote, tone]].map(kpiHTML).join("");
+              third].map(kpiHTML).join("");
     }
-    el("ownBox").innerHTML      = groupFrom(FEEDS.own.items, "red");
+    el("ownBox").innerHTML      = groupFrom(FEEDS.own.items, "red", OWNED.reach);
     el("movementBox").innerHTML = groupFrom(FEEDS.movement.items, "amber");
     el("externalBox").innerHTML = groupFrom(FEEDS.external.items, "sky");
 
