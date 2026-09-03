@@ -277,7 +277,8 @@
             <div id="movementFeed" class="feed"></div></div>
           <div class="card"><span class="eyebrow src-external">Everyone else</span><h4>External · social</h4>
             <div class="controls" id="externalControls"></div>
-            <div id="externalFeed" class="feed"></div></div>
+            <div id="externalFeed" class="feed"></div>
+            <p class="kpi-note" id="unmatched" style="margin:10px 0 0"></p></div>
         </div>
         </div>
       </div>
@@ -533,6 +534,16 @@
     drawFeed("own","ownFeed");
     drawFeed("movement","movementFeed");
     drawFeed("external","externalFeed");
+    // Accounts the classifier could not place. Individuals belong here and
+    // most of these are; a National Society appearing in this line is the
+    // signal that a name needs adding, rather than something to be noticed
+    // weeks later by eye.
+    var unmatched = s.external_social_unattributed || [];
+    el("unmatched").innerHTML = unmatched.length
+      ? "Not recognised as IFRC or Movement: " +
+        unmatched.map(esc).join(", ") +
+        ". Individuals are expected here \u2014 a National Society is not."
+      : "";
 
 
     if(s.generated){
