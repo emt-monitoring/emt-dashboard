@@ -494,6 +494,10 @@
   function render(history,snapshot){
     var s=snapshot.summary||FALLBACK.snapshot.summary;
     var launched=(s.campaign_named||0)>0;
+    // Declared up here, not beside the boxes that use it: the KPI row above
+    // reads OWNED too, and a var declared further down hoists as undefined
+    // rather than as the object. That blanked the whole dashboard once.
+    var OWNED = s.owned_true || {reach:0, posts:0, engagement:0, video_views:0};
     // Defined here, at the top of render, because the Languages widget
     // further down consumes socialItems. When this block sat lower the
     // widget hit an undefined value, render threw, and every feed below
@@ -640,7 +644,6 @@
     // payload, and a Facebook post with six visible likes arrives here as 0.
     // So a printed 0 would be a measurement failure wearing the clothes of a
     // result. Dash until the feed actually carries the numbers.
-    var OWNED = s.owned_true || {reach:0, posts:0, engagement:0, video_views:0};
     var METRICS_MEASURED = (s.metric_keys_seen && Object.keys(s.metric_keys_seen).length > 0)
       || ((s.own_engagement||0) + (s.movement_engagement||0) + (s.external_engagement||0)) > 0
       || (s.total_reach||0) > 0;
