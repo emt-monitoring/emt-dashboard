@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-03T21:38:23+00:00",
+  "generated_at": "2026-09-03T23:28:22+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      311,
-      283,
-      265
+      313,
+      285,
+      266
     ]
   ],
-  "avg_duration": 146,
+  "avg_duration": 145,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 295,
-      "views": 265,
-      "users": 250
+      "sessions": 297,
+      "views": 267,
+      "users": 251
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -100,7 +100,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 208
+      "value": 210
     },
     {
       "label": "Unassigned",
@@ -134,7 +134,7 @@
     },
     {
       "label": "United States",
-      "value": 34
+      "value": 35
     },
     {
       "label": "Netherlands",
@@ -149,11 +149,11 @@
       "value": 13
     },
     {
-      "label": "Hungary",
-      "value": 10
+      "label": "Lebanon",
+      "value": 11
     },
     {
-      "label": "Lebanon",
+      "label": "Hungary",
       "value": 10
     },
     {
