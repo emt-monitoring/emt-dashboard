@@ -229,12 +229,14 @@
         <div class="card">
           <h4>Us, the Movement, or everyone else</h4>
           <div id="sourceSplit"></div>
-        <div class="duo">
-          <div class="card"><h4>Our own posts</h4>
-            <div class="kpis tight" id="ownBox"></div></div>
-          <div class="card"><h4>Posts by others</h4>
-            <div class="kpis tight" id="othersBox"></div></div>
-        </div>
+        <div class="card"><h4>Our own posts</h4>
+          <div class="kpis tight" id="ownBox"></div>
+          <div class="controls" id="ownControls"></div>
+          <div id="ownFeed" class="feed"></div></div>
+        <div class="card"><h4>Posts by others</h4>
+          <div class="kpis tight" id="othersBox"></div>
+          <div class="controls" id="othersControls"></div>
+          <div id="othersFeed" class="feed"></div></div>
           <p class="kpi-note" style="margin:0">Identified from the posting account, not from the text — an article about the Red Cross counts as external.</p>
         </div>
         <div class="card">
@@ -360,11 +362,14 @@
 
   // feed view state — sort and window, applied client-side
   var FEEDS = {
+    own:    {items:[], sort:"engagement", days:0},
+    others: {items:[], sort:"engagement", days:0},
     media:  {items:[], sort:"engagement", days:0},
     social: {items:[], sort:"engagement", days:0}
   };
   var WINDOWS = [[0,"All"],[1,"24h"],[7,"7 days"],[30,"30 days"]];
-  var SORTS   = [["engagement","Most engaged"],["newest","Newest"]];
+  var SORTS   = [["engagement","Most engaged"],["newest","Newest"],
+                 ["reach","Most reach"]];
 
   function loadJSON(p){return fetch(p,{cache:"no-store"})
     .then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}
@@ -556,6 +561,16 @@
         "Accounts reached","sky"]
     ].map(kpiHTML).join("");
 
+    // Split the raw items by who posted, so each feed carries its own sort
+    // and window rather than one blended list.
+    var allItems = (snapshot && snapshot.items) || [];
+    FEEDS.own.items    = allItems.filter(function(x){ return x.source === "own"; });
+    FEEDS.others.items = allItems.filter(function(x){ return x.source !== "own"; });
+    mountControls("own","ownControls","ownFeed");
+    mountControls("others","othersControls","othersFeed");
+    drawFeed("own","ownFeed");
+    drawFeed("others","othersFeed");
+
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
     el("webChannels").innerHTML=donutHTML(WEB_CHANNELS);
     el("webCountries").innerHTML=hbarHTML(WEB_COUNTRIES.slice(0,8),"var(--sky)");
@@ -627,7 +642,9 @@
         return isNaN(t) ? false : t>=cut;
       });
     }
-    list.sort(f.sort==="newest"
+    list.sort(f.sort==="reach"
+      ? function(a,b){return (b.reach||0)-(a.reach||0);}
+      : f.sort==="newest"
       ? function(a,b){return new Date(b.created||0)-new Date(a.created||0);}
       : function(a,b){return (b.engagement||0)-(a.engagement||0);});
     var c=el(key+"Count");
