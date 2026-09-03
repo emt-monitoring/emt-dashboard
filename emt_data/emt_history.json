@@ -41,8 +41,8 @@
       "earned_media": 8,
       "social": 1,
       "own_posts": 0,
-      "movement_posts": 0,
-      "external_posts": 9,
+      "movement_posts": 1,
+      "external_posts": 8,
       "campaign_named": 2,
       "treaty_only": 2,
       "by_platform": {
@@ -57,7 +57,7 @@
       },
       "by_sentiment": {},
       "risk_vectors": {},
-      "updated": "2026-09-03T07:50:11.126565+00:00"
+      "updated": "2026-09-03T07:56:52.408201+00:00"
     }
   }
 }
