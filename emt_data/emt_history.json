@@ -40,8 +40,8 @@
       "text_masked": 5,
       "earned_media": 8,
       "social": 12,
-      "own_posts": 4,
-      "movement_posts": 4,
+      "own_posts": 5,
+      "movement_posts": 3,
       "external_posts": 12,
       "campaign_named": 6,
       "treaty_only": 4,
@@ -62,7 +62,7 @@
       },
       "by_sentiment": {},
       "risk_vectors": {},
-      "updated": "2026-09-03T09:13:38.933936+00:00"
+      "updated": "2026-09-03T09:17:10.509924+00:00"
     }
   }
 }
