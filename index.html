@@ -704,7 +704,10 @@
     var text=(p.text||"").trim();
     var head=text.length>130?text.slice(0,130)+"…":text;
     var who=displayName(p);
-    var channel=(p.outlet&&p.outlet!==p.platform)?p.platform:"";
+    // Compare against the name actually shown, not against the outlet.
+    // A Facebook post whose outlet is also "Facebook" used to hide its
+    // platform, which is precisely the row where the platform matters.
+    var channel=(p.platform&&p.platform!==who)?p.platform:"";
     return '<div class="item"><div class="item-meta"><span class="who">'+esc(who)+"</span>"+
       (channel?"<span>· "+esc(channel)+"</span>":"")+
       (p.language?"<span>· "+esc(LANG[p.language]||p.language)+"</span>":"")+
