@@ -170,6 +170,9 @@
     .feed::-webkit-scrollbar{width:8px}
     .feed::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
     .feed::-webkit-scrollbar-track{background:transparent}
+    .trio{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+          gap:14px;align-items:start}
+    .trio > .card + .card{margin-top:0}
 </style>
 
 <div class="hero">
@@ -229,19 +232,23 @@
         <div class="card">
           <h4>Us, the Movement, or everyone else</h4>
           <div id="sourceSplit"></div>
-        <div class="card"><h4>Our own posts</h4>
-          <div class="kpis tight" id="ownBox"></div>
-          <div class="controls" id="ownControls"></div>
-          <div id="ownFeed" class="feed"></div></div>
-        <div class="card"><h4>Posts by others</h4>
-          <div class="kpis tight" id="othersBox"></div>
-          <div class="controls" id="othersControls"></div>
-          <div id="othersFeed" class="feed"></div></div>
-          <p class="kpi-note" style="margin:0">Identified from the posting account, not from the text — an article about the Red Cross counts as external.</p>
+        <div class="trio">
+          <div class="card"><h4>IFRC channels</h4>
+            <div class="kpis tight" id="ownBox"></div></div>
+          <div class="card"><h4>Movement</h4>
+            <div class="kpis tight" id="movementBox"></div></div>
+          <div class="card"><h4>External</h4>
+            <div class="kpis tight" id="externalBox"></div></div>
         </div>
-        <div class="card">
-          <h4>Amplification</h4>
-          <div id="amplification"></div>
+        <div class="duo">
+          <div class="card"><h4>Our own posts</h4>
+            <div class="controls" id="ownControls"></div>
+            <div id="ownFeed" class="feed"></div></div>
+          <div class="card"><h4>Social posts by others</h4>
+            <div class="controls" id="othersControls"></div>
+            <div id="othersFeed" class="feed"></div></div>
+        </div>
+          <p class="kpi-note" style="margin:0">Identified from the posting account, not from the text — an article about the Red Cross counts as external.</p>
         </div>
       </div>
     </section>
@@ -367,6 +374,11 @@
     media:  {items:[], sort:"engagement", days:0},
     social: {items:[], sort:"engagement", days:0}
   };
+  // Web and Print are not social platforms. They belong in Media coverage;
+  // mixing them into the social widgets made both harder to read.
+  var NON_SOCIAL = ["Web","Print","News","Blog","Forum","Review"];
+  function isSocial(p){ return NON_SOCIAL.indexOf(p) === -1; }
+
   var WINDOWS = [[0,"All"],[1,"24h"],[7,"7 days"],[30,"30 days"]];
   var SORTS   = [["engagement","Most engaged"],["newest","Newest"],
                  ["reach","Most reach"]];
@@ -507,7 +519,11 @@
     drawFeed("social","socialFeed");
 
     el("outletBars").innerHTML=barsHTML(s.top_outlets);
-    el("platformBars").innerHTML=barsHTML(s.by_platform,null,"sky");
+    var socialPlat = {};
+    Object.keys(s.by_platform||{}).forEach(function(k){
+      if (isSocial(k)) socialPlat[k] = s.by_platform[k];
+    });
+    el("platformBars").innerHTML=barsHTML(socialPlat,null,"sky");
     el("languageBars").innerHTML=barsHTML(s.by_language,LANG,"sky");
     el("trend").innerHTML=trendHTML(history);
 
@@ -522,12 +538,6 @@
       : '<p class="empty">Nothing collected yet.</p>';
 
     var amp=s.amplification;
-    el("amplification").innerHTML = amp==null
-      ? '<p class="empty">Appears once we have posted and others have responded.</p>'
-      : '<div class="kpi-value" style="color:var(--sky)">'+esc(amp)+'&times;</div>'+
-        '<p class="kpi-note" style="margin-top:8px">External engagement for every unit of '+
-        'engagement on our own posts. Above 1 means the campaign is travelling beyond '+
-        'our channels.</p>';
 
     // web
     var last=WEB_SERIES[WEB_SERIES.length-1]||["",0,0,0];
@@ -547,25 +557,26 @@
     // dash, never 0, when Sprinklr withheld it \u2014 a 0 would say "nobody
     // saw this" when it means "we could not measure it".
     var rv = function(v){ return s.reach_available ? num(v||0) : "\u2014"; };
-    el("ownBox").innerHTML=[
-      ["Posts",num(s.own_posts||0),"Published on IFRC channels","red"],
-      ["Engagement",num(s.own_engagement||0),"Likes, shares, comments","red"],
-      ["Reach",rv(s.own_reach),"Accounts reached","red"]
-    ].map(kpiHTML).join("");
-    el("othersBox").innerHTML=[
-      ["Posts",num((s.movement_posts||0)+(s.external_posts||0)),
-        "Movement and external","sky"],
-      ["Engagement",num((s.movement_engagement||0)+(s.external_engagement||0)),
-        "Likes, shares, comments","sky"],
-      ["Reach",rv((s.movement_reach||0)+(s.external_reach||0)),
-        "Accounts reached","sky"]
-    ].map(kpiHTML).join("");
+    function group(posts, eng, reach, tone){
+      return [["Posts",num(posts||0),"Mentions captured",tone],
+              ["Engagement",num(eng||0),"Likes, shares, comments",tone],
+              ["Reach",rv(reach),"Accounts reached",tone]].map(kpiHTML).join("");
+    }
+    el("ownBox").innerHTML      = group(s.own_posts, s.own_engagement, s.own_reach, "red");
+    el("movementBox").innerHTML = group(s.movement_posts, s.movement_engagement,
+                                        s.movement_reach, "amber");
+    el("externalBox").innerHTML = group(s.external_posts, s.external_engagement,
+                                        s.external_reach, "sky");
 
     // Split the raw items by who posted, so each feed carries its own sort
     // and window rather than one blended list.
     var allItems = (snapshot && snapshot.items) || [];
     FEEDS.own.items    = allItems.filter(function(x){ return x.source === "own"; });
-    FEEDS.others.items = allItems.filter(function(x){ return x.source !== "own"; });
+    // Social only. Web and Print articles live in Media coverage; repeating
+    // them here made "posts by others" mostly newswire duplicates.
+    FEEDS.others.items = allItems.filter(function(x){
+      return x.source !== "own" && isSocial(x.platform);
+    });
     mountControls("own","ownControls","ownFeed");
     mountControls("others","othersControls","othersFeed");
     drawFeed("own","ownFeed");
@@ -653,6 +664,15 @@
       :'<p class="empty">Nothing in this window.</p>';
   }
 
+  // Listening rows on this tenant often carry no metrics at all. Show
+  // whichever number is real; show none rather than a zero, because a
+  // printed 0 reads as a measured result instead of a missing one.
+  function metricChip(p){
+    if ((p.reach||0) > 0) return '<span class="eng">'+num(p.reach)+' reach</span>';
+    if ((p.engagement||0) > 0) return '<span class="eng">'+num(p.engagement)+' eng.</span>';
+    return "";
+  }
+
   function itemHTML(p){
     var text=(p.text||"").trim();
     var head=text.length>130?text.slice(0,130)+"…":text;
@@ -663,7 +683,7 @@
       (p.language?"<span>· "+esc(LANG[p.language]||p.language)+"</span>":"")+
       (p.created?"<span>· "+esc(new Date(p.created).toLocaleDateString("en-GB",
         {day:"numeric",month:"short"}))+"</span>":"")+
-      '<span class="eng">'+num(p.engagement)+" eng.</span></div>"+
+      metricChip(p)+"</div>"+
       (p.url?'<a class="headline" href="'+esc(p.url)+'" target="_blank" rel="noopener">'+
         (head?esc(head):"Open post")+"</a>"
        :'<p class="item-text">'+(head?esc(head):"(no text returned)")+"</p>")+"</div>";
