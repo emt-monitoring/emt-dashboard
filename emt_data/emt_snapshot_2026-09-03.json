@@ -1,16 +1,16 @@
 {
   "summary": {
-    "generated": "2026-09-03T09:46:22.907929+00:00",
+    "generated": "2026-09-03T09:48:33.596640+00:00",
     "window_hours": 24,
-    "total": 25,
-    "text_available": 18,
+    "total": 26,
+    "text_available": 19,
     "text_masked": 7,
     "earned_media": 10,
-    "social": 15,
+    "social": 16,
     "by_source": {
       "external": 14,
       "own": 6,
-      "movement": 5
+      "movement": 6
     },
     "external_social_unattributed": [
       "@JulianTHarris",
@@ -19,7 +19,7 @@
       "Instagram User"
     ],
     "own_posts": 6,
-    "movement_posts": 5,
+    "movement_posts": 6,
     "external_posts": 14,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
@@ -39,17 +39,9 @@
     },
     "owned_probe": {
       "POST_INSIGHTS/by:POST_ID": "200 rows=5 value=5.0",
-      "POST_INSIGHTS/by:UNIVERSAL_POST_ID": "200 rows=0 value=",
-      "POST_INSIGHTS/by:MESSAGE_ID": "200 rows=0 value=",
-      "POST_INSIGHTS/by:ES_MESSAGE_ID": "200 rows=0 value=",
-      "POST_INSIGHTS/by:SN_POST_ID": "200 rows=0 value=",
-      "POST_INSIGHTS/by:POST": "200 rows=0 value=",
-      "POST_INSIGHTS/by:ACCOUNT_ID": "200 rows=5 value=69.0",
-      "POST_INSIGHTS/by:SOCIAL_NETWORK": "200 rows=0 value=",
-      "POST_INSIGHTS/by:CHANNEL": "200 rows=0 value=",
-      "POST_INSIGHTS/by:PERMALINK": "200 rows=0 value="
+      "POST_INSIGHTS/by:POST_ID:row": "[{'postId': 100010947973797, 'messageId': 100010947973796, 'accountId': 100113188, 'authorId': 100045586, 'clientId': 1118, 'messageType': 2, 'channelType': 'FACEBOOK', 'accountType': 'FBPAGE', 'content': {'message': 'Victims/ survivors of sexual violence require and must have access to crucial support, especially within the first 72 hours after the crime was committed. \\n\\n 📹 Watch this video to learn more 👉🏽 http://ms.spr.ly/6010saPqC', 'attachment': {'type': 'PHOTO', 'mediaList': [{'type': 'PHOTO', 'imageUrl': 'https://prod2-media-proxy.sprinklr.com/channel/data/media/50524/3b606813-e5d6-4f"
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a9941eb2afe078152e86a6a\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a99426fd267d89386615522\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -59,9 +51,9 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 4715118,
+    "total_reach": 4745046,
     "own_reach": 4598367,
-    "movement_reach": 27902,
+    "movement_reach": 57830,
     "external_reach": 88849,
     "own_engagement": 54,
     "movement_engagement": 3,
@@ -98,7 +90,7 @@
         "language": "en",
         "engagement": 0,
         "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
-        "created": "2026-09-03T09:46:22.900920+00:00",
+        "created": "2026-09-03T09:48:33.589296+00:00",
         "author": "Global: Government News and Documents; Political and Economic Organizations News",
         "astronauts": [],
         "risk_vectors": []
@@ -111,7 +103,7 @@
         "language": "es",
         "engagement": 0,
         "text": "  News and Press Release  Nueva York/Ginebra, 3 de septiembre de 2026 – La Federación Internacional de Sociedades de la Cruz Roja y de la Media\n<p>Luna Roja (IFRC) lanza hoy su nueva campaña mundial, \"El tratado que le falta a la Tierra\", para mostrar una cruda realidad: mientras",
-        "created": "2026-09-03T09:46:22.901624+00:00",
+        "created": "2026-09-03T09:48:33.590150+00:00",
         "author": "reliefweb.int",
         "astronauts": [
           "Dr. Sian Proctor",
@@ -131,7 +123,7 @@
         "language": "und",
         "engagement": 0,
         "text": "Government\n\nDie Internationale Föderation der nationalen Rotkreuz- und Rothalbmondgesellschaften (IFRC) ist überzeugt, dass ein weltweiter Katastrophenschutzvertrag es ermöglichen könnte, den betroffenen Menschen schneller Hilfe zu leisten (Archivbild).\n\nImage: ...",
-        "created": "2026-09-03T09:46:22.903032+00:00",
+        "created": "2026-09-03T09:48:33.591226+00:00",
         "author": "Keystone-SDAToday at",
         "astronauts": [],
         "risk_vectors": []
@@ -144,7 +136,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
-        "created": "2026-09-03T09:46:22.903257+00:00",
+        "created": "2026-09-03T09:48:33.591450+00:00",
         "author": "Mirage News",
         "astronauts": [],
         "risk_vectors": []
@@ -157,7 +149,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  News and Press Release  International treaties protect astronauts in distress.\n<p>But if a flood strikes your city, there is still no comprehensive global treaty to help countries cut through red tape and coordinate international assistance.</p> <p> New York/Geneva, 3 September",
-        "created": "2026-09-03T09:46:22.903472+00:00",
+        "created": "2026-09-03T09:48:33.591668+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -170,7 +162,7 @@
         "language": "fr",
         "engagement": 0,
         "text": "  News and Press Release  New York/Genève, le 3 septembre 2026 – La Fédération internationale des Sociétés de la Croix-Rouge et du\n<p>Croissant-Rouge (IFRC) lance aujourd'hui une nouvelle campagne mondiale, intitulée Earth's Missing Treaty (Le traité manquant de la Terre), afin d",
-        "created": "2026-09-03T09:46:22.904084+00:00",
+        "created": "2026-09-03T09:48:33.592285+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -183,7 +175,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
-        "created": "2026-09-03T09:46:22.905081+00:00",
+        "created": "2026-09-03T09:48:33.593380+00:00",
         "author": "nationaltribune.com.au",
         "astronauts": [],
         "risk_vectors": []
@@ -196,7 +188,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
-        "created": "2026-09-03T09:46:22.905922+00:00",
+        "created": "2026-09-03T09:48:33.594232+00:00",
         "author": "webtv.un.org",
         "astronauts": [
           "Dr. Sian Proctor"
@@ -211,7 +203,7 @@
         "language": "fr",
         "engagement": 0,
         "text": "Soutenu par six astronautes\n\nL'astronaute français Jean-Francois Clervoy (à droite) soutient l'action de la FICR (archives).\n\nImage: ATS\n\nLa Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne ...",
-        "created": "2026-09-03T09:46:22.906794+00:00",
+        "created": "2026-09-03T09:48:33.595465+00:00",
         "author": "Keystone-ATSAujourd'hui à 10:58•Aujourd'hui à",
         "astronauts": [
           "Jean-François Clervoy"
@@ -226,28 +218,28 @@
         "language": "en",
         "engagement": 0,
         "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-03T09:46:22.907030+00:00",
+        "created": "2026-09-03T09:48:33.595704+00:00",
         "author": "un.org",
         "astronauts": [],
         "risk_vectors": []
       }
     ],
-    "campaign_named": 7,
+    "campaign_named": 8,
     "treaty_only": 4,
     "by_day": {
-      "2026-09-03": 25
+      "2026-09-03": 26
     },
     "by_platform": {
       "Web": 9,
       "X": 7,
+      "Facebook": 4,
       "Instagram": 3,
-      "Facebook": 3,
       "YouTube": 1,
       "Print": 1,
       "TikTok": 1
     },
     "by_language": {
-      "en": 12,
+      "en": 13,
       "und": 9,
       "es": 2,
       "fr": 2
@@ -272,7 +264,7 @@
         "language": "en",
         "engagement": 38,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
-        "created": "2026-09-03T09:46:22.898341+00:00",
+        "created": "2026-09-03T09:48:33.586787+00:00",
         "author": "IFRC",
         "astronauts": [],
         "risk_vectors": []
@@ -285,7 +277,7 @@
         "language": "und",
         "engagement": 7,
         "text": "",
-        "created": "2026-09-03T09:46:22.899087+00:00",
+        "created": "2026-09-03T09:48:33.587499+00:00",
         "author": "@ifrc",
         "astronauts": [],
         "risk_vectors": []
@@ -298,7 +290,7 @@
         "language": "en",
         "engagement": 7,
         "text": "Astronauts in distress on their way home are protected by an international treaty. \nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a n",
-        "created": "2026-09-03T09:46:22.899235+00:00",
+        "created": "2026-09-03T09:48:33.587647+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
         "astronauts": [],
         "risk_vectors": []
@@ -311,7 +303,7 @@
         "language": "en",
         "engagement": 2,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
-        "created": "2026-09-03T09:46:22.899811+00:00",
+        "created": "2026-09-03T09:48:33.588221+00:00",
         "author": "IFRC",
         "astronauts": [],
         "risk_vectors": []
@@ -324,7 +316,7 @@
         "language": "und",
         "engagement": 2,
         "text": "",
-        "created": "2026-09-03T09:46:22.900045+00:00",
+        "created": "2026-09-03T09:48:33.588455+00:00",
         "author": "@MalawiRedCross",
         "astronauts": [],
         "risk_vectors": []
@@ -337,7 +329,7 @@
         "language": "und",
         "engagement": 1,
         "text": "",
-        "created": "2026-09-03T09:46:22.900285+00:00",
+        "created": "2026-09-03T09:48:33.588697+00:00",
         "author": "@nrcs_ng",
         "astronauts": [],
         "risk_vectors": []
@@ -350,7 +342,7 @@
         "language": "und",
         "engagement": 1,
         "text": "⁉️ Știați asta...\n... omenirea dispune de tratate pentru păsările migratoare, pentru cafeaua care traversează frontierele și pentru astronauții care se întorc în siguranță pe Pământ, dar încă nu există un tratat echivalent pentru persoanele afectate de dezastre 🤔\n\n❗Este o lacună ",
-        "created": "2026-09-03T09:46:22.900456+00:00",
+        "created": "2026-09-03T09:48:33.588837+00:00",
         "author": "Crucea Rosie Romana",
         "astronauts": [],
         "risk_vectors": []
@@ -363,8 +355,21 @@
         "language": "en",
         "engagement": 0,
         "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
-        "created": "2026-09-03T09:46:22.900920+00:00",
+        "created": "2026-09-03T09:48:33.589296+00:00",
         "author": "Global: Government News and Documents; Political and Economic Organizations News",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://twitter.com/loracnaiara/status/2095431167935656021",
+        "platform": "X",
+        "outlet": "Twitter",
+        "source": "external",
+        "language": "und",
+        "engagement": 0,
+        "text": "",
+        "created": "2026-09-03T09:48:33.589996+00:00",
+        "author": "@loracnaiara",
         "astronauts": [],
         "risk_vectors": []
       },
@@ -376,7 +381,7 @@
         "language": "es",
         "engagement": 0,
         "text": "  News and Press Release  Nueva York/Ginebra, 3 de septiembre de 2026 – La Federación Internacional de Sociedades de la Cruz Roja y de la Media\n<p>Luna Roja (IFRC) lanza hoy su nueva campaña mundial, \"El tratado que le falta a la Tierra\", para mostrar una cruda realidad: mientras",
-        "created": "2026-09-03T09:46:22.901624+00:00",
+        "created": "2026-09-03T09:48:33.590150+00:00",
         "author": "reliefweb.int",
         "astronauts": [
           "Dr. Sian Proctor",
@@ -389,19 +394,6 @@
         "risk_vectors": []
       },
       {
-        "url": "https://twitter.com/loracnaiara/status/2095431167935656021",
-        "platform": "X",
-        "outlet": "Twitter",
-        "source": "external",
-        "language": "und",
-        "engagement": 0,
-        "text": "",
-        "created": "2026-09-03T09:46:22.902448+00:00",
-        "author": "@loracnaiara",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
         "url": "https://www.instagram.com/p/Dc0cKZUGh3n/",
         "platform": "Instagram",
         "outlet": "Instagram",
@@ -409,7 +401,7 @@
         "language": "es",
         "engagement": 0,
         "text": "Em Cabo Verde, a Tempestade Erin mostrou como as vidas podem ser postas em causa quando uma catástrofe acontece.\n\nUm tratado global mais forte poderia ajudar a tornar a resposta a futuras catástrofes mais rápida, mais clara e mais coordenada.\n\nÉ por isso que a 𝐂𝐫𝐮𝐳 𝐕𝐞𝐫𝐦𝐞𝐥𝐡𝐚 𝐝𝐞 𝐂𝐚",
-        "created": "2026-09-03T09:46:22.902648+00:00",
+        "created": "2026-09-03T09:48:33.590823+00:00",
         "author": "Instagram User",
         "astronauts": [],
         "risk_vectors": []
@@ -422,7 +414,7 @@
         "language": "und",
         "engagement": 0,
         "text": "Government\n\nDie Internationale Föderation der nationalen Rotkreuz- und Rothalbmondgesellschaften (IFRC) ist überzeugt, dass ein weltweiter Katastrophenschutzvertrag es ermöglichen könnte, den betroffenen Menschen schneller Hilfe zu leisten (Archivbild).\n\nImage: ...",
-        "created": "2026-09-03T09:46:22.903032+00:00",
+        "created": "2026-09-03T09:48:33.591226+00:00",
         "author": "Keystone-SDAToday at",
         "astronauts": [],
         "risk_vectors": []
@@ -435,7 +427,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
-        "created": "2026-09-03T09:46:22.903257+00:00",
+        "created": "2026-09-03T09:48:33.591450+00:00",
         "author": "Mirage News",
         "astronauts": [],
         "risk_vectors": []
@@ -448,7 +440,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  News and Press Release  International treaties protect astronauts in distress.\n<p>But if a flood strikes your city, there is still no comprehensive global treaty to help countries cut through red tape and coordinate international assistance.</p> <p> New York/Geneva, 3 September",
-        "created": "2026-09-03T09:46:22.903472+00:00",
+        "created": "2026-09-03T09:48:33.591668+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -461,7 +453,7 @@
         "language": "fr",
         "engagement": 0,
         "text": "  News and Press Release  New York/Genève, le 3 septembre 2026 – La Fédération internationale des Sociétés de la Croix-Rouge et du\n<p>Croissant-Rouge (IFRC) lance aujourd'hui une nouvelle campagne mondiale, intitulée Earth's Missing Treaty (Le traité manquant de la Terre), afin d",
-        "created": "2026-09-03T09:46:22.904084+00:00",
+        "created": "2026-09-03T09:48:33.592285+00:00",
         "author": "reliefweb.int",
         "astronauts": [],
         "risk_vectors": []
@@ -474,7 +466,7 @@
         "language": "en",
         "engagement": 0,
         "text": "When disaster strikes, strong laws save lives. \n\nFrom early warnings to faster humanitarian assistance, the right laws can remove barriers, protect the most vulnerable and ensure no one is left behind.\n\nThe ifrc is advocating for a global Disaster Law Treaty that puts people firs",
-        "created": "2026-09-03T09:46:22.904733+00:00",
+        "created": "2026-09-03T09:48:33.592918+00:00",
         "author": "NIGERIAN RED CROSS SOCIETY",
         "astronauts": [],
         "risk_vectors": []
@@ -487,7 +479,7 @@
         "language": "und",
         "engagement": 0,
         "text": "",
-        "created": "2026-09-03T09:46:22.904954+00:00",
+        "created": "2026-09-03T09:48:33.593159+00:00",
         "author": "@IFRCAfrica",
         "astronauts": [],
         "risk_vectors": []
@@ -500,7 +492,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
-        "created": "2026-09-03T09:46:22.905081+00:00",
+        "created": "2026-09-03T09:48:33.593380+00:00",
         "author": "nationaltribune.com.au",
         "astronauts": [],
         "risk_vectors": []
@@ -513,7 +505,7 @@
         "language": "und",
         "engagement": 0,
         "text": "",
-        "created": "2026-09-03T09:46:22.905772+00:00",
+        "created": "2026-09-03T09:48:33.594077+00:00",
         "author": "@MalawiRedCross",
         "astronauts": [],
         "risk_vectors": []
@@ -526,11 +518,24 @@
         "language": "en",
         "engagement": 0,
         "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
-        "created": "2026-09-03T09:46:22.905922+00:00",
+        "created": "2026-09-03T09:48:33.594232+00:00",
         "author": "webtv.un.org",
         "astronauts": [
           "Dr. Sian Proctor"
         ],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://www.facebook.com/390241643135256/posts/1518090947016981",
+        "platform": "Facebook",
+        "outlet": "Facebook",
+        "source": "movement",
+        "language": "en",
+        "engagement": 0,
+        "text": "When disaster strikes, access to lifesaving aid should not depend on politics, borders, or circumstance.\n\nWhile international treaties ensure assistance for astronauts in distress, there is still no equivalent global commitment to help people affected by disasters on Earth.\n\nAn i",
+        "created": "2026-09-03T09:48:33.594562+00:00",
+        "author": "Irish Red Cross",
+        "astronauts": [],
         "risk_vectors": []
       },
       {
@@ -541,7 +546,7 @@
         "language": "en",
         "engagement": 0,
         "text": "When disaster strikes, strong laws save lives. \n\nFrom early warnings to faster humanitarian assistance, the right laws can remove barriers, protect the most vulnerable and ensure no one is left behind.\n\nThe International Federation of Red Cross and Red Crescent Societies is advoc",
-        "created": "2026-09-03T09:46:22.906195+00:00",
+        "created": "2026-09-03T09:48:33.594796+00:00",
         "author": "Nigerian Red Cross Society",
         "astronauts": [],
         "risk_vectors": []
@@ -554,7 +559,7 @@
         "language": "und",
         "engagement": 0,
         "text": "",
-        "created": "2026-09-03T09:46:22.906422+00:00",
+        "created": "2026-09-03T09:48:33.595052+00:00",
         "author": "@JulianTHarris",
         "astronauts": [],
         "risk_vectors": []
@@ -567,7 +572,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
-        "created": "2026-09-03T09:46:22.906578+00:00",
+        "created": "2026-09-03T09:48:33.595239+00:00",
         "author": "We are humanitarians",
         "astronauts": [],
         "risk_vectors": []
@@ -580,24 +585,11 @@
         "language": "fr",
         "engagement": 0,
         "text": "Soutenu par six astronautes\n\nL'astronaute français Jean-Francois Clervoy (à droite) soutient l'action de la FICR (archives).\n\nImage: ATS\n\nLa Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne ...",
-        "created": "2026-09-03T09:46:22.906794+00:00",
+        "created": "2026-09-03T09:48:33.595465+00:00",
         "author": "Keystone-ATSAujourd'hui à 10:58•Aujourd'hui à",
         "astronauts": [
           "Jean-François Clervoy"
         ],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
-        "platform": "Web",
-        "outlet": "United Nations",
-        "source": "external",
-        "language": "en",
-        "engagement": 0,
-        "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-03T09:46:22.907030+00:00",
-        "author": "un.org",
-        "astronauts": [],
         "risk_vectors": []
       }
     ]
@@ -614,7 +606,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "IFRC",
-      "created": "2026-09-03T09:46:22.898341+00:00",
+      "created": "2026-09-03T09:48:33.586787+00:00",
       "day": "2026-09-03",
       "engagement": 38,
       "reach": 368968,
@@ -636,7 +628,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "@ifrc",
-      "created": "2026-09-03T09:46:22.899087+00:00",
+      "created": "2026-09-03T09:48:33.587499+00:00",
       "day": "2026-09-03",
       "engagement": 7,
       "reach": 234369,
@@ -658,7 +650,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "International Federation of Red Cross and Red Crescent Societies",
-      "created": "2026-09-03T09:46:22.899235+00:00",
+      "created": "2026-09-03T09:48:33.587647+00:00",
       "day": "2026-09-03",
       "engagement": 7,
       "reach": 780260,
@@ -680,7 +672,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "IFRC",
-      "created": "2026-09-03T09:46:22.899811+00:00",
+      "created": "2026-09-03T09:48:33.588221+00:00",
       "day": "2026-09-03",
       "engagement": 2,
       "reach": 88900,
@@ -702,7 +694,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "@MalawiRedCross",
-      "created": "2026-09-03T09:46:22.900045+00:00",
+      "created": "2026-09-03T09:48:33.588455+00:00",
       "day": "2026-09-03",
       "engagement": 2,
       "reach": 3682,
@@ -724,7 +716,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "@nrcs_ng",
-      "created": "2026-09-03T09:46:22.900285+00:00",
+      "created": "2026-09-03T09:48:33.588697+00:00",
       "day": "2026-09-03",
       "engagement": 1,
       "reach": 10036,
@@ -746,7 +738,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "Crucea Rosie Romana",
-      "created": "2026-09-03T09:46:22.900456+00:00",
+      "created": "2026-09-03T09:48:33.588837+00:00",
       "day": "2026-09-03",
       "engagement": 1,
       "reach": 88527,
@@ -768,7 +760,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "Global: Government News and Documents; Political and Economic Organizations News",
-      "created": "2026-09-03T09:46:22.900920+00:00",
+      "created": "2026-09-03T09:48:33.589296+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -781,6 +773,28 @@
     },
     {
       "id": "s0009",
+      "text": "",
+      "has_text": false,
+      "url": "https://twitter.com/loracnaiara/status/2095431167935656021",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@loracnaiara",
+      "created": "2026-09-03T09:48:33.589996+00:00",
+      "day": "2026-09-03",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0010",
       "text": "  News and Press Release  Nueva York/Ginebra, 3 de septiembre de 2026 – La Federación Internacional de Sociedades de la Cruz Roja y de la Media\n<p>Luna Roja (IFRC) lanza hoy su nueva campaña mundial, \"El tratado que le falta a la Tierra\", para mostrar una cruda realidad: mientras que el derecho internacional protege a astronautas en situaciones de peligro, no existe ningún tratado internacional integral que establezca cómo deben cooperar los países para proteger a las personas en casos de desastre.</p> <p> Un tratado global proporcionaría un marco común para la cooperación internacional antes de que se produzcan los desastres, y en caso de que se necesite ayuda internacional. En la práctica, esto podría traducirse en un despliegue más rápido de los equipos humanitarios, trámites aduaneros y fronterizos más sencillos para los suministros de primera necesidad, una cooperación más predecible entre los gobiernos y las organizaciones humanitarias, menores costos y menos trabas administrativas, así como una mejor protección para las personas afectadas por los desastres.</p> <p> De forma paralela al lanzamiento de la campaña, la IFRC publica un nuevo análisis global que muestra por qué es necesario un tratado sobre desastres y qué diferencia podría suponer. El estudio recopila datos sobre el riesgo de desastres, la protección y los obstáculos a la ayuda internacional, junto con cuatro estudios de caso de Belice, Fiyi, Líbano y Madagascar.</p> <p> Lea los estudios de caso de Belice, Fiyi, Líbano y Madagascar.</p> <p> En 2027, los gobiernos se reunirán para negociar el tratado, y la IFRC pone a su disposición su apoyo a lo largo de todo el proceso, ofreciendo conocimientos técnicos y décadas de experiencia en la preparación y respuesta ante desastres.</p> <p> La campaña de la IFRC cuenta con el respaldo de destacados astronautas, entre los que se encuentran la Dra. Sian Proctor, Nicole Stott, José Hernández, Scott Kelly, Doug Hurley, Julie Payette, Jean-François Clervoy y Do",
       "has_text": true,
       "url": "https://reliefweb.int/report/world/astronautas-en-el-centro-de-la-nueva-campana-de-la-ifrc-por-el-primer-tratado-internacional-sobre-desastres-del-mundo",
@@ -790,7 +804,7 @@
       "language": "es",
       "language_source": "inferred",
       "author": "reliefweb.int",
-      "created": "2026-09-03T09:46:22.901624+00:00",
+      "created": "2026-09-03T09:48:33.590150+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -809,28 +823,6 @@
       "risk_vectors": []
     },
     {
-      "id": "s0010",
-      "text": "",
-      "has_text": false,
-      "url": "https://twitter.com/loracnaiara/status/2095431167935656021",
-      "platform": "X",
-      "outlet": "Twitter",
-      "source": "external",
-      "language": "und",
-      "language_source": "inferred",
-      "author": "@loracnaiara",
-      "created": "2026-09-03T09:46:22.902448+00:00",
-      "day": "2026-09-03",
-      "engagement": 0,
-      "reach": 0,
-      "sentiment": "",
-      "country": "",
-      "is_campaign": false,
-      "is_treaty": false,
-      "astronauts": [],
-      "risk_vectors": []
-    },
-    {
       "id": "s0011",
       "text": "Em Cabo Verde, a Tempestade Erin mostrou como as vidas podem ser postas em causa quando uma catástrofe acontece.\n\nUm tratado global mais forte poderia ajudar a tornar a resposta a futuras catástrofes mais rápida, mais clara e mais coordenada.\n\nÉ por isso que a 𝐂𝐫𝐮𝐳 𝐕𝐞𝐫𝐦𝐞𝐥𝐡𝐚 𝐝𝐞 𝐂𝐚𝐛𝐨 𝐕𝐞𝐫𝐝𝐞 𝐚𝐩𝐨𝐢𝐚 𝐨 𝐓𝐫𝐚𝐭𝐚𝐝𝐨 𝐪𝐮𝐞 𝐅𝐚𝐥𝐭𝐚 𝐚̀ 𝐓𝐞𝐫𝐫𝐚.\n\n𝐎𝐬 𝐚𝐬𝐭𝐫𝐨𝐧𝐚𝐮𝐭𝐚𝐬 𝐬𝐚̃𝐨 𝐩𝐫𝐨𝐭𝐞𝐠𝐢𝐝𝐨𝐬 𝐩𝐨𝐫 𝐮𝐦 𝐭𝐫𝐚𝐭𝐚𝐝𝐨.\n𝐀𝐬 𝐩𝐞𝐬𝐬𝐨𝐚𝐬 𝐞𝐦 𝐜𝐚𝐭𝐚́𝐬𝐭𝐫𝐨𝐟𝐞 𝐭𝐚𝐦𝐛𝐞́𝐦 𝐝𝐞𝐯𝐞𝐫𝐢𝐚𝐦 𝐬𝐞𝐫.\n\nQuando a catástrofe acontece, os atrasos custam vidas. A 𝐅𝐞𝐝𝐞𝐫𝐚𝐜̧𝐚̃𝐨 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐜𝐢𝐨𝐧𝐚𝐥 𝐝𝐚 𝐂𝐫𝐮𝐳 𝐕𝐞𝐫𝐦𝐞𝐥𝐡𝐚 𝐞 𝐝𝐨 𝐂𝐫𝐞𝐬𝐜𝐞𝐧𝐭𝐞 𝐕𝐞𝐫𝐦𝐞𝐥𝐡𝐨 apela a regras internacionais mais fortes, para que a ajuda chegue mais depressa, a cooperação seja mais clara e as pessoas fiquem mais protegidas.\n\nOs Estados membros da ONU estão a trabalhar num novo tratado para ajudar a proteger as pessoas antes, durante e depois das catástrofes.\n\n𝐀𝐩𝐨𝐢𝐞 𝐨 𝐓𝐫𝐚𝐭𝐚𝐝𝐨 𝐪𝐮𝐞 𝐅𝐚𝐥𝐭𝐚 𝐚̀ 𝐓𝐞𝐫𝐫𝐚. 𝐏𝐚𝐫𝐭𝐢𝐥𝐡𝐞 𝐞𝐬𝐭𝐚 𝐦𝐞𝐧𝐬𝐚𝐠𝐞𝐦.\n\n#TratadoQueFaltaÀTerra #PPED #CruzVermelhaCaboVerde#IFRC",
       "has_text": true,
@@ -841,7 +833,7 @@
       "language": "es",
       "language_source": "inferred",
       "author": "Instagram User",
-      "created": "2026-09-03T09:46:22.902648+00:00",
+      "created": "2026-09-03T09:48:33.590823+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -863,7 +855,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "Keystone-SDAToday at",
-      "created": "2026-09-03T09:46:22.903032+00:00",
+      "created": "2026-09-03T09:48:33.591226+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -885,7 +877,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "Mirage News",
-      "created": "2026-09-03T09:46:22.903257+00:00",
+      "created": "2026-09-03T09:48:33.591450+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -907,7 +899,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "reliefweb.int",
-      "created": "2026-09-03T09:46:22.903472+00:00",
+      "created": "2026-09-03T09:48:33.591668+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -929,7 +921,7 @@
       "language": "fr",
       "language_source": "inferred",
       "author": "reliefweb.int",
-      "created": "2026-09-03T09:46:22.904084+00:00",
+      "created": "2026-09-03T09:48:33.592285+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -951,7 +943,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "NIGERIAN RED CROSS SOCIETY",
-      "created": "2026-09-03T09:46:22.904733+00:00",
+      "created": "2026-09-03T09:48:33.592918+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 10502,
@@ -973,7 +965,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "@IFRCAfrica",
-      "created": "2026-09-03T09:46:22.904954+00:00",
+      "created": "2026-09-03T09:48:33.593159+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 27157,
@@ -995,7 +987,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "nationaltribune.com.au",
-      "created": "2026-09-03T09:46:22.905081+00:00",
+      "created": "2026-09-03T09:48:33.593380+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -1017,7 +1009,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "@MalawiRedCross",
-      "created": "2026-09-03T09:46:22.905772+00:00",
+      "created": "2026-09-03T09:48:33.594077+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 3682,
@@ -1039,7 +1031,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "webtv.un.org",
-      "created": "2026-09-03T09:46:22.905922+00:00",
+      "created": "2026-09-03T09:48:33.594232+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -1054,6 +1046,28 @@
     },
     {
       "id": "s0021",
+      "text": "When disaster strikes, access to lifesaving aid should not depend on politics, borders, or circumstance.\n\nWhile international treaties ensure assistance for astronauts in distress, there is still no equivalent global commitment to help people affected by disasters on Earth.\n\nAn important conversation is now underway. Let's help raise awareness.\n\nhttps://disasterlaw.ifrc.org/earthsmissingtreaty\n\n#EarthsMissingTreaty",
+      "has_text": true,
+      "url": "https://www.facebook.com/390241643135256/posts/1518090947016981",
+      "platform": "Facebook",
+      "outlet": "Facebook",
+      "source": "movement",
+      "language": "en",
+      "language_source": "inferred",
+      "author": "Irish Red Cross",
+      "created": "2026-09-03T09:48:33.594562+00:00",
+      "day": "2026-09-03",
+      "engagement": 0,
+      "reach": 29928,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": true,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": []
+    },
+    {
+      "id": "s0022",
       "text": "When disaster strikes, strong laws save lives. \n\nFrom early warnings to faster humanitarian assistance, the right laws can remove barriers, protect the most vulnerable and ensure no one is left behind.\n\nThe International Federation of Red Cross and Red Crescent Societies is advocating for a global Disaster Law Treaty that puts people first.\n\n#DisasterLawTreaty #ProtectPeopleFirst",
       "has_text": true,
       "url": "https://www.facebook.com/reel/1070686215931732/",
@@ -1063,7 +1077,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "Nigerian Red Cross Society",
-      "created": "2026-09-03T09:46:22.906195+00:00",
+      "created": "2026-09-03T09:48:33.594796+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -1075,7 +1089,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0022",
+      "id": "s0023",
       "text": "",
       "has_text": false,
       "url": "https://twitter.com/JulianTHarris/status/2095432523094335675",
@@ -1085,7 +1099,7 @@
       "language": "und",
       "language_source": "inferred",
       "author": "@JulianTHarris",
-      "created": "2026-09-03T09:46:22.906422+00:00",
+      "created": "2026-09-03T09:48:33.595052+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 322,
@@ -1097,7 +1111,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0023",
+      "id": "s0024",
       "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new global agreement. Share our Emergency Message. The more people know what's missing, the harder it is to ignore. earthsmissingtreaty.org link in bio #EarthsMissingTreaty",
       "has_text": true,
       "url": "https://www.tiktok.com/@ifrc/video/7681225731871116567",
@@ -1107,7 +1121,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "We are humanitarians",
-      "created": "2026-09-03T09:46:22.906578+00:00",
+      "created": "2026-09-03T09:48:33.595239+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 3098713,
@@ -1119,7 +1133,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0024",
+      "id": "s0025",
       "text": "Soutenu par six astronautes\n\nL'astronaute français Jean-Francois Clervoy (à droite) soutient l'action de la FICR (archives).\n\nImage: ATS\n\nLa Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne ...",
       "has_text": true,
       "url": "http://ct.moreover.com/?a=60325523285&p=1yx&v=1&x=pdP06kqvvTiA0e9U2BCCYQ",
@@ -1129,7 +1143,7 @@
       "language": "fr",
       "language_source": "inferred",
       "author": "Keystone-ATSAujourd'hui à 10:58•Aujourd'hui à",
-      "created": "2026-09-03T09:46:22.906794+00:00",
+      "created": "2026-09-03T09:48:33.595465+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -1143,7 +1157,7 @@
       "risk_vectors": []
     },
     {
-      "id": "s0025",
+      "id": "s0026",
       "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that humanity is speeding past the limit to avoid climate catastrophe. He pointed out that we are set to breach the 1.5 degree limit within the next few years, and this summer's scorching heat, raging wildfires and deadly floods are a warning of what lies ahead.</p> <p> The Secretary-General warned that every fraction of a degree will cost lives, will destroy livelihoods, will deepen</p> <p> inequality and push ecosystems closer to irreversible damage. He stressed that we must make the overshoot as small and short as possible, limiting how high temperatures rise and how long they remain above 1.5, and that the fight for 1.5 degrees is the fight for humanity.</p> <p> IRAN</p> <p> The Secretary-General is gravely concerned by the renewed exchanges of fire overnight between the United States and the Islamic Republic of Iran. The Secretary-General is deeply alarmed by reports of civilian casualties, including in a strike that reportedly hit a wedding ceremony in Iran. The Secretary-General condemns all attacks against civilians. He recalls that all parties must respect their obligations under international humanitarian law, including the principles of distinction, proportionality, and precaution.</p> <p> As we have seen, few countries in the region are immune from this escalation, with airspace and critical shipping routes continuing to be heavily impacted.</p> <p> The Secretary-General reiterates his call for an immediate cessation of military action and urges all concerned to exercise restraint and refrain from actions and rhetoric that could further escalate already high tensions.</p> <p> Further escalation, as you can imagine, would have devastating consequences for civilians and for the wider region ",
       "has_text": true,
       "url": "https://www.un.org/sg/en/content/highlight/2026-09-02.html",
@@ -1153,7 +1167,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "un.org",
-      "created": "2026-09-03T09:46:22.907030+00:00",
+      "created": "2026-09-03T09:48:33.595704+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
