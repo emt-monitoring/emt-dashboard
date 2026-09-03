@@ -243,7 +243,7 @@
           <div class="card"><h4>External</h4>
             <div class="kpis tight" id="externalBox"></div></div>
         </div>
-        <p class="kpi-note" style="margin:4px 0 12px">Social posts only. Press and web articles are under Media coverage above, so they are not repeated here.</p>
+        <p class="kpi-note" style="margin:4px 0 12px">Social posts only — press and web articles are under Media coverage above. Engagement is Sprinklr’s last measurement of each post, not a live count: it refreshes on Sprinklr’s schedule, so a post with nine likes on the platform may still read five here. Treat it as a floor that rises through the day.</p>
         <div class="trio-feeds">
           <div class="card"><h4>IFRC channels · social</h4>
             <div class="controls" id="ownControls"></div>
@@ -586,7 +586,7 @@
     var rv = function(v){ return s.reach_available ? num(v||0) : "\u2014"; };
     function group(posts, eng, reach, tone){
       return [["Posts",num(posts||0),"Mentions captured",tone],
-              ["Engagement",num(eng||0),"Likes, shares, comments",tone],
+              ["Engagement",num(eng||0),"Sprinklr's last count \u2014 a floor",tone],
               ["Potential audience",rv(reach),"Followers who could see it",tone]].map(kpiHTML).join("");
     }
         // Counted from the same social-only arrays the three feeds below use,
@@ -604,7 +604,7 @@
     function groupFrom(items, tone){
       var eng = 0, rch = 0;
       items.forEach(function(x){ eng += x.engagement||0; rch += x.reach||0; });
-      var note  = METRICS_MEASURED ? "Likes, shares, comments" : "Not returned by Sprinklr";
+      var note  = METRICS_MEASURED ? "Sprinklr's last count \u2014 a floor" : "Not returned by Sprinklr";
       var rnote = METRICS_MEASURED ? "Followers who could see it" : "Not returned by Sprinklr";
       return [["Posts", num(items.length), "Social posts captured", tone],
               ["Engagement", METRICS_MEASURED ? num(eng) : "\u2014", note, tone],
