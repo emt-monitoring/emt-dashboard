@@ -689,12 +689,25 @@
     return "";
   }
 
+  // Who posted it. Author wins over outlet, so a social post reads
+  // "Nigerian Red Cross Society" rather than "Facebook". But web articles
+  // arrive with the bare host as their author (reliefweb.int), and the
+  // outlet name is nicer there \u2014 so a hostname-looking author defers.
+  function displayName(p){
+    var a = (p.author||"").trim();
+    var looksLikeHost = /^[^\s@]+\.[a-z]{2,}$/i.test(a);
+    if (a && !looksLikeHost) return a;
+    return p.outlet || a || p.platform || "Unknown";
+  }
+
   function itemHTML(p){
     var text=(p.text||"").trim();
     var head=text.length>130?text.slice(0,130)+"…":text;
-    var who=p.outlet||p.author||p.platform||"Unknown";
+    var who=displayName(p);
     var channel=(p.outlet&&p.outlet!==p.platform)?p.platform:"";
     return '<div class="item"><div class="item-meta"><span class="who">'+esc(who)+"</span>"+
+      // Platform beside the name, unless it would just repeat it.
+      (p.platform && p.platform!==who ? "<span>\u00b7 "+esc(p.platform)+"</span>" : "")+
       (channel?"<span>· "+esc(channel)+"</span>":"")+
       (p.language?"<span>· "+esc(LANG[p.language]||p.language)+"</span>":"")+
       (p.created?"<span>· "+esc(new Date(p.created).toLocaleDateString("en-GB",
