@@ -767,7 +767,14 @@
       });
     }
     list.sort(f.sort==="reach"
-      ? function(a,b){return (b.owned_reach||b.reach||0)-(a.owned_reach||a.reach||0);}
+      // Sort on whatever that row actually shows, so the order matches the
+      // numbers on screen rather than a hidden follower count.
+      ? function(a,b){
+          var v = function(x){
+            return x.source === "own" ? (x.owned_reach||0) : (x.reach||0);
+          };
+          return v(b)-v(a);
+        }
       : f.sort==="newest"
       ? function(a,b){return new Date(b.created||0)-new Date(a.created||0);}
       : function(a,b){return (b.engagement||0)-(a.engagement||0);});
@@ -792,13 +799,18 @@
     var out = "";
     if ((p.engagement||0) > 0)
       out += '<span class="eng">'+num(p.engagement)+' eng.</span>';
-    // Our own posts carry a real reach figure from the owned-account report.
-    // Everyone else only has a follower count, so the two are labelled apart
-    // rather than stacked under one word.
-    if ((p.owned_reach||0) > 0)
-      out += '<span class="eng">'+num(p.owned_reach)+' reach</span>';
-    else if ((p.reach||0) > 0)
+    // One unit per column, never two. Our own posts show platform reach or
+    // nothing: falling back to a follower count meant the IFRC feed listed
+    // "27,157 reach" above "88,900 followers", which invites reading the
+    // second as the bigger result when it is not the same measurement at all.
+    // Sprinklr reports reach per post on its own schedule, so a post with none
+    // yet simply shows its engagement until the figure arrives.
+    if (p.source === "own") {
+      if ((p.owned_reach||0) > 0)
+        out += '<span class="eng">'+num(p.owned_reach)+' reach</span>';
+    } else if ((p.reach||0) > 0) {
       out += '<span class="eng">'+num(p.reach)+' followers</span>';
+    }
     return out;
   }
 
