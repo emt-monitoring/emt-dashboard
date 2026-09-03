@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated": "2026-09-03T07:30:09.787789+00:00",
+    "generated": "2026-09-03T07:50:11.126565+00:00",
     "window_hours": 24,
     "total": 9,
     "text_available": 9,
@@ -29,18 +29,18 @@
       "Print": 1
     },
     "top_outlets": {
-      "ReliefWeb": 0,
-      "Moreover": 0,
-      "Un": 0,
-      "Au": 0,
-      "United Nations": 0
-    },
-    "outlet_mentions": {
       "ReliefWeb": 3,
       "Moreover": 2,
       "Un": 1,
       "Au": 1,
       "United Nations": 1
+    },
+    "outlet_reach": {
+      "ReliefWeb": 0,
+      "Moreover": 0,
+      "Un": 0,
+      "Au": 0,
+      "United Nations": 0
     },
     "earned_top": [
       {
@@ -51,7 +51,7 @@
         "language": "es",
         "engagement": 0,
         "text": "  News and Press Release  Nueva York/Ginebra, 3 de septiembre de 2026 – La Federación Internacional de Sociedades de la Cruz Roja y de la Media\n<p>Luna Roja (IFRC) lanza hoy su nueva campaña mundial, \"El tratado que le falta a la Tierra\", para mostrar una cruda realidad: mientras",
-        "created": "2026-09-03T07:30:09.782692+00:00",
+        "created": "2026-09-03T07:50:11.121388+00:00",
         "author": "",
         "astronauts": [
           "Dr. Sian Proctor",
@@ -71,7 +71,7 @@
         "language": "en",
         "engagement": 0,
         "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
-        "created": "2026-09-03T07:30:09.783628+00:00",
+        "created": "2026-09-03T07:50:11.122359+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -84,7 +84,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
-        "created": "2026-09-03T07:30:09.784302+00:00",
+        "created": "2026-09-03T07:50:11.123039+00:00",
         "author": "",
         "astronauts": [
           "Dr. Sian Proctor"
@@ -99,7 +99,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  News and Press Release  International treaties protect astronauts in distress.\n<p>But if a flood strikes your city, there is still no comprehensive global treaty to help countries cut through red tape and coordinate international assistance.</p> <p> New York/Geneva, 3 September",
-        "created": "2026-09-03T07:30:09.784626+00:00",
+        "created": "2026-09-03T07:50:11.123371+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -112,7 +112,7 @@
         "language": "fr",
         "engagement": 0,
         "text": "  News and Press Release  New York/Genève, le 3 septembre 2026 – La Fédération internationale des Sociétés de la Croix-Rouge et du\n<p>Croissant-Rouge (IFRC) lance aujourd'hui une nouvelle campagne mondiale, intitulée Earth's Missing Treaty (Le traité manquant de la Terre), afin d",
-        "created": "2026-09-03T07:30:09.785229+00:00",
+        "created": "2026-09-03T07:50:11.123971+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -125,7 +125,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
-        "created": "2026-09-03T07:30:09.785873+00:00",
+        "created": "2026-09-03T07:50:11.124624+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -138,7 +138,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
-        "created": "2026-09-03T07:30:09.786087+00:00",
+        "created": "2026-09-03T07:50:11.124832+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -151,7 +151,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-03T07:30:09.786961+00:00",
+        "created": "2026-09-03T07:50:11.125720+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -192,7 +192,7 @@
         "language": "es",
         "engagement": 0,
         "text": "  News and Press Release  Nueva York/Ginebra, 3 de septiembre de 2026 – La Federación Internacional de Sociedades de la Cruz Roja y de la Media\n<p>Luna Roja (IFRC) lanza hoy su nueva campaña mundial, \"El tratado que le falta a la Tierra\", para mostrar una cruda realidad: mientras",
-        "created": "2026-09-03T07:30:09.782692+00:00",
+        "created": "2026-09-03T07:50:11.121388+00:00",
         "author": "",
         "astronauts": [
           "Dr. Sian Proctor",
@@ -212,7 +212,7 @@
         "language": "en",
         "engagement": 0,
         "text": "ABSTRACT\n\n\n\nUN - United Nations:The following is a near-verbatim transcript of today's briefing by Stéphane Dujarric, Spokesman for the Secretary-General. Alright, good afternoon. Thank you for your patience.  [...]\n\nFULL TEXT\n\n\n\n       Daily Press Briefing by the Office of the S",
-        "created": "2026-09-03T07:30:09.783628+00:00",
+        "created": "2026-09-03T07:50:11.122359+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -225,7 +225,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's fir",
-        "created": "2026-09-03T07:30:09.784302+00:00",
+        "created": "2026-09-03T07:50:11.123039+00:00",
         "author": "",
         "astronauts": [
           "Dr. Sian Proctor"
@@ -240,7 +240,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  News and Press Release  International treaties protect astronauts in distress.\n<p>But if a flood strikes your city, there is still no comprehensive global treaty to help countries cut through red tape and coordinate international assistance.</p> <p> New York/Geneva, 3 September",
-        "created": "2026-09-03T07:30:09.784626+00:00",
+        "created": "2026-09-03T07:50:11.123371+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -253,7 +253,7 @@
         "language": "fr",
         "engagement": 0,
         "text": "  News and Press Release  New York/Genève, le 3 septembre 2026 – La Fédération internationale des Sociétés de la Croix-Rouge et du\n<p>Croissant-Rouge (IFRC) lance aujourd'hui une nouvelle campagne mondiale, intitulée Earth's Missing Treaty (Le traité manquant de la Terre), afin d",
-        "created": "2026-09-03T07:30:09.785229+00:00",
+        "created": "2026-09-03T07:50:11.123971+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -266,7 +266,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison - 2026 UC Master of Laws graduate.\n\nA comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility ...",
-        "created": "2026-09-03T07:30:09.785873+00:00",
+        "created": "2026-09-03T07:50:11.124624+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -279,7 +279,7 @@
         "language": "en",
         "engagement": 0,
         "text": "Photo caption: Nellie Evison – 2026 UC Master of Laws graduate.\n<p> A comparative study by Te Whare Wānanga o Waitaha | University of Canterbury (UC) Master of Laws graduate Nellie Evison found that legal protections and emergency response provisions for utility workers after dis",
-        "created": "2026-09-03T07:30:09.786087+00:00",
+        "created": "2026-09-03T07:50:11.124832+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -292,7 +292,7 @@
         "language": "en",
         "engagement": 0,
         "text": "When disaster strikes, strong laws save lives. \n\nFrom early warnings to faster humanitarian assistance, the right laws can remove barriers, protect the most vulnerable and ensure no one is left behind.\n\nThe International Federation of Red Cross and Red Crescent Societies is advoc",
-        "created": "2026-09-03T07:30:09.786739+00:00",
+        "created": "2026-09-03T07:50:11.125501+00:00",
         "author": "facebook.com/reel",
         "astronauts": [],
         "risk_vectors": []
@@ -305,7 +305,7 @@
         "language": "en",
         "engagement": 0,
         "text": "  Noon briefing of 2 September 2026  CLIMATE REPORT/OVERSHOOT\n<p> In a video message on the launch of the latest UN Environment Programme (UNEP) report, called “Limiting Overshoot: Navigating exceedance of 1.5°C and pathways towards return”, the Secretary-General noted that human",
-        "created": "2026-09-03T07:30:09.786961+00:00",
+        "created": "2026-09-03T07:50:11.125720+00:00",
         "author": "",
         "astronauts": [],
         "risk_vectors": []
@@ -324,7 +324,7 @@
       "language": "es",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.782692+00:00",
+      "created": "2026-09-03T07:50:11.121388+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -353,7 +353,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.783628+00:00",
+      "created": "2026-09-03T07:50:11.122359+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -375,7 +375,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.784302+00:00",
+      "created": "2026-09-03T07:50:11.123039+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -399,7 +399,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.784626+00:00",
+      "created": "2026-09-03T07:50:11.123371+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -421,7 +421,7 @@
       "language": "fr",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.785229+00:00",
+      "created": "2026-09-03T07:50:11.123971+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -443,7 +443,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.785873+00:00",
+      "created": "2026-09-03T07:50:11.124624+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -465,7 +465,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.786087+00:00",
+      "created": "2026-09-03T07:50:11.124832+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -487,7 +487,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "facebook.com/reel",
-      "created": "2026-09-03T07:30:09.786739+00:00",
+      "created": "2026-09-03T07:50:11.125501+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,
@@ -509,7 +509,7 @@
       "language": "en",
       "language_source": "inferred",
       "author": "",
-      "created": "2026-09-03T07:30:09.786961+00:00",
+      "created": "2026-09-03T07:50:11.125720+00:00",
       "day": "2026-09-03",
       "engagement": 0,
       "reach": 0,

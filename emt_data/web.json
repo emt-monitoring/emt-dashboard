@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T07:30:12+00:00",
+  "generated_at": "2026-09-03T07:50:13+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
       35,
-      34,
+      35,
       32
     ]
   ],
@@ -16,7 +16,7 @@
       "path": "/earthsmissingtreaty",
       "language": "English",
       "sessions": 28,
-      "views": 28,
+      "views": 29,
       "users": 25
     },
     {
@@ -72,7 +72,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 27
+      "value": 28
     },
     {
       "label": "Unassigned",
