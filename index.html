@@ -230,7 +230,7 @@
     </section>
 
     <section>
-      <div class="sec-head"><h3>Who is talking</h3></div>
+      <div class="sec-head"><h3>Social conversation</h3></div>
       <div class="duo">
         <div class="card">
           <h4>Us, the Movement, or everyone else</h4>
@@ -261,7 +261,6 @@
     </section>
 
     <section>
-      <div class="sec-head"><h3>Social conversation</h3></div>
       <div class="duo">
         <div class="card"><h4>Platforms</h4><div class="bars" id="platformBars"></div></div>
         <div class="card"><h4>Languages</h4><div class="bars" id="languageBars"></div></div>
@@ -589,14 +588,19 @@
               ["Engagement",num(eng||0),"Likes, shares, comments",tone],
               ["Reach",rv(reach),"Accounts reached",tone]].map(kpiHTML).join("");
     }
-    el("ownBox").innerHTML      = group(s.own_posts, s.own_engagement, s.own_reach, "red");
-    el("movementBox").innerHTML = group(s.movement_posts, s.movement_engagement,
-                                        s.movement_reach, "amber");
-    el("externalBox").innerHTML = group(s.external_posts, s.external_engagement,
-                                        s.external_reach, "sky");
+        // Counted from the same social-only arrays the three feeds below use,
+    // not from the snapshot summary. The summary counts every mention,
+    // press and web articles included, so External read "8 posts" above a
+    // feed listing one — the number contradicted the list beneath it.
+    function groupFrom(items, tone){
+      var eng = 0, rch = 0;
+      items.forEach(function(x){ eng += x.engagement||0; rch += x.reach||0; });
+      return group(items.length, eng, rch, tone);
+    }
+    el("ownBox").innerHTML      = groupFrom(FEEDS.own.items, "red");
+    el("movementBox").innerHTML = groupFrom(FEEDS.movement.items, "amber");
+    el("externalBox").innerHTML = groupFrom(FEEDS.external.items, "sky");
 
-    // Split the raw items by who posted, so each feed carries its own sort
-    // and window rather than one blended list.
 
     el("webTrend").innerHTML=webTrendHTML(WEB_SERIES);
     el("webChannels").innerHTML=donutHTML(WEB_CHANNELS);
