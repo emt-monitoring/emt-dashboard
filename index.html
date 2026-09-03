@@ -554,7 +554,8 @@
     el("trend").innerHTML=trendHTML(history);
 
     // who is talking
-    var src={own:s.own_posts||0,movement:s.movement_posts||0,external:s.external_posts||0};
+    var src={own:FEEDS.own.items.length,movement:FEEDS.movement.items.length,
+                external:FEEDS.external.items.length};
     el("sourceSplit").innerHTML=(src.own+src.movement+src.external)
       ? stackHTML([
           ["IFRC channels",src.own,"var(--red)"],
