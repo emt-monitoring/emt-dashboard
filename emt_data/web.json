@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-03T15:04:07+00:00",
+  "generated_at": "2026-09-03T15:21:52+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
+      203,
       194,
-      183,
-      172
+      179
     ]
   ],
-  "avg_duration": 131,
+  "avg_duration": 146,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 182,
-      "views": 170,
-      "users": 161
+      "sessions": 191,
+      "views": 179,
+      "users": 168
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
       "sessions": 7,
-      "views": 4,
+      "views": 5,
       "users": 6
     },
     {
@@ -32,6 +32,13 @@
       "sessions": 3,
       "views": 2,
       "users": 3
+    },
+    {
+      "path": "/earthsmissingtreaty/fr",
+      "language": "Français",
+      "sessions": 1,
+      "views": 1,
+      "users": 1
     },
     {
       "path": "/el/earthsmissingtreaty",
@@ -93,15 +100,15 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 134
+      "value": 138
     },
     {
       "label": "Unassigned",
-      "value": 77
+      "value": 86
     },
     {
       "label": "Organic Social",
-      "value": 18
+      "value": 19
     },
     {
       "label": "Referral",
@@ -123,7 +130,7 @@
     },
     {
       "label": "United States",
-      "value": 17
+      "value": 18
     },
     {
       "label": "Singapore",
@@ -131,18 +138,18 @@
     },
     {
       "label": "Netherlands",
-      "value": 11
+      "value": 12
     },
     {
       "label": "Ireland",
+      "value": 10
+    },
+    {
+      "label": "Romania",
       "value": 9
     },
     {
       "label": "Lebanon",
-      "value": 8
-    },
-    {
-      "label": "Romania",
       "value": 8
     },
     {
@@ -151,7 +158,7 @@
     },
     {
       "label": "Hungary",
-      "value": 6
+      "value": 7
     },
     {
       "label": "Belgium",
@@ -165,11 +172,11 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 16
+      "value": 20
     },
     {
       "label": "click",
-      "value": 7
+      "value": 11
     }
   ],
   "search": null
