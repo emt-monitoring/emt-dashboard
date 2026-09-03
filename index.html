@@ -593,10 +593,23 @@
     // not from the snapshot summary. The summary counts every mention,
     // press and web articles included, so External read "8 posts" above a
     // feed listing one — the number contradicted the list beneath it.
+    // Sprinklr Listening returns no per-post metrics on this tenant: the probe
+    // in emt_monitor.py found no like, share or comment field anywhere in the
+    // payload, and a Facebook post with six visible likes arrives here as 0.
+    // So a printed 0 would be a measurement failure wearing the clothes of a
+    // result. Dash until the feed actually carries the numbers.
+    var METRICS_MEASURED = (s.metric_keys_seen && Object.keys(s.metric_keys_seen).length > 0)
+      || ((s.own_engagement||0) + (s.movement_engagement||0) + (s.external_engagement||0)) > 0
+      || (s.total_reach||0) > 0;
     function groupFrom(items, tone){
       var eng = 0, rch = 0;
       items.forEach(function(x){ eng += x.engagement||0; rch += x.reach||0; });
-      return group(items.length, eng, rch, tone);
+      var note  = METRICS_MEASURED ? "Likes, shares, comments" : "Not returned by Sprinklr";
+      var rnote = METRICS_MEASURED ? "Accounts reached" : "Not returned by Sprinklr";
+      return [["Posts", num(items.length), "Social posts captured", tone],
+              ["Engagement", METRICS_MEASURED ? num(eng) : "\u2014", note, tone],
+              ["Reach", (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
+                rnote, tone]].map(kpiHTML).join("");
     }
     el("ownBox").innerHTML      = groupFrom(FEEDS.own.items, "red");
     el("movementBox").innerHTML = groupFrom(FEEDS.movement.items, "amber");
