@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-03T11:48:18+00:00",
+  "generated_at": "2026-09-03T12:08:07+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      52,
-      50,
-      47
+      64,
+      57,
+      59
     ]
   ],
-  "avg_duration": 66,
+  "avg_duration": 78,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 42,
-      "views": 41,
-      "users": 37
+      "sessions": 54,
+      "views": 48,
+      "users": 49
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -93,29 +93,37 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 39
+      "value": 46
     },
     {
       "label": "Unassigned",
-      "value": 23
+      "value": 25
     },
     {
       "label": "Referral",
-      "value": 3
+      "value": 4
+    },
+    {
+      "label": "Organic Search",
+      "value": 1
+    },
+    {
+      "label": "Organic Social",
+      "value": 1
     }
   ],
   "countries": [
     {
+      "label": "Germany",
+      "value": 12
+    },
+    {
       "label": "Singapore",
-      "value": 11
+      "value": 12
     },
     {
       "label": "United States",
-      "value": 9
-    },
-    {
-      "label": "Germany",
-      "value": 6
+      "value": 10
     },
     {
       "label": "Netherlands",
@@ -123,6 +131,10 @@
     },
     {
       "label": "Colombia",
+      "value": 4
+    },
+    {
+      "label": "Ireland",
       "value": 4
     },
     {
@@ -142,16 +154,12 @@
       "value": 2
     },
     {
-      "label": "Ireland",
-      "value": 2
-    },
-    {
       "label": "Spain",
       "value": 2
     },
     {
-      "label": "Armenia",
-      "value": 1
+      "label": "Sweden",
+      "value": 2
     }
   ],
   "actions": [
@@ -161,7 +169,7 @@
     },
     {
       "label": "click",
-      "value": 1
+      "value": 2
     }
   ],
   "search": null
