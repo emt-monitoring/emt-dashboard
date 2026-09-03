@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-03T09:05:26+00:00",
+  "generated_at": "2026-09-03T09:13:41+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
+      47,
       46,
-      45,
       43
     ]
   ],
-  "avg_duration": 73,
+  "avg_duration": 71,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 37,
-      "views": 38,
+      "sessions": 38,
+      "views": 39,
       "users": 34
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "Referral",
-      "value": 2
+      "value": 3
     }
   ],
   "countries": [
@@ -119,6 +119,10 @@
       "value": 4
     },
     {
+      "label": "Lebanon",
+      "value": 3
+    },
+    {
       "label": "Australia",
       "value": 2
     },
@@ -132,10 +136,6 @@
     },
     {
       "label": "Ireland",
-      "value": 2
-    },
-    {
-      "label": "Lebanon",
       "value": 2
     },
     {
