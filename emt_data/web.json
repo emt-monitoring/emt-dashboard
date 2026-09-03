@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-09-03T15:49:02+00:00",
+  "generated_at": "2026-09-03T18:26:40+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
     [
       "2026-09-03",
-      203,
-      194,
-      179
+      272,
+      254,
+      235
     ]
   ],
-  "avg_duration": 146,
+  "avg_duration": 157,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 191,
-      "views": 179,
-      "users": 168
+      "sessions": 259,
+      "views": 237,
+      "users": 223
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
-      "sessions": 7,
-      "views": 5,
-      "users": 6
+      "sessions": 9,
+      "views": 6,
+      "users": 8
     },
     {
       "path": "/earthsmissingtreaty/ar",
       "language": "العربية",
-      "sessions": 3,
-      "views": 2,
-      "users": 3
+      "sessions": 4,
+      "views": 3,
+      "users": 4
     },
     {
       "path": "/earthsmissingtreaty/fr",
       "language": "Français",
-      "sessions": 1,
+      "sessions": 2,
       "views": 1,
-      "users": 1
+      "users": 2
     },
     {
       "path": "/el/earthsmissingtreaty",
@@ -100,19 +100,23 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 138
+      "value": 186
     },
     {
       "label": "Unassigned",
-      "value": 86
+      "value": 109
     },
     {
       "label": "Organic Social",
-      "value": 19
+      "value": 25
     },
     {
       "label": "Referral",
-      "value": 13
+      "value": 17
+    },
+    {
+      "label": "Cross-network",
+      "value": 3
     },
     {
       "label": "Organic Search",
@@ -122,47 +126,47 @@
   "countries": [
     {
       "label": "Germany",
-      "value": 37
+      "value": 45
     },
     {
       "label": "Switzerland",
-      "value": 25
+      "value": 38
     },
     {
       "label": "United States",
-      "value": 18
+      "value": 24
+    },
+    {
+      "label": "Ireland",
+      "value": 15
+    },
+    {
+      "label": "Netherlands",
+      "value": 15
     },
     {
       "label": "Singapore",
       "value": 13
     },
     {
-      "label": "Netherlands",
-      "value": 12
+      "label": "Hungary",
+      "value": 10
     },
     {
-      "label": "Ireland",
+      "label": "Lebanon",
       "value": 10
     },
     {
       "label": "Romania",
-      "value": 9
-    },
-    {
-      "label": "Lebanon",
-      "value": 8
+      "value": 10
     },
     {
       "label": "Sweden",
       "value": 8
     },
     {
-      "label": "Hungary",
-      "value": 7
-    },
-    {
       "label": "Belgium",
-      "value": 5
+      "value": 6
     },
     {
       "label": "Spain",
@@ -172,11 +176,11 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 20
+      "value": 23
     },
     {
       "label": "click",
-      "value": 11
+      "value": 13
     }
   ],
   "search": null
