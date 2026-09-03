@@ -208,7 +208,7 @@
   <div class="level">
     <div class="level-head">
       <span class="level-num">Level 2</span><h2>Who did we <b>touch</b>?</h2>
-      <span class="eyebrow" style="margin-left:auto">Reach &amp; engagement</span>
+      <span class="eyebrow" style="margin-left:auto">Potential audience &amp; engagement</span>
     </div>
     <div class="level-rule"></div>
     <p class="level-q">Media, social, web and search.</p>
@@ -221,7 +221,7 @@
     <section>
       <div class="sec-head"><h3>Media coverage</h3></div>
       <div class="card"><h4>Outlets covering it</h4>
-        <p class="kpi-note" style="margin:-6px 0 10px">Ordered by reach rather than mention count — one piece in a large outlet outweighs several in small ones. Sprinklr returns no domain-authority score, so reach is the closest honest proxy.</p>
+        <p class="kpi-note" style="margin:-6px 0 10px">Ordered by potential audience rather than mention count — one piece in a large outlet outweighs several in small ones. Sprinklr returns no domain-authority score, so reach is the closest honest proxy.</p>
         <div class="bars" id="outletBars"></div></div>
       <div class="card">
         <div class="controls" id="mediaControls"></div>
@@ -384,7 +384,7 @@
 
   var WINDOWS = [[0,"All"],[1,"24h"],[7,"7 days"],[30,"30 days"]];
   var SORTS   = [["engagement","Most engaged"],["newest","Newest"],
-                 ["reach","Most reach"]];
+                 ["reach","Biggest audience"]];
 
   function loadJSON(p){return fetch(p,{cache:"no-store"})
     .then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}
@@ -514,7 +514,7 @@
       // rather than living only in the notes. When Sprinklr will not serve
       // it, the tile says so instead of showing 0 \u2014 which would read as
       // "nobody saw this" rather than "we could not measure it".
-      ["Total reach",
+      ["Total potential audience",
         s.reach_available ? num(s.total_reach||0) : "\u2014",
         s.reach_available
           ? "Sprinklr estimate \u00b7 audience size, not views"
@@ -587,7 +587,7 @@
     function group(posts, eng, reach, tone){
       return [["Posts",num(posts||0),"Mentions captured",tone],
               ["Engagement",num(eng||0),"Likes, shares, comments",tone],
-              ["Reach",rv(reach),"Accounts reached",tone]].map(kpiHTML).join("");
+              ["Potential audience",rv(reach),"Followers who could see it",tone]].map(kpiHTML).join("");
     }
         // Counted from the same social-only arrays the three feeds below use,
     // not from the snapshot summary. The summary counts every mention,
@@ -605,10 +605,10 @@
       var eng = 0, rch = 0;
       items.forEach(function(x){ eng += x.engagement||0; rch += x.reach||0; });
       var note  = METRICS_MEASURED ? "Likes, shares, comments" : "Not returned by Sprinklr";
-      var rnote = METRICS_MEASURED ? "Est. audience, not views" : "Not returned by Sprinklr";
+      var rnote = METRICS_MEASURED ? "Followers who could see it" : "Not returned by Sprinklr";
       return [["Posts", num(items.length), "Social posts captured", tone],
               ["Engagement", METRICS_MEASURED ? num(eng) : "\u2014", note, tone],
-              ["Reach", (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
+              ["Potential audience", (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
                 rnote, tone]].map(kpiHTML).join("");
     }
     el("ownBox").innerHTML      = groupFrom(FEEDS.own.items, "red");
@@ -636,10 +636,10 @@
   }
 
   // Empty string when reach is unavailable, so the note degrades to just the
-  // engagement figure rather than reading "0 reach" — which would be a
+  // engagement figure rather than reading "0 potential audience" — which would be a
   // measurement failure dressed up as a result.
   function reachNote(sum, value){
-    return sum.reach_available ? " · " + num(value||0) + " reach" : "";
+    return sum.reach_available ? " · " + num(value||0) + " potential audience" : "";
   }
 
   function kpiHTML(k){
@@ -702,7 +702,7 @@
   // whichever number is real; show none rather than a zero, because a
   // printed 0 reads as a measured result instead of a missing one.
   function metricChip(p){
-    if ((p.reach||0) > 0) return '<span class="eng">'+num(p.reach)+' reach</span>';
+    if ((p.reach||0) > 0) return '<span class="eng">'+num(p.reach)+' potential</span>';
     if ((p.engagement||0) > 0) return '<span class="eng">'+num(p.engagement)+' eng.</span>';
     return "";
   }
