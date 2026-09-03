@@ -215,7 +215,7 @@
   <div class="level">
     <div class="level-head">
       <span class="level-num">Level 2</span><h2>Who did we <b>touch</b>?</h2>
-      <span class="eyebrow" style="margin-left:auto">Potential audience &amp; engagement</span>
+      <span class="eyebrow" style="margin-left:auto">Followers &amp; engagement</span>
     </div>
     <div class="level-rule"></div>
     <p class="level-q">Media, social, web and search.</p>
@@ -228,7 +228,7 @@
     <section>
       <div class="sec-head"><h3>Media coverage</h3></div>
       <div class="card"><h4>Outlets covering it</h4>
-        <p class="kpi-note" style="margin:-6px 0 10px">Ordered by potential audience rather than mention count — one piece in a large outlet outweighs several in small ones. Sprinklr returns no domain-authority score, so reach is the closest honest proxy.</p>
+        <p class="kpi-note" style="margin:-6px 0 10px">Ordered by follower count rather than mention count — one piece in a large outlet outweighs several in small ones. Sprinklr returns no domain-authority score, so reach is the closest honest proxy.</p>
         <div class="bars" id="outletBars"></div></div>
       <div class="card">
         <div class="controls" id="mediaControls"></div>
@@ -250,7 +250,7 @@
           <div class="card"><h4>External</h4>
             <div class="kpis tight" id="externalBox"></div></div>
         </div>
-        <p class="kpi-note" style="margin:4px 0 12px">Social posts only — press and web articles are under Media coverage above. Engagement is Sprinklr’s last measurement of each post, not a live count: it refreshes on Sprinklr’s schedule, so a post with nine likes on the platform may still read five here. Treat it as a floor that rises through the day.</p>
+        <p class="kpi-note" style="margin:4px 0 12px">Social posts only — press and web articles are under Media coverage above. Engagement is Sprinklr’s last measurement of each post, not a live count: it refreshes on Sprinklr’s schedule, so a post with nine likes on the platform may still read five here. Treat it as a floor that rises through the day. Combined followers is the audience each account could reach, added up — not impressions. Nobody, Sprinklr included, can see impressions on a post they do not own, and this tenant reports none even for ours.</p>
         <div class="trio-feeds">
           <div class="card"><span class="eyebrow src-own">Us</span><h4>IFRC channels · social</h4>
             <div class="controls" id="ownControls"></div>
@@ -405,7 +405,7 @@
 
   var WINDOWS = [[0,"All"],[1,"24h"],[7,"7 days"],[30,"30 days"]];
   var SORTS   = [["engagement","Most engaged"],["newest","Newest"],
-                 ["reach","Biggest audience"]];
+                 ["reach","Most followers"]];
 
   function loadJSON(p){return fetch(p,{cache:"no-store"})
     .then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}
@@ -542,10 +542,10 @@
       // rather than living only in the notes. When Sprinklr will not serve
       // it, the tile says so instead of showing 0 \u2014 which would read as
       // "nobody saw this" rather than "we could not measure it".
-      ["Total potential audience",
+      ["Combined followers",
         s.reach_available ? num(s.total_reach||0) : "\u2014",
         s.reach_available
-          ? "Sprinklr estimate \u00b7 audience size, not views"
+          ? "Added-up follower counts \u00b7 not views, not people reached"
           : "Not returned by Sprinklr this run",
         s.reach_available ? "red" : "amber"],
       ["Site page views",num(webTot[2]),"Campaign site \u00b7 as of "+WEB_ASOF,"sky"],
@@ -619,7 +619,7 @@
     function group(posts, eng, reach, tone){
       return [["Posts",num(posts||0),"Mentions captured",tone],
               ["Engagement",num(eng||0),"Sprinklr's last count \u2014 a floor",tone],
-              ["Potential audience",rv(reach),"Followers who could see it",tone]].map(kpiHTML).join("");
+              ["Combined followers",rv(reach),"Not views \u2014 a ceiling",tone]].map(kpiHTML).join("");
     }
         // Counted from the same social-only arrays the three feeds below use,
     // not from the snapshot summary. The summary counts every mention,
@@ -637,10 +637,10 @@
       var eng = 0, rch = 0;
       items.forEach(function(x){ eng += x.engagement||0; rch += x.reach||0; });
       var note  = METRICS_MEASURED ? "Sprinklr's last count \u2014 a floor" : "Not returned by Sprinklr";
-      var rnote = METRICS_MEASURED ? "Followers who could see it" : "Not returned by Sprinklr";
+      var rnote = METRICS_MEASURED ? "Not views \u2014 a ceiling" : "Not returned by Sprinklr";
       return [["Posts", num(items.length), "Social posts captured", tone],
               ["Engagement", METRICS_MEASURED ? num(eng) : "\u2014", note, tone],
-              ["Potential audience", (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
+              ["Combined followers", (METRICS_MEASURED && s.reach_available) ? num(rch) : "\u2014",
                 rnote, tone]].map(kpiHTML).join("");
     }
     el("ownBox").innerHTML      = groupFrom(FEEDS.own.items, "red");
@@ -668,10 +668,10 @@
   }
 
   // Empty string when reach is unavailable, so the note degrades to just the
-  // engagement figure rather than reading "0 potential audience" — which would be a
+  // engagement figure rather than reading "0 followers" — which would be a
   // measurement failure dressed up as a result.
   function reachNote(sum, value){
-    return sum.reach_available ? " · " + num(value||0) + " potential audience" : "";
+    return sum.reach_available ? " · " + num(value||0) + " followers" : "";
   }
 
   function kpiHTML(k){
@@ -746,7 +746,7 @@
     if ((p.engagement||0) > 0)
       out += '<span class="eng">'+num(p.engagement)+' eng.</span>';
     if ((p.reach||0) > 0)
-      out += '<span class="eng">'+num(p.reach)+' potential</span>';
+      out += '<span class="eng">'+num(p.reach)+' followers</span>';
     return out;
   }
 
