@@ -706,8 +706,6 @@
     var who=displayName(p);
     var channel=(p.outlet&&p.outlet!==p.platform)?p.platform:"";
     return '<div class="item"><div class="item-meta"><span class="who">'+esc(who)+"</span>"+
-      // Platform beside the name, unless it would just repeat it.
-      (p.platform && p.platform!==who ? "<span>\u00b7 "+esc(p.platform)+"</span>" : "")+
       (channel?"<span>· "+esc(channel)+"</span>":"")+
       (p.language?"<span>· "+esc(LANG[p.language]||p.language)+"</span>":"")+
       (p.created?"<span>· "+esc(new Date(p.created).toLocaleDateString("en-GB",
