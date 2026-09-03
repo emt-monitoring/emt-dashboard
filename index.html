@@ -113,10 +113,10 @@
   .eng{margin-left:auto;font-variant-numeric:tabular-nums;color:var(--ink-2)}
 
   .bars{display:flex;flex-direction:column;gap:11px}
-  .bar-row{display:grid;grid-template-columns:104px 1fr 50px;align-items:center;gap:11px}
+  .bar-row{display:grid;grid-template-columns:minmax(48px,104px) 1fr 44px;align-items:center;gap:11px}
   .bar-name{font-size:13px;color:var(--ink-2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .bar-track{height:9px;background:var(--panel-2);border-radius:5px;overflow:hidden}
-  .bar-fill{height:100%;border-radius:5px;background:linear-gradient(90deg,var(--red) 0%,#FF5A47 100%)}
+  .bar-fill{display:block;height:100%;border-radius:5px;background:linear-gradient(90deg,var(--red) 0%,#FF5A47 100%)}
   .bar-fill.sky{background:linear-gradient(90deg,#3E7FC4 0%,var(--sky) 100%)}
   .bar-val{font-family:var(--f-mono);font-size:12px;text-align:right;color:var(--ink);
     font-variant-numeric:tabular-nums}
@@ -422,8 +422,12 @@
   // values and the "hand-refreshed" stamp both stay, so the page degrades
   // into exactly what it was before rather than into a lie.
   function applyWeb(w){
-    if(!w || !w.series || !w.series.length) return;
-    WEB_SERIES = w.series;
+    // A present-but-empty series is the expected state before launch day,
+    // now that EMT_WEB_START is 3 Sept. Treat the file existing as proof the
+    // pipeline ran: falling back to the baked-in numbers here would relabel
+    // stale pre-launch traffic as live, which is the opposite of the point.
+    if(!w) return;
+    WEB_SERIES = w.series || [];
     WEB_EXTRA  = { avgDuration: w.avg_duration || 0 };
     WEB_LIVE   = true;
     WEB_CHANNELS = w.channels || [];
