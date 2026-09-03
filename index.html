@@ -176,6 +176,13 @@
     .trio{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
           gap:14px;align-items:start}
     .trio > .card + .card{margin-top:0}
+  /* One colour per column, used by the feed eyebrows and the author names,
+     so a post can be placed at a glance without reading the heading. */
+  .src-own{color:var(--red)}
+  .src-movement{color:var(--amber)}
+  .src-external{color:var(--sky)}
+  .hb-fill.hb-stack{display:flex;padding:0;overflow:hidden}
+  .hb-stack > span{display:block;height:100%}
 </style>
 
 <div class="hero">
@@ -245,17 +252,16 @@
         </div>
         <p class="kpi-note" style="margin:4px 0 12px">Social posts only — press and web articles are under Media coverage above. Engagement is Sprinklr’s last measurement of each post, not a live count: it refreshes on Sprinklr’s schedule, so a post with nine likes on the platform may still read five here. Treat it as a floor that rises through the day.</p>
         <div class="trio-feeds">
-          <div class="card"><h4>IFRC channels · social</h4>
+          <div class="card"><span class="eyebrow src-own">Us</span><h4>IFRC channels · social</h4>
             <div class="controls" id="ownControls"></div>
             <div id="ownFeed" class="feed"></div></div>
-          <div class="card"><h4>Movement · social</h4>
+          <div class="card"><span class="eyebrow src-movement">The Movement</span><h4>Movement · social</h4>
             <div class="controls" id="movementControls"></div>
             <div id="movementFeed" class="feed"></div></div>
-          <div class="card"><h4>External · social</h4>
+          <div class="card"><span class="eyebrow src-external">Everyone else</span><h4>External · social</h4>
             <div class="controls" id="externalControls"></div>
             <div id="externalFeed" class="feed"></div></div>
         </div>
-          <p class="kpi-note" style="margin:0">Identified from the posting account, not from the text — an article about the Red Cross counts as external.</p>
         </div>
       </div>
     </section>
@@ -367,6 +373,21 @@
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});};
   var num=function(n){return (n==null?0:n).toLocaleString("en-GB");};
   var LANG={en:"English",fr:"French",es:"Spanish",ar:"Arabic",pt:"Portuguese",und:"Undetermined"};
+  // Sprinklr returns a language as a code on one row and a name on the next,
+  // in whatever case it feels like, so "en", "En" and "English" were three
+  // separate bars for the same language. Everything folds to one label here.
+  var LANG_CANON={en:"English",eng:"English",english:"English",
+    fr:"French",fra:"French",fre:"French",french:"French",
+    es:"Spanish",spa:"Spanish",spanish:"Spanish",
+    ar:"Arabic",ara:"Arabic",arabic:"Arabic",
+    pt:"Portuguese",por:"Portuguese",portuguese:"Portuguese",
+    und:"Unknown",unknown:"Unknown",unk:"Unknown"};
+  function canonLang(v){
+    var k=String(v==null?"":v).trim().toLowerCase();
+    if(!k) return "Unknown";
+    if(LANG_CANON[k]) return LANG_CANON[k];
+    return k.charAt(0).toUpperCase()+k.slice(1);
+  }
   var EARNED=["News","Web","Blog","Print","TV","Radio","Podcast"];
 
   // feed view state — sort and window, applied client-side
@@ -503,13 +524,20 @@
       // the response to it, and those are the two things a launch turns on.
       // Engagement rides in the note beside each count so volume and traction
       // are never read apart.
-      ["Our posts",num(s.own_posts||0),
-        num(s.own_engagement||0)+" engagements"+reachNote(s,s.own_reach)+
-        " \u00b7 IFRC channels","red"],
-      ["Posts from others",num((s.movement_posts||0)+(s.external_posts||0)),
-        num((s.movement_engagement||0)+(s.external_engagement||0))+
-        " engagements"+reachNote(s,(s.movement_reach||0)+(s.external_reach||0))+
-        " \u00b7 Movement and external","sky"],
+      // Counted from the social-only arrays, like the boxes further down.
+      // Reading the summary here counted press and web articles as "posts
+      // from others", which is the one thing this tile must not do.
+      ["Our posts",num(FEEDS.own.items.length),
+        num(sumBy(FEEDS.own.items,"engagement"))+" engagements"+
+        reachNote(s,sumBy(FEEDS.own.items,"reach"))+
+        " \u00b7 IFRC channels \u00b7 social","red"],
+      ["Posts from others",
+        num(FEEDS.movement.items.length+FEEDS.external.items.length),
+        num(sumBy(FEEDS.movement.items,"engagement")+
+            sumBy(FEEDS.external.items,"engagement"))+" engagements"+
+        reachNote(s,sumBy(FEEDS.movement.items,"reach")+
+                    sumBy(FEEDS.external.items,"reach"))+
+        " \u00b7 Movement and external \u00b7 social","sky"],
       // Reach is the number this team reads first, so it gets its own tile
       // rather than living only in the notes. When Sprinklr will not serve
       // it, the tile says so instead of showing 0 \u2014 which would read as
@@ -521,8 +549,16 @@
           : "Not returned by Sprinklr this run",
         s.reach_available ? "red" : "amber"],
       ["Site page views",num(webTot[2]),"Campaign site \u00b7 as of "+WEB_ASOF,"sky"],
+      // "Named" is the distinction that matters: plenty of coverage discusses
+      // a disaster treaty without ever calling it Earth\u2019s Missing Treaty,
+      // and only the ones that do are carrying the campaign rather than the
+      // subject. Spelled out because nobody can guess it from the label.
       ["Named the campaign",num(s.campaign_named),
-        launched?"Using the campaign name":"Not yet public",launched?"green":"amber"]
+        launched
+          ? "Of "+num(s.total||0)+" mentions \u00b7 said \u201cEarth\u2019s Missing"+
+            " Treaty\u201d, not just treaty talk"
+          : "Not yet public",
+        launched?"green":"amber"]
     ].map(kpiHTML).join("");
 
     el("phaseTable").innerHTML=PHASES.map(function(p){
@@ -537,17 +573,13 @@
     drawFeed("media","mediaFeed");
 
     el("outletBars").innerHTML=barsHTML(s.top_outlets);
-    var socialPlat = {};
-    Object.keys(s.by_platform||{}).forEach(function(k){
-      if (isSocial(k)) socialPlat[k] = s.by_platform[k];
-    });
-    el("platformBars").innerHTML=barsHTML(socialPlat,null,"sky");
+    el("platformBars").innerHTML=platformStackHTML(socialItems);
     // Social only, to match the Platforms widget beside it. Counting web
     // articles here made "English" a tally of newswire copy rather than
     // of the conversation.
     var socialLang = {};
     socialItems.forEach(function(x){
-      var k = x.language && x.language !== "und" ? x.language : "Unknown";
+      var k = canonLang(x.language);
       socialLang[k] = (socialLang[k]||0) + 1;
     });
     el("languageBars").innerHTML=barsHTML(socialLang,null,"sky");
@@ -705,6 +737,10 @@
   // invented. Engagement comes first because that is the figure the box has
   // to reconcile with. Still nothing rather than a zero: an unmeasured 0
   // reads as a measured result.
+  function sumBy(items, field){
+    return (items||[]).reduce(function(a,x){return a+(x[field]||0);}, 0);
+  }
+
   function metricChip(p){
     var out = "";
     if ((p.engagement||0) > 0)
@@ -733,9 +769,9 @@
     // A Facebook post whose outlet is also "Facebook" used to hide its
     // platform, which is precisely the row where the platform matters.
     var channel=(p.platform&&p.platform!==who)?p.platform:"";
-    return '<div class="item"><div class="item-meta"><span class="who">'+esc(who)+"</span>"+
+    return '<div class="item"><div class="item-meta"><span class="who'+(p.source?" src-"+p.source:"")+'">'+esc(who)+"</span>"+
       (channel?"<span>· "+esc(channel)+"</span>":"")+
-      (p.language?"<span>· "+esc(LANG[p.language]||p.language)+"</span>":"")+
+      (p.language?"<span>· "+esc(canonLang(p.language))+"</span>":"")+
       (p.created?"<span>· "+esc(new Date(p.created).toLocaleDateString("en-GB",
         {day:"numeric",month:"short"}))+"</span>":"")+
       metricChip(p)+"</div>"+
@@ -877,6 +913,37 @@
       '<div class="legend">'+legend+'</div></div>';
   }
 
+  // One row per platform, each row split by who posted. Same three colours
+  // as the feeds below, so the eye carries the meaning across the page.
+  function platformStackHTML(items){
+    var map={};
+    items.forEach(function(x){
+      var p=x.platform||"Unknown";
+      map[p]=map[p]||{own:0,movement:0,external:0,total:0};
+      var s=(x.source==="own"||x.source==="movement")?x.source:"external";
+      map[p][s]++; map[p].total++;
+    });
+    var rows=Object.keys(map).map(function(k){return {label:k,v:map[k]};})
+      .sort(function(a,b){return b.v.total-a.v.total;});
+    if(!rows.length) return '<p class="empty">Nothing yet.</p>';
+    var max=rows[0].v.total||1;
+    var parts=[["own","var(--red)"],["movement","var(--amber)"],
+               ["external","var(--sky)"]];
+    return '<div class="hbars">'+rows.map(function(r){
+      var seg=parts.filter(function(p){return r.v[p[0]];}).map(function(p){
+        return '<span style="width:'+(r.v[p[0]]/r.v.total*100).toFixed(1)+
+          '%;background:'+p[1]+'"></span>';
+      }).join("");
+      return '<div class="hb"><span class="hb-lab">'+esc(r.label)+'</span>'+
+        '<span class="hb-track"><span class="hb-fill hb-stack" style="width:'+
+        Math.max(2,Math.round(r.v.total/max*100))+'%">'+seg+'</span></span>'+
+        '<span class="hb-val">'+num(r.v.total)+'</span></div>';
+    }).join("")+'</div><div class="legend" style="margin-top:10px">'+
+      '<span><i style="background:var(--red)"></i>IFRC</span>'+
+      '<span><i style="background:var(--amber)"></i>Movement</span>'+
+      '<span><i style="background:var(--sky)"></i>External</span></div>';
+  }
+
   function hbarHTML(items,colour){
     if(!items || !items.length) return '<p class="empty">Nothing yet.</p>';
     var max=items[0].value||1;
@@ -889,6 +956,20 @@
   }
 
   function webTrendHTML(series){
+    // A line needs two points, and on launch day there is one. Telling the
+    // team to come back tomorrow on the day that matters most was the wrong
+    // answer, so a single day is drawn as bars instead.
+    if(series.length===1){
+      var r=series[0];
+      return hbarHTML([{label:"Page views",value:r[2]},
+                       {label:"Sessions",value:r[1]},
+                       {label:"Users",value:r[3]}]
+                        .sort(function(a,b){return b.value-a.value;}),
+                      "var(--sky)")+
+        '<p class="kpi-note" style="margin-top:10px">'+esc(shortDate(r[0]))+
+        ' \u2014 shown as bars today; the trend line appears once there is a'+
+        ' second day to compare.</p>';
+    }
     return chart(series.map(function(r){return shortDate(r[0]);}),[
       {name:"Sessions",colour:"#7FB3E8",values:series.map(function(r){return r[1];})},
       {name:"Page views",colour:"#ED1B2E",dash:true,values:series.map(function(r){return r[2];})}
