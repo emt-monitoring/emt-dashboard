@@ -412,7 +412,7 @@
   var FEEDS = {
     own:      {items:[], sort:"newest", days:0},
     movement: {items:[], sort:"newest", days:0},
-    external: {items:[], sort:"newest", days:0},
+    external: {items:[], sort:"reach",  days:0},
     media:  {items:[], sort:"newest", days:0},
     social: {items:[], sort:"newest", days:0}
   };
@@ -432,7 +432,10 @@
     own:      [["newest","Newest"],["engagement","Most engaged"],
                ["reach","Most reach"]],
     movement: [["newest","Newest"],["reach","Most followers"]],
-    external: [["newest","Newest"],["reach","Most followers"]],
+    // External opens on followers rather than newest: the question this
+    // column answers is who picked the campaign up, and a 126k-follower
+    // account matters more than whoever happened to post ninety seconds ago.
+    external: [["reach","Most followers"],["newest","Newest"]],
     media:    [["newest","Newest"],["reach","Most followers"]],
     social:   [["newest","Newest"],["reach","Most followers"]]
   };
