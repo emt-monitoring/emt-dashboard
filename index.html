@@ -333,7 +333,7 @@
   var PHASES = [
     ["Internal launch","26 June","Staff event, live stream, intranet","done"],
     ["New York reception","w/o 31 August","Permanent missions, bilateral follow-ups","done"],
-    ["Global launch","3 September","Press release, Insight Report, hero video (EN/FR/ES/clean), 7 astronaut testimonies, campaign site","live"],
+    ["Global launch","3 September","Press release, Insight Report, hero video (EN/FR/ES/clean), 7 astronaut testimonies, campaign site","done"],
     ["PPED Conference","25 Jan – 12 Feb 2027","Venue to be confirmed","ahead"],
     ["Campaign-long","Ongoing","National Society toolkit uptake, statements of support","ahead"]
   ];
@@ -614,11 +614,26 @@
         "</span></td></tr>";
     }).join("");
 
-    FEEDS.media.items  = s.earned_top||[];
+    // The media feed used to read summary.earned_top, which the monitor
+    // truncates. Once hand-logged and Google News coverage started landing,
+    // the panel silently stopped at fifteen rows while the count above it
+    // kept climbing. Build it from the items themselves and it cannot go
+    // stale again.
+    var mediaItems = allItems.filter(function(x){ return !isSocial(x.platform); });
+    FEEDS.media.items = mediaItems.length ? mediaItems : (s.earned_top||[]);
     mountControls("media","mediaControls","mediaFeed");
     drawFeed("media","mediaFeed");
 
-    el("outletBars").innerHTML=barsHTML(s.top_outlets);
+    // Outlets counted from the same list the feed shows, so the chart and
+    // the feed can never disagree. Twelve rows rather than eight: the wire
+    // pickups alone are more than eight outlets.
+    var outletTally = {};
+    mediaItems.forEach(function(x){
+      var o = x.outlet || x.author || 'Unknown outlet';
+      outletTally[o] = (outletTally[o]||0) + 1;
+    });
+    el('outletBars').innerHTML = barsHTML(
+      Object.keys(outletTally).length ? outletTally : s.top_outlets, null, '', 12);
     el("platformBars").innerHTML=platformStackHTML(socialItems);
     // Social only, to match the Platforms widget beside it. Counting web
     // articles here made "English" a tally of newswire copy rather than
@@ -859,9 +874,9 @@
        :'<p class="item-text">'+(head?esc(head):"(no text returned)")+"</p>")+"</div>";
   }
 
-  function barsHTML(obj,labels,tone){
+  function barsHTML(obj,labels,tone,cap){
     var e=Object.keys(obj||{}).map(function(k){return [k,obj[k]];})
-      .sort(function(a,b){return b[1]-a[1];}).slice(0,8);
+      .sort(function(a,b){return b[1]-a[1];}).slice(0, cap||8);
     if(!e.length) return '<p class="empty">Nothing yet.</p>';
     var max=e[0][1]||1;
     return e.map(function(x){
