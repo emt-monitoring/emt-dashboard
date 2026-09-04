@@ -926,7 +926,13 @@ var SORT_SETS = {
   }
 
   function itemHTML(p){
-    var text=(p.text||"").trim();
+    // Headline first, body only as a fallback. Sprinklr's message field on a
+    // news document is the ARTICLE TEXT, so the media feed was showing ledes,
+    // standfirsts and photo captions in the place a headline belongs -- rows
+    // opening with a correspondent's dateline where the reader expected a
+    // title. The monitor now carries title separately; social posts have
+    // none, and there the body genuinely is the message.
+    var text=(p.title||p.text||"").trim();
     var head=text.length>130?text.slice(0,130)+"…":text;
     var who=displayName(p);
     // Compare against the name actually shown, not against the outlet.
