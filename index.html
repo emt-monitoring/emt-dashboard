@@ -245,7 +245,7 @@
     <section>
       <div class="sec-head"><h3>Media coverage</h3></div>
       <div class="card"><h4>Outlets covering it</h4>
-        <p class="kpi-note" style="margin:-6px 0 10px">Ordered by follower count rather than mention count — one piece in a large outlet outweighs several in small ones. Sprinklr returns no domain-authority score, so reach is the closest honest proxy.</p>
+        <p class="kpi-note" style="margin:-6px 0 10px">Articles per outlet. Where one outlet ran the story more than once — a wire in two languages, say — each run counts.</p>
         <div class="bars" id="outletBars"></div></div>
       <div class="card">
         <div class="controls" id="mediaControls"></div>
@@ -413,7 +413,7 @@
     own:      {items:[], sort:"newest", days:0},
     movement: {items:[], sort:"newest", days:0},
     external: {items:[], sort:"reach",  days:0},
-    media:  {items:[], sort:"newest", days:0},
+    media:  {items:[], sort:'prominence', days:0},
     social: {items:[], sort:"newest", days:0}
   };
   // Web and Print are not social platforms. They belong in Media coverage;
@@ -428,7 +428,52 @@
   // on a lagging Listening count just ranks whichever post Sprinklr refreshed
   // most recently. Every feed opens on Newest -- during a live campaign what
   // just landed is the question.
-  var SORT_SETS = {
+// PROMINENCE — an editorial judgement, and labelled as one.
+//
+// Sorting media by reach was meaningless: hand-logged and Google News rows
+// carry reach 0, so the order was arbitrary and Swiss local radio outranked
+// MSN. There is no measured authority figure in this data -- MuckRack has
+// domain authority, our feed does not -- so rather than fake a number, this
+// is a hand-kept tier list. It is a view, not a measurement, which is why
+// the control says Most prominent and not Most read.
+//
+// Unknown outlets land in tier 3, the middle: a new name is neither buried
+// nor promoted above the BBC on its first appearance. Add names as they show
+// up -- the list only has to cover what we actually receive.
+var OUTLET_TIERS = [
+  // 1 — global reach: wires, international broadcasters, major portals, UN
+  [1, ['bbc','sky news','reuters','afp','agence france','associated press',
+       'ap news','cnn','al jazeera','nhk','msn','yahoo','united nations',
+       'un news','unifeed','un web tv','webtv.un','media.un','euronews',
+       'guardian','new york times','washington post','rfi','france 24',
+       'deutsche welle','dw.com','el pais','le monde','politico','axios']],
+  // 2 — national outlets and major national portals
+  [2, ['swissinfo','swi ','bluewin','abc color','abc.com.py','cronica',
+       'unitel','patilla','noticias sin','noticiassin','newsfirst',
+       'la liberte','laliberte','maroc diplomatique','le temps','blick',
+       'tages','20 minutes','rts.ch','tribune de geneve']],
+  // 4 — aggregators, syndication scrapers and picture services. These are
+  // real pickups and worth counting, but they are not somebody's newsroom
+  // deciding we were worth covering, so they sit below local press.
+  [4, ['europa newswire','europanewswire','global diaspora','globaldiaspora',
+       'tolerance.ca','foco informativo','focoinformativo','villarica',
+       'blogspot','fm-cab','forced migration','head topics','headtopics',
+       'newsbreak','msn.com/en-xl']]
+];
+
+function prominence(item){
+  var hay = ((item.outlet||'') + ' ' + (item.author||'') + ' ' + (item.url||''))
+              .toLowerCase();
+  for (var i=0; i<OUTLET_TIERS.length; i++){
+    var tier = OUTLET_TIERS[i][0], names = OUTLET_TIERS[i][1];
+    for (var j=0; j<names.length; j++){
+      if (hay.indexOf(names[j]) > -1) return tier;
+    }
+  }
+  return 3;
+}
+
+var SORT_SETS = {
     own:      [["newest","Newest"],["engagement","Most engaged"],
                ["reach","Most reach"]],
     movement: [["newest","Newest"],["reach","Most followers"]],
@@ -436,7 +481,7 @@
     // column answers is who picked the campaign up, and a 126k-follower
     // account matters more than whoever happened to post ninety seconds ago.
     external: [["reach","Most followers"],["newest","Newest"]],
-    media:    [["newest","Newest"],["reach","Most followers"]],
+    media:    [['prominence','Most prominent'],['newest','Newest']],
     social:   [["newest","Newest"],["reach","Most followers"]]
   };
   function sortsFor(k){ return SORT_SETS[k] || SORT_SETS.social; }
@@ -796,7 +841,14 @@
         return isNaN(t) ? false : t>=cut;
       });
     }
-    list.sort(f.sort==="reach"
+    list.sort(f.sort==='prominence'
+      // Lower tier number is more prominent. Ties break to newest, so the top
+      // of the list still moves as coverage lands.
+      ? function(a,b){
+          var d = prominence(a) - prominence(b);
+          return d ? d : new Date(b.created||0) - new Date(a.created||0);
+        }
+      : f.sort==='reach'
       // Sort on whatever that row actually shows, so the order matches the
       // numbers on screen rather than a hidden follower count.
       ? function(a,b){
