@@ -82,14 +82,14 @@
       "by_platform": {
         "X": 73,
         "Web": 62,
-        "Instagram": 7,
         "Print": 7,
+        "Instagram": 7,
         "Facebook": 6,
         "TV": 5,
         "LinkedIn": 4,
-        "TikTok": 1,
+        "Bluesky": 1,
         "YouTube": 1,
-        "Bluesky": 1
+        "TikTok": 1
       },
       "by_language": {
         "und": 74,
@@ -103,7 +103,7 @@
         "sovereignty": 2,
         "venue_uncertainty": 1
       },
-      "updated": "2026-09-04T11:40:24.927993+00:00"
+      "updated": "2026-09-04T11:56:41.332306+00:00"
     }
   }
 }
