@@ -441,24 +441,28 @@
 // nor promoted above the BBC on its first appearance. Add names as they show
 // up -- the list only has to cover what we actually receive.
 var OUTLET_TIERS = [
+  // 4 FIRST, and the order is the point. Mirrors and scrapers carry the name
+  // of whatever they are copying: rss-parrot.net republishes RFI's feed under
+  // the handle www.rfi.fr.fr, matched 'rfi', and sat above every real outlet
+  // on the board. Demote before promoting and a copy can never outrank its
+  // source. These are genuine pickups worth counting, but they are not a
+  // newsroom deciding we were worth covering, so they sit below local press.
+  [4, ['rss-parrot','rss parrot','europa newswire','europanewswire',
+       'global diaspora','globaldiaspora','tolerance.ca','foco informativo',
+       'focoinformativo','villarica','blogspot','fm-cab','forced migration',
+       'head topics','headtopics','newsbreak','newsnow','feedburner']],
   // 1 — global reach: wires, international broadcasters, major portals, UN
   [1, ['bbc','sky news','reuters','afp','agence france','associated press',
        'ap news','cnn','al jazeera','nhk','msn','yahoo','united nations',
        'un news','unifeed','un web tv','webtv.un','media.un','euronews',
        'guardian','new york times','washington post','rfi','france 24',
        'deutsche welle','dw.com','el pais','le monde','politico','axios']],
-  // 2 — national outlets and major national portals
-  [2, ['swissinfo','swi ','bluewin','abc color','abc.com.py','cronica',
-       'unitel','patilla','noticias sin','noticiassin','newsfirst',
-       'la liberte','laliberte','maroc diplomatique','le temps','blick',
-       'tages','20 minutes','rts.ch','tribune de geneve']],
-  // 4 — aggregators, syndication scrapers and picture services. These are
-  // real pickups and worth counting, but they are not somebody's newsroom
-  // deciding we were worth covering, so they sit below local press.
-  [4, ['europa newswire','europanewswire','global diaspora','globaldiaspora',
-       'tolerance.ca','foco informativo','focoinformativo','villarica',
-       'blogspot','fm-cab','forced migration','head topics','headtopics',
-       'newsbreak','msn.com/en-xl']]
+  // 2 — national outlets, national wires and major national portals
+  [2, ['swissinfo','bluewin','abc color','abc.com.py','cronica','unitel',
+       'patilla','noticias sin','noticiassin','newsfirst','la liberte',
+       'laliberte','maroc diplomatique','le temps','blick','tages',
+       '20 minutes','rts.ch','tribune de geneve','keystone','depeschenagentur',
+       'swiss press agency','ats/sda','sda-ats']]
 ];
 
 function prominence(item){
