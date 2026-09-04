@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:25:54+00:00",
+  "generated_at": "2026-09-04T07:50:51+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -11,19 +11,26 @@
     ],
     [
       "2026-09-04",
-      36,
-      28,
-      33
+      51,
+      44,
+      44
     ]
   ],
-  "avg_duration": 97,
+  "avg_duration": 127,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 382,
-      "views": 367,
-      "users": 311
+      "sessions": 394,
+      "views": 379,
+      "users": 319
+    },
+    {
+      "path": "/es/earthsmissingtreaty",
+      "language": "English",
+      "sessions": 15,
+      "views": 15,
+      "users": 10
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -31,13 +38,6 @@
       "sessions": 12,
       "views": 8,
       "users": 10
-    },
-    {
-      "path": "/es/earthsmissingtreaty",
-      "language": "English",
-      "sessions": 12,
-      "views": 11,
-      "users": 9
     },
     {
       "path": "/earthsmissingtreaty/ar",
@@ -106,15 +106,15 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 281
+      "value": 293
     },
     {
       "label": "Unassigned",
-      "value": 154
+      "value": 161
     },
     {
       "label": "Organic Social",
-      "value": 37
+      "value": 39
     },
     {
       "label": "Cross-network",
@@ -122,7 +122,7 @@
     },
     {
       "label": "Referral",
-      "value": 20
+      "value": 21
     },
     {
       "label": "Organic Search",
@@ -136,11 +136,11 @@
     },
     {
       "label": "United States",
-      "value": 61
+      "value": 63
     },
     {
       "label": "Switzerland",
-      "value": 52
+      "value": 53
     },
     {
       "label": "Ireland",
@@ -149,6 +149,10 @@
     {
       "label": "Netherlands",
       "value": 20
+    },
+    {
+      "label": "Japan",
+      "value": 14
     },
     {
       "label": "Singapore",
@@ -173,20 +177,16 @@
     {
       "label": "Sweden",
       "value": 9
-    },
-    {
-      "label": "United Kingdom",
-      "value": 9
     }
   ],
   "actions": [
     {
       "label": "file_download",
-      "value": 39
+      "value": 43
     },
     {
       "label": "click",
-      "value": 20
+      "value": 22
     }
   ],
   "search": null
