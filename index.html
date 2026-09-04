@@ -418,8 +418,15 @@
   };
   // Web and Print are not social platforms. They belong in Media coverage;
   // mixing them into the social widgets made both harder to read.
-  var NON_SOCIAL = ["Web","Print","News","Blog","Forum","Review"];
-  function isSocial(p){ return NON_SOCIAL.indexOf(p) === -1; }
+  // Forum and Review are neither earned media nor the social conversation
+  // we track, so they sit outside both feeds rather than being filed as
+  // coverage. EARNED above is the single source of truth for what counts
+  // as media -- keeping a second, differently-worded list here is what put
+  // the Sky News interview in the social column and left it out of Media
+  // coverage entirely.
+  var NEITHER = ['Forum','Review'];
+  function isEarned(p){ return EARNED.indexOf(p) > -1; }
+  function isSocial(p){ return !isEarned(p) && NEITHER.indexOf(p) === -1; }
 
   var WINDOWS = [[0,"All"],[1,"24h"],[7,"7 days"],[30,"30 days"]];
   // Sorting differs by column because the numbers do. Only our own posts have
@@ -675,7 +682,7 @@ var SORT_SETS = {
     // the panel silently stopped at fifteen rows while the count above it
     // kept climbing. Build it from the items themselves and it cannot go
     // stale again.
-    var mediaItems = allItems.filter(function(x){ return !isSocial(x.platform); });
+    var mediaItems = allItems.filter(function(x){ return isEarned(x.platform); });
     FEEDS.media.items = mediaItems.length ? mediaItems : (s.earned_top||[]);
     mountControls("media","mediaControls","mediaFeed");
     drawFeed("media","mediaFeed");
