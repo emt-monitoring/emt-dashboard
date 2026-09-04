@@ -74,9 +74,9 @@
       "text_masked": 62,
       "earned_media": 59,
       "social": 72,
-      "own_posts": 16,
+      "own_posts": 17,
       "movement_posts": 1,
-      "external_posts": 114,
+      "external_posts": 113,
       "campaign_named": 15,
       "treaty_only": 11,
       "by_platform": {
@@ -100,7 +100,7 @@
       "risk_vectors": {
         "sovereignty": 2
       },
-      "updated": "2026-09-04T11:20:29.920292+00:00"
+      "updated": "2026-09-04T11:36:00.660411+00:00"
     }
   }
 }
