@@ -466,8 +466,15 @@ var OUTLET_TIERS = [
 ];
 
 function prominence(item){
-  var hay = ((item.outlet||'') + ' ' + (item.author||'') + ' ' + (item.url||''))
-              .toLowerCase();
+  // Name fields plus the HOSTNAME only -- never the full URL. Sprinklr's
+  // article links come back as ct.moreover.com/a6032673 style redirects, and
+  // one of those random ids contained the letters cnn, which quietly promoted
+  // the Swiss press agency into the tier reserved for global broadcasters.
+  // Substring matching against opaque ids is a trap; hostnames are safe.
+  var host = '';
+  try { host = new URL(item.url).hostname.toLowerCase(); } catch (e) { host = ''; }
+  var hay = ((item.outlet||'') + ' ' + (item.author||'')).toLowerCase()
+            + ' ' + host;
   for (var i=0; i<OUTLET_TIERS.length; i++){
     var tier = OUTLET_TIERS[i][0], names = OUTLET_TIERS[i][1];
     for (var j=0; j<names.length; j++){
