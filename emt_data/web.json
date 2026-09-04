@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:43:47+00:00",
+  "generated_at": "2026-09-04T16:07:41+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -11,26 +11,26 @@
     ],
     [
       "2026-09-04",
-      123,
-      109,
-      99
+      131,
+      122,
+      107
     ]
   ],
-  "avg_duration": 145,
+  "avg_duration": 152,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 487,
-      "views": 504,
-      "users": 379
+      "sessions": 494,
+      "views": 514,
+      "users": 386
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
-      "sessions": 20,
-      "views": 15,
-      "users": 17
+      "sessions": 21,
+      "views": 18,
+      "users": 18
     },
     {
       "path": "/es/earthsmissingtreaty",
@@ -106,33 +106,33 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 398
+      "value": 404
     },
     {
       "label": "Organic Social",
-      "value": 62
-    },
-    {
-      "label": "Unassigned",
-      "value": 37
+      "value": 63
     },
     {
       "label": "Referral",
-      "value": 36
+      "value": 38
+    },
+    {
+      "label": "Unassigned",
+      "value": 38
     },
     {
       "label": "Organic Search",
-      "value": 13
+      "value": 14
     },
     {
       "label": "Cross-network",
-      "value": 8
+      "value": 9
     }
   ],
   "countries": [
     {
       "label": "United States",
-      "value": 77
+      "value": 79
     },
     {
       "label": "Germany",
@@ -140,7 +140,7 @@
     },
     {
       "label": "Switzerland",
-      "value": 56
+      "value": 57
     },
     {
       "label": "Netherlands",
@@ -152,7 +152,7 @@
     },
     {
       "label": "Japan",
-      "value": 20
+      "value": 21
     },
     {
       "label": "Lebanon",
@@ -163,11 +163,11 @@
       "value": 16
     },
     {
-      "label": "Hungary",
-      "value": 15
+      "label": "Spain",
+      "value": 16
     },
     {
-      "label": "Spain",
+      "label": "Hungary",
       "value": 15
     },
     {
