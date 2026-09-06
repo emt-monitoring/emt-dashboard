@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-09-06T18:59:19.532562+00:00",
-    "window_hours": 114,
+    "generated": "2026-09-06T21:10:18.974737+00:00",
+    "window_hours": 117,
     "total": 280,
     "text_available": 154,
     "text_masked": 126,
@@ -51,21 +51,21 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "9887"
+      "EARNED_ENGAGEMENT": "10168"
     },
     "owned_true": {
       "posts": 20,
-      "engagement": 2039,
+      "engagement": 2056,
       "video_views": 0,
-      "reach": 46514,
+      "reach": 47067,
       "candidates": 205
     },
     "owned_error": "",
     "owned_debug": {
-      "total_links": 1220,
+      "total_links": 1226,
       "ifrc_rows": 77,
       "channels": {
-        "FACEBOOK": 671,
+        "FACEBOOK": 677,
         "TWITTER": 205,
         "INSTAGRAM": 257,
         "WECHAT": 3,
@@ -131,7 +131,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a9db7f1d267d89386d79cae\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a9dd6a9ff934dba8736332a\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -145,10 +145,10 @@
     "own_reach": 3294255,
     "movement_reach": 186589,
     "external_reach": 20240994,
-    "own_engagement": 2320,
+    "own_engagement": 2337,
     "movement_engagement": 25,
-    "external_engagement": 7739,
-    "amplification": 3.34,
+    "external_engagement": 8005,
+    "amplification": 3.43,
     "earned_by_platform": {
       "Web": 102,
       "TV": 12,
@@ -458,7 +458,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 7315,
+        "engagement": 7577,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -473,7 +473,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 658,
+        "engagement": 659,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.580856+00:00",
         "author": "IFRC",
@@ -486,7 +486,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 540,
+        "engagement": 555,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -512,7 +512,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 174,
+        "engagement": 175,
         "text": "The message is simple. We must stop acting like passengers on this planet and accept our role as crewmates on our planetary spaceship. \n\nAstronaut @astro_nicole lends her voice to #earthsmissingtreaty. Astronauts landing in distress are protected by an international treaty, peopl",
         "created": "2026-09-05T21:03:17.827725+00:00",
         "author": "IFRC",
@@ -525,7 +525,7 @@
         "outlet": "Instagram",
         "source": "external",
         "language": "English",
-        "engagement": 148,
+        "engagement": 149,
         "text": "The Earth is calling - do you hear it? \n\nI became a geoscientist for a reason. It took me a while to figure out why my life has been so focused on the Earth. Going to space gave me the last piece of the puzzle. \n\nWe are all connected by One Sky - One Ocean - One Planet! \n\nThat is",
         "created": "2026-09-05T16:42:30.082580+00:00",
         "author": "Dr. Sian “Leo” Proctor (Space Artist & Astronaut)",
@@ -796,7 +796,7 @@
       "author": "Brics International News",
       "created": "2026-09-06T16:52:39.295523+00:00",
       "day": "2026-09-06",
-      "engagement": 6,
+      "engagement": 7,
       "reach": 8,
       "sentiment": "",
       "country": "",
@@ -918,7 +918,7 @@
       "author": "@BirgitteEbbesen",
       "created": "2026-09-06T10:40:58.668959+00:00",
       "day": "2026-09-06",
-      "engagement": 4,
+      "engagement": 6,
       "reach": 7206,
       "sentiment": "",
       "country": "",
@@ -1014,7 +1014,7 @@
       "author": "IFRC",
       "created": "2026-09-05T21:03:17.827725+00:00",
       "day": "2026-09-05",
-      "engagement": 174,
+      "engagement": 175,
       "reach": 366997,
       "sentiment": "",
       "country": "",
@@ -1022,8 +1022,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 177,
-      "owned_reach": 3450,
+      "owned_engagement": 178,
+      "owned_reach": 3618,
       "first_seen": "2026-09-05T21:03:20.020260+00:00"
     },
     {
@@ -1064,7 +1064,7 @@
       "author": "Dr. Sian “Leo” Proctor (Space Artist & Astronaut)",
       "created": "2026-09-05T16:42:30.082580+00:00",
       "day": "2026-09-05",
-      "engagement": 148,
+      "engagement": 149,
       "reach": 214781,
       "sentiment": "",
       "country": "",
@@ -1283,7 +1283,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 7315,
+      "engagement": 7577,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -3170,7 +3170,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1117,
+      "owned_reach": 1130,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -3462,7 +3462,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 31,
-      "owned_reach": 1332,
+      "owned_reach": 1333,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -3481,7 +3481,7 @@
       "engagement": 75,
       "reach": 0,
       "owned_engagement": 150,
-      "owned_reach": 2744,
+      "owned_reach": 2766,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -6436,7 +6436,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 665,
+      "owned_reach": 666,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6512,7 +6512,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 90,
-      "owned_reach": 4389,
+      "owned_reach": 4392,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6539,7 +6539,7 @@
       "risk_vectors": [],
       "owned_engagement": 46,
       "owned_video_views": 0,
-      "owned_reach": 1612,
+      "owned_reach": 1621,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6565,7 +6565,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 62,
-      "owned_reach": 1117,
+      "owned_reach": 1119,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6591,7 +6591,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3178,
+      "owned_reach": 3179,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6632,7 +6632,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 540,
+      "engagement": 555,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -6640,9 +6640,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 540,
+      "owned_engagement": 555,
       "owned_video_views": 0,
-      "owned_reach": 11401,
+      "owned_reach": 11621,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6685,7 +6685,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.580856+00:00",
       "day": "2026-09-04",
-      "engagement": 658,
+      "engagement": 659,
       "reach": 368968,
       "sentiment": "",
       "country": "",
@@ -6693,8 +6693,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 726,
-      "owned_reach": 14663,
+      "owned_engagement": 727,
+      "owned_reach": 14785,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6812,7 +6812,7 @@
       "engagement": 31,
       "reach": 0,
       "owned_engagement": 62,
-      "owned_reach": 1156,
+      "owned_reach": 1160,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
