@@ -1,7 +1,33 @@
 {
-  "generated": "2026-09-06T14:04:00.303400+00:00",
-  "count": 279,
+  "generated": "2026-09-06T16:52:41.387027+00:00",
+  "count": 280,
   "items": [
+    {
+      "id": "s0033",
+      "text": "he International Federation of Red Cross and Red Crescent Societies (IFRC) presents “Earth’s Missing Treaty”, a global campaign supporting the proposed Treaty on the Protection of Persons in the Event of Disasters.\n\nAt this UN hybrid press briefing, IFRC representatives Dylan Winder and Isabelle Granger, alongside geoscientist and astronaut Dr. Sian Proctor, explain why the world needs a comprehensive international framework for disaster assistance.\n\nThe proposed treaty could help countries respond faster to major disasters by reducing administrative barriers, simplifying customs and border procedures for life-saving supplies, improving international cooperation, strengthening early warning systems, and protecting people affected by disasters.\n\nThe discussion also highlights the growing need for international solidarity as disasters overwhelm national capacities.\n\nTopics covered:\nEarth’s Missing Treaty, IFRC, United Nations, disaster assistance, international disaster response, disaster law, humanitarian aid, disaster preparedness, early warning systems, global disaster treaty, international cooperation, humanitarian organizations, disaster risk reduction.\n\n#EarthsMissingTreaty #IFRC #UnitedNations #DisasterResponse #HumanitarianAid #DisasterRelief #DisasterPreparedness #GlobalCooperation #DisasterRiskReduction #UN",
+      "title": "Earth’s Missing Treaty: Historic Push for Global Disaster Assistance | UN Press Conference",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=cHMfPPA4LzM",
+      "platform": "YouTube",
+      "outlet": "Youtube",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "Brics International News",
+      "created": "2026-09-06T16:52:39.295523+00:00",
+      "day": "2026-09-06",
+      "engagement": 4,
+      "reach": 8,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": true,
+      "is_treaty": true,
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
+      "risk_vectors": [],
+      "first_seen": "2026-09-06T16:52:41.387027+00:00"
+    },
     {
       "id": "s0183",
       "text": "",
@@ -208,7 +234,7 @@
       "author": "IFRC",
       "created": "2026-09-05T21:03:17.827725+00:00",
       "day": "2026-09-05",
-      "engagement": 157,
+      "engagement": 170,
       "reach": 366997,
       "sentiment": "",
       "country": "",
@@ -216,8 +242,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 159,
-      "owned_reach": 3006,
+      "owned_engagement": 173,
+      "owned_reach": 3255,
       "first_seen": "2026-09-05T21:03:20.020260+00:00"
     },
     {
@@ -258,7 +284,7 @@
       "author": "Dr. Sian “Leo” Proctor (Space Artist & Astronaut)",
       "created": "2026-09-05T16:42:30.082580+00:00",
       "day": "2026-09-05",
-      "engagement": 141,
+      "engagement": 145,
       "reach": 214781,
       "sentiment": "",
       "country": "",
@@ -477,7 +503,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 6838,
+      "engagement": 7201,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -2364,7 +2390,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1080,
+      "owned_reach": 1097,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -2656,7 +2682,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 31,
-      "owned_reach": 1322,
+      "owned_reach": 1327,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -2672,10 +2698,10 @@
       "author": "IFRC",
       "created": "2026-09-04T13:47:51.021000+00:00",
       "day": "2026-09-04",
-      "engagement": 72,
+      "engagement": 75,
       "reach": 0,
-      "owned_engagement": 144,
-      "owned_reach": 2688,
+      "owned_engagement": 150,
+      "owned_reach": 2726,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -5628,7 +5654,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 660,
+      "owned_reach": 662,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5678,7 +5704,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 37,
-      "owned_reach": 764,
+      "owned_reach": 768,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5704,7 +5730,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 90,
-      "owned_reach": 4376,
+      "owned_reach": 4384,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5731,7 +5757,7 @@
       "risk_vectors": [],
       "owned_engagement": 46,
       "owned_video_views": 0,
-      "owned_reach": 1601,
+      "owned_reach": 1610,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5757,7 +5783,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 62,
-      "owned_reach": 1107,
+      "owned_reach": 1114,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5783,7 +5809,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3174,
+      "owned_reach": 3176,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5824,7 +5850,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 522,
+      "engagement": 532,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -5832,9 +5858,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 522,
+      "owned_engagement": 532,
       "owned_video_views": 0,
-      "owned_reach": 10811,
+      "owned_reach": 11194,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5851,7 +5877,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 349,
+      "engagement": 353,
       "reach": 294,
       "sentiment": "",
       "country": "",
@@ -5877,7 +5903,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.580856+00:00",
       "day": "2026-09-04",
-      "engagement": 644,
+      "engagement": 651,
       "reach": 368968,
       "sentiment": "",
       "country": "",
@@ -5885,8 +5911,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 712,
-      "owned_reach": 14351,
+      "owned_engagement": 719,
+      "owned_reach": 14515,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -5979,7 +6005,7 @@
       "engagement": 31,
       "reach": 0,
       "owned_engagement": 62,
-      "owned_reach": 1098,
+      "owned_reach": 1104,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -6004,7 +6030,7 @@
       "engagement": 31,
       "reach": 0,
       "owned_engagement": 62,
-      "owned_reach": 1140,
+      "owned_reach": 1148,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
