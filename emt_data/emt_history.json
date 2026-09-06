@@ -152,7 +152,7 @@
       "movement_posts": 9,
       "external_posts": 240,
       "campaign_named": 41,
-      "treaty_only": 20,
+      "treaty_only": 21,
       "by_platform": {
         "X": 126,
         "Web": 102,
@@ -177,7 +177,7 @@
         "sovereignty": 2,
         "venue_uncertainty": 1
       },
-      "updated": "2026-09-06T16:52:41.392915+00:00"
+      "updated": "2026-09-06T18:59:19.532562+00:00"
     }
   }
 }
