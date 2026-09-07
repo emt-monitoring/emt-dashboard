@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:23:27+00:00",
+  "generated_at": "2026-09-07T23:42:10+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -29,9 +29,9 @@
     ],
     [
       "2026-09-07",
-      100,
-      101,
-      88
+      103,
+      109,
+      91
     ]
   ],
   "avg_duration": 136,
@@ -39,9 +39,9 @@
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 728,
-      "views": 771,
-      "users": 552
+      "sessions": 730,
+      "views": 778,
+      "users": 553
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -60,9 +60,9 @@
     {
       "path": "/earthsmissingtreaty/fr",
       "language": "Français",
-      "sessions": 15,
-      "views": 17,
-      "users": 13
+      "sessions": 16,
+      "views": 18,
+      "users": 14
     },
     {
       "path": "/earthsmissingtreaty/ar",
@@ -128,19 +128,19 @@
     },
     {
       "label": "Organic Social",
-      "value": 115
+      "value": 119
     },
     {
       "label": "Referral",
-      "value": 61
+      "value": 62
     },
     {
       "label": "Organic Search",
-      "value": 45
+      "value": 46
     },
     {
       "label": "Unassigned",
-      "value": 41
+      "value": 42
     },
     {
       "label": "Cross-network",
@@ -166,7 +166,7 @@
     },
     {
       "label": "France",
-      "value": 33
+      "value": 34
     },
     {
       "label": "Japan",
@@ -177,11 +177,11 @@
       "value": 26
     },
     {
-      "label": "Ireland",
-      "value": 25
+      "label": "United Kingdom",
+      "value": 26
     },
     {
-      "label": "United Kingdom",
+      "label": "Ireland",
       "value": 25
     },
     {
