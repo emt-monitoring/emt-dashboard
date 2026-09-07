@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:07:52+00:00",
+  "generated_at": "2026-09-07T17:52:51+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -23,25 +23,25 @@
     ],
     [
       "2026-09-06",
-      48,
-      50,
-      40
+      49,
+      54,
+      41
     ],
     [
       "2026-09-07",
-      75,
-      79,
-      71
+      94,
+      97,
+      83
     ]
   ],
-  "avg_duration": 165,
+  "avg_duration": 142,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 703,
-      "views": 745,
-      "users": 536
+      "sessions": 722,
+      "views": 767,
+      "users": 547
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -124,23 +124,23 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 531
+      "value": 549
     },
     {
       "label": "Organic Social",
-      "value": 113
+      "value": 115
     },
     {
       "label": "Referral",
       "value": 60
     },
     {
-      "label": "Unassigned",
-      "value": 45
+      "label": "Organic Search",
+      "value": 43
     },
     {
-      "label": "Organic Search",
-      "value": 40
+      "label": "Unassigned",
+      "value": 39
     },
     {
       "label": "Cross-network",
@@ -150,15 +150,15 @@
   "countries": [
     {
       "label": "United States",
-      "value": 114
+      "value": 115
     },
     {
       "label": "Germany",
-      "value": 99
+      "value": 101
     },
     {
       "label": "Switzerland",
-      "value": 72
+      "value": 74
     },
     {
       "label": "Netherlands",
@@ -166,14 +166,14 @@
     },
     {
       "label": "France",
-      "value": 30
-    },
-    {
-      "label": "Ireland",
-      "value": 25
+      "value": 33
     },
     {
       "label": "Japan",
+      "value": 27
+    },
+    {
+      "label": "Ireland",
       "value": 25
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "label": "United Kingdom",
-      "value": 21
+      "value": 23
     },
     {
       "label": "Canada",
@@ -200,7 +200,7 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 75
+      "value": 78
     },
     {
       "label": "click",

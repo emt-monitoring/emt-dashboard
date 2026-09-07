@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-07T12:07:49.761027+00:00",
-    "window_hours": 132,
-    "total": 282,
-    "text_available": 154,
-    "text_masked": 128,
-    "earned_media": 122,
-    "social": 160,
+    "generated": "2026-09-07T17:52:48.752918+00:00",
+    "window_hours": 137,
+    "total": 285,
+    "text_available": 156,
+    "text_masked": 129,
+    "earned_media": 124,
+    "social": 161,
     "by_source": {
-      "external": 242,
+      "external": 245,
       "own": 31,
       "movement": 9
     },
@@ -29,14 +29,14 @@
       "@COMIR_UCV",
       "@ColmLawlor",
       "@DeepakAdk",
+      "@DrMobarez",
       "@DrPrish",
       "@EIvIPEROR",
-      "@FrankMohrhauer",
-      "@FtblFanLeyla"
+      "@FrankMohrhauer"
     ],
     "own_posts": 31,
     "movement_posts": 9,
-    "external_posts": 242,
+    "external_posts": 245,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,30 +51,30 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "11084"
+      "EARNED_ENGAGEMENT": "11245"
     },
     "owned_true": {
       "posts": 20,
-      "engagement": 2220,
+      "engagement": 2282,
       "video_views": 0,
-      "reach": 50333,
-      "candidates": 225
+      "reach": 51766,
+      "candidates": 235
     },
     "owned_error": "",
     "owned_debug": {
-      "total_links": 1456,
-      "ifrc_rows": 85,
+      "total_links": 1505,
+      "ifrc_rows": 91,
       "channels": {
-        "FACEBOOK": 836,
-        "TWITTER": 223,
-        "INSTAGRAM": 305,
+        "FACEBOOK": 852,
+        "TWITTER": 235,
+        "INSTAGRAM": 317,
         "WECHAT": 4,
         "THREADS": 9,
         "BLUESKY": 12,
-        "LINKEDIN": 31,
-        "VK": 7,
-        "TIKTOK": 11,
-        "YOUTUBE": 18
+        "LINKEDIN": 33,
+        "VK": 9,
+        "TIKTOK": 13,
+        "YOUTUBE": 21
       },
       "wanted": [
         "1045989911637258",
@@ -131,7 +131,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a9ea906d6f6597b1565ce9e\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6a9ef9d8ff934dba875ac46d\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -141,16 +141,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 23723347,
+    "total_reach": 23727747,
     "own_reach": 3294272,
     "movement_reach": 186589,
-    "external_reach": 20242486,
-    "own_engagement": 2504,
+    "external_reach": 20246886,
+    "own_engagement": 2569,
     "movement_engagement": 25,
-    "external_engagement": 8765,
-    "amplification": 3.5,
+    "external_engagement": 8862,
+    "amplification": 3.45,
     "earned_by_platform": {
-      "Web": 102,
+      "Web": 104,
       "TV": 12,
       "Print": 8
     },
@@ -160,19 +160,21 @@
       "SWI swissinfo.ch": 4,
       "Podchaser": 3,
       "United Nations": 3,
+      "IFRC": 3,
       "ReliefWeb": 3,
       "nhk.or.jp": 2,
       "RFI": 2,
       "NHK World": 2,
       "Media UN": 2,
-      "IFRC": 2,
       "VIQ Political Wire": 2,
       "Maroc Diplomatique": 2,
       "Global: Government News and Documents; Political and Economic Organizations News": 2,
-      "Oneplanete": 1
+      "7SUR7.be": 1
     },
     "outlet_reach": {
       "Podchaser": 46807,
+      "7SUR7.be": 0,
+      "Impact News Service": 0,
       "Oneplanete": 0,
       "Atlasmalawi": 0,
       "Udgtv": 0,
@@ -184,11 +186,40 @@
       "Bluewin": 0,
       "RTN.ch": 0,
       "SWI swissinfo": 0,
-      "Nau.ch": 0,
-      "La Télé": 0,
-      "Sarganserländer": 0
+      "Nau.ch": 0
     },
     "earned_top": [
+      {
+        "url": "http://ct.moreover.com/?a=60355921920&p=1yx&v=1&x=i1fRu3Wy8ThVPtNTp8Yi_A",
+        "platform": "Web",
+        "outlet": "7SUR7.be",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Ce qu’il faut savoir\n\n• Le feu a détruit environ 3.300 hectares de végétation\n\nLe renforcement des effectifs, anticipé en raison des conditions météorologiques annoncées, s'est pleinement justifié au cours de la journée de lundi, marquée par plusieurs reprises ...",
+        "created": "2026-09-07T17:52:46.611183+00:00",
+        "author": "7SUR7.be",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "http://ct.moreover.com/?a=60353880697&p=1yx&v=1&x=1rWyymGawKA_jELEOojDUQ",
+        "platform": "Web",
+        "outlet": "Impact News Service",
+        "source": "external",
+        "language": "English",
+        "engagement": 0,
+        "text": "Geneva, Switzerland: International Federation of Red Cross and Red Crescent Societies has issued the following press release:\n\nThe International Federation of Red Cross and Red Crescent Societies (IFRC) is today launching a new global campaign, Earth ’ s Missing Treaty, to highli",
+        "created": "2026-09-07T17:52:46.585092+00:00",
+        "author": "Impact News Service",
+        "astronauts": [
+          "Dr. Sian Proctor",
+          "José Hernández",
+          "Nicole Stott",
+          "Scott Kelly"
+        ],
+        "risk_vectors": []
+      },
       {
         "url": "https://oneplanete.com/actualite-en-continu/les-astronautes-ont-leur-traite-les-victimes-de-catastrophes-terrestres-attendent-toujours-le-leur/",
         "platform": "Web",
@@ -359,46 +390,20 @@
         "author": "RTN.ch",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.swissinfo.ch/fre/désastres:-la-croix-rouge-lance-une-campagne-pour-un-traité-mondial/91998658",
-        "platform": "Web",
-        "outlet": "SWI swissinfo",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "La Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne mondiale pour un traité mondial contre les désastres. Dévoilée jeudi, celle-ci s'appuie sur le soutien de six astronautes.\n<p> (Keystone-ATS) Les Etats se réunir",
-        "created": "2026-09-05T06:13:24.107907+00:00",
-        "author": "swissinfo.ch",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "http://ct.moreover.com/?a=60325657761&p=1yx&v=1&x=RUhdhd_p4_1_vEiePxv5pA",
-        "platform": "Web",
-        "outlet": "Nau.ch",
-        "source": "external",
-        "language": "und",
-        "engagement": 0,
-        "text": "Astronauten sind völkerrechtlich geschützt, Katastrophenopfer nicht. Die Internationale Föderation der nationalen Rotkreuz- und Rothalbmondgesellschaften (IFRC) will das mit einem globalen Vertrag ändern und startet eine Kampagne mit Unterstützung aus dem All.\n...",
-        "created": "2026-09-05T06:13:24.106446+00:00",
-        "author": "Nau.ch",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
-    "campaign_named": 41,
+    "campaign_named": 42,
     "treaty_only": 20,
     "by_day": {
       "2026-09-03": 35,
       "2026-09-04": 176,
       "2026-09-05": 62,
       "2026-09-06": 7,
-      "2026-09-07": 2
+      "2026-09-07": 5
     },
     "by_platform": {
-      "X": 128,
-      "Web": 102,
+      "X": 129,
+      "Web": 104,
       "TV": 12,
       "Instagram": 10,
       "Facebook": 9,
@@ -409,20 +414,20 @@
       "TikTok": 2
     },
     "by_language": {
-      "und": 142,
-      "English": 65,
-      "French": 46,
+      "und": 143,
+      "English": 66,
+      "French": 47,
       "Spanish": 24,
       "unknown": 5
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 17,
+      "Dr. Sian Proctor": 18,
       "Jean-François Clervoy": 3,
-      "José Hernández": 1,
-      "Julie Payette": 1,
-      "Nicole Stott": 1,
-      "Scott Kelly": 1
+      "José Hernández": 2,
+      "Nicole Stott": 2,
+      "Scott Kelly": 2,
+      "Julie Payette": 1
     },
     "risk_vectors": {
       "sovereignty": 2,
@@ -459,7 +464,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 8317,
+        "engagement": 8414,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -474,7 +479,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 698,
+        "engagement": 705,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.580856+00:00",
         "author": "IFRC",
@@ -487,7 +492,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 640,
+        "engagement": 682,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -500,7 +505,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 360,
+        "engagement": 361,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -513,7 +518,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 200,
+        "engagement": 214,
         "text": "The message is simple. We must stop acting like passengers on this planet and accept our role as crewmates on our planetary spaceship. \n\nAstronaut @astro_nicole lends her voice to #earthsmissingtreaty. Astronauts landing in distress are protected by an international treaty, peopl",
         "created": "2026-09-05T21:03:17.827725+00:00",
         "author": "IFRC",
@@ -565,7 +570,7 @@
         "outlet": "LinkedIn",
         "source": "own",
         "language": "unknown",
-        "engagement": 79,
+        "engagement": 80,
         "text": "Earth has treaties for the seas, the skies and even outer space. But there is still no binding treaty to protect people when disasters strike.\n\nThe devastating floods in Nepal are a painful reminder of both the growing impact of disasters and the importance of preparedness and co",
         "created": "2026-09-04T13:47:51.021000+00:00",
         "author": "IFRC",
@@ -783,6 +788,83 @@
     ]
   },
   "items": [
+    {
+      "id": "s0189",
+      "text": "Ce qu’il faut savoir\n\n• Le feu a détruit environ 3.300 hectares de végétation\n\nLe renforcement des effectifs, anticipé en raison des conditions météorologiques annoncées, s'est pleinement justifié au cours de la journée de lundi, marquée par plusieurs reprises ...",
+      "title": "Incendie dans les Fagnes: plusieurs reprises de feu , le dispositif renforcé maintenu",
+      "has_text": true,
+      "url": "http://ct.moreover.com/?a=60355921920&p=1yx&v=1&x=i1fRu3Wy8ThVPtNTp8Yi_A",
+      "platform": "Web",
+      "outlet": "7SUR7.be",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "7SUR7.be",
+      "created": "2026-09-07T17:52:46.611183+00:00",
+      "day": "2026-09-07",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-07T17:52:48.745640+00:00"
+    },
+    {
+      "id": "s0148",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/DrMobarez/status/2096950130100560203",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@DrMobarez",
+      "created": "2026-09-07T17:52:46.599276+00:00",
+      "day": "2026-09-07",
+      "engagement": 0,
+      "reach": 4400,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-07T17:52:48.745640+00:00"
+    },
+    {
+      "id": "s0096",
+      "text": "Geneva, Switzerland: International Federation of Red Cross and Red Crescent Societies has issued the following press release:\n\nThe International Federation of Red Cross and Red Crescent Societies (IFRC) is today launching a new global campaign, Earth ’ s Missing Treaty, to highlight a stark reality: while international law protects astronauts in distress, there is no comprehensive international treaty setting out how countries should cooperate to protect people before, during and after disasters.\n\nThe campaign highlights IFRC ’ s call for countries to support the adoption of the Treaty on the Protection of Persons in the Event of Disasters, which UN Member States have agreed to negotiate and which would be the first comprehensive global treaty dedicated to protecting people before, during and after disasters.\n\nA global treaty would provide a common framework for international cooperation before disasters strike and when international assistance is needed. In practice, this could mean faster deployment of humanitarian teams, simpler customs and border procedures for life-saving supplies, more predictable cooperation between governments and humanitarian organisations, lower costs and fewer administrative barriers, and better protection for people affected by disasters.\n\nAlongside the campaign, IFRC is publishing new global analysis showing why a disaster treaty is needed and the difference it could make. The research brings together data on disaster risk, protection and barriers to international assistance, alongside four country case studies from Belize, Fiji, Lebanon and Madagascar.\n\nRead the case studies for Belize, Fiji, Lebanon and Madagascar.\n\nIn 2027, governments will convene to negotiate the treaty, and IFRC is supporting them throughout the process with technical expertise and decades of experience in disaster preparedness and response.\n\nIFRC ’ s campaign is backed by leading astronauts including Dr. Sian Proctor, Nicole Stott, José Hernández, Scott Kelly, Do",
+      "title": "Astronauts at heart of new IFRC campaign for world's first international disaster treaty",
+      "has_text": true,
+      "url": "http://ct.moreover.com/?a=60353880697&p=1yx&v=1&x=1rWyymGawKA_jELEOojDUQ",
+      "platform": "Web",
+      "outlet": "Impact News Service",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "Impact News Service",
+      "created": "2026-09-07T17:52:46.585092+00:00",
+      "day": "2026-09-07",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": true,
+      "is_treaty": true,
+      "astronauts": [
+        "Dr. Sian Proctor",
+        "José Hernández",
+        "Nicole Stott",
+        "Scott Kelly"
+      ],
+      "risk_vectors": [],
+      "first_seen": "2026-09-07T17:52:48.745640+00:00"
+    },
     {
       "id": "s0146",
       "text": "",
@@ -1063,7 +1145,7 @@
       "author": "IFRC",
       "created": "2026-09-05T21:03:17.827725+00:00",
       "day": "2026-09-05",
-      "engagement": 200,
+      "engagement": 214,
       "reach": 366997,
       "sentiment": "",
       "country": "",
@@ -1071,8 +1153,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 203,
-      "owned_reach": 3764,
+      "owned_engagement": 218,
+      "owned_reach": 3834,
       "first_seen": "2026-09-05T21:03:20.020260+00:00"
     },
     {
@@ -1332,7 +1414,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 8317,
+      "engagement": 8414,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -3219,7 +3301,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 49,
-      "owned_reach": 1181,
+      "owned_reach": 1199,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -3511,7 +3593,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 32,
-      "owned_reach": 1356,
+      "owned_reach": 1361,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -3527,10 +3609,10 @@
       "author": "IFRC",
       "created": "2026-09-04T13:47:51.021000+00:00",
       "day": "2026-09-04",
-      "engagement": 79,
+      "engagement": 80,
       "reach": 0,
-      "owned_engagement": 158,
-      "owned_reach": 2924,
+      "owned_engagement": 160,
+      "owned_reach": 2992,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -6483,7 +6565,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 674,
+      "owned_reach": 677,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6559,7 +6641,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 90,
-      "owned_reach": 4441,
+      "owned_reach": 4454,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6586,7 +6668,7 @@
       "risk_vectors": [],
       "owned_engagement": 46,
       "owned_video_views": 0,
-      "owned_reach": 1655,
+      "owned_reach": 1670,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6612,7 +6694,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 63,
-      "owned_reach": 1143,
+      "owned_reach": 1148,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6638,7 +6720,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 72,
-      "owned_reach": 3203,
+      "owned_reach": 3271,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6679,7 +6761,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 640,
+      "engagement": 682,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -6687,9 +6769,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 644,
+      "owned_engagement": 682,
       "owned_video_views": 0,
-      "owned_reach": 13594,
+      "owned_reach": 14571,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6706,7 +6788,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 360,
+      "engagement": 361,
       "reach": 311,
       "sentiment": "",
       "country": "",
@@ -6714,7 +6796,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 18,
+      "owned_engagement": 19,
       "owned_reach": 311,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
@@ -6732,7 +6814,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.580856+00:00",
       "day": "2026-09-04",
-      "engagement": 698,
+      "engagement": 705,
       "reach": 368968,
       "sentiment": "",
       "country": "",
@@ -6740,8 +6822,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 766,
-      "owned_reach": 15601,
+      "owned_engagement": 773,
+      "owned_reach": 15806,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -6834,7 +6916,7 @@
       "engagement": 32,
       "reach": 0,
       "owned_engagement": 64,
-      "owned_reach": 1124,
+      "owned_reach": 1152,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -6859,7 +6941,7 @@
       "engagement": 31,
       "reach": 0,
       "owned_engagement": 62,
-      "owned_reach": 1178,
+      "owned_reach": 1190,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -6899,11 +6981,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtcG14WnotWF93VTYwaDdZaUthYzFXcHkxdTVfR2k1QlZ3aUhzaXJCbmZTSDdSMFV1bDkxZEZmYzg5SGtkTVdSSUxzZ3VfVkJITjdQLUpZeVpSdTc2aGVRNU9jX3NxUzlQTXZkdmhWWlpiZGMtZDFCYWlTV0Z2LTAzeHRFSXc4LUpfQ1lmMEtfZGlLSzktaFdFQQ?oc=5",
       "platform": "Web",
-      "outlet": "ifrc.org",
+      "outlet": "IFRC",
       "source": "own",
       "language": "French",
       "language_source": "manual",
-      "author": "ifrc.org",
+      "author": "IFRC",
       "created": "2026-09-03T03:57:38+00:00",
       "day": "2026-09-03",
       "engagement": 0,
