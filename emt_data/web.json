@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:32:31+00:00",
+  "generated_at": "2026-09-09T11:46:04+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -35,25 +35,25 @@
     ],
     [
       "2026-09-08",
-      59,
+      60,
       61,
       45
     ],
     [
       "2026-09-09",
-      8,
-      9,
-      7
+      32,
+      31,
+      28
     ]
   ],
-  "avg_duration": 183,
+  "avg_duration": 134,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 799,
-      "views": 848,
-      "users": 587
+      "sessions": 824,
+      "views": 870,
+      "users": 605
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -136,23 +136,23 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 596
+      "value": 609
     },
     {
       "label": "Organic Social",
-      "value": 130
+      "value": 134
     },
     {
       "label": "Referral",
-      "value": 73
+      "value": 75
     },
     {
       "label": "Organic Search",
-      "value": 56
+      "value": 59
     },
     {
       "label": "Unassigned",
-      "value": 21
+      "value": 30
     },
     {
       "label": "Cross-network",
@@ -162,31 +162,31 @@
   "countries": [
     {
       "label": "United States",
-      "value": 125
+      "value": 126
     },
     {
       "label": "Germany",
-      "value": 111
+      "value": 113
     },
     {
       "label": "Switzerland",
-      "value": 82
+      "value": 83
+    },
+    {
+      "label": "France",
+      "value": 40
     },
     {
       "label": "Netherlands",
       "value": 39
     },
     {
-      "label": "France",
-      "value": 36
-    },
-    {
       "label": "Türkiye",
-      "value": 34
+      "value": 35
     },
     {
       "label": "Ireland",
-      "value": 29
+      "value": 31
     },
     {
       "label": "United Kingdom",
@@ -198,21 +198,21 @@
     },
     {
       "label": "Hungary",
-      "value": 23
+      "value": 24
+    },
+    {
+      "label": "Lebanon",
+      "value": 21
     },
     {
       "label": "Canada",
       "value": 19
-    },
-    {
-      "label": "Lebanon",
-      "value": 18
     }
   ],
   "actions": [
     {
       "label": "file_download",
-      "value": 84
+      "value": 89
     },
     {
       "label": "click",
