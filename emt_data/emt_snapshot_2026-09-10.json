@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-09-10T19:35:15.940117+00:00",
-    "window_hours": 211,
+    "generated": "2026-09-10T21:49:09.368456+00:00",
+    "window_hours": 213,
     "total": 315,
     "text_available": 163,
     "text_masked": 152,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "13057"
+      "EARNED_ENGAGEMENT": "13059"
     },
     "owned_true": {
       "posts": 22,
-      "engagement": 2657,
+      "engagement": 2660,
       "video_views": 0,
-      "reach": 59108,
-      "candidates": 387
+      "reach": 59209,
+      "candidates": 396
     },
     "owned_error": "",
     "owned_debug": {
@@ -133,7 +133,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa306552afe078152031238\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa325b7a53175ddca05f12b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -147,7 +147,7 @@
     "own_reach": 3347557,
     "movement_reach": 186799,
     "external_reach": 20659200,
-    "own_engagement": 2982,
+    "own_engagement": 2985,
     "movement_engagement": 34,
     "external_engagement": 10356,
     "amplification": 3.47,
@@ -492,7 +492,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 808,
+        "engagement": 810,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -609,7 +609,7 @@
         "outlet": "LinkedIn",
         "source": "own",
         "language": "unknown",
-        "engagement": 69,
+        "engagement": 70,
         "text": "The world should not wait for the next major disaster to decide how it should work together. \n \nIn 2027, governments will convene to negotiate the adoption of the Treaty on the Protection of Persons in the Event of Disasters, the first comprehensive global treaty dedicated to pro",
         "created": "2026-09-09T11:13:12.342000+00:00",
         "author": "IFRC",
@@ -1426,7 +1426,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 42,
-      "owned_reach": 905,
+      "owned_reach": 912,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -1442,10 +1442,10 @@
       "author": "IFRC",
       "created": "2026-09-09T11:13:12.342000+00:00",
       "day": "2026-09-09",
-      "engagement": 69,
+      "engagement": 70,
       "reach": 0,
-      "owned_engagement": 138,
-      "owned_reach": 1732,
+      "owned_engagement": 140,
+      "owned_reach": 1780,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -1892,7 +1892,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 264,
-      "owned_reach": 4315,
+      "owned_reach": 4332,
       "first_seen": "2026-09-05T21:03:20.020260+00:00"
     },
     {
@@ -4039,7 +4039,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1250,
+      "owned_reach": 1253,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -4331,7 +4331,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 35,
-      "owned_reach": 1405,
+      "owned_reach": 1406,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -4350,7 +4350,7 @@
       "engagement": 87,
       "reach": 0,
       "owned_engagement": 174,
-      "owned_reach": 3342,
+      "owned_reach": 3352,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -7381,7 +7381,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 93,
-      "owned_reach": 4555,
+      "owned_reach": 4558,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7460,7 +7460,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 72,
-      "owned_reach": 3376,
+      "owned_reach": 3380,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7501,7 +7501,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 808,
+      "engagement": 810,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -7509,9 +7509,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 808,
+      "owned_engagement": 810,
       "owned_video_views": 0,
-      "owned_reach": 17668,
+      "owned_reach": 17703,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7656,7 +7656,7 @@
       "engagement": 34,
       "reach": 0,
       "owned_engagement": 68,
-      "owned_reach": 1266,
+      "owned_reach": 1268,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -7681,7 +7681,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1286,
+      "owned_reach": 1288,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
