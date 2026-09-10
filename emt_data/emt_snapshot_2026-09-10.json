@@ -1,15 +1,15 @@
 {
   "summary": {
-    "generated": "2026-09-10T21:49:09.368456+00:00",
-    "window_hours": 213,
-    "total": 315,
-    "text_available": 163,
-    "text_masked": 152,
-    "earned_media": 127,
-    "social": 188,
+    "generated": "2026-09-10T23:54:49.002365+00:00",
+    "window_hours": 215,
+    "total": 317,
+    "text_available": 164,
+    "text_masked": 153,
+    "earned_media": 128,
+    "social": 189,
     "by_source": {
-      "external": 271,
-      "own": 33,
+      "external": 272,
+      "own": 34,
       "movement": 11
     },
     "external_social_unattributed": [
@@ -34,9 +34,9 @@
       "@DrMobarez",
       "@DrPrish"
     ],
-    "own_posts": 33,
+    "own_posts": 34,
     "movement_posts": 11,
-    "external_posts": 271,
+    "external_posts": 272,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "13059"
+      "EARNED_ENGAGEMENT": "13075"
     },
     "owned_true": {
       "posts": 22,
-      "engagement": 2660,
+      "engagement": 2664,
       "video_views": 0,
-      "reach": 59209,
-      "candidates": 396
+      "reach": 59263,
+      "candidates": 398
     },
     "owned_error": "",
     "owned_debug": {
@@ -94,9 +94,9 @@
         "2095885257094348808",
         "2095949379534287229",
         "2097644061695885541",
+        "2098192326179139624",
         "2620770065007963",
-        "7501241781276110849",
-        "7501255050967576577"
+        "7501241781276110849"
       ],
       "own_urls": [
         "https://www.facebook.com/reel/2620770065007963/",
@@ -123,6 +123,7 @@
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
+        "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750125505096757657",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750163701726545510",
@@ -133,7 +134,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa325b7a53175ddca05f12b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa34327176467ca89ed4454\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -143,16 +144,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 24193556,
-    "own_reach": 3347557,
+    "total_reach": 24194406,
+    "own_reach": 3348407,
     "movement_reach": 186799,
     "external_reach": 20659200,
-    "own_engagement": 2985,
+    "own_engagement": 2990,
     "movement_engagement": 34,
-    "external_engagement": 10356,
+    "external_engagement": 10368,
     "amplification": 3.47,
     "earned_by_platform": {
-      "Web": 107,
+      "Web": 108,
       "TV": 12,
       "Print": 8
     },
@@ -164,17 +165,18 @@
       "Podchaser": 3,
       "IFRC": 3,
       "ReliefWeb": 3,
+      "Gov": 2,
       "nhk.or.jp": 2,
       "RFI": 2,
       "NHK World": 2,
       "Media UN": 2,
       "VIQ Political Wire": 2,
       "Maroc Diplomatique": 2,
-      "Global: Government News and Documents; Political and Economic Organizations News": 2,
-      "Canada": 1
+      "Global: Government News and Documents; Political and Economic Organizations News": 2
     },
     "outlet_reach": {
       "Podchaser": 46807,
+      "Gov": 0,
       "Canada": 0,
       "jmitic@icrc.org": 0,
       "Nepaleconomicforum": 0,
@@ -187,10 +189,22 @@
       "msn.com": 0,
       "Diario ABC": 0,
       "Rtve": 0,
-      "Rjb": 0,
-      "Bluewin": 0
+      "Rjb": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.cancilleria.gov.co/sala-de-prensa/noticias/colombia-y-singapur-buscan-profundizar-su-relacion-bilateral-con-una-agenda-centrada-en-comercio-inversion-y-transformacion-digital",
+        "platform": "Web",
+        "outlet": "Gov",
+        "source": "external",
+        "language": "Spanish",
+        "engagement": 0,
+        "text": "Durante el encuentro, el Gobierno colombiano destacó a Singapur como un socio estratégico en el Sudeste Asiático y planteó una nueva etapa de relacionamiento con la región Asia-Pacífico, basada en la apertura de mercados, la atracción de inversiones y la consolidación de alianzas",
+        "created": "2026-09-10T23:54:46.548870+00:00",
+        "author": "cancilleria.gov.co",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-envoie-des-experts-en-identification-des-victimes-pour-soutenir-les-operations-de-secours-a-la-suite-des-graves-inondations-survenues-le-.html",
         "platform": "Web",
@@ -381,19 +395,6 @@
         "author": "Diario ABC",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.rtve.es/noticias/20260902/cooperacion-amenaza-ataques-ong-desinformacion-recortes-vidas-peligro/17158563.shtml",
-        "platform": "Web",
-        "outlet": "Rtve",
-        "source": "external",
-        "language": "Spanish",
-        "engagement": 0,
-        "text": "  Con la crisis humanitaria en Ceuta se reaviva la desinformación y los ataques contra las ONG  Envíanos consultas al o a verificartve@rtve.es\n<p> Las ayudas a la cooperación y la acción humanitaria, así como la labor de las organizaciones en países en conflicto o crisis humanita",
-        "created": "2026-09-05T06:13:24.110579+00:00",
-        "author": "María Navarro Sorolla",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 45,
@@ -406,11 +407,11 @@
       "2026-09-07": 7,
       "2026-09-08": 1,
       "2026-09-09": 19,
-      "2026-09-10": 8
+      "2026-09-10": 10
     },
     "by_platform": {
-      "X": 152,
-      "Web": 107,
+      "X": 153,
+      "Web": 108,
       "TV": 12,
       "Facebook": 11,
       "Instagram": 10,
@@ -421,10 +422,10 @@
       "TikTok": 2
     },
     "by_language": {
-      "und": 166,
+      "und": 167,
       "English": 70,
       "French": 48,
-      "Spanish": 25,
+      "Spanish": 26,
       "unknown": 6
     },
     "by_sentiment": {},
@@ -477,7 +478,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 9901,
+        "engagement": 9913,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -492,7 +493,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 810,
+        "engagement": 811,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -531,7 +532,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 248,
+        "engagement": 249,
         "text": "The message is simple. We must stop acting like passengers on this planet and accept our role as crewmates on our planetary spaceship. \n\nAstronaut @astro_nicole lends her voice to #earthsmissingtreaty. Astronauts landing in distress are protected by an international treaty, peopl",
         "created": "2026-09-05T21:03:17.827725+00:00",
         "author": "IFRC",
@@ -583,7 +584,7 @@
         "outlet": "LinkedIn",
         "source": "own",
         "language": "unknown",
-        "engagement": 87,
+        "engagement": 88,
         "text": "Earth has treaties for the seas, the skies and even outer space. But there is still no binding treaty to protect people when disasters strike.\n\nThe devastating floods in Nepal are a painful reminder of both the growing impact of disasters and the importance of preparedness and co",
         "created": "2026-09-04T13:47:51.021000+00:00",
         "author": "IFRC",
@@ -643,6 +644,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://twitter.com/jagan_chapagain/status/2097644061695885541",
+        "platform": "X",
+        "outlet": "Twitter",
+        "source": "own",
+        "language": "und",
+        "engagement": 46,
+        "text": "",
+        "created": "2026-09-09T16:21:18.569799+00:00",
+        "author": "@jagan_chapagain",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.facebook.com/reel/1045989911637258/",
         "platform": "Facebook",
         "outlet": "Facebook",
@@ -652,19 +666,6 @@
         "text": "Astronauts in distress on their way home are protected by an international treaty. \nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a n",
         "created": "2026-09-04T11:56:34.583208+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://twitter.com/jagan_chapagain/status/2097644061695885541",
-        "platform": "X",
-        "outlet": "Twitter",
-        "source": "own",
-        "language": "und",
-        "engagement": 44,
-        "text": "",
-        "created": "2026-09-09T16:21:18.569799+00:00",
-        "author": "@jagan_chapagain",
         "astronauts": [],
         "risk_vectors": []
       },
@@ -801,6 +802,54 @@
     ]
   },
   "items": [
+    {
+      "id": "s0271",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "own",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@KClarksonIFRC",
+      "created": "2026-09-10T23:54:46.566007+00:00",
+      "day": "2026-09-10",
+      "engagement": 0,
+      "reach": 425,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-10T23:54:48.996844+00:00"
+    },
+    {
+      "id": "s0167",
+      "text": "Durante el encuentro, el Gobierno colombiano destacó a Singapur como un socio estratégico en el Sudeste Asiático y planteó una nueva etapa de relacionamiento con la región Asia-Pacífico, basada en la apertura de mercados, la atracción de inversiones y la consolidación de alianzas con economías dinámicas.\n<p> Bogotá D.C. 10 de septiembre de 2026.</p> <p> Uno de los principales propósitos planteados fue estructurar una agenda ejecutiva, con prioridades verificables, responsables institucionales y mecanismos de seguimiento, que permita convertir los acuerdos bilaterales en resultados concretos.</p> <p> El comercio y la inversión ocuparon un lugar central en las conversaciones. Colombia reiteró su interés de avanzar en los procedimientos internos necesarios para una eventual implementación del</p> <p> Tratado de Libre Comercio firmado entre los países de la Alianza del Pacífico y Singapur (PASFTA) y en maximizar sus beneficios para empresas de ambos países. Asimismo, planteó la necesidad de eliminar barreras al comercio bilateral y promover instrumentos como el Acuerdo para Evitar la Doble Imposición (CDI) que busca eliminar la doble tributación, prevenir la evasión fiscal y fomentar la inversión.</p> <p> La transformación digital constituye otro de los campos con mayor potencial. Colombia propuso generar sinergias entre la Estrategia Nacional de Inteligencia Artificial 2.0 de Singapur y su propia agenda de transformación regulatoria y digital, además de mantener el interés en los estándares del Acuerdo de Asociación para la Economía Digital (DEPA). La cooperación podría extenderse a ciudades inteligentes, innovación, prestación de servicios públicos y fortalecimiento de capacidades institucionales.</p> <p> En materia de reconstrucción y resiliencia, el Gobierno colombiano manifestó su interés en priorizar inversiones a través del Fondo Milagro, con énfasis en planificación de la recuperación, gestión de riesgos y resiliencia urbana. En este ámbito, se planteó explorar ",
+      "title": "Colombia y Singapur buscan profundizar su relación bilateral con una agenda centrada en comercio, inversión y transformación digital",
+      "has_text": true,
+      "url": "https://www.cancilleria.gov.co/sala-de-prensa/noticias/colombia-y-singapur-buscan-profundizar-su-relacion-bilateral-con-una-agenda-centrada-en-comercio-inversion-y-transformacion-digital",
+      "platform": "Web",
+      "outlet": "Gov",
+      "source": "external",
+      "language": "Spanish",
+      "language_source": "inferred",
+      "author": "cancilleria.gov.co",
+      "created": "2026-09-10T23:54:46.548870+00:00",
+      "day": "2026-09-10",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-10T23:54:48.996844+00:00"
+    },
     {
       "id": "s0109",
       "text": "",
@@ -1417,16 +1466,16 @@
       "author": "@jagan_chapagain",
       "created": "2026-09-09T16:21:18.569799+00:00",
       "day": "2026-09-09",
-      "engagement": 44,
-      "reach": 51546,
+      "engagement": 46,
+      "reach": 51971,
       "sentiment": "",
       "country": "",
       "is_campaign": false,
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 42,
-      "owned_reach": 912,
+      "owned_engagement": 43,
+      "owned_reach": 916,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -1445,7 +1494,7 @@
       "engagement": 70,
       "reach": 0,
       "owned_engagement": 140,
-      "owned_reach": 1780,
+      "owned_reach": 1792,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -1883,7 +1932,7 @@
       "author": "IFRC",
       "created": "2026-09-05T21:03:17.827725+00:00",
       "day": "2026-09-05",
-      "engagement": 248,
+      "engagement": 249,
       "reach": 366997,
       "sentiment": "",
       "country": "",
@@ -1891,8 +1940,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 264,
-      "owned_reach": 4332,
+      "owned_engagement": 265,
+      "owned_reach": 4349,
       "first_seen": "2026-09-05T21:03:20.020260+00:00"
     },
     {
@@ -2152,7 +2201,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 9901,
+      "engagement": 9913,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -4347,10 +4396,10 @@
       "author": "IFRC",
       "created": "2026-09-04T13:47:51.021000+00:00",
       "day": "2026-09-04",
-      "engagement": 87,
+      "engagement": 88,
       "reach": 0,
-      "owned_engagement": 174,
-      "owned_reach": 3352,
+      "owned_engagement": 176,
+      "owned_reach": 3356,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -5282,7 +5331,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 0,
-      "owned_reach": 25,
+      "owned_reach": 26,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7305,7 +7354,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 705,
+      "owned_reach": 706,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7381,7 +7430,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 93,
-      "owned_reach": 4558,
+      "owned_reach": 4559,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7434,7 +7483,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 65,
-      "owned_reach": 1198,
+      "owned_reach": 1202,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7460,7 +7509,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 72,
-      "owned_reach": 3380,
+      "owned_reach": 3381,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7501,7 +7550,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 810,
+      "engagement": 811,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -7509,9 +7558,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 810,
+      "owned_engagement": 811,
       "owned_video_views": 0,
-      "owned_reach": 17703,
+      "owned_reach": 17719,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7681,7 +7730,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1288,
+      "owned_reach": 1290,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
