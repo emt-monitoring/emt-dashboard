@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T13:29:30+00:00",
+  "generated_at": "2026-09-10T17:07:14+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -41,25 +41,25 @@
     ],
     [
       "2026-09-09",
-      62,
-      65,
-      54
+      68,
+      79,
+      58
     ],
     [
       "2026-09-10",
-      32,
-      27,
-      31
+      42,
+      36,
+      39
     ]
   ],
-  "avg_duration": 49,
+  "avg_duration": 38,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 889,
-      "views": 935,
-      "users": 641
+      "sessions": 906,
+      "views": 958,
+      "users": 648
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -142,11 +142,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 661
+      "value": 678
     },
     {
       "label": "Organic Social",
-      "value": 139
+      "value": 143
     },
     {
       "label": "Referral",
@@ -154,15 +154,15 @@
     },
     {
       "label": "Organic Search",
-      "value": 60
+      "value": 64
     },
     {
       "label": "Unassigned",
-      "value": 32
+      "value": 13
     },
     {
       "label": "Cross-network",
-      "value": 4
+      "value": 2
     }
   ],
   "countries": [
@@ -172,15 +172,15 @@
     },
     {
       "label": "Germany",
-      "value": 121
+      "value": 123
     },
     {
       "label": "Switzerland",
-      "value": 87
+      "value": 88
     },
     {
       "label": "France",
-      "value": 49
+      "value": 51
     },
     {
       "label": "Netherlands",
@@ -191,16 +191,16 @@
       "value": 35
     },
     {
+      "label": "United Kingdom",
+      "value": 34
+    },
+    {
       "label": "Ireland",
       "value": 33
     },
     {
-      "label": "United Kingdom",
-      "value": 31
-    },
-    {
       "label": "Japan",
-      "value": 27
+      "value": 28
     },
     {
       "label": "Lebanon",
@@ -222,7 +222,7 @@
     },
     {
       "label": "click",
-      "value": 45
+      "value": 46
     }
   ],
   "search": null
