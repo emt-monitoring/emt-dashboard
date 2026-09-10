@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T08:55:04+00:00",
+  "generated_at": "2026-09-10T13:29:30+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -47,19 +47,19 @@
     ],
     [
       "2026-09-10",
-      15,
-      11,
-      14
+      32,
+      27,
+      31
     ]
   ],
-  "avg_duration": 89,
+  "avg_duration": 49,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 872,
-      "views": 919,
-      "users": 632
+      "sessions": 889,
+      "views": 935,
+      "users": 641
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -142,11 +142,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 647
+      "value": 661
     },
     {
       "label": "Organic Social",
-      "value": 138
+      "value": 139
     },
     {
       "label": "Referral",
@@ -154,11 +154,11 @@
     },
     {
       "label": "Organic Search",
-      "value": 59
+      "value": 60
     },
     {
       "label": "Unassigned",
-      "value": 26
+      "value": 32
     },
     {
       "label": "Cross-network",
@@ -168,23 +168,23 @@
   "countries": [
     {
       "label": "United States",
-      "value": 130
+      "value": 131
     },
     {
       "label": "Germany",
-      "value": 119
+      "value": 121
     },
     {
       "label": "Switzerland",
-      "value": 86
+      "value": 87
     },
     {
       "label": "France",
-      "value": 47
+      "value": 49
     },
     {
       "label": "Netherlands",
-      "value": 40
+      "value": 41
     },
     {
       "label": "Türkiye",
@@ -196,7 +196,7 @@
     },
     {
       "label": "United Kingdom",
-      "value": 29
+      "value": 31
     },
     {
       "label": "Japan",
@@ -204,11 +204,11 @@
     },
     {
       "label": "Lebanon",
-      "value": 26
+      "value": 27
     },
     {
       "label": "Hungary",
-      "value": 25
+      "value": 26
     },
     {
       "label": "Canada",
@@ -218,7 +218,7 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 92
+      "value": 93
     },
     {
       "label": "click",

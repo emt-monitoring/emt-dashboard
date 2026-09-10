@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-10T08:55:01.613569+00:00",
-    "window_hours": 200,
-    "total": 311,
-    "text_available": 162,
-    "text_masked": 149,
-    "earned_media": 126,
-    "social": 185,
+    "generated": "2026-09-10T13:29:26.403558+00:00",
+    "window_hours": 205,
+    "total": 314,
+    "text_available": 163,
+    "text_masked": 151,
+    "earned_media": 127,
+    "social": 187,
     "by_source": {
-      "external": 267,
+      "external": 270,
       "own": 33,
       "movement": 11
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 33,
     "movement_posts": 11,
-    "external_posts": 267,
+    "external_posts": 270,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,23 +51,23 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "12980"
+      "EARNED_ENGAGEMENT": "13007"
     },
     "owned_true": {
       "posts": 22,
-      "engagement": 2629,
+      "engagement": 2639,
       "video_views": 0,
-      "reach": 58599,
-      "candidates": 362
+      "reach": 58841,
+      "candidates": 376
     },
     "owned_error": "",
     "owned_debug": {
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1104,
+        "FACEBOOK": 1105,
         "TWITTER": 345,
-        "INSTAGRAM": 392,
+        "INSTAGRAM": 391,
         "WECHAT": 6,
         "THREADS": 15,
         "BLUESKY": 17,
@@ -108,8 +108,8 @@
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
         "https://twitter.com/jagan_chapagain/status/2095885257094348808",
         "https://www.facebook.com/reel/1045989911637258/",
-        "https://twitter.com/jagan_chapagain/status/2095476910717284842",
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
+        "https://twitter.com/jagan_chapagain/status/2095476910717284842",
         "https://twitter.com/jagan_chapagain/status/2095870925501583630",
         "https://twitter.com/IFRC_MENA/status/2095949379534287229",
         "https://twitter.com/jagan_chapagain/status/2095794860951228777",
@@ -133,7 +133,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa27051ff934dba87c2ae26\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa2b0992be1dd808697e03e\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -143,16 +143,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 24187986,
-    "own_reach": 3344772,
+    "total_reach": 24192642,
+    "own_reach": 3347100,
     "movement_reach": 186799,
-    "external_reach": 20656415,
-    "own_engagement": 2942,
+    "external_reach": 20658743,
+    "own_engagement": 2957,
     "movement_engagement": 34,
-    "external_engagement": 10313,
-    "amplification": 3.51,
+    "external_engagement": 10327,
+    "amplification": 3.49,
     "earned_by_platform": {
-      "Web": 106,
+      "Web": 107,
       "TV": 12,
       "Print": 8
     },
@@ -171,10 +171,11 @@
       "VIQ Political Wire": 2,
       "Maroc Diplomatique": 2,
       "Global: Government News and Documents; Political and Economic Organizations News": 2,
-      "jmitic@icrc.org": 1
+      "Canada": 1
     },
     "outlet_reach": {
       "Podchaser": 46807,
+      "Canada": 0,
       "jmitic@icrc.org": 0,
       "Nepaleconomicforum": 0,
       "7SUR7.be": 0,
@@ -187,10 +188,24 @@
       "Diario ABC": 0,
       "Rtve": 0,
       "Rjb": 0,
-      "Bluewin": 0,
-      "RTN.ch": 0
+      "Bluewin": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-envoie-des-experts-en-identification-des-victimes-pour-soutenir-les-operations-de-secours-a-la-suite-des-graves-inondations-survenues-le-.html",
+        "platform": "Web",
+        "outlet": "Canada",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Alors que les opérations de secours se poursuivent à la suite des inondations soudaines et dévastatrices survenues le long de la frontière entre le Népal et la Chine, le Canada a déployé à Katmandou, au Népal, deux experts en identification des victimes de catastrophe de la Genda",
+        "created": "2026-09-10T13:29:24.219117+00:00",
+        "author": "canada.ca",
+        "astronauts": [],
+        "risk_vectors": [
+          "venue_uncertainty"
+        ]
+      },
       {
         "url": "http://ct.moreover.com/?a=60374992641&p=1yx&v=1&x=VdzYFFR72Efm9wxPofiNOA",
         "platform": "Web",
@@ -379,19 +394,6 @@
         "author": "María Navarro Sorolla",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.rjb.ch/Scripts/Index.aspx?id=9799915",
-        "platform": "Web",
-        "outlet": "Rjb",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "  Photo: Keystone/AP/STR  La Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne mondiale pour un traité mondial contre les désastres.\n<p>Dévoilée jeudi, celle-ci s'appuie sur le soutien de six astronautes.</p> <p> L",
-        "created": "2026-09-05T06:13:24.108819+00:00",
-        "author": "rjb.ch",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 45,
@@ -404,11 +406,11 @@
       "2026-09-07": 7,
       "2026-09-08": 1,
       "2026-09-09": 19,
-      "2026-09-10": 4
+      "2026-09-10": 7
     },
     "by_platform": {
-      "X": 149,
-      "Web": 106,
+      "X": 151,
+      "Web": 107,
       "TV": 12,
       "Facebook": 11,
       "Instagram": 10,
@@ -419,9 +421,9 @@
       "TikTok": 2
     },
     "by_language": {
-      "und": 163,
+      "und": 165,
       "English": 70,
-      "French": 47,
+      "French": 48,
       "Spanish": 25,
       "unknown": 6
     },
@@ -435,10 +437,24 @@
       "Julie Payette": 1
     },
     "risk_vectors": {
-      "sovereignty": 2,
-      "venue_uncertainty": 1
+      "venue_uncertainty": 2,
+      "sovereignty": 2
     },
     "risk_examples": {
+      "venue_uncertainty": [
+        {
+          "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-envoie-des-experts-en-identification-des-victimes-pour-soutenir-les-operations-de-secours-a-la-suite-des-graves-inondations-survenues-le-.html",
+          "platform": "Web",
+          "text": "Alors que les opérations de secours se poursuivent à la suite des inondations soudaines et dévastatrices survenues le long de la frontière entre le Népal et la Chine, le Canada a déployé à Katmandou, au Népal, deux experts en identification des victimes de catastrophe de la Genda",
+          "engagement": 0
+        },
+        {
+          "url": "https://www.globalgovernmentforum.com/climate-disasters-are-ravaging-government-budgets-aid-works-best-when-paid-upfront/",
+          "platform": "Web",
+          "text": "  Image by magnific  When a cyclone destroyed Chompa Munda's home in coastal Bangladesh in 2019, she and her son went days without food.\n<p>When the next one came in 2024, her phone lit up hours before it made landfall.</p> <p> A US$43 transfer was sent straight to her bank accou",
+          "engagement": 0
+        }
+      ],
       "sovereignty": [
         {
           "url": "https://genevasolutions.news/peace-humanitarian/states-are-writing-the-first-global-rulebook-for-when-disasters-strike",
@@ -452,14 +468,6 @@
           "text": "After two decades of work, a treaty could see the light of day next year, sketching out the rules for how countries help each other when disaster strikes. But they still have to overcome old divides over its implications for sovereignty and human rights.\n<p> Last week, mud and fl",
           "engagement": 0
         }
-      ],
-      "venue_uncertainty": [
-        {
-          "url": "https://www.globalgovernmentforum.com/climate-disasters-are-ravaging-government-budgets-aid-works-best-when-paid-upfront/",
-          "platform": "Web",
-          "text": "  Image by magnific  When a cyclone destroyed Chompa Munda's home in coastal Bangladesh in 2019, she and her son went days without food.\n<p>When the next one came in 2024, her phone lit up hours before it made landfall.</p> <p> A US$43 transfer was sent straight to her bank accou",
-          "engagement": 0
-        }
       ]
     },
     "top_posts": [
@@ -469,7 +477,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 9858,
+        "engagement": 9872,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -484,7 +492,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 798,
+        "engagement": 801,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -497,7 +505,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 761,
+        "engagement": 763,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.580856+00:00",
         "author": "IFRC",
@@ -510,7 +518,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 398,
+        "engagement": 403,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -601,7 +609,7 @@
         "outlet": "LinkedIn",
         "source": "own",
         "language": "unknown",
-        "engagement": 64,
+        "engagement": 65,
         "text": "The world should not wait for the next major disaster to decide how it should work together. \n \nIn 2027, governments will convene to negotiate the adoption of the Treaty on the Protection of Persons in the Event of Disasters, the first comprehensive global treaty dedicated to pro",
         "created": "2026-09-09T11:13:12.342000+00:00",
         "author": "IFRC",
@@ -653,7 +661,7 @@
         "outlet": "Twitter",
         "source": "own",
         "language": "und",
-        "engagement": 40,
+        "engagement": 43,
         "text": "",
         "created": "2026-09-09T16:21:18.569799+00:00",
         "author": "@jagan_chapagain",
@@ -700,6 +708,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7501241781276110849",
+        "platform": "LinkedIn",
+        "outlet": "LinkedIn",
+        "source": "own",
+        "language": "unknown",
+        "engagement": 35,
+        "text": "Disasters do not stop at borders, and neither should our ability to help people. Every hour lost to legal and administrative barriers can cost lives. Earth has treaties for the skies, the seas and even outer space. \n\nToday, I am very proud to announce that the International Feder",
+        "created": "2026-09-03T11:37:05.304000+00:00",
+        "author": "IFRC",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7501255050967576577",
         "platform": "LinkedIn",
         "outlet": "LinkedIn",
@@ -708,19 +729,6 @@
         "engagement": 34,
         "text": "When disasters strike, delays cost lives. \n\nOur Earth’s Missing Treaty campaign, launched today, highlights IFRC’s call for countries to support the adoption of the Treaty on the Protection of Persons in the Event of Disasters, which UN Member States have agreed to negotiate and ",
         "created": "2026-09-03T12:29:43.927000+00:00",
-        "author": "IFRC",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7501241781276110849",
-        "platform": "LinkedIn",
-        "outlet": "LinkedIn",
-        "source": "own",
-        "language": "unknown",
-        "engagement": 34,
-        "text": "Disasters do not stop at borders, and neither should our ability to help people. Every hour lost to legal and administrative barriers can cost lives. Earth has treaties for the skies, the seas and even outer space. \n\nToday, I am very proud to announce that the International Feder",
-        "created": "2026-09-03T11:37:05.304000+00:00",
         "author": "IFRC",
         "astronauts": [],
         "risk_vectors": []
@@ -793,6 +801,80 @@
     ]
   },
   "items": [
+    {
+      "id": "s0269",
+      "text": "Alors que les opérations de secours se poursuivent à la suite des inondations soudaines et dévastatrices survenues le long de la frontière entre le Népal et la Chine, le Canada a déployé à Katmandou, au Népal, deux experts en identification des victimes de catastrophe de la Gendarmerie royale du Canada (GRC) afin qu'ils se joignent aux autres représentantes et représentants canadiens déjà sur place.\n<p> Ce déploiement s'inscrit dans l'intervention que mène actuellement le Canada dans la région. Les représentants et représentantes du Canada continuent de collaborer étroitement avec les autorités au Népal et en Chine, ainsi qu'avec leurs partenaires internationaux, afin de soutenir les efforts visant à retrouver les Canadiens et Canadiennes et les résidents permanents portés disparus et d'aider les familles touchées. Les experts en identification des victimes de catastrophe de la GRC se joindront à leurs partenaires internationaux pour aider à identifier les victimes, conformément aux normes d'INTERPOL dans ce domaine.</p> <p> Au Canada, la GRC, avec l'aide du bureau d'INTERPOL à Ottawa et en collaboration avec d'autres services de police canadiens et internationaux, coordonne le prélèvement d'échantillons d'ADN des proches des Canadiennes et Canadiens disparus. La Banque nationale de données génétiques traite ces échantillons afin de créer des profils d'ADN familiaux qui seront utilisés sur le terrain par les services de police scientifique à des fins de comparaison.</p> <p> Les représentants et représentantes d'Affaires mondiales Canada (AMC) sont en contact régulier avec les familles touchées. Des agentes et agents consulaires désignés agissent comme points de contact principaux : ils fournissent des mises à jour dès que des renseignements sont accessibles, assurent la coordination avec les responsables gouvernementaux et veillent à ce que les familles reçoivent des renseignements fiables en temps opportun.</p> <p> Le Canada a déjà déployé des représentants et repr",
+      "title": "Le Canada envoie des experts en identification des victimes pour soutenir les opérations de secours à la suite des graves inondations survenues le long de la frontière entre le Népal et la Chine",
+      "has_text": true,
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-envoie-des-experts-en-identification-des-victimes-pour-soutenir-les-operations-de-secours-a-la-suite-des-graves-inondations-survenues-le-.html",
+      "platform": "Web",
+      "outlet": "Canada",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "canada.ca",
+      "created": "2026-09-10T13:29:24.219117+00:00",
+      "day": "2026-09-10",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [
+        "venue_uncertainty"
+      ],
+      "first_seen": "2026-09-10T13:29:26.396964+00:00"
+    },
+    {
+      "id": "s0164",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/COMIR_UCV/status/2097986746109632740",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@COMIR_UCV",
+      "created": "2026-09-10T13:29:24.197606+00:00",
+      "day": "2026-09-10",
+      "engagement": 0,
+      "reach": 2233,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-10T13:29:26.396964+00:00"
+    },
+    {
+      "id": "s0109",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/cwaterfallenv/status/2098002768728302075",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@cwaterfallenv",
+      "created": "2026-09-10T13:29:24.186835+00:00",
+      "day": "2026-09-10",
+      "engagement": 0,
+      "reach": 95,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-10T13:29:26.396964+00:00"
+    },
     {
       "id": "s0266",
       "text": "Las municiones en racimo generan daño tanto en el momento del ataque como mucho tiempo después de finalizado el combate. Al esparcir submuniciones en superficies muy amplias, muchas veces sin alcanzar el objetivo pretendido, ponen en peligro inmediato a personas ...",
@@ -1311,16 +1393,16 @@
       "author": "@jagan_chapagain",
       "created": "2026-09-09T16:21:18.569799+00:00",
       "day": "2026-09-09",
-      "engagement": 40,
-      "reach": 48761,
+      "engagement": 43,
+      "reach": 51089,
       "sentiment": "",
       "country": "",
       "is_campaign": false,
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 38,
-      "owned_reach": 796,
+      "owned_engagement": 41,
+      "owned_reach": 875,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -1336,10 +1418,10 @@
       "author": "IFRC",
       "created": "2026-09-09T11:13:12.342000+00:00",
       "day": "2026-09-09",
-      "engagement": 64,
+      "engagement": 65,
       "reach": 0,
-      "owned_engagement": 128,
-      "owned_reach": 1550,
+      "owned_engagement": 130,
+      "owned_reach": 1664,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -1786,7 +1868,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 261,
-      "owned_reach": 4267,
+      "owned_reach": 4283,
       "first_seen": "2026-09-05T21:03:20.020260+00:00"
     },
     {
@@ -2046,7 +2128,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 9858,
+      "engagement": 9872,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -3933,7 +4015,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1243,
+      "owned_reach": 1247,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -4225,7 +4307,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 35,
-      "owned_reach": 1402,
+      "owned_reach": 1404,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -4244,7 +4326,7 @@
       "engagement": 87,
       "reach": 0,
       "owned_engagement": 174,
-      "owned_reach": 3310,
+      "owned_reach": 3318,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -7275,7 +7357,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 93,
-      "owned_reach": 4542,
+      "owned_reach": 4547,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7302,7 +7384,7 @@
       "risk_vectors": [],
       "owned_engagement": 46,
       "owned_video_views": 0,
-      "owned_reach": 1732,
+      "owned_reach": 1737,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7328,7 +7410,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 65,
-      "owned_reach": 1194,
+      "owned_reach": 1196,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7354,7 +7436,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 72,
-      "owned_reach": 3367,
+      "owned_reach": 3370,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7395,7 +7477,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 798,
+      "engagement": 801,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -7403,9 +7485,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 798,
+      "owned_engagement": 801,
       "owned_video_views": 0,
-      "owned_reach": 17497,
+      "owned_reach": 17540,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7422,7 +7504,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 398,
+      "engagement": 403,
       "reach": 351,
       "sentiment": "",
       "country": "",
@@ -7448,7 +7530,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.580856+00:00",
       "day": "2026-09-04",
-      "engagement": 761,
+      "engagement": 763,
       "reach": 368968,
       "sentiment": "",
       "country": "",
@@ -7456,8 +7538,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 831,
-      "owned_reach": 16988,
+      "owned_engagement": 833,
+      "owned_reach": 17000,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7550,7 +7632,7 @@
       "engagement": 34,
       "reach": 0,
       "owned_engagement": 68,
-      "owned_reach": 1250,
+      "owned_reach": 1266,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -7572,10 +7654,10 @@
       "author": "IFRC",
       "created": "2026-09-03T11:37:05.304000+00:00",
       "day": "2026-09-03",
-      "engagement": 34,
+      "engagement": 35,
       "reach": 0,
-      "owned_engagement": 68,
-      "owned_reach": 1280,
+      "owned_engagement": 70,
+      "owned_reach": 1284,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
