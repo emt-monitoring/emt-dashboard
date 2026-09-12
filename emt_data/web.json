@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:53:03+00:00",
+  "generated_at": "2026-09-12T00:01:49+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -53,19 +53,19 @@
     ],
     [
       "2026-09-11",
-      18,
-      19,
-      14
+      20,
+      21,
+      16
     ]
   ],
-  "avg_duration": 229,
+  "avg_duration": 209,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 928,
-      "views": 982,
-      "users": 657
+      "sessions": 930,
+      "views": 984,
+      "users": 658
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -160,7 +160,7 @@
     },
     {
       "label": "Organic Search",
-      "value": 68
+      "value": 69
     },
     {
       "label": "Unassigned",
@@ -168,13 +168,13 @@
     },
     {
       "label": "Cross-network",
-      "value": 1
+      "value": 2
     }
   ],
   "countries": [
     {
       "label": "United States",
-      "value": 133
+      "value": 134
     },
     {
       "label": "Germany",
@@ -193,11 +193,11 @@
       "value": 41
     },
     {
-      "label": "Türkiye",
-      "value": 35
+      "label": "United Kingdom",
+      "value": 36
     },
     {
-      "label": "United Kingdom",
+      "label": "Türkiye",
       "value": 35
     },
     {
