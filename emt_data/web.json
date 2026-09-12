@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:46:41+00:00",
+  "generated_at": "2026-09-12T18:15:29+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -53,15 +53,15 @@
     ],
     [
       "2026-09-11",
-      20,
-      21,
-      16
+      23,
+      26,
+      18
     ],
     [
       "2026-09-12",
-      7,
-      7,
-      7
+      8,
+      8,
+      8
     ]
   ],
   "avg_duration": 3,
@@ -69,9 +69,9 @@
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 933,
-      "views": 988,
-      "users": 660
+      "sessions": 937,
+      "views": 994,
+      "users": 661
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -161,11 +161,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 700
+      "value": 704
     },
     {
       "label": "Organic Social",
-      "value": 148
+      "value": 151
     },
     {
       "label": "Referral",
@@ -173,25 +173,21 @@
     },
     {
       "label": "Organic Search",
-      "value": 69
+      "value": 70
     },
     {
       "label": "Unassigned",
-      "value": 13
-    },
-    {
-      "label": "Cross-network",
-      "value": 2
+      "value": 4
     }
   ],
   "countries": [
     {
       "label": "United States",
-      "value": 135
+      "value": 136
     },
     {
       "label": "Germany",
-      "value": 129
+      "value": 130
     },
     {
       "label": "Switzerland",
@@ -219,7 +215,7 @@
     },
     {
       "label": "Lebanon",
-      "value": 30
+      "value": 31
     },
     {
       "label": "Japan",
