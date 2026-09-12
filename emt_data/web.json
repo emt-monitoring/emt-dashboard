@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:06:25+00:00",
+  "generated_at": "2026-09-12T08:35:57+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -56,15 +56,21 @@
       20,
       21,
       16
+    ],
+    [
+      "2026-09-12",
+      1,
+      1,
+      1
     ]
   ],
-  "avg_duration": 209,
+  "avg_duration": 0,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
       "sessions": 930,
-      "views": 984,
+      "views": 985,
       "users": 658
     },
     {
@@ -205,11 +211,11 @@
       "value": 33
     },
     {
-      "label": "Japan",
-      "value": 29
+      "label": "Lebanon",
+      "value": 30
     },
     {
-      "label": "Lebanon",
+      "label": "Japan",
       "value": 29
     },
     {
