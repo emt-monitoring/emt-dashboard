@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-14T16:54:53.879466+00:00",
-    "window_hours": 304,
-    "total": 359,
-    "text_available": 184,
+    "generated": "2026-09-14T20:51:11.489096+00:00",
+    "window_hours": 308,
+    "total": 360,
+    "text_available": 185,
     "text_masked": 175,
-    "earned_media": 136,
+    "earned_media": 137,
     "social": 223,
     "by_source": {
-      "external": 294,
+      "external": 295,
       "own": 52,
       "movement": 13
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 52,
     "movement_posts": 13,
-    "external_posts": 294,
+    "external_posts": 295,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "14559"
+      "EARNED_ENGAGEMENT": "14573"
     },
     "owned_true": {
       "posts": 28,
       "engagement": 2752,
       "video_views": 0,
-      "reach": 64311,
-      "candidates": 532
+      "reach": 64341,
+      "candidates": 533
     },
     "owned_error": "",
     "owned_debug": {
@@ -82,6 +82,7 @@
         "1073056618413903",
         "2095430937253146779",
         "2095436649932939472",
+        "2095450802273796160",
         "2095476910717284842",
         "2095489170873467370",
         "2095512166698828093",
@@ -95,21 +96,20 @@
         "2095885257094348808",
         "2095949379534287229",
         "2097644061695885541",
-        "2098192326179139624",
-        "2098400325786824780"
+        "2098192326179139624"
       ],
       "own_urls": [
         "https://www.facebook.com/reel/2620770065007963/",
         "https://www.instagram.com/reel/Dc0Z9VxRkW0/",
         "https://www.tiktok.com/@ifrc/video/7684271318954446103",
-        "https://www.tiktok.com/@ifrc/video/7681225731871116567",
         "https://www.tiktok.com/@ifrc/video/7684276352966528278",
+        "https://www.tiktok.com/@ifrc/video/7681225731871116567",
         "https://www.instagram.com/reel/Dc637qgKbcN/",
         "https://twitter.com/ifrc/status/2095430937253146779",
-        "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "https://www.facebook.com/reel/1073056618413903/",
-        "https://twitter.com/ifrc/status/2095787231713571088",
+        "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "https://www.instagram.com/reel/DdOFWi9DXV6/",
+        "https://twitter.com/ifrc/status/2095787231713571088",
         "https://www.youtube.com/shorts/oDDZQ_VYiPY",
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
         "https://twitter.com/jagan_chapagain/status/2095885257094348808",
@@ -131,6 +131,7 @@
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/NenaStoiljkovic/status/2098504515645276302",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
@@ -150,7 +151,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa826bbc322bce9733fcab3\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aa85e21f5fe124b12494614\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -160,26 +161,26 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 32465096,
-    "own_reach": 11588186,
+    "total_reach": 32465476,
+    "own_reach": 11588566,
     "movement_reach": 187220,
     "external_reach": 20689690,
-    "own_engagement": 4525,
+    "own_engagement": 4539,
     "movement_engagement": 42,
     "external_engagement": 10527,
-    "amplification": 2.33,
+    "amplification": 2.32,
     "earned_by_platform": {
-      "Web": 116,
+      "Web": 117,
       "TV": 12,
       "Print": 8
     },
     "top_outlets": {
       "KBTCDT2": 10,
+      "United Nations": 5,
       "Podchaser": 4,
       "ReliefWeb": 4,
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
-      "United Nations": 4,
       "msn.com": 2,
       "Gov": 2,
       "nhk.or.jp": 2,
@@ -192,6 +193,7 @@
     },
     "outlet_reach": {
       "Podchaser": 47807,
+      "United Nations": 0,
       "Vietnam": 0,
       "Theatrum Belli": 0,
       "Espectacular2000": 0,
@@ -204,10 +206,24 @@
       "Nepaleconomicforum": 0,
       "7SUR7.be": 0,
       "Impact News Service": 0,
-      "Oneplanete": 0,
-      "Atlasmalawi": 0
+      "Oneplanete": 0
     },
     "earned_top": [
+      {
+        "url": "https://news.un.org/zh/story/2026/09/1142782",
+        "platform": "Web",
+        "outlet": "United Nations",
+        "source": "external",
+        "language": "und",
+        "engagement": 0,
+        "text": "随着气候变化加剧、自然灾害频发，红十字与红新月国际联合会日前发起“地球缺失的条约”（Earth's Missing Treaty）全球倡议，呼吁各国致力于制定首个专门保护灾害中受影响民众的国际条约，为灾害发生前、发生时和发生后提供更有力的国际合作框架。\n<p> “地球缺失的条约” 倡议于9月3日在联合国总部举行的新闻发布会上正式启动。</p> <p> 红十字与红新月国际联合会常驻联合国观察员迪伦·温德（Dylan Winder）表示，“当前国际社会已经为遇险宇航员建立了国际法律保护机制，但与此形成鲜明对比的是，面对洪水、地震等自然灾害，全球仍缺乏一项统一",
+        "created": "2026-09-14T20:51:07.245874+00:00",
+        "author": "news.un.org",
+        "astronauts": [
+          "Dr. Sian Proctor"
+        ],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.vietnam.vn/fr/tang-cuong-lan-toa-phu-xanh-thong-tin-tich-cuc-trong-ky-nguyen-so-ky-1-nhan-dien-nhung-chieu-tro-chong-pha",
         "platform": "Web",
@@ -396,22 +412,9 @@
         "author": "oneplanete.com",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.podchaser.com/podcasts/english-news-nhk-world-radio-j-42834/episodes/nhk-world-radio-japan-english-308005788",
-        "platform": "Web",
-        "outlet": "Podchaser",
-        "source": "external",
-        "language": "und",
-        "engagement": 0,
-        "text": "NHK WORLD RADIO JAPAN - English News at 03:00 (JST), September 05",
-        "created": "2026-09-05T22:46:33.164118+00:00",
-        "author": "NHK WORLD-JAPAN",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
-    "campaign_named": 58,
+    "campaign_named": 59,
     "treaty_only": 24,
     "by_day": {
       "2026-09-03": 36,
@@ -425,11 +428,11 @@
       "2026-09-11": 21,
       "2026-09-12": 7,
       "2026-09-13": 11,
-      "2026-09-14": 2
+      "2026-09-14": 3
     },
     "by_platform": {
       "X": 175,
-      "Web": 116,
+      "Web": 117,
       "Facebook": 15,
       "Instagram": 13,
       "TV": 12,
@@ -440,7 +443,7 @@
       "Bluesky": 3
     },
     "by_language": {
-      "und": 189,
+      "und": 190,
       "English": 84,
       "French": 51,
       "Spanish": 29,
@@ -448,11 +451,11 @@
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 18,
-      "Jean-François Clervoy": 3,
+      "Dr. Sian Proctor": 20,
       "José Hernández": 2,
       "Nicole Stott": 2,
       "Scott Kelly": 2,
+      "Jean-François Clervoy": 2,
       "Julie Payette": 1
     },
     "risk_vectors": {
@@ -550,7 +553,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 440,
+        "engagement": 443,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -610,12 +613,25 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.facebook.com/reel/1073056618413903/",
+        "platform": "Facebook",
+        "outlet": "Facebook",
+        "source": "own",
+        "language": "English",
+        "engagement": 104,
+        "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi  joins IFRC to call for the protection of people in disasters. \n\nLearn more at earthsmissingtreaty.org #E",
+        "created": "2026-09-13T11:30:23.379705+00:00",
+        "author": "International Federation of Red Cross and Red Crescent Societies",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "platform": "Instagram",
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 100,
+        "engagement": 101,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts.\n\nIn the latest episode of IFRC Weekly News, Melis Figanmeşe, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.255358+00:00",
         "author": "IFRC",
@@ -632,19 +648,6 @@
         "text": "Earth has treaties for the seas, the skies and even outer space. But there is still no binding treaty to protect people when disasters strike.\n\nThe devastating floods in Nepal are a painful reminder of both the growing impact of disasters and the importance of preparedness and co",
         "created": "2026-09-04T13:47:51.021000+00:00",
         "author": "IFRC",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.facebook.com/reel/1073056618413903/",
-        "platform": "Facebook",
-        "outlet": "Facebook",
-        "source": "own",
-        "language": "English",
-        "engagement": 96,
-        "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi  joins IFRC to call for the protection of people in disasters. \n\nLearn more at earthsmissingtreaty.org #E",
-        "created": "2026-09-13T11:30:23.379705+00:00",
-        "author": "International Federation of Red Cross and Red Crescent Societies",
         "astronauts": [],
         "risk_vectors": []
       },
@@ -667,7 +670,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 91,
+        "engagement": 93,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. @mscoolastro  joins @IFRC to call for the protection of people in disasters. \n\nLearn more at earthsmissingtreaty.or",
         "created": "2026-09-13T11:30:23.379144+00:00",
         "author": "IFRC",
@@ -820,6 +823,32 @@
     ]
   },
   "items": [
+    {
+      "id": "s0313",
+      "text": "随着气候变化加剧、自然灾害频发，红十字与红新月国际联合会日前发起“地球缺失的条约”（Earth's Missing Treaty）全球倡议，呼吁各国致力于制定首个专门保护灾害中受影响民众的国际条约，为灾害发生前、发生时和发生后提供更有力的国际合作框架。\n<p> “地球缺失的条约” 倡议于9月3日在联合国总部举行的新闻发布会上正式启动。</p> <p> 红十字与红新月国际联合会常驻联合国观察员迪伦·温德（Dylan Winder）表示，“当前国际社会已经为遇险宇航员建立了国际法律保护机制，但与此形成鲜明对比的是，面对洪水、地震等自然灾害，全球仍缺乏一项统一而全面的国际条约来协调跨境援助与合作”。</p> <p> ©人道协调厅/ Priscilla Lecomte</p> <p> 红十字会志愿者准备在刚果民主共和国布尼亚地区开展埃博拉病毒防治意识培训。</p> <p> 灾害频发凸显国际合作缺口</p> <p> 2025年，全球共发生358起与自然灾害相关的事件，影响超过1.1亿人，造成约1697亿美元经济损失。</p> <p> 与此同时，灾后救援仍面临诸多现实障碍。</p> <p> 红十字与红新月国际联合会的研究显示，在未获得关税豁免的情况下，部分人道主义救援物资面临平均约17%的进口关税，高于全球制造业产品平均关税水平；在许多易受灾地区，即使在正常情况下，海关清关也平均需要约11天。此外，在大型灾害发生后，约60%的到达物资并非最急需的救援用品，进一步加重了当地物流系统负担。</p> <p> 温德表示，当重大灾害超出一个国家自身应对能力时，这些行政和制度障碍往往会延误救援人员、专业设备和救命物资的抵达。</p> <p> 他说：“我们需要一个共同的国际框架，帮助各国在灾害发生前就建立合作机制，而不是在危机来临时再仓促应对。”</p> <p> ©UNICEF/Laxmi Prasad Ngakhusi</p> <p> 尼泊尔中北部努瓦科特地区遭遇毁灭性山洪。</p> <p> 尼泊尔洪灾成为现实警示</p> <p> 在这场新闻发布会上，多位发言者都提到尼泊尔近期发生的严重洪灾，并认为这场灾难凸显了加强国际协调和提前防灾准备的重要性。</p> <p> 红十字与红新月国际联合会常驻联合国观察员温德表示，在偏远地区发生的大规模灾害往往给救援工作带来巨大挑战。虽然该组织依靠遍布全球191个国家的红十字与红新月会以及1800万名志愿者，能够快速深入受灾社区，但在重大灾害面前，跨境协调、运输和资源调动仍然十分复杂并充满了挑战。</p> <p> 他说：“如果建立一项全球条约，各国将能够在灾害发生前就确定合作程序和法律安排，从而避免在紧急时刻受到繁琐程序限制，使援助更快到达有需要的人手中。”</p> <p> 联合国图片/埃文·施耐德</p> <p> 2004 年印度洋海啸一周后，从空中俯瞰印度尼西亚班达亚齐和穆拉博之间满目疮痍的海岸。</p> <p> 历经二十年的努力</p> <p> 其实，国际社会推动制定《灾害情况下人员保护国际公约》的进程早在2006年就开始了。2004年印度洋海啸造成20多万人死亡，这一重大灾害暴露出国际社会在灾害救援、跨境援助协调以及受灾人员权益保护方面缺乏统一法律框架的问题。为此，联合国国际法委员会将“灾害情况下的人员保护”列入国际法编纂议题，着手研究建立一套普遍适用的国际规则。</p> <p> 经过十年的研究和谈判，国际法委员会于 2016年通过《灾害情况下人员保护条约草案》 ，并提交联合国大会审议。该草案共18条，确立了以受灾人员保护为中心的原则，涵盖国家责任、国际合作、灾害风险减少、灾害应对和灾后恢复等内容。</p> <p> 经过多年磋商，联合国大会于 2024年12月 决定以该草案为基础，正式启动制定国际条约的进程，并要求在 2027年底前 完成条约谈判。</p> <p> Unsplash/ NASA</p> <p> 一名NASA宇航员漂浮在太空中。</p> <p> 从太空俯瞰地球：一位宇航员的呼吁</p> <p> 发布会上最引人注目的声音之一来自美国宇航员兼地球科学家西安·普罗克特（Sian Proctor）。</p> <p> 作为2021年“灵感4号”（Inspiration4）任务的成员，她成为首位商业载人航天任务女飞行员，并亲身体验了许多宇航员所描述的“总览效应”（Overview Effect）——从太空俯瞰地球后产生的深刻心理和情感转变。</p> <p> 普罗克特回忆说，当她从轨道上凝视地球时，最震撼的画面是浩瀚的海洋、包裹地球的大气层以及不断变化的云层。</p> <p> 她说：“我意识到，我们生活在一个水的星球之上。人类共同拥有同一片天空和同一个海洋。”</p> <p> 地球另一个令她惊叹的地方就是将阳",
+      "title": "【专题报道 | 前方视野】填补“地球缺失的条约”：推动建立全球首个灾害保护国际条约",
+      "has_text": true,
+      "url": "https://news.un.org/zh/story/2026/09/1142782",
+      "platform": "Web",
+      "outlet": "United Nations",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "news.un.org",
+      "created": "2026-09-14T20:51:07.245874+00:00",
+      "day": "2026-09-14",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": true,
+      "is_treaty": false,
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
+      "risk_vectors": [],
+      "first_seen": "2026-09-14T20:51:11.481786+00:00"
+    },
     {
       "id": "s0247",
       "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts.\n\nIn the latest episode of IFRC Weekly News, Melis Figanmeşe, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s first comprehensive international disaster treaty, why astronauts are supporting the campaign, and how global rules could better protect people before, during and after disasters.\n\nListen to the latest episode and learn more about Earth’s Missing Treaty! (Link in bio)",
@@ -1058,7 +1087,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1609,
+      "owned_reach": 1621,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -1075,7 +1104,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-13T11:30:23.379705+00:00",
       "day": "2026-09-13",
-      "engagement": 96,
+      "engagement": 104,
       "reach": 780437,
       "sentiment": "",
       "country": "",
@@ -1100,7 +1129,7 @@
       "author": "IFRC",
       "created": "2026-09-13T11:30:23.379144+00:00",
       "day": "2026-09-13",
-      "engagement": 91,
+      "engagement": 93,
       "reach": 367455,
       "sentiment": "",
       "country": "",
@@ -1124,8 +1153,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 440,
-      "reach": 0,
+      "engagement": 443,
+      "reach": 346,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -1614,7 +1643,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 844,
+      "owned_reach": 848,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -1631,7 +1660,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.255358+00:00",
       "day": "2026-09-11",
-      "engagement": 100,
+      "engagement": 101,
       "reach": 367350,
       "sentiment": "",
       "country": "",
@@ -1656,7 +1685,7 @@
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
       "engagement": 459,
-      "reach": 342,
+      "reach": 376,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -1784,7 +1813,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 451,
+      "owned_reach": 452,
       "first_seen": "2026-09-11T13:27:05.484659+00:00"
     },
     {
@@ -2484,7 +2513,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1056,
+      "owned_reach": 1057,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -2503,7 +2532,7 @@
       "engagement": 84,
       "reach": 0,
       "owned_engagement": 168,
-      "owned_reach": 2144,
+      "owned_reach": 2150,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -2950,7 +2979,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 281,
-      "owned_reach": 4607,
+      "owned_reach": 4616,
       "first_seen": "2026-09-05T21:03:20.020260+00:00"
     },
     {
@@ -7609,16 +7638,16 @@
     },
     {
       "id": "s0041",
-      "text": "La Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne mondiale pour un traité mondial contre les désastres. Dévoilée jeudi, celle-ci s'appuie sur le soutien de six astronautes.\n<p>L'astronaute français Jean-Francois Clervoy (à droite) soutient l'action de la FICR (archives). Keystone/AP/STR</p> <p>© KEYSTONE</p> <p>Les Etats se réuniront en 2027 pour négocier un traité international sur les catastrophes. La FICR, étable à Genève, les accompagne avec son expérience technique et des décennies de préparation aux désastres.</p> <p>\"Le droit international protège les astronautes\", mais \"il n'y a pas de traité international sur la manière avec laquelle les pays devraient collaborer pour protéger des personnes avant, pendant et après un désastre\", déplore la FICR.</p> <p>Cet accord pourrait notamment un déploiement plus rapide des travailleurs humanitaires, des procédures douanières facilitées pour le matériel et une collaboration plus prévisible entre gouvernements et organisations humanitaires. Les coûts seraient plus bas et les barrières administratives seraient moins importantes, selon l'institution.</p> <p>De quoi mieux protéger les personnes affectées. \"Chaque heure perdue en raison de barrières légales ou administratives\" peut empêcher de sauver des victimes, affirme le secrétaire général de la FICR Jagan Chapagain.</p> <p>En 2025, 358 désastres naturels ont eu des effets pour plus de 110 millions d'individus. Les pertes économiques ont atteint plus de 169 milliards de dollars. Certains matériels humanitaires sont taxés deux fois que les autres marchandises.</p> <p>Dans de nombreux pays exposés aux désastres, les procédures douanières prennent habituellement environ 11 jours. Et environ 60% des approvisionnements qui arrivent portent sur des biens qui ne sont pas urgents et n'auraient pas dû être envoyés, rendant plus difficile le travail des humanitaires en termes de personnel, de stockage et de distr",
+      "text": "Desastres: la Croix-Rouge lance une campagne pour un traite mondial",
       "title": "Désastres: la Croix-Rouge lance une campagne pour un traité mondial",
       "has_text": true,
       "url": "https://www.rhonefm.ch/suisse/desastres-la-croix-rouge-lance-une-campagne-pour-un-traite-mondial-1739986",
       "platform": "Web",
-      "outlet": "Rhonefm",
+      "outlet": "Rhone FM",
       "source": "external",
       "language": "French",
-      "language_source": "inferred",
-      "author": "rhonefm.ch",
+      "language_source": "manual",
+      "author": "Rhone FM",
       "created": "2026-09-04T11:56:34.590444+00:00",
       "day": "2026-09-04",
       "engagement": 0,
@@ -7627,9 +7656,7 @@
       "country": "",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [
-        "Jean-François Clervoy"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "self_reported": true,
@@ -8808,11 +8835,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtcG14WnotWF93VTYwaDdZaUthYzFXcHkxdTVfR2k1QlZ3aUhzaXJCbmZTSDdSMFV1bDkxZEZmYzg5SGtkTVdSSUxzZ3VfVkJITjdQLUpZeVpSdTc2aGVRNU9jX3NxUzlQTXZkdmhWWlpiZGMtZDFCYWlTV0Z2LTAzeHRFSXc4LUpfQ1lmMEtfZGlLSzktaFdFQQ?oc=5",
       "platform": "Web",
-      "outlet": "ifrc.org",
+      "outlet": "IFRC",
       "source": "own",
       "language": "French",
       "language_source": "manual",
-      "author": "ifrc.org",
+      "author": "IFRC",
       "created": "2026-09-03T03:57:38+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -8833,11 +8860,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM?oc=5",
       "platform": "Web",
-      "outlet": "IFRC",
+      "outlet": "ifrc.org",
       "source": "own",
       "language": "English",
       "language_source": "manual",
-      "author": "IFRC",
+      "author": "ifrc.org",
       "created": "2026-09-03T03:55:34+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -9024,15 +9051,15 @@
     },
     {
       "id": "a0142",
-      "text": "Desastres: la Croix-Rouge lance une campagne pour un traite mondial",
+      "text": "  La Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne mondiale pour un traité mondial contre les désastres.\n<p>Dévoilée jeudi, celle-ci s'appuie sur le soutien de six astronautes.</p> <p> Les Etats se réuniront en 2027 pour négocier un traité international sur les catastrophes. La FICR, étable à Genève, les accompagne avec son expérience technique et des décennies de préparation aux désastres.</p> <p> 'Le droit international protège les astronautes', mais 'il n'y a pas de traité international sur la manière avec laquelle les pays devraient collaborer pour protéger des personnes avant, pendant et après un désastre', déplore la FICR.</p> <p> Cet accord pourrait notamment un déploiement plus rapide des travailleurs humanitaires, des procédures douanières facilitées pour le matériel et une collaboration plus prévisible entre gouvernements et organisations humanitaires. Les coûts seraient plus bas et les barrières administratives seraient moins importantes, selon l'institution.</p> <p> De quoi mieux protéger les personnes affectées. 'Chaque heure perdue en raison de barrières légales ou administratives' peut empêcher de sauver des victimes, affirme le secrétaire général de la FICR Jagan Chapagain.</p> <p> En 2025, 358 désastres naturels ont eu des effets pour plus de 110 millions d'individus. Les pertes économiques ont atteint plus de 169 milliards de dollars. Certains matériels humanitaires sont taxés deux fois que les autres marchandises.</p> <p> Dans de nombreux pays exposés aux désastres, les procédures douanières prennent habituellement environ 11 jours. Et environ 60% des approvisionnements qui arrivent portent sur des biens qui ne sont pas urgents et n'auraient pas dû être envoyés, rendant plus difficile le travail des humanitaires en termes de personnel, de stockage et de distribution, ajoute également l'organisation.</p>",
       "has_text": true,
       "url": "https://www.rfj.ch/rfj/Actualite/Suisse/Desastres-la-Croix-Rouge-lance-une-campagne-pour-un-traite-mondial.html",
       "platform": "Web",
-      "outlet": "RFJ",
+      "outlet": "Rfj",
       "source": "external",
       "language": "French",
-      "language_source": "manual",
-      "author": "RFJ",
+      "language_source": "inferred",
+      "author": "Fréquence Jura",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -9174,15 +9201,15 @@
     },
     {
       "id": "a0148",
-      "text": "La Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne mondiale pour un traité mondial contre les désastres. Dévoilée jeudi, celle-ci s'appuie sur le soutien de six astronautes.\n<p> Les Etats se réuniront en 2027 pour négocier un traité international sur les catastrophes. La FICR, étable à Genève, les accompagne avec son expérience technique et des décennies de préparation aux désastres.</p> <p> 'Le droit international protège les astronautes', mais 'il n'y a pas de traité international sur la manière avec laquelle les pays devraient collaborer pour protéger des personnes avant, pendant et après un désastre', déplore la FICR.</p> <p> Cet accord pourrait notamment un déploiement plus rapide des travailleurs humanitaires, des procédures douanières facilitées pour le matériel et une collaboration plus prévisible entre gouvernements et organisations humanitaires. Les coûts seraient plus bas et les barrières administratives seraient moins importantes, selon l'institution.</p> <p> De quoi mieux protéger les personnes affectées. 'Chaque heure perdue en raison de barrières légales ou administratives' peut empêcher de sauver des victimes, affirme le secrétaire général de la FICR Jagan Chapagain.</p> <p> En 2025, 358 désastres naturels ont eu des effets pour plus de 110 millions d'individus. Les pertes économiques ont atteint plus de 169 milliards de dollars. Certains matériels humanitaires sont taxés deux fois que les autres marchandises.</p> <p> Dans de nombreux pays exposés aux désastres, les procédures douanières prennent habituellement environ 11 jours. Et environ 60% des approvisionnements qui arrivent portent sur des biens qui ne sont pas urgents et n'auraient pas dû être envoyés, rendant plus difficile le travail des humanitaires en termes de personnel, de stockage et de distribution, ajoute également l'organisation.</p> <p> /ATS</p>",
+      "text": "Desastres: la Croix-Rouge lance une campagne pour un traite mondial",
       "has_text": true,
       "url": "https://www.lemanbleu.ch/Scripts/Index.aspx?id=545535",
       "platform": "Web",
-      "outlet": "Lemanbleu",
+      "outlet": "Leman Bleu",
       "source": "external",
       "language": "French",
-      "language_source": "inferred",
-      "author": "lemanbleu.ch",
+      "language_source": "manual",
+      "author": "Leman Bleu",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -9320,15 +9347,15 @@
     },
     {
       "id": "a0154",
-      "text": "Cruz Roja y astronautas exigen pacto global para personas ante catastrofes naturales",
+      "text": "Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra\n<p> Alerta en Nepal</p> <p> A días del desastre natural, el peligro aún acecha a algunas comunidades debido al posible desborde e un río artificial creado en el himalaya tras la riada.</p> <p>Foto: EFE</p> <p> (NARENDRA SHRESTHA/EFE)</p> <p> La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y un grupo de astronautas exigieron este jueves en la ONU impulsar el primer pacto global que proteja a las personas ante las catástrofes naturales.</p> <p> “Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra”, indicó Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder señaló que solo el año pasado se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169,700 millones de dólares.</p> <p> “Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30%, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras”, añadió.</p> <p> Según comentó, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> “En catástrofes como la de Nepal, un trat",
       "has_text": true,
       "url": "https://www.cronica.com.mx/mundo/2026/09/03/cruz-roja-y-astronautas-exigen-pacto-global-para-personas-ante-catastrofes-naturales/",
       "platform": "Web",
-      "outlet": "La Cronica de Hoy",
+      "outlet": "Cronica",
       "source": "external",
       "language": "Spanish",
-      "language_source": "manual",
-      "author": "La Cronica de Hoy",
+      "language_source": "inferred",
+      "author": "Brayan Chaga",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -9338,7 +9365,9 @@
       "source_country": "MX",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [],
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "Cruz Roja y astronautas exigen pacto global para personas ante catástrofes naturales",
