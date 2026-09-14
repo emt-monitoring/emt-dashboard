@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:21:08+00:00",
+  "generated_at": "2026-09-14T10:55:25+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -71,19 +71,19 @@
     ],
     [
       "2026-09-14",
-      4,
-      2,
-      3
+      15,
+      15,
+      14
     ]
   ],
-  "avg_duration": 21,
+  "avg_duration": 310,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 951,
-      "views": 1005,
-      "users": 671
+      "sessions": 962,
+      "views": 1017,
+      "users": 678
     },
     {
       "path": "/earthsmissingtreaty/fr",
@@ -156,6 +156,13 @@
       "users": 1
     },
     {
+      "path": "/ar/earthsmissingtreaty/fr",
+      "language": "Français",
+      "sessions": 1,
+      "views": 1,
+      "users": 1
+    },
+    {
       "path": "/es/earthsmissingtreaty/ar",
       "language": "العربية",
       "sessions": 1,
@@ -173,7 +180,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 714
+      "value": 725
     },
     {
       "label": "Organic Social",
@@ -189,7 +196,7 @@
     },
     {
       "label": "Unassigned",
-      "value": 4
+      "value": 7
     },
     {
       "label": "Cross-network",
@@ -199,15 +206,15 @@
   "countries": [
     {
       "label": "United States",
-      "value": 141
+      "value": 142
     },
     {
       "label": "Germany",
-      "value": 133
+      "value": 135
     },
     {
       "label": "Switzerland",
-      "value": 95
+      "value": 96
     },
     {
       "label": "France",
@@ -215,7 +222,7 @@
     },
     {
       "label": "Netherlands",
-      "value": 41
+      "value": 42
     },
     {
       "label": "United Kingdom",
@@ -227,11 +234,11 @@
     },
     {
       "label": "Ireland",
-      "value": 33
+      "value": 34
     },
     {
       "label": "Lebanon",
-      "value": 31
+      "value": 32
     },
     {
       "label": "Japan",
@@ -249,7 +256,7 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 95
+      "value": 97
     },
     {
       "label": "click",
