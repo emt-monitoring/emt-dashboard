@@ -437,6 +437,43 @@
         "sovereignty": 2
       },
       "updated": "2026-09-13T22:35:15.819884+00:00"
+    },
+    "2026-09-14": {
+      "total": 357,
+      "text_available": 183,
+      "text_masked": 174,
+      "earned_media": 136,
+      "social": 221,
+      "own_posts": 51,
+      "movement_posts": 13,
+      "external_posts": 293,
+      "campaign_named": 57,
+      "treaty_only": 24,
+      "by_platform": {
+        "X": 174,
+        "Web": 116,
+        "Facebook": 15,
+        "Instagram": 13,
+        "TV": 12,
+        "Print": 8,
+        "LinkedIn": 6,
+        "TikTok": 5,
+        "YouTube": 5,
+        "Bluesky": 3
+      },
+      "by_language": {
+        "und": 188,
+        "English": 83,
+        "French": 51,
+        "Spanish": 29,
+        "unknown": 6
+      },
+      "by_sentiment": {},
+      "risk_vectors": {
+        "venue_uncertainty": 2,
+        "sovereignty": 2
+      },
+      "updated": "2026-09-14T00:23:19.473925+00:00"
     }
   }
 }
