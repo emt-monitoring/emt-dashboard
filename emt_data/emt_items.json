@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T14:26:21.567002+00:00",
+  "generated": "2026-09-15T18:25:28.562996+00:00",
   "count": 362,
   "items": [
     {
@@ -90,7 +90,7 @@
       "author": "IFRC",
       "created": "2026-09-14T10:55:20.878041+00:00",
       "day": "2026-09-14",
-      "engagement": 245,
+      "engagement": 250,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -314,7 +314,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1670,
+      "owned_reach": 1675,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -331,7 +331,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-13T11:30:23.379705+00:00",
       "day": "2026-09-13",
-      "engagement": 119,
+      "engagement": 122,
       "reach": 780437,
       "sentiment": "",
       "country": "",
@@ -356,7 +356,7 @@
       "author": "IFRC",
       "created": "2026-09-13T11:30:23.379144+00:00",
       "day": "2026-09-13",
-      "engagement": 99,
+      "engagement": 100,
       "reach": 367455,
       "sentiment": "",
       "country": "",
@@ -380,7 +380,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 478,
+      "engagement": 492,
       "reach": 346,
       "sentiment": "",
       "country": "",
@@ -788,7 +788,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 143,
+      "engagement": 146,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -812,7 +812,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-11T17:07:18.259244+00:00",
       "day": "2026-09-11",
-      "engagement": 48,
+      "engagement": 49,
       "reach": 780484,
       "sentiment": "",
       "country": "",
@@ -837,7 +837,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-11T17:07:18.258436+00:00",
       "day": "2026-09-11",
-      "engagement": 30,
+      "engagement": 31,
       "reach": 780484,
       "sentiment": "",
       "country": "",
@@ -870,7 +870,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 877,
+      "owned_reach": 880,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -911,7 +911,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 467,
+      "engagement": 475,
       "reach": 376,
       "sentiment": "",
       "country": "",
@@ -1040,7 +1040,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 459,
+      "owned_reach": 461,
       "first_seen": "2026-09-11T13:27:05.484659+00:00"
     },
     {
@@ -1740,7 +1740,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1066,
+      "owned_reach": 1068,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -1756,10 +1756,10 @@
       "author": "IFRC",
       "created": "2026-09-09T11:13:12.342000+00:00",
       "day": "2026-09-09",
-      "engagement": 85,
+      "engagement": 86,
       "reach": 0,
-      "owned_engagement": 170,
-      "owned_reach": 2184,
+      "owned_engagement": 172,
+      "owned_reach": 2198,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -4353,7 +4353,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1402,
+      "owned_reach": 1406,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -4645,7 +4645,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 33,
-      "owned_reach": 1420,
+      "owned_reach": 1422,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -7346,7 +7346,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 88,
+      "engagement": 92,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -7752,7 +7752,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 65,
-      "owned_reach": 1240,
+      "owned_reach": 1245,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -7974,7 +7974,7 @@
       "engagement": 34,
       "reach": 0,
       "owned_engagement": 68,
-      "owned_reach": 1330,
+      "owned_reach": 1348,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -8089,11 +8089,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM?oc=5",
       "platform": "Web",
-      "outlet": "IFRC",
+      "outlet": "ifrc.org",
       "source": "own",
       "language": "English",
       "language_source": "manual",
-      "author": "IFRC",
+      "author": "ifrc.org",
       "created": "2026-09-03T03:55:34+00:00",
       "day": "2026-09-03",
       "engagement": 0,
