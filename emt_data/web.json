@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:20:19+00:00",
+  "generated_at": "2026-09-17T15:14:59+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -89,19 +89,19 @@
     ],
     [
       "2026-09-17",
-      9,
-      11,
-      7
+      18,
+      20,
+      12
     ]
   ],
-  "avg_duration": 220,
+  "avg_duration": 247,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1049,
-      "views": 1099,
-      "users": 721
+      "sessions": 1058,
+      "views": 1108,
+      "users": 723
     },
     {
       "path": "/earthsmissingtreaty/fr",
@@ -198,7 +198,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 766
+      "value": 772
     },
     {
       "label": "Organic Social",
@@ -214,7 +214,7 @@
     },
     {
       "label": "Unassigned",
-      "value": 17
+      "value": 22
     },
     {
       "label": "Cross-network",
@@ -228,7 +228,7 @@
     },
     {
       "label": "Germany",
-      "value": 152
+      "value": 158
     },
     {
       "label": "Switzerland",
@@ -244,7 +244,7 @@
     },
     {
       "label": "United Kingdom",
-      "value": 39
+      "value": 40
     },
     {
       "label": "Türkiye",
@@ -256,11 +256,11 @@
     },
     {
       "label": "Lebanon",
-      "value": 33
+      "value": 34
     },
     {
       "label": "Hungary",
-      "value": 31
+      "value": 32
     },
     {
       "label": "Japan",
@@ -274,7 +274,7 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 101
+      "value": 103
     },
     {
       "label": "click",
