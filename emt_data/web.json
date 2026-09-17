@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:00:17+00:00",
+  "generated_at": "2026-09-17T00:15:55+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -83,17 +83,17 @@
     ],
     [
       "2026-09-16",
-      28,
+      29,
       27,
       24
     ]
   ],
-  "avg_duration": 97,
+  "avg_duration": 94,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1040,
+      "sessions": 1041,
       "views": 1089,
       "users": 717
     },
@@ -204,7 +204,7 @@
     },
     {
       "label": "Referral",
-      "value": 85
+      "value": 86
     },
     {
       "label": "Unassigned",
@@ -254,7 +254,7 @@
     },
     {
       "label": "Hungary",
-      "value": 30
+      "value": 31
     },
     {
       "label": "Japan",
