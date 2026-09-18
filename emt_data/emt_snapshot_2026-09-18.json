@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-09-18T21:10:19.137767+00:00",
-    "window_hours": 405,
+    "generated": "2026-09-18T23:31:45.522537+00:00",
+    "window_hours": 407,
     "total": 374,
     "text_available": 194,
     "text_masked": 180,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "14940"
+      "EARNED_ENGAGEMENT": "14948"
     },
     "owned_true": {
       "posts": 28,
       "engagement": 2798,
       "video_views": 0,
-      "reach": 65944,
+      "reach": 65946,
       "candidates": 709
     },
     "owned_error": "",
@@ -82,6 +82,7 @@
         "1073056618413903",
         "2095430937253146779",
         "2095436649932939472",
+        "2095450802273796160",
         "2095476910717284842",
         "2095489170873467370",
         "2095512166698828093",
@@ -95,8 +96,7 @@
         "2095885257094348808",
         "2095949379534287229",
         "2097644061695885541",
-        "2098192326179139624",
-        "2098400325786824780"
+        "2098192326179139624"
       ],
       "own_urls": [
         "https://www.facebook.com/reel/2620770065007963/",
@@ -131,6 +131,8 @@
         "https://twitter.com/NenaStoiljkovic/status/2098504515645276302",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
@@ -149,7 +151,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aada897d089b1e4b3e69978\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aadc9cc04ca98b5548af969\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -159,11 +161,11 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 32509704,
-    "own_reach": 11588690,
+    "total_reach": 32509720,
+    "own_reach": 11588706,
     "movement_reach": 187220,
     "external_reach": 20733794,
-    "own_engagement": 5132,
+    "own_engagement": 5140,
     "movement_engagement": 42,
     "external_engagement": 10590,
     "amplification": 2.06,
@@ -445,7 +447,7 @@
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 19,
+      "Dr. Sian Proctor": 20,
       "Jean-François Clervoy": 3,
       "José Hernández": 2,
       "Nicole Stott": 2,
@@ -534,7 +536,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 542,
+        "engagement": 545,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -547,7 +549,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 505,
+        "engagement": 510,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -1417,7 +1419,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1738,
+      "owned_reach": 1740,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -1483,8 +1485,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 542,
-      "reach": 413,
+      "engagement": 545,
+      "reach": 429,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -2014,7 +2016,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 505,
+      "engagement": 510,
       "reach": 409,
       "sentiment": "",
       "country": "",
@@ -9383,15 +9385,15 @@
     },
     {
       "id": "a0142",
-      "text": "Desastres: la Croix-Rouge lance une campagne pour un traite mondial",
+      "text": "  La Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne mondiale pour un traité mondial contre les désastres.\n<p>Dévoilée jeudi, celle-ci s'appuie sur le soutien de six astronautes.</p> <p> Les Etats se réuniront en 2027 pour négocier un traité international sur les catastrophes. La FICR, étable à Genève, les accompagne avec son expérience technique et des décennies de préparation aux désastres.</p> <p> 'Le droit international protège les astronautes', mais 'il n'y a pas de traité international sur la manière avec laquelle les pays devraient collaborer pour protéger des personnes avant, pendant et après un désastre', déplore la FICR.</p> <p> Cet accord pourrait notamment un déploiement plus rapide des travailleurs humanitaires, des procédures douanières facilitées pour le matériel et une collaboration plus prévisible entre gouvernements et organisations humanitaires. Les coûts seraient plus bas et les barrières administratives seraient moins importantes, selon l'institution.</p> <p> De quoi mieux protéger les personnes affectées. 'Chaque heure perdue en raison de barrières légales ou administratives' peut empêcher de sauver des victimes, affirme le secrétaire général de la FICR Jagan Chapagain.</p> <p> En 2025, 358 désastres naturels ont eu des effets pour plus de 110 millions d'individus. Les pertes économiques ont atteint plus de 169 milliards de dollars. Certains matériels humanitaires sont taxés deux fois que les autres marchandises.</p> <p> Dans de nombreux pays exposés aux désastres, les procédures douanières prennent habituellement environ 11 jours. Et environ 60% des approvisionnements qui arrivent portent sur des biens qui ne sont pas urgents et n'auraient pas dû être envoyés, rendant plus difficile le travail des humanitaires en termes de personnel, de stockage et de distribution, ajoute également l'organisation.</p>",
       "has_text": true,
       "url": "https://www.rfj.ch/rfj/Actualite/Suisse/Desastres-la-Croix-Rouge-lance-une-campagne-pour-un-traite-mondial.html",
       "platform": "Web",
-      "outlet": "RFJ",
+      "outlet": "Rfj",
       "source": "external",
       "language": "French",
-      "language_source": "manual",
-      "author": "RFJ",
+      "language_source": "inferred",
+      "author": "Fréquence Jura",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -9679,15 +9681,15 @@
     },
     {
       "id": "a0154",
-      "text": "Cruz Roja y astronautas exigen pacto global para personas ante catastrofes naturales",
+      "text": "Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra\n<p> Alerta en Nepal</p> <p> A días del desastre natural, el peligro aún acecha a algunas comunidades debido al posible desborde e un río artificial creado en el himalaya tras la riada.</p> <p>Foto: EFE</p> <p> (NARENDRA SHRESTHA/EFE)</p> <p> La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y un grupo de astronautas exigieron este jueves en la ONU impulsar el primer pacto global que proteja a las personas ante las catástrofes naturales.</p> <p> “Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra”, indicó Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder señaló que solo el año pasado se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169,700 millones de dólares.</p> <p> “Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30%, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras”, añadió.</p> <p> Según comentó, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> “En catástrofes como la de Nepal, un trat",
       "has_text": true,
       "url": "https://www.cronica.com.mx/mundo/2026/09/03/cruz-roja-y-astronautas-exigen-pacto-global-para-personas-ante-catastrofes-naturales/",
       "platform": "Web",
-      "outlet": "La Cronica de Hoy",
+      "outlet": "Cronica",
       "source": "external",
       "language": "Spanish",
-      "language_source": "manual",
-      "author": "La Cronica de Hoy",
+      "language_source": "inferred",
+      "author": "Brayan Chaga",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -9697,7 +9699,9 @@
       "source_country": "MX",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [],
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "Cruz Roja y astronautas exigen pacto global para personas ante catástrofes naturales",
