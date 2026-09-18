@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T14:53:53.721788+00:00",
+  "generated": "2026-09-18T18:14:38.327638+00:00",
   "count": 374,
   "items": [
     {
@@ -602,7 +602,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1736,
+      "owned_reach": 1738,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -644,7 +644,7 @@
       "author": "IFRC",
       "created": "2026-09-13T11:30:23.379144+00:00",
       "day": "2026-09-13",
-      "engagement": 110,
+      "engagement": 111,
       "reach": 367455,
       "sentiment": "",
       "country": "",
@@ -1076,7 +1076,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 185,
+      "engagement": 3,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -1158,7 +1158,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 890,
+      "owned_reach": 893,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -1175,7 +1175,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.255358+00:00",
       "day": "2026-09-11",
-      "engagement": 104,
+      "engagement": 106,
       "reach": 367350,
       "sentiment": "",
       "country": "",
@@ -1199,7 +1199,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 500,
+      "engagement": 502,
       "reach": 409,
       "sentiment": "",
       "country": "",
@@ -2028,7 +2028,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1080,
+      "owned_reach": 1082,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -5547,16 +5547,16 @@
     },
     {
       "id": "s0107",
-      "text": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty",
+      "text": "NEW YORK, NEW YORK, United States, September 3, 2026: Dr. Sian Proctor, geoscientist and astronaut, briefs reporters during an International Federation of Red Cross and Red Crescent Societies (IFRC) press conference on new disaster research and the launch of a global campaign calling for the world’s first international disaster treaty at United Nations Headquarters in New York City. (Photo: Luiz Rampelotto/EuropaNewswire).\n",
       "title": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty (25 media files)",
       "has_text": true,
       "url": "https://www.europanewswire.com/offer/00003778",
       "platform": "Web",
-      "outlet": "Europa NewsWire",
+      "outlet": "Europanewswire",
       "source": "external",
       "language": "English",
-      "language_source": "manual",
-      "author": "Europa NewsWire",
+      "language_source": "inferred",
+      "author": "europanewswire.com",
       "created": "2026-09-04T11:56:34.606596+00:00",
       "day": "2026-09-04",
       "engagement": 0,
@@ -5565,7 +5565,9 @@
       "country": "",
       "is_campaign": false,
       "is_treaty": true,
-      "astronauts": [],
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "self_reported": true,
@@ -8002,7 +8004,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.583208+00:00",
       "day": "2026-09-04",
-      "engagement": 47,
+      "engagement": 46,
       "reach": 780260,
       "sentiment": "",
       "country": "",
@@ -8010,9 +8012,9 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 47,
+      "owned_engagement": 46,
       "owned_video_views": 0,
-      "owned_reach": 1775,
+      "owned_reach": 1777,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8260,7 +8262,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1388,
+      "owned_reach": 1394,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
