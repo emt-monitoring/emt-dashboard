@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:57:48+00:00",
+  "generated_at": "2026-09-18T14:53:57+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -89,25 +89,25 @@
     ],
     [
       "2026-09-17",
-      30,
-      29,
+      31,
+      31,
       19
     ],
     [
       "2026-09-18",
-      5,
-      5,
-      5
+      13,
+      13,
+      11
     ]
   ],
-  "avg_duration": 306,
+  "avg_duration": 194,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1075,
-      "views": 1126,
-      "users": 730
+      "sessions": 1083,
+      "views": 1135,
+      "users": 731
     },
     {
       "path": "/earthsmissingtreaty/fr",
@@ -140,9 +140,9 @@
     {
       "path": "/el/earthsmissingtreaty",
       "language": "English",
-      "sessions": 4,
-      "views": 4,
-      "users": 4
+      "sessions": 5,
+      "views": 5,
+      "users": 5
     },
     {
       "path": "/fr/earthsmissingtreaty/ar",
@@ -204,33 +204,29 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 784
+      "value": 790
     },
     {
       "label": "Organic Social",
-      "value": 164
+      "value": 165
     },
     {
       "label": "Organic Search",
-      "value": 103
+      "value": 106
     },
     {
       "label": "Referral",
-      "value": 94
+      "value": 97
     },
     {
       "label": "Unassigned",
-      "value": 16
-    },
-    {
-      "label": "Cross-network",
-      "value": 1
+      "value": 4
     }
   ],
   "countries": [
     {
       "label": "United States",
-      "value": 167
+      "value": 169
     },
     {
       "label": "Germany",
@@ -238,11 +234,11 @@
     },
     {
       "label": "Switzerland",
-      "value": 113
+      "value": 115
     },
     {
       "label": "France",
-      "value": 59
+      "value": 62
     },
     {
       "label": "Netherlands",
@@ -266,7 +262,7 @@
     },
     {
       "label": "Hungary",
-      "value": 32
+      "value": 33
     },
     {
       "label": "Japan",
