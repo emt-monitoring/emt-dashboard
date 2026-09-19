@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:23:56+00:00",
+  "generated_at": "2026-09-19T22:26:32+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -101,19 +101,19 @@
     ],
     [
       "2026-09-19",
-      8,
-      7,
-      8
+      9,
+      9,
+      9
     ]
   ],
-  "avg_duration": 100,
+  "avg_duration": 89,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1095,
-      "views": 1146,
-      "users": 738
+      "sessions": 1096,
+      "views": 1148,
+      "users": 739
     },
     {
       "path": "/earthsmissingtreaty/fr",
@@ -210,11 +210,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 796
+      "value": 797
     },
     {
       "label": "Organic Social",
-      "value": 165
+      "value": 166
     },
     {
       "label": "Organic Search",
@@ -263,11 +263,11 @@
       "value": 36
     },
     {
-      "label": "Ireland",
-      "value": 34
+      "label": "Lebanon",
+      "value": 35
     },
     {
-      "label": "Lebanon",
+      "label": "Ireland",
       "value": 34
     },
     {
