@@ -624,31 +624,31 @@
       "updated": "2026-09-18T23:31:45.522537+00:00"
     },
     "2026-09-19": {
-      "total": 377,
-      "text_available": 196,
-      "text_masked": 181,
+      "total": 379,
+      "text_available": 197,
+      "text_masked": 182,
       "earned_media": 144,
-      "social": 233,
-      "own_posts": 55,
+      "social": 235,
+      "own_posts": 56,
       "movement_posts": 13,
-      "external_posts": 309,
-      "campaign_named": 64,
+      "external_posts": 310,
+      "campaign_named": 65,
       "treaty_only": 24,
       "by_platform": {
-        "X": 181,
+        "X": 182,
         "Web": 124,
         "Facebook": 16,
         "Instagram": 14,
         "TV": 12,
         "Print": 8,
+        "TikTok": 6,
         "YouTube": 6,
         "LinkedIn": 6,
-        "Bluesky": 5,
-        "TikTok": 5
+        "Bluesky": 5
       },
       "by_language": {
-        "und": 198,
-        "English": 88,
+        "und": 199,
+        "English": 89,
         "French": 53,
         "Spanish": 32,
         "unknown": 6
@@ -658,7 +658,7 @@
         "venue_uncertainty": 2,
         "sovereignty": 2
       },
-      "updated": "2026-09-19T11:23:50.733555+00:00"
+      "updated": "2026-09-19T14:42:44.365536+00:00"
     }
   }
 }
