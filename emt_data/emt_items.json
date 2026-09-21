@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T11:00:32.850982+00:00",
+  "generated": "2026-09-21T16:56:09.175826+00:00",
   "count": 387,
   "items": [
     {
@@ -88,7 +88,7 @@
       "author": "@redcross_sagar",
       "created": "2026-09-20T14:03:53.236211+00:00",
       "day": "2026-09-20",
-      "engagement": 2,
+      "engagement": 3,
       "reach": 211,
       "sentiment": "",
       "country": "",
@@ -209,7 +209,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 592,
+      "engagement": 604,
       "reach": 398,
       "sentiment": "",
       "country": "",
@@ -235,7 +235,7 @@
       "author": "@ifrc",
       "created": "2026-09-19T11:23:48.653177+00:00",
       "day": "2026-09-19",
-      "engagement": 40,
+      "engagement": 41,
       "reach": 287107,
       "sentiment": "",
       "country": "",
@@ -243,7 +243,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1596,
+      "owned_reach": 1609,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -260,7 +260,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 146,
+      "engagement": 153,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -286,7 +286,7 @@
       "author": "IFRC",
       "created": "2026-09-19T11:23:48.650393+00:00",
       "day": "2026-09-19",
-      "engagement": 92,
+      "engagement": 94,
       "reach": 367493,
       "sentiment": "",
       "country": "",
@@ -898,7 +898,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1811,
+      "owned_reach": 1829,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -2324,7 +2324,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1083,
+      "owned_reach": 1086,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -5843,16 +5843,16 @@
     },
     {
       "id": "s0107",
-      "text": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty",
+      "text": "NEW YORK, NEW YORK, United States, September 3, 2026: Dr. Sian Proctor, geoscientist and astronaut, briefs reporters during an International Federation of Red Cross and Red Crescent Societies (IFRC) press conference on new disaster research and the launch of a global campaign calling for the world’s first international disaster treaty at United Nations Headquarters in New York City. (Photo: Luiz Rampelotto/EuropaNewswire).\n",
       "title": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty (25 media files)",
       "has_text": true,
       "url": "https://www.europanewswire.com/offer/00003778",
       "platform": "Web",
-      "outlet": "Europa NewsWire",
+      "outlet": "Europanewswire",
       "source": "external",
       "language": "English",
-      "language_source": "manual",
-      "author": "Europa NewsWire",
+      "language_source": "inferred",
+      "author": "europanewswire.com",
       "created": "2026-09-04T11:56:34.606596+00:00",
       "day": "2026-09-04",
       "engagement": 0,
@@ -5861,7 +5861,9 @@
       "country": "",
       "is_campaign": false,
       "is_treaty": true,
-      "astronauts": [],
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "self_reported": true,
@@ -8399,7 +8401,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 868,
+      "engagement": 870,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -8407,9 +8409,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 868,
+      "owned_engagement": 870,
       "owned_video_views": 0,
-      "owned_reach": 19382,
+      "owned_reach": 19452,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8426,8 +8428,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 481,
-      "reach": 411,
+      "engagement": 486,
+      "reach": 414,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -8435,7 +8437,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 25,
-      "owned_reach": 411,
+      "owned_reach": 414,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9209,15 +9211,15 @@
     },
     {
       "id": "a0155",
-      "text": "  Naciones Unidas, 3 sep (EFE).- La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y un grupo de astronautas\n<p>exigieron este jueves en la ONU impulsar el primer pacto global que proteja a las personas ante las catástrofes naturales.</p> <p> \"Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra\", explicó Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder apuntó que solo el pasado año se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169.700 millones de dólares.</p> <p> \"Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30 %, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras\", declaró.</p> <p> Según dijo, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> \"En catástrofes como la de Nepal, un tratado mundial establecería normas claras para la ayuda internacional y ayudaría a los gobiernos y a los agentes humanitarios a sortear los trámites burocráticos con mayor rapidez\", añadió.</p> <p> La IFRC lamentó que aunque existen acuerdos regionales, bilaterales y sectoriales falta un tratado internacional que unifique normas y procedimientos.</p> <p> \"Esto podría traducirse en un despliegue más rápido de los equipos hum",
+      "text": "La Cruz Roja y astronautas exigen un pacto global para personas ante catastrofes naturales",
       "has_text": true,
       "url": "https://unitel.bo/noticias/agencias/la-cruz-roja-y-astronautas-exigen-un-pacto-global-para-personas-ante-catastrofes-naturales-EG23256020",
       "platform": "Web",
       "outlet": "Unitel",
       "source": "external",
       "language": "Spanish",
-      "language_source": "inferred",
-      "author": "unitel.bo",
+      "language_source": "manual",
+      "author": "Unitel",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -9227,9 +9229,7 @@
       "source_country": "BO",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [
-        "Dr. Sian Proctor"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "La Cruz Roja y astronautas exigen un pacto global para personas ante catástrofes naturales",
