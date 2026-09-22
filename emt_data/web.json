@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:26:57+00:00",
+  "generated_at": "2026-09-22T14:08:51+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -113,38 +113,38 @@
     ],
     [
       "2026-09-21",
-      32,
-      50,
-      24
+      34,
+      54,
+      26
     ],
     [
       "2026-09-22",
-      8,
-      5,
-      8
+      15,
+      16,
+      14
     ]
   ],
-  "avg_duration": 10,
+  "avg_duration": 87,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1142,
-      "views": 1201,
-      "users": 760
+      "sessions": 1150,
+      "views": 1213,
+      "users": 765
     },
     {
       "path": "/earthsmissingtreaty/fr",
       "language": "Français",
-      "sessions": 27,
-      "views": 28,
-      "users": 21
+      "sessions": 28,
+      "views": 29,
+      "users": 22
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
       "sessions": 23,
-      "views": 23,
+      "views": 24,
       "users": 21
     },
     {
@@ -157,8 +157,8 @@
     {
       "path": "/earthsmissingtreaty/ar",
       "language": "العربية",
-      "sessions": 14,
-      "views": 18,
+      "sessions": 15,
+      "views": 19,
       "users": 12
     },
     {
@@ -228,7 +228,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 830
+      "value": 840
     },
     {
       "label": "Organic Social",
@@ -236,29 +236,29 @@
     },
     {
       "label": "Organic Search",
-      "value": 109
+      "value": 111
     },
     {
       "label": "Referral",
-      "value": 101
+      "value": 102
     },
     {
       "label": "Unassigned",
-      "value": 21
+      "value": 10
     },
     {
       "label": "Cross-network",
-      "value": 3
+      "value": 2
     }
   ],
   "countries": [
     {
       "label": "United States",
-      "value": 184
+      "value": 188
     },
     {
       "label": "Germany",
-      "value": 173
+      "value": 176
     },
     {
       "label": "Switzerland",
@@ -281,12 +281,12 @@
       "value": 38
     },
     {
-      "label": "Türkiye",
-      "value": 37
+      "label": "Lebanon",
+      "value": 38
     },
     {
-      "label": "Lebanon",
-      "value": 36
+      "label": "Türkiye",
+      "value": 37
     },
     {
       "label": "Ireland",
