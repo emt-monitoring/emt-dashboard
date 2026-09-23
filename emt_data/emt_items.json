@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-23T14:20:51.444718+00:00",
-  "count": 390,
+  "generated": "2026-09-23T18:33:33.801006+00:00",
+  "count": 391,
   "items": [
+    {
+      "id": "s0342",
+      "text": "À propos de la couverture médiatique récente\nAcrimed : Un tapis de bombes sur Gaza, des dizaines de morts chaque jour, des corps d’enfants décharnés et démembrés, un plan de colonisation voire d’annexion assumé publiquement par le cabinet de défense israélien... Que t’inspire la couverture médiatique actuellement, tout particulièrement depuis qu’Israël a rompu la « trêve » à la mi-mars ?\nJohann Soufi : Depuis quelques semaines, on assiste à une évolution du traitement médiatique de la situation à Gaza, en France notamment. On constate un regain d’attention après des mois, des années, d’indifférence. On a le sentiment que la parole s’ouvre progressivement, que des voix jusque-là marginalisées – humanitaires, juristes, sociologues – commencent enfin à être entendues. Selon moi, cette évolution ne relève pas d’une prise de conscience spontanée de la part des médias et des responsables politiques, mais d’un effet d’accumulation, de saturation.\nD’abord en raison de l’ampleur des massacres, et des violations du droit international. On en est à plus de 53 000 morts et 120 000 blessés, selon les chiffres officiels. Et cela ne tient pas compte de tous ceux qui mourront tôt ou tard de leurs blessures ou de maladies non soignées, ni de ceux qui vivront avec des séquelles physiques et psychologiques permanentes, après dix-neuf mois de crimes, de persécutions et de privations. Depuis octobre 2023, un enfant est tué ou blessé toutes les 20 minutes à Gaza. L’aide humanitaire est entravée, instrumentalisée, la famine menace toute la population gazaouie. Les images qui nous parviennent nous rappellent les heures les plus sombres de l’histoire humaine. Chaque jour apporte son lot de nouvelles horreurs, de nouveaux traumatismes.\nÀ ces crimes s’ajoutent des discours de responsables israéliens qui assument de plus en plus clairement leur projet colonial, voire leur intention génocidaire. Israël Katz, ministre de la Défense, a récemment parlé de la « destruction totale » de Gaza et de la",
+      "title": "Palestine : « Des victimes sans visages, des crimes sans criminels » - Acrimed | Action Critique Médias",
+      "has_text": true,
+      "url": "https://www.acrimed.org/Palestine-Des-victimes-sans-visages-des-crimes",
+      "platform": "Web",
+      "outlet": "Acrimed",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "Pauline Perrenot",
+      "created": "2026-09-23T18:33:31.447395+00:00",
+      "day": "2026-09-23",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-23T18:33:33.801006+00:00"
+    },
     {
       "id": "s0142",
       "text": "Grupo Fórmula #AbriendoLaConversación ¡Suscríbete a nuestro canal de YouTube! http://goo.gl/NAKFkj Podcast: https://goo.gl/PbwGxT Mantente informado minuto a minuto en nuestras redes sociales: Facebook-----http://goo.gl/5UHZOQ Twitter----------http://goo.gl/nEXxVF Canal sugerido http://goo.gl/hst33f Sigue nuestra transmisión en vivo: http://goo.gl/2VZDqJ Descarga nuestra App: iOS: http://goo.gl/tLZe3S Android: http://goo.gl/oXFwHj¿Quieres anunciarte en este y muchos otros podcast?Escríbenos a este email: ventas@rss.com",
@@ -257,7 +281,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 655,
+      "engagement": 657,
       "reach": 539,
       "sentiment": "",
       "country": "",
@@ -291,7 +315,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1662,
+      "owned_reach": 1667,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -308,7 +332,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 170,
+      "engagement": 173,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -1420,7 +1444,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 202,
+      "engagement": 204,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -1502,7 +1526,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 898,
+      "owned_reach": 902,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -2372,7 +2396,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1091,
+      "owned_reach": 1093,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -7978,7 +8002,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 106,
+      "engagement": 112,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -8451,7 +8475,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 874,
+      "engagement": 875,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -8459,9 +8483,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 874,
+      "owned_engagement": 875,
       "owned_video_views": 0,
-      "owned_reach": 19523,
+      "owned_reach": 19694,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8478,8 +8502,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 496,
-      "reach": 417,
+      "engagement": 499,
+      "reach": 423,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -8487,7 +8511,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 26,
-      "owned_reach": 417,
+      "owned_reach": 423,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {

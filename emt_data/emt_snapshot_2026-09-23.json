@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-23T14:20:51.455384+00:00",
-    "window_hours": 518,
-    "total": 390,
-    "text_available": 201,
+    "generated": "2026-09-23T18:33:33.806927+00:00",
+    "window_hours": 522,
+    "total": 391,
+    "text_available": 202,
     "text_masked": 189,
-    "earned_media": 148,
+    "earned_media": 149,
     "social": 242,
     "by_source": {
-      "external": 319,
+      "external": 320,
       "own": 57,
       "movement": 14
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 57,
     "movement_posts": 14,
-    "external_posts": 319,
+    "external_posts": 320,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16104"
+      "EARNED_ENGAGEMENT": "16356"
     },
     "owned_true": {
       "posts": 30,
-      "engagement": 2834,
+      "engagement": 2835,
       "video_views": 0,
-      "reach": 68331,
-      "candidates": 868
+      "reach": 68519,
+      "candidates": 876
     },
     "owned_error": "",
     "owned_debug": {
@@ -105,14 +105,15 @@
         "https://www.tiktok.com/@ifrc/video/7684276352966528278",
         "https://www.tiktok.com/@ifrc/video/7684271318954446103",
         "https://www.tiktok.com/@ifrc/video/7681225731871116567",
+        "https://www.youtube.com/shorts/2M-AcH12GNM",
         "https://www.instagram.com/reel/Dc637qgKbcN/",
         "https://www.youtube.com/watch?v=szCqYXKFg-E",
         "https://www.facebook.com/reel/1092294233256699/",
         "https://www.facebook.com/reel/1073056618413903/",
         "https://www.instagram.com/reel/DdOFWi9DXV6/",
         "https://twitter.com/ifrc/status/2095430937253146779",
-        "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "https://www.youtube.com/shorts/oDDZQ_VYiPY",
+        "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "https://www.instagram.com/reel/DddiFXWCHUV/",
         "https://twitter.com/ifrc/status/2095787231713571088",
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
@@ -143,7 +144,6 @@
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
-        "https://www.youtube.com/shorts/2M-AcH12GNM",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
@@ -156,7 +156,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab3e02b04ca98b55437a8e3\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab41b620f062b9d9a08cca6\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -166,16 +166,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 33971048,
-    "own_reach": 13028111,
+    "total_reach": 33971054,
+    "own_reach": 13028117,
     "movement_reach": 187431,
     "external_reach": 20755506,
-    "own_engagement": 6431,
+    "own_engagement": 6448,
     "movement_engagement": 45,
     "external_engagement": 10647,
-    "amplification": 1.66,
+    "amplification": 1.65,
     "earned_by_platform": {
-      "Web": 128,
+      "Web": 129,
       "TV": 12,
       "Print": 8
     },
@@ -198,6 +198,7 @@
     },
     "outlet_reach": {
       "Podchaser": 52916,
+      "Acrimed": 0,
       "Lateja": 0,
       "Humanoid Deep Analyser": 0,
       "Com": 0,
@@ -210,10 +211,22 @@
       "msn.com": 0,
       "ReliefWeb": 0,
       "Gov": 0,
-      "Canada": 0,
-      "jmitic@icrc.org": 0
+      "Canada": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.acrimed.org/Palestine-Des-victimes-sans-visages-des-crimes",
+        "platform": "Web",
+        "outlet": "Acrimed",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "À propos de la couverture médiatique récente\nAcrimed : Un tapis de bombes sur Gaza, des dizaines de morts chaque jour, des corps d’enfants décharnés et démembrés, un plan de colonisation voire d’annexion assumé publiquement par le cabinet de défense israélien... Que t’inspire la ",
+        "created": "2026-09-23T18:33:31.447395+00:00",
+        "author": "Pauline Perrenot",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.podchaser.com/podcasts/piso-6-de-grupo-formula-6265120/episodes/piso-6-i-lunes-21-de-septiembr-309989181",
         "platform": "Web",
@@ -397,19 +410,6 @@
         "author": "Espectacular Staff",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://caracol.com.co/2026/09/11/viernes-11-de-septiembre-las-noticias-mas-importantes-de-armenia-y-quindio/",
-        "platform": "Web",
-        "outlet": "Com",
-        "source": "external",
-        "language": "Spanish",
-        "engagement": 0,
-        "text": "Viernes 11 de septiembre, las noticias más importantes de Armenia y Quindío\nTodos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM\nArmenia\nTITULARES NOTICIAS ARMENIA Y QUINDÍO\nEl presidente de la República, Abelardo De la Espriel",
-        "created": "2026-09-11T13:27:03.227176+00:00",
-        "author": "Caracol Radio",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 65,
@@ -433,11 +433,11 @@
       "2026-09-19": 8,
       "2026-09-20": 4,
       "2026-09-21": 1,
-      "2026-09-23": 1
+      "2026-09-23": 2
     },
     "by_platform": {
       "X": 189,
-      "Web": 128,
+      "Web": 129,
       "Facebook": 16,
       "Instagram": 14,
       "TV": 12,
@@ -450,7 +450,7 @@
     "by_language": {
       "und": 207,
       "English": 89,
-      "French": 54,
+      "French": 55,
       "Spanish": 34,
       "unknown": 6
     },
@@ -519,7 +519,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 874,
+        "engagement": 875,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -545,7 +545,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 655,
+        "engagement": 657,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -586,7 +586,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 496,
+        "engagement": 499,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -625,7 +625,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 202,
+        "engagement": 204,
         "text": "In this episode, we speak with Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, about the urgent need for the world’s first comprehensive international disaster treaty. We explore how legal and logistical barriers can delay humanitarian assistance, why astro",
         "created": "2026-09-11T17:07:18.262544+00:00",
         "author": "IFRC",
@@ -638,7 +638,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 170,
+        "engagement": 173,
         "text": "Julie Payette (Canadian Astronaut Julie Payette), Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters. \n\nLearn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T11:23:48.651234+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -700,6 +700,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.youtube.com/shorts/oDDZQ_VYiPY",
+        "platform": "YouTube",
+        "outlet": "Youtube",
+        "source": "own",
+        "language": "English",
+        "engagement": 112,
+        "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
+        "created": "2026-09-04T11:56:34.585479+00:00",
+        "author": "IFRC",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "platform": "Instagram",
         "outlet": "Instagram",
@@ -708,19 +721,6 @@
         "engagement": 108,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts.\n\nIn the latest episode of IFRC Weekly News, Melis Figanmeşe, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.255358+00:00",
-        "author": "IFRC",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.youtube.com/shorts/oDDZQ_VYiPY",
-        "platform": "YouTube",
-        "outlet": "Youtube",
-        "source": "own",
-        "language": "English",
-        "engagement": 106,
-        "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
-        "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
         "astronauts": [],
         "risk_vectors": []
@@ -834,6 +834,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0342",
+      "text": "À propos de la couverture médiatique récente\nAcrimed : Un tapis de bombes sur Gaza, des dizaines de morts chaque jour, des corps d’enfants décharnés et démembrés, un plan de colonisation voire d’annexion assumé publiquement par le cabinet de défense israélien... Que t’inspire la couverture médiatique actuellement, tout particulièrement depuis qu’Israël a rompu la « trêve » à la mi-mars ?\nJohann Soufi : Depuis quelques semaines, on assiste à une évolution du traitement médiatique de la situation à Gaza, en France notamment. On constate un regain d’attention après des mois, des années, d’indifférence. On a le sentiment que la parole s’ouvre progressivement, que des voix jusque-là marginalisées – humanitaires, juristes, sociologues – commencent enfin à être entendues. Selon moi, cette évolution ne relève pas d’une prise de conscience spontanée de la part des médias et des responsables politiques, mais d’un effet d’accumulation, de saturation.\nD’abord en raison de l’ampleur des massacres, et des violations du droit international. On en est à plus de 53 000 morts et 120 000 blessés, selon les chiffres officiels. Et cela ne tient pas compte de tous ceux qui mourront tôt ou tard de leurs blessures ou de maladies non soignées, ni de ceux qui vivront avec des séquelles physiques et psychologiques permanentes, après dix-neuf mois de crimes, de persécutions et de privations. Depuis octobre 2023, un enfant est tué ou blessé toutes les 20 minutes à Gaza. L’aide humanitaire est entravée, instrumentalisée, la famine menace toute la population gazaouie. Les images qui nous parviennent nous rappellent les heures les plus sombres de l’histoire humaine. Chaque jour apporte son lot de nouvelles horreurs, de nouveaux traumatismes.\nÀ ces crimes s’ajoutent des discours de responsables israéliens qui assument de plus en plus clairement leur projet colonial, voire leur intention génocidaire. Israël Katz, ministre de la Défense, a récemment parlé de la « destruction totale » de Gaza et de la",
+      "title": "Palestine : « Des victimes sans visages, des crimes sans criminels » - Acrimed | Action Critique Médias",
+      "has_text": true,
+      "url": "https://www.acrimed.org/Palestine-Des-victimes-sans-visages-des-crimes",
+      "platform": "Web",
+      "outlet": "Acrimed",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "Pauline Perrenot",
+      "created": "2026-09-23T18:33:31.447395+00:00",
+      "day": "2026-09-23",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-23T18:33:33.801006+00:00"
+    },
     {
       "id": "s0142",
       "text": "Grupo Fórmula #AbriendoLaConversación ¡Suscríbete a nuestro canal de YouTube! http://goo.gl/NAKFkj Podcast: https://goo.gl/PbwGxT Mantente informado minuto a minuto en nuestras redes sociales: Facebook-----http://goo.gl/5UHZOQ Twitter----------http://goo.gl/nEXxVF Canal sugerido http://goo.gl/hst33f Sigue nuestra transmisión en vivo: http://goo.gl/2VZDqJ Descarga nuestra App: iOS: http://goo.gl/tLZe3S Android: http://goo.gl/oXFwHj¿Quieres anunciarte en este y muchos otros podcast?Escríbenos a este email: ventas@rss.com",
@@ -1089,7 +1113,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 655,
+      "engagement": 657,
       "reach": 539,
       "sentiment": "",
       "country": "",
@@ -1123,7 +1147,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1662,
+      "owned_reach": 1667,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -1140,7 +1164,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 170,
+      "engagement": 173,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -2252,7 +2276,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 202,
+      "engagement": 204,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -2334,7 +2358,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 898,
+      "owned_reach": 902,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -3204,7 +3228,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1091,
+      "owned_reach": 1093,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -8810,7 +8834,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 106,
+      "engagement": 112,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -9283,7 +9307,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 874,
+      "engagement": 875,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -9291,9 +9315,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 874,
+      "owned_engagement": 875,
       "owned_video_views": 0,
-      "owned_reach": 19523,
+      "owned_reach": 19694,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9310,8 +9334,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 496,
-      "reach": 417,
+      "engagement": 499,
+      "reach": 423,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -9319,7 +9343,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 26,
-      "owned_reach": 417,
+      "owned_reach": 423,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
