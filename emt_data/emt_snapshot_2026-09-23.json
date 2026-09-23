@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-23T09:28:24.435092+00:00",
-    "window_hours": 513,
-    "total": 389,
-    "text_available": 200,
+    "generated": "2026-09-23T14:20:51.455384+00:00",
+    "window_hours": 518,
+    "total": 390,
+    "text_available": 201,
     "text_masked": 189,
-    "earned_media": 147,
+    "earned_media": 148,
     "social": 242,
     "by_source": {
-      "external": 318,
+      "external": 319,
       "own": 57,
       "movement": 14
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 57,
     "movement_posts": 14,
-    "external_posts": 318,
+    "external_posts": 319,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16083"
+      "EARNED_ENGAGEMENT": "16104"
     },
     "owned_true": {
       "posts": 30,
       "engagement": 2834,
       "video_views": 0,
-      "reach": 68327,
-      "candidates": 854
+      "reach": 68331,
+      "candidates": 868
     },
     "owned_error": "",
     "owned_debug": {
@@ -88,6 +88,7 @@
         "2095489170873467370",
         "2095512166698828093",
         "2095523164327493664",
+        "2095548053272863061",
         "2095562202434424924",
         "2095787231713571088",
         "2095794860951228777",
@@ -95,8 +96,7 @@
         "2095870925501583630",
         "2095885257094348808",
         "2095949379534287229",
-        "2097644061695885541",
-        "2098192326179139624"
+        "2097644061695885541"
       ],
       "own_urls": [
         "https://www.facebook.com/reel/2620770065007963/",
@@ -136,14 +136,15 @@
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
-        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://www.youtube.com/shorts/2M-AcH12GNM",
+        "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750125505096757657",
@@ -155,7 +156,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab39ba15bcf4796d331da48\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab3e02b04ca98b55437a8e3\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -165,22 +166,22 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 33969813,
+    "total_reach": 33971048,
     "own_reach": 13028111,
     "movement_reach": 187431,
-    "external_reach": 20754271,
-    "own_engagement": 6415,
+    "external_reach": 20755506,
+    "own_engagement": 6431,
     "movement_engagement": 45,
-    "external_engagement": 10642,
+    "external_engagement": 10647,
     "amplification": 1.66,
     "earned_by_platform": {
-      "Web": 127,
+      "Web": 128,
       "TV": 12,
       "Print": 8
     },
     "top_outlets": {
       "KBTCDT2": 10,
-      "Podchaser": 6,
+      "Podchaser": 7,
       "United Nations": 5,
       "ReliefWeb": 4,
       "Bluewin": 4,
@@ -196,7 +197,7 @@
       "NHK World": 2
     },
     "outlet_reach": {
-      "Podchaser": 51681,
+      "Podchaser": 52916,
       "Lateja": 0,
       "Humanoid Deep Analyser": 0,
       "Com": 0,
@@ -213,6 +214,19 @@
       "jmitic@icrc.org": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.podchaser.com/podcasts/piso-6-de-grupo-formula-6265120/episodes/piso-6-i-lunes-21-de-septiembr-309989181",
+        "platform": "Web",
+        "outlet": "Podchaser",
+        "source": "external",
+        "language": "und",
+        "engagement": 0,
+        "text": "Grupo Fórmula #AbriendoLaConversación ¡Suscríbete a nuestro canal de YouTube! http://goo.gl/NAKFkj Podcast: https://goo.gl/PbwGxT Mantente informado minuto a minuto en nuestras redes sociales: Facebook-----http://goo.gl/5UHZOQ Twitter----------http://goo.gl/nEXxVF Canal sugerido ",
+        "created": "2026-09-23T14:20:48.981179+00:00",
+        "author": "Riky Moreno y Sophia Henríquez",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.lateja.cr/finanzas-y-tecnologia/productores-se-oponen-a-acuerdo-en-que-laura/7KGK4IKPV5FCFAQHPMM26SJKXQ/story/",
         "platform": "Web",
@@ -396,19 +410,6 @@
         "author": "Caracol Radio",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.msn.com/es-co/noticias/other/viernes-11-de-septiembre-las-noticias-más-importantes-de-armenia-y-quindío/ar-AA2c1t73",
-        "platform": "Web",
-        "outlet": "msn.com",
-        "source": "external",
-        "language": "Spanish",
-        "engagement": 0,
-        "text": "  Adrián Trejos  El presidente de la República, Abelardo De la Espriella visitará hoy el municipio de Quimbaya, Quindío luego de un mes del terremoto y al ser la localidad más afectadas por sismo del 10 de agosto.\n<p> El mandatario nacional se espera que arribe al municipio luz d",
-        "created": "2026-09-11T13:27:03.196511+00:00",
-        "author": "msn.com",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 65,
@@ -431,11 +432,12 @@
       "2026-09-17": 2,
       "2026-09-19": 8,
       "2026-09-20": 4,
-      "2026-09-21": 1
+      "2026-09-21": 1,
+      "2026-09-23": 1
     },
     "by_platform": {
       "X": 189,
-      "Web": 127,
+      "Web": 128,
       "Facebook": 16,
       "Instagram": 14,
       "TV": 12,
@@ -446,7 +448,7 @@
       "Bluesky": 5
     },
     "by_language": {
-      "und": 206,
+      "und": 207,
       "English": 89,
       "French": 54,
       "Spanish": 34,
@@ -454,7 +456,7 @@
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 19,
+      "Dr. Sian Proctor": 20,
       "Julie Payette": 4,
       "Jean-François Clervoy": 3,
       "José Hernández": 2,
@@ -502,7 +504,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 10177,
+        "engagement": 10182,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -543,7 +545,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 644,
+        "engagement": 655,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -571,7 +573,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 522,
+        "engagement": 526,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -636,7 +638,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 169,
+        "engagement": 170,
         "text": "Julie Payette (Canadian Astronaut Julie Payette), Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters. \n\nLearn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T11:23:48.651234+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -832,6 +834,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0142",
+      "text": "Grupo Fórmula #AbriendoLaConversación ¡Suscríbete a nuestro canal de YouTube! http://goo.gl/NAKFkj Podcast: https://goo.gl/PbwGxT Mantente informado minuto a minuto en nuestras redes sociales: Facebook-----http://goo.gl/5UHZOQ Twitter----------http://goo.gl/nEXxVF Canal sugerido http://goo.gl/hst33f Sigue nuestra transmisión en vivo: http://goo.gl/2VZDqJ Descarga nuestra App: iOS: http://goo.gl/tLZe3S Android: http://goo.gl/oXFwHj¿Quieres anunciarte en este y muchos otros podcast?Escríbenos a este email: ventas@rss.com",
+      "title": "Piso 6 I Lunes 21 de Septiembre de 2026",
+      "has_text": true,
+      "url": "https://www.podchaser.com/podcasts/piso-6-de-grupo-formula-6265120/episodes/piso-6-i-lunes-21-de-septiembr-309989181",
+      "platform": "Web",
+      "outlet": "Podchaser",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "Riky Moreno y Sophia Henríquez",
+      "created": "2026-09-23T14:20:48.981179+00:00",
+      "day": "2026-09-23",
+      "engagement": 0,
+      "reach": 1235,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-23T14:20:51.444718+00:00"
+    },
     {
       "id": "s0141",
       "text": "Productores se oponen a acuerdo en que Laura Fernández quiere entrar y que Estados Unidos abandonó para proteger su gente Los productores nacionales y hasta la Iglesia católica se oponen al Acuerdo Transpacífico que Laura Fernández firmará en noviembre (lo que se viene preocupa) Escuchar Por Rocío Sandí 21 de septiembre 2026, 04:08 p. m.\nAñadir La Teja como fuente preferida en\n¿Ha escuchado hablar del Acuerdo Transpacífico , un gigantesco tratado comercial internacional al que nuestro país quiere entrar?\nFormalmente es conocido como el Tratado Integral y Progresista de Asociación Transpacífico (CPTPP) , un tratado de libre comercio que integra a 12 economías de América, Asia, Oceanía y Europa.\nEl asunto se ha complicado en las últimas semanas porque el Gobierno avanza en los trámites para unirse al tratado internacional, pero los diferentes sectores productivos están preocupados porque el Ministerio de Comercio Exterior (COMEX) ha manejado todo con un gran secretismo.\nEl Gobierno busca que Costa Rica entre en el Acuerdo Transpacífico. (Shutterstock) Un trato a ciegas y con reglas ya hechas Para entender bien la preocupación de los productores , el economista de la Universidad Nacional (UNA), Leiner Vargas , explicó cómo está el asunto. Él aclara que Costa Rica no está negociando nada, sino pidiendo una adhesión .\n“Adherirse significa asumir las condiciones de entrada que ya están pactadas”, detalló el experto. Es decir, nos toca aceptar las reglas del juego que otros países ya pusieron, dejando muy poco margen para proteger a nuestros sectores agrícolas .\nLEA MÁS: Contraloría revisó los proyectos del ICE y lo que encontró es grave; hasta podría golpear su bolsillo\n¿Y esto nos bajará los precios en el súper? Vargas es muy sincero: podríamos ver más variedad de productos , pero eso no garantiza que la comida nos salga más barata a los consumidores.\nEl asunto es tan delicado que hasta el mismo Donald Trump sacó a Estados Unidos de este acuerdo en 2017, porque consideró",
@@ -1063,7 +1089,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 644,
+      "engagement": 655,
       "reach": 539,
       "sentiment": "",
       "country": "",
@@ -1097,7 +1123,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1658,
+      "owned_reach": 1662,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -1114,7 +1140,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 169,
+      "engagement": 170,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -2349,7 +2375,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 522,
+      "engagement": 526,
       "reach": 433,
       "sentiment": "",
       "country": "",
@@ -3904,7 +3930,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 10177,
+      "engagement": 10182,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -6697,16 +6723,16 @@
     },
     {
       "id": "s0107",
-      "text": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty",
+      "text": "NEW YORK, NEW YORK, United States, September 3, 2026: Dr. Sian Proctor, geoscientist and astronaut, briefs reporters during an International Federation of Red Cross and Red Crescent Societies (IFRC) press conference on new disaster research and the launch of a global campaign calling for the world’s first international disaster treaty at United Nations Headquarters in New York City. (Photo: Luiz Rampelotto/EuropaNewswire).\n",
       "title": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty (25 media files)",
       "has_text": true,
       "url": "https://www.europanewswire.com/offer/00003778",
       "platform": "Web",
-      "outlet": "Europa NewsWire",
+      "outlet": "Europanewswire",
       "source": "external",
       "language": "English",
-      "language_source": "manual",
-      "author": "Europa NewsWire",
+      "language_source": "inferred",
+      "author": "europanewswire.com",
       "created": "2026-09-04T11:56:34.606596+00:00",
       "day": "2026-09-04",
       "engagement": 0,
@@ -6715,7 +6741,9 @@
       "country": "",
       "is_campaign": false,
       "is_treaty": true,
-      "astronauts": [],
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "self_reported": true,
@@ -9475,11 +9503,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjM2cld6U2xsMnRfRmg3T3M3aUhIam50blZaV3N3V0dCOUZGR05lMENYWXo4RE5hUXdqVlNQMjdBV09vLUxlNjNGU09KSGRwNWlaUE9scEZ1eFI2SEg3M21CYTRmZzEybWhyUUk1ZTA4WmZUcWdTUTYtVFNhWlJ2ME52cm5MTVRaWEZvb2tBcjVUR1ZueVJjd01QbC11Zw?oc=5",
       "platform": "Web",
-      "outlet": "blue News",
+      "outlet": "bluewin.ch",
       "source": "external",
       "language": "English",
       "language_source": "manual",
-      "author": "blue News",
+      "author": "bluewin.ch",
       "created": "2026-09-03T09:38:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
