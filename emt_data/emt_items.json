@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T19:27:48.849235+00:00",
+  "generated": "2026-09-24T22:40:50.454165+00:00",
   "count": 391,
   "items": [
     {
@@ -281,7 +281,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 672,
+      "engagement": 674,
       "reach": 559,
       "sentiment": "",
       "country": "",
@@ -315,7 +315,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1681,
+      "owned_reach": 1682,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -332,7 +332,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 185,
+      "engagement": 186,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -1444,7 +1444,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 4,
+      "engagement": 213,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -5915,16 +5915,16 @@
     },
     {
       "id": "s0107",
-      "text": "NEW YORK, NEW YORK, United States, September 3, 2026: Dr. Sian Proctor, geoscientist and astronaut, briefs reporters during an International Federation of Red Cross and Red Crescent Societies (IFRC) press conference on new disaster research and the launch of a global campaign calling for the world’s first international disaster treaty at United Nations Headquarters in New York City. (Photo: Luiz Rampelotto/EuropaNewswire).\n",
+      "text": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty",
       "title": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty (25 media files)",
       "has_text": true,
       "url": "https://www.europanewswire.com/offer/00003778",
       "platform": "Web",
-      "outlet": "Europanewswire",
+      "outlet": "Europa NewsWire",
       "source": "external",
       "language": "English",
-      "language_source": "inferred",
-      "author": "europanewswire.com",
+      "language_source": "manual",
+      "author": "Europa NewsWire",
       "created": "2026-09-04T11:56:34.606596+00:00",
       "day": "2026-09-04",
       "engagement": 0,
@@ -5933,9 +5933,7 @@
       "country": "",
       "is_campaign": false,
       "is_treaty": true,
-      "astronauts": [
-        "Dr. Sian Proctor"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "self_reported": true,
@@ -8279,7 +8277,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 731,
+      "owned_reach": 735,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8355,7 +8353,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 91,
-      "owned_reach": 4627,
+      "owned_reach": 4628,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8483,9 +8481,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 875,
+      "owned_engagement": 877,
       "owned_video_views": 0,
-      "owned_reach": 19694,
+      "owned_reach": 19710,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8502,7 +8500,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 499,
+      "engagement": 501,
       "reach": 423,
       "sentiment": "",
       "country": "",
