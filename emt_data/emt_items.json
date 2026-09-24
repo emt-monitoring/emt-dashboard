@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T00:20:59.743045+00:00",
+  "generated": "2026-09-24T05:14:28.119881+00:00",
   "count": 391,
   "items": [
     {
@@ -315,7 +315,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1668,
+      "owned_reach": 1669,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -1444,7 +1444,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 205,
+      "engagement": 208,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -5009,7 +5009,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1433,
+      "owned_reach": 1435,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -8408,7 +8408,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 65,
-      "owned_reach": 1249,
+      "owned_reach": 1254,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8795,11 +8795,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM?oc=5",
       "platform": "Web",
-      "outlet": "IFRC",
+      "outlet": "ifrc.org",
       "source": "own",
       "language": "English",
       "language_source": "manual",
-      "author": "IFRC",
+      "author": "ifrc.org",
       "created": "2026-09-03T03:55:34+00:00",
       "day": "2026-09-03",
       "engagement": 0,
