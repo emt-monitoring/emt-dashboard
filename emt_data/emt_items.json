@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T05:14:28.119881+00:00",
+  "generated": "2026-09-24T10:25:06.425833+00:00",
   "count": 391,
   "items": [
     {
@@ -315,7 +315,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1669,
+      "owned_reach": 1671,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -332,7 +332,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 177,
+      "engagement": 179,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -970,7 +970,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1853,
+      "owned_reach": 1855,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -1036,8 +1036,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 567,
-      "reach": 442,
+      "engagement": 575,
+      "reach": 455,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -1444,7 +1444,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 208,
+      "engagement": 209,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -8528,7 +8528,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.580856+00:00",
       "day": "2026-09-04",
-      "engagement": 807,
+      "engagement": 808,
       "reach": 368968,
       "sentiment": "",
       "country": "",
@@ -8536,7 +8536,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 880,
+      "owned_engagement": 881,
       "owned_reach": 17643,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
@@ -8795,11 +8795,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM?oc=5",
       "platform": "Web",
-      "outlet": "ifrc.org",
+      "outlet": "IFRC",
       "source": "own",
       "language": "English",
       "language_source": "manual",
-      "author": "ifrc.org",
+      "author": "IFRC",
       "created": "2026-09-03T03:55:34+00:00",
       "day": "2026-09-03",
       "engagement": 0,

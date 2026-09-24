@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-09-24T05:14:28.127833+00:00",
-    "window_hours": 533,
+    "generated": "2026-09-24T10:25:06.435670+00:00",
+    "window_hours": 538,
     "total": 391,
     "text_available": 202,
     "text_masked": 189,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16372"
+      "EARNED_ENGAGEMENT": "16384"
     },
     "owned_true": {
       "posts": 30,
-      "engagement": 2835,
+      "engagement": 2836,
       "video_views": 0,
-      "reach": 68551,
-      "candidates": 893
+      "reach": 68555,
+      "candidates": 913
     },
     "owned_error": "",
     "owned_debug": {
@@ -156,7 +156,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab4b190cbe1b5d6ddba3d0d\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab4fa67450611f9aa360948\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -166,14 +166,14 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 33971074,
-    "own_reach": 13028137,
+    "total_reach": 33971087,
+    "own_reach": 13028150,
     "movement_reach": 187431,
     "external_reach": 20755506,
-    "own_engagement": 6464,
+    "own_engagement": 6476,
     "movement_engagement": 45,
     "external_engagement": 10647,
-    "amplification": 1.65,
+    "amplification": 1.64,
     "earned_by_platform": {
       "Web": 129,
       "TV": 12,
@@ -186,6 +186,7 @@
       "ReliefWeb": 4,
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
+      "IFRC": 3,
       "Com": 2,
       "Vietnam": 2,
       "msn.com": 2,
@@ -193,8 +194,7 @@
       "nhk.or.jp": 2,
       "La Liberté": 2,
       "RFI": 2,
-      "NHK World": 2,
-      "Media UN": 2
+      "NHK World": 2
     },
     "outlet_reach": {
       "Podchaser": 52916,
@@ -532,7 +532,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 807,
+        "engagement": 808,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.580856+00:00",
         "author": "IFRC",
@@ -560,7 +560,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 567,
+        "engagement": 575,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -625,7 +625,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 208,
+        "engagement": 209,
         "text": "In this episode, we speak with Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, about the urgent need for the world’s first comprehensive international disaster treaty. We explore how legal and logistical barriers can delay humanitarian assistance, why astro",
         "created": "2026-09-11T17:07:18.262544+00:00",
         "author": "IFRC",
@@ -638,7 +638,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 177,
+        "engagement": 179,
         "text": "Julie Payette (Canadian Astronaut Julie Payette), Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters. \n\nLearn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T11:23:48.651234+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -1147,7 +1147,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1669,
+      "owned_reach": 1671,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -1164,7 +1164,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 177,
+      "engagement": 179,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -1802,7 +1802,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1853,
+      "owned_reach": 1855,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -1868,8 +1868,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 567,
-      "reach": 442,
+      "engagement": 575,
+      "reach": 455,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -2276,7 +2276,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 208,
+      "engagement": 209,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -9360,7 +9360,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.580856+00:00",
       "day": "2026-09-04",
-      "engagement": 807,
+      "engagement": 808,
       "reach": 368968,
       "sentiment": "",
       "country": "",
@@ -9368,7 +9368,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 880,
+      "owned_engagement": 881,
       "owned_reach": 17643,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
@@ -9627,11 +9627,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM?oc=5",
       "platform": "Web",
-      "outlet": "ifrc.org",
+      "outlet": "IFRC",
       "source": "own",
       "language": "English",
       "language_source": "manual",
-      "author": "ifrc.org",
+      "author": "IFRC",
       "created": "2026-09-03T03:55:34+00:00",
       "day": "2026-09-03",
       "engagement": 0,
