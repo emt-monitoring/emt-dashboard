@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:23:02+00:00",
+  "generated_at": "2026-09-25T23:27:53+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -132,24 +132,24 @@
     [
       "2026-09-24",
       13,
-      17,
+      13,
       12
     ],
     [
       "2026-09-25",
-      7,
-      7,
-      6
+      8,
+      8,
+      7
     ]
   ],
-  "avg_duration": 244,
+  "avg_duration": 214,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1212,
-      "views": 1274,
-      "users": 789
+      "sessions": 1213,
+      "views": 1271,
+      "users": 790
     },
     {
       "path": "/earthsmissingtreaty/fr",
@@ -246,7 +246,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 872
+      "value": 874
     },
     {
       "label": "Organic Social",
@@ -262,7 +262,7 @@
     },
     {
       "label": "Unassigned",
-      "value": 7
+      "value": 3
     }
   ],
   "countries": [

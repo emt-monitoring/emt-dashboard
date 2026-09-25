@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-09-25T20:22:59.389976+00:00",
-    "window_hours": 572,
+    "generated": "2026-09-25T23:27:49.648711+00:00",
+    "window_hours": 575,
     "total": 396,
     "text_available": 206,
     "text_masked": 190,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16484"
+      "EARNED_ENGAGEMENT": "16494"
     },
     "owned_true": {
       "posts": 30,
-      "engagement": 2840,
+      "engagement": 2841,
       "video_views": 0,
-      "reach": 68635,
-      "candidates": 1003
+      "reach": 68734,
+      "candidates": 1011
     },
     "owned_error": "",
     "owned_debug": {
@@ -83,6 +83,7 @@
         "1092294233256699",
         "2095430937253146779",
         "2095436649932939472",
+        "2095450802273796160",
         "2095476910717284842",
         "2095489170873467370",
         "2095512166698828093",
@@ -95,8 +96,7 @@
         "2095870925501583630",
         "2095885257094348808",
         "2095949379534287229",
-        "2097644061695885541",
-        "2098192326179139624"
+        "2097644061695885541"
       ],
       "own_urls": [
         "https://www.facebook.com/reel/2620770065007963/",
@@ -137,6 +137,8 @@
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
@@ -155,7 +157,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab6d7ff3a46f82abe66fdbd\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab70350d089b1e4b3fd2e44\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -165,14 +167,14 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 34150411,
-    "own_reach": 13206170,
+    "total_reach": 34150417,
+    "own_reach": 13206176,
     "movement_reach": 187431,
     "external_reach": 20756810,
-    "own_engagement": 6559,
+    "own_engagement": 6569,
     "movement_engagement": 45,
-    "external_engagement": 10671,
-    "amplification": 1.63,
+    "external_engagement": 10674,
+    "amplification": 1.62,
     "earned_by_platform": {
       "Web": 131,
       "TV": 12,
@@ -185,6 +187,7 @@
       "ReliefWeb": 4,
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
+      "IFRC": 3,
       "EFE - Spanish Newswire": 2,
       "Com": 2,
       "Vietnam": 2,
@@ -192,8 +195,7 @@
       "Gov": 2,
       "nhk.or.jp": 2,
       "La Liberté": 2,
-      "RFI": 2,
-      "NHK World": 2
+      "RFI": 2
     },
     "outlet_reach": {
       "Podchaser": 52916,
@@ -519,7 +521,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 877,
+        "engagement": 876,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -586,7 +588,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 501,
+        "engagement": 512,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -948,7 +950,7 @@
       "author": "@AdeshTripathee",
       "created": "2026-09-25T06:30:29.581730+00:00",
       "day": "2026-09-25",
-      "engagement": 6,
+      "engagement": 9,
       "reach": 1304,
       "sentiment": "",
       "country": "",
@@ -1271,7 +1273,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1692,
+      "owned_reach": 1694,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -9235,7 +9237,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 735,
+      "owned_reach": 736,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9311,7 +9313,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 91,
-      "owned_reach": 4628,
+      "owned_reach": 4632,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9338,7 +9340,7 @@
       "risk_vectors": [],
       "owned_engagement": 49,
       "owned_video_views": 0,
-      "owned_reach": 1806,
+      "owned_reach": 1818,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9390,7 +9392,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 71,
-      "owned_reach": 3444,
+      "owned_reach": 3446,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9431,7 +9433,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 877,
+      "engagement": 876,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -9439,9 +9441,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 877,
+      "owned_engagement": 876,
       "owned_video_views": 0,
-      "owned_reach": 19710,
+      "owned_reach": 19782,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9458,16 +9460,16 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 501,
-      "reach": 423,
+      "engagement": 512,
+      "reach": 429,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 26,
-      "owned_reach": 423,
+      "owned_engagement": 28,
+      "owned_reach": 429,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9751,11 +9753,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM?oc=5",
       "platform": "Web",
-      "outlet": "ifrc.org",
+      "outlet": "IFRC",
       "source": "own",
       "language": "English",
       "language_source": "manual",
-      "author": "ifrc.org",
+      "author": "IFRC",
       "created": "2026-09-03T03:55:34+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -10016,15 +10018,15 @@
     },
     {
       "id": "a0145",
-      "text": "  Les Etats se réuniront en 2027 pour négocier un traité international sur les catastrophes. La FICR, étable à Genève, les accompagne avec son expérience technique et des décennies de préparation aux désastres.\n<p> \"Le droit international protège les astronautes\", mais \"il n'y a pas de traité international sur la manière avec laquelle les pays devraient collaborer pour protéger des personnes avant, pendant et après un désastre\", déplore la FICR.</p> <p> Cet accord pourrait notamment un déploiement plus rapide des travailleurs humanitaires, des procédures douanières facilitées pour le matériel et une collaboration plus prévisible entre gouvernements et organisations humanitaires. Les coûts seraient plus bas et les barrières administratives seraient moins importantes, selon l'institution.</p> <p> De quoi mieux protéger les personnes affectées. \"Chaque heure perdue en raison de barrières légales ou administratives\" peut empêcher de sauver des victimes, affirme le secrétaire général de la FICR Jagan Chapagain.</p> <p> En 2025, 358 désastres naturels ont eu des effets pour plus de 110 millions d'individus. Les pertes économiques ont atteint plus de 169 milliards de dollars. Certains matériels humanitaires sont taxés deux fois que les autres marchandises.</p> <p> Dans de nombreux pays exposés aux désastres, les procédures douanières prennent habituellement environ 11 jours. Et environ 60% des approvisionnements qui arrivent portent sur des biens qui ne sont pas urgents et n'auraient pas dû être envoyés, rendant plus difficile le travail des humanitaires en termes de personnel, de stockage et de distribution, ajoute également l'organisation.</p> <p> Cet article a été publié automatiquement. Source : ats</p>",
+      "text": "Desastres: la Croix-Rouge lance une campagne pour un traite mondial",
       "has_text": true,
       "url": "https://www.radiolac.ch/actualite/geneve/desastres-la-croix-rouge-lance-une-campagne-pour-un-traite-mondial/",
       "platform": "Web",
-      "outlet": "Radiolac",
+      "outlet": "Radio Lac",
       "source": "external",
       "language": "French",
-      "language_source": "inferred",
-      "author": "radiolac.ch",
+      "language_source": "manual",
+      "author": "Radio Lac",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -10092,15 +10094,15 @@
     },
     {
       "id": "a0148",
-      "text": "La Fédération internationale des sociétés nationales de la Croix-Rouge et du Croissant-Rouge (FICR) lance une campagne mondiale pour un traité mondial contre les désastres. Dévoilée jeudi, celle-ci s'appuie sur le soutien de six astronautes.\n<p> Les Etats se réuniront en 2027 pour négocier un traité international sur les catastrophes. La FICR, étable à Genève, les accompagne avec son expérience technique et des décennies de préparation aux désastres.</p> <p> 'Le droit international protège les astronautes', mais 'il n'y a pas de traité international sur la manière avec laquelle les pays devraient collaborer pour protéger des personnes avant, pendant et après un désastre', déplore la FICR.</p> <p> Cet accord pourrait notamment un déploiement plus rapide des travailleurs humanitaires, des procédures douanières facilitées pour le matériel et une collaboration plus prévisible entre gouvernements et organisations humanitaires. Les coûts seraient plus bas et les barrières administratives seraient moins importantes, selon l'institution.</p> <p> De quoi mieux protéger les personnes affectées. 'Chaque heure perdue en raison de barrières légales ou administratives' peut empêcher de sauver des victimes, affirme le secrétaire général de la FICR Jagan Chapagain.</p> <p> En 2025, 358 désastres naturels ont eu des effets pour plus de 110 millions d'individus. Les pertes économiques ont atteint plus de 169 milliards de dollars. Certains matériels humanitaires sont taxés deux fois que les autres marchandises.</p> <p> Dans de nombreux pays exposés aux désastres, les procédures douanières prennent habituellement environ 11 jours. Et environ 60% des approvisionnements qui arrivent portent sur des biens qui ne sont pas urgents et n'auraient pas dû être envoyés, rendant plus difficile le travail des humanitaires en termes de personnel, de stockage et de distribution, ajoute également l'organisation.</p> <p> /ATS</p>",
+      "text": "Desastres: la Croix-Rouge lance une campagne pour un traite mondial",
       "has_text": true,
       "url": "https://www.lemanbleu.ch/Scripts/Index.aspx?id=545535",
       "platform": "Web",
-      "outlet": "Lemanbleu",
+      "outlet": "Leman Bleu",
       "source": "external",
       "language": "French",
-      "language_source": "inferred",
-      "author": "lemanbleu.ch",
+      "language_source": "manual",
+      "author": "Leman Bleu",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
