@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-25T01:19:31.809454+00:00",
-    "window_hours": 553,
-    "total": 391,
+    "generated": "2026-09-25T06:30:31.538267+00:00",
+    "window_hours": 558,
+    "total": 392,
     "text_available": 202,
-    "text_masked": 189,
+    "text_masked": 190,
     "earned_media": 149,
-    "social": 242,
+    "social": 243,
     "by_source": {
-      "external": 320,
+      "external": 321,
       "own": 57,
       "movement": 14
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 57,
     "movement_posts": 14,
-    "external_posts": 320,
+    "external_posts": 321,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16435"
+      "EARNED_ENGAGEMENT": "16436"
     },
     "owned_true": {
       "posts": 30,
       "engagement": 2838,
       "video_views": 0,
-      "reach": 68592,
-      "candidates": 954
+      "reach": 68601,
+      "candidates": 959
     },
     "owned_error": "",
     "owned_debug": {
@@ -88,7 +88,6 @@
         "2095489170873467370",
         "2095512166698828093",
         "2095523164327493664",
-        "2095548053272863061",
         "2095562202434424924",
         "2095787231713571088",
         "2095794860951228777",
@@ -96,7 +95,8 @@
         "2095870925501583630",
         "2095885257094348808",
         "2095949379534287229",
-        "2097644061695885541"
+        "2097644061695885541",
+        "2098192326179139624"
       ],
       "own_urls": [
         "https://www.facebook.com/reel/2620770065007963/",
@@ -144,7 +144,6 @@
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
-        "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750125505096757657",
@@ -156,7 +155,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab5cc0804ca98b5547893d7\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab614f13a46f82abe49f342\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -166,14 +165,14 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 33971107,
+    "total_reach": 33972411,
     "own_reach": 13028170,
     "movement_reach": 187431,
-    "external_reach": 20755506,
-    "own_engagement": 6518,
+    "external_reach": 20756810,
+    "own_engagement": 6520,
     "movement_engagement": 45,
     "external_engagement": 10657,
-    "amplification": 1.64,
+    "amplification": 1.63,
     "earned_by_platform": {
       "Web": 129,
       "TV": 12,
@@ -433,10 +432,11 @@
       "2026-09-19": 8,
       "2026-09-20": 4,
       "2026-09-21": 1,
-      "2026-09-23": 2
+      "2026-09-23": 2,
+      "2026-09-25": 1
     },
     "by_platform": {
-      "X": 189,
+      "X": 190,
       "Web": 129,
       "Facebook": 16,
       "Instagram": 14,
@@ -448,7 +448,7 @@
       "Bluesky": 5
     },
     "by_language": {
-      "und": 207,
+      "und": 208,
       "English": 89,
       "French": 55,
       "Spanish": 34,
@@ -456,7 +456,7 @@
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 20,
+      "Dr. Sian Proctor": 18,
       "Julie Payette": 4,
       "Jean-François Clervoy": 3,
       "José Hernández": 2,
@@ -545,7 +545,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 682,
+        "engagement": 683,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -638,7 +638,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 188,
+        "engagement": 189,
         "text": "Julie Payette (Canadian Astronaut Julie Payette), Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters. \n\nLearn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T11:23:48.651234+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -834,6 +834,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0269",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/AdeshTripathee/status/2103340940765344016",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@AdeshTripathee",
+      "created": "2026-09-25T06:30:29.581730+00:00",
+      "day": "2026-09-25",
+      "engagement": 0,
+      "reach": 1304,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-25T06:30:31.528740+00:00"
+    },
     {
       "id": "s0342",
       "text": "À propos de la couverture médiatique récente\nAcrimed : Un tapis de bombes sur Gaza, des dizaines de morts chaque jour, des corps d’enfants décharnés et démembrés, un plan de colonisation voire d’annexion assumé publiquement par le cabinet de défense israélien... Que t’inspire la couverture médiatique actuellement, tout particulièrement depuis qu’Israël a rompu la « trêve » à la mi-mars ?\nJohann Soufi : Depuis quelques semaines, on assiste à une évolution du traitement médiatique de la situation à Gaza, en France notamment. On constate un regain d’attention après des mois, des années, d’indifférence. On a le sentiment que la parole s’ouvre progressivement, que des voix jusque-là marginalisées – humanitaires, juristes, sociologues – commencent enfin à être entendues. Selon moi, cette évolution ne relève pas d’une prise de conscience spontanée de la part des médias et des responsables politiques, mais d’un effet d’accumulation, de saturation.\nD’abord en raison de l’ampleur des massacres, et des violations du droit international. On en est à plus de 53 000 morts et 120 000 blessés, selon les chiffres officiels. Et cela ne tient pas compte de tous ceux qui mourront tôt ou tard de leurs blessures ou de maladies non soignées, ni de ceux qui vivront avec des séquelles physiques et psychologiques permanentes, après dix-neuf mois de crimes, de persécutions et de privations. Depuis octobre 2023, un enfant est tué ou blessé toutes les 20 minutes à Gaza. L’aide humanitaire est entravée, instrumentalisée, la famine menace toute la population gazaouie. Les images qui nous parviennent nous rappellent les heures les plus sombres de l’histoire humaine. Chaque jour apporte son lot de nouvelles horreurs, de nouveaux traumatismes.\nÀ ces crimes s’ajoutent des discours de responsables israéliens qui assument de plus en plus clairement leur projet colonial, voire leur intention génocidaire. Israël Katz, ministre de la Défense, a récemment parlé de la « destruction totale » de Gaza et de la",
@@ -1113,7 +1137,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 682,
+      "engagement": 683,
       "reach": 579,
       "sentiment": "",
       "country": "",
@@ -1147,7 +1171,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1683,
+      "owned_reach": 1688,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -1164,7 +1188,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 188,
+      "engagement": 189,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -5841,7 +5865,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1435,
+      "owned_reach": 1436,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -6747,16 +6771,16 @@
     },
     {
       "id": "s0107",
-      "text": "NEW YORK, NEW YORK, United States, September 3, 2026: Dr. Sian Proctor, geoscientist and astronaut, briefs reporters during an International Federation of Red Cross and Red Crescent Societies (IFRC) press conference on new disaster research and the launch of a global campaign calling for the world’s first international disaster treaty at United Nations Headquarters in New York City. (Photo: Luiz Rampelotto/EuropaNewswire).\n",
+      "text": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty",
       "title": "Gallery: IFRC Launches Global Campaign for International Disaster Treaty (25 media files)",
       "has_text": true,
       "url": "https://www.europanewswire.com/offer/00003778",
       "platform": "Web",
-      "outlet": "Europanewswire",
+      "outlet": "Europa NewsWire",
       "source": "external",
       "language": "English",
-      "language_source": "inferred",
-      "author": "europanewswire.com",
+      "language_source": "manual",
+      "author": "Europa NewsWire",
       "created": "2026-09-04T11:56:34.606596+00:00",
       "day": "2026-09-04",
       "engagement": 0,
@@ -6765,9 +6789,7 @@
       "country": "",
       "is_campaign": false,
       "is_treaty": true,
-      "astronauts": [
-        "Dr. Sian Proctor"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "self_reported": true,
@@ -7084,7 +7106,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 0,
-      "owned_reach": 28,
+      "owned_reach": 29,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9240,7 +9262,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 65,
-      "owned_reach": 1254,
+      "owned_reach": 1256,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -10246,15 +10268,15 @@
     },
     {
       "id": "a0159",
-      "text": "\"Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar...\n<p> \"Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra\", explicó Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder apuntó que solo el pasado año se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169.700 millones de dólares.</p> <p> \"Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30 %, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras\", declaró.</p> <p> Según dijo, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> \"En catástrofes como la de Nepal, un tratado mundial establecería normas claras para la ayuda internacional y ayudaría a los gobiernos y a los agentes humanitarios a sortear los trámites burocráticos con mayor rapidez\", añadió.</p> <p> La IFRC lamentó que aunque existen acuerdos regionales, bilaterales y sectoriales falta un tratado internacional que unifique normas y procedimientos.</p> <p> \"Esto podría traducirse en un despliegue más rápido de los equipos humanitarios, trámites aduaneros y fronterizos más sencillos para los suministros de prime",
+      "text": "La Cruz Roja y astronautas exigen un pacto global para personas ante catastrofes naturales",
       "has_text": true,
       "url": "https://villaricafm.com.ar/articulo/la-cruz-roja-y-astronautas-exigen-un-pacto-global-para-personas-ante-catastrofes-naturales.php",
       "platform": "Web",
-      "outlet": "Villaricafm",
+      "outlet": "Villarica FM",
       "source": "external",
       "language": "Spanish",
-      "language_source": "inferred",
-      "author": "villaricafm.com.ar",
+      "language_source": "manual",
+      "author": "Villarica FM",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -10264,9 +10286,7 @@
       "source_country": "AR",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [
-        "Dr. Sian Proctor"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "La Cruz Roja y astronautas exigen un pacto global para personas ante catástrofes naturales",
