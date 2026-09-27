@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T20:21:21.848000+00:00",
+  "generated": "2026-09-27T23:19:29.638322+00:00",
   "count": 409,
   "items": [
     {
@@ -240,7 +240,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1067,
+      "owned_reach": 1077,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -309,8 +309,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 354,
-      "reach": 0,
+      "engagement": 356,
+      "reach": 294,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -333,7 +333,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1149,
+      "engagement": 4,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -722,8 +722,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 719,
-      "reach": 579,
+      "engagement": 721,
+      "reach": 583,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -756,7 +756,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1698,
+      "owned_reach": 1699,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -8926,7 +8926,7 @@
       "risk_vectors": [],
       "owned_engagement": 877,
       "owned_video_views": 0,
-      "owned_reach": 19876,
+      "owned_reach": 19980,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -8943,8 +8943,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 519,
-      "reach": 438,
+      "engagement": 521,
+      "reach": 456,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -8952,7 +8952,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 28,
-      "owned_reach": 438,
+      "owned_reach": 456,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
