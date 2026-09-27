@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-27T17:12:53.917669+00:00",
-    "window_hours": 617,
-    "total": 407,
-    "text_available": 213,
+    "generated": "2026-09-27T20:21:21.859131+00:00",
+    "window_hours": 620,
+    "total": 409,
+    "text_available": 215,
     "text_masked": 194,
-    "earned_media": 155,
+    "earned_media": 157,
     "social": 252,
     "by_source": {
-      "external": 329,
+      "external": 331,
       "own": 63,
       "movement": 15
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 63,
     "movement_posts": 15,
-    "external_posts": 329,
+    "external_posts": 331,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16866"
+      "EARNED_ENGAGEMENT": "17973"
     },
     "owned_true": {
       "posts": 31,
       "engagement": 2841,
       "video_views": 0,
-      "reach": 69942,
-      "candidates": 1046
+      "reach": 69954,
+      "candidates": 1048
     },
     "owned_error": "",
     "owned_debug": {
@@ -89,16 +89,17 @@
         "2095489170873467370",
         "2095512166698828093",
         "2095523164327493664",
-        "2095548053272863061",
         "2095562202434424924",
         "2095787231713571088",
         "2095794860951228777",
         "2095837119092555788",
         "2095870925501583630",
         "2095885257094348808",
-        "2095949379534287229"
+        "2095949379534287229",
+        "2097644061695885541"
       ],
       "own_urls": [
+        "https://www.youtube.com/shorts/9EXyX6pD1iI",
         "https://www.facebook.com/reel/2620770065007963/",
         "https://www.instagram.com/reel/Dc0Z9VxRkW0/",
         "https://www.tiktok.com/@ifrc/video/7686875236062579971",
@@ -137,16 +138,17 @@
         "https://twitter.com/NenaStoiljkovic/status/2095489170873467370",
         "https://twitter.com/jagan_chapagain/status/2101401670395531519",
         "https://twitter.com/CMRassiIFRC/status/2095523164327493664",
-        "https://www.youtube.com/shorts/9EXyX6pD1iI",
         "https://twitter.com/NenaStoiljkovic/status/2098504515645276302",
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
+        "https://www.tiktok.com/@ifrc/video/7684266609258614038",
+        "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
-        "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750125505096757657",
@@ -157,7 +159,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab94e71d8c9c45b28e8a4a1\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab97a9cd8c9c45b28edf5fd\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -171,12 +173,12 @@
     "own_reach": 14588976,
     "movement_reach": 187563,
     "external_reach": 20761768,
-    "own_engagement": 7091,
+    "own_engagement": 8250,
     "movement_engagement": 45,
     "external_engagement": 10683,
-    "amplification": 1.51,
+    "amplification": 1.29,
     "earned_by_platform": {
-      "Web": 134,
+      "Web": 136,
       "TV": 12,
       "Print": 9
     },
@@ -188,17 +190,18 @@
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
       "IFRC": 3,
+      "Impact": 2,
       "EFE - Spanish Newswire": 2,
       "Com": 2,
       "Vietnam": 2,
       "msn.com": 2,
       "Gov": 2,
       "nhk.or.jp": 2,
-      "La Liberté": 2,
-      "RFI": 2
+      "La Liberté": 2
     },
     "outlet_reach": {
       "Podchaser": 52916,
+      "Impact": 0,
       "ngombabacar37": 0,
       "Daypo": 0,
       "Walf Groupe": 0,
@@ -211,10 +214,35 @@
       "Com": 0,
       "Blogspot": 0,
       "Paperblog": 0,
-      "Vietnam": 0,
-      "United Nations": 0
+      "Vietnam": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.impact.sn/Le-naufrage-du-bateau-Le-Joola-d-heure-en-heure-comme-un-roman-Par-Moustapha-Diao_a59229.html",
+        "platform": "Web",
+        "outlet": "Impact",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Il est 7 heures, ce 26 novembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant - de cette insistance particulière qui, avant même que l'on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée d'Amy Pauline Bèye, la secrétaire particulière ",
+        "created": "2026-09-27T20:21:19.581068+00:00",
+        "author": "ENQUETES & REPORTAGES | impact.sn : informations, enquêtes, analyses",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://www.impact.sn/Le-Joola-d-heure-en-heure-comme-un-roman-Par-Moustapha-Diao_a59229.html",
+        "platform": "Web",
+        "outlet": "Impact",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Il est 7 heures, ce 26 novembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant - de cette insistance particulière qui, avant même que l'on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée d'Amy Pauline Bèye, la secrétaire particulière ",
+        "created": "2026-09-27T20:21:19.557437+00:00",
+        "author": "impact.sn",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://ct.moreover.com/?a=60490353725&p=4vg&v=1&x=hc--gKV4-m6HlgPqY_0iow",
         "platform": "Print",
@@ -383,32 +411,6 @@
         "author": "United Nations",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.paperblog.fr/10795024/paul-mccartney-cinquante-ans-d-engagement-animaux-humanitaire-et-philanthropie-le-dossier-documente/",
-        "platform": "Web",
-        "outlet": "Paperblog",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "  Publié le 15 septembre 2026 par John Lenmac  @yellowsubnet  En bref\n<p> L'engagement animalier de Paul McCartney naît au milieu des années 1970 dans une ferme du Kintyre et devient, avec Linda, une entreprise : un livre de cuisine, puis une marque alimentaire lancée en 1991.</p",
-        "created": "2026-09-15T21:40:53.474360+00:00",
-        "author": "paperblog.fr",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.podchaser.com/podcasts/hoy-por-hoy-61113/episodes/el-pulso-de-hoy-por-hoy-irene-309055435",
-        "platform": "Web",
-        "outlet": "Podchaser",
-        "source": "external",
-        "language": "Spanish",
-        "engagement": 0,
-        "text": "Todo el análisis informativo con los protagonistas de la actualidad, con los expertos que dominan los asuntos que marcan el día y con los mejores analistas de Hoy por Hoy. Hoy con Antón Losada, Carlos Cué y Lucía Méndez",
-        "created": "2026-09-15T14:26:19.217979+00:00",
-        "author": "SER Podcast",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 70,
@@ -435,11 +437,11 @@
       "2026-09-23": 2,
       "2026-09-25": 5,
       "2026-09-26": 8,
-      "2026-09-27": 3
+      "2026-09-27": 5
     },
     "by_platform": {
       "X": 194,
-      "Web": 134,
+      "Web": 136,
       "Facebook": 17,
       "Instagram": 15,
       "TV": 12,
@@ -452,13 +454,13 @@
     "by_language": {
       "und": 212,
       "English": 95,
-      "French": 58,
+      "French": 60,
       "Spanish": 36,
       "unknown": 6
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 23,
+      "Dr. Sian Proctor": 22,
       "Julie Payette": 4,
       "Jean-François Clervoy": 3,
       "José Hernández": 2,
@@ -510,6 +512,21 @@
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
+        "astronauts": [
+          "Dr. Sian Proctor"
+        ],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://www.youtube.com/shorts/9EXyX6pD1iI",
+        "platform": "YouTube",
+        "outlet": "Youtube",
+        "source": "own",
+        "language": "English",
+        "engagement": 1149,
+        "text": "Dr. Sian Proctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters.\n\nLearn more at earthsmissingtreaty.org",
+        "created": "2026-09-25T20:22:57.162862+00:00",
+        "author": "IFRC",
         "astronauts": [
           "Dr. Sian Proctor"
         ],
@@ -575,7 +592,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 542,
+        "engagement": 548,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -601,7 +618,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 349,
+        "engagement": 354,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -813,7 +830,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 64,
+        "engagement": 67,
         "text": "Dr. Sian Proctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC’s Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters.\n\nLearn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.264752+00:00",
         "author": "IFRC",
@@ -821,23 +838,58 @@
           "Dr. Sian Proctor"
         ],
         "risk_vectors": []
-      },
-      {
-        "url": "https://twitter.com/jagan_chapagain/status/2095885257094348808",
-        "platform": "X",
-        "outlet": "Twitter",
-        "source": "own",
-        "language": "und",
-        "engagement": 56,
-        "text": "",
-        "created": "2026-09-04T16:07:36.097863+00:00",
-        "author": "@jagan_chapagain",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ]
   },
   "items": [
+    {
+      "id": "s0359",
+      "text": "Il est 7 heures, ce 26 novembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant - de cette insistance particulière qui, avant même que l'on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée d'Amy Pauline Bèye, la secrétaire particulière du ministre : « Tu es où ? » Avant que je ne réponde, elle enchaîne, la voix brisée : « Le Joola a coulé cette nuit. Des milliers de passagers avec lui. »\nComme aspergé d’un un seau d'eau glacée, l’information me traverse. Pendant une seconde, rien ne bouge en moi - puis tout se précipite. Je suis debout, réveillé pour de bon, le corps en avance sur l'esprit qui, lui, cherche encore à comprendre ce que ces mots signifient vraiment.\nCe bateau, je le connais. Je l'ai pris, quelques mois plus tôt, pour une mission à Ziguinchor. Je me souviens de l'avoir arpenté à peine embarqué, curieux de ce monde flottant : chaque parcelle de fer occupée, chaque recoin habité, comme si le Sénégal tout entier - ses familles, ses marchandises, ses destins - s'était donné rendez-vous sur ce pont. Ma cabine trouvée, une douche prise, je ressortais vers 21 heures pour découvrir une vie nocturne insoupçonnée : un orchestre jouait, des rires fusaient, une ambiance bigarrée régnait sur le navire, comme si la traversée elle-même n'était qu'un prétexte à cette fête improvisée. Rien, dans cette nuit-là, ne laissait deviner ce qu'une autre nuit, un an plus tard, réserverait à d'autres passagers, tout aussi insouciants.\nJe m'étais couché tôt, ce soir-là - le travail m'attendait dès que je poserais le pied à terre. Au réveil, le bateau longeait déjà l'île de Karabane. De petites pirogues venaient y chercher les passagers arrivés à destination, tandis que d'autres déposaient à bord ceux qui, de l'île, souhaitaient rejoindre Ziguinchor. Autour de cette manœuvre s'installait un climat particulier, presque festif : les habitants des îles profitaient de la halte du bateau pour proposer aux voyageurs toutes sortes de marchandise",
+      "title": "Le naufrage du bateau Le Joola, d'heure en heure, comme un roman (Par Moustapha Diao)",
+      "has_text": true,
+      "url": "https://www.impact.sn/Le-naufrage-du-bateau-Le-Joola-d-heure-en-heure-comme-un-roman-Par-Moustapha-Diao_a59229.html",
+      "platform": "Web",
+      "outlet": "Impact",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "ENQUETES & REPORTAGES | impact.sn : informations, enquêtes, analyses",
+      "created": "2026-09-27T20:21:19.581068+00:00",
+      "day": "2026-09-27",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-27T20:21:21.848000+00:00"
+    },
+    {
+      "id": "s0279",
+      "text": "Il est 7 heures, ce 26 novembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant - de cette insistance particulière qui, avant même que l'on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée d'Amy Pauline Bèye, la secrétaire particulière du ministre : « Tu es où ? » Avant que je ne réponde, elle enchaîne, la voix brisée : « Le Joola a coulé cette nuit. Des milliers de passagers avec lui. »\n<p> Comme aspergé d'un un seau d'eau glacée, l'information me traverse. Pendant une seconde, rien ne bouge en moi - puis tout se précipite. Je suis debout, réveillé pour de bon, le corps en avance sur l'esprit qui, lui, cherche encore à comprendre ce que ces mots signifient vraiment.</p> <p> Ce bateau, je le connais. Je l'ai pris, quelques mois plus tôt, pour une mission à Ziguinchor. Je me souviens de l'avoir arpenté à peine embarqué, curieux de ce monde flottant : chaque parcelle de fer occupée, chaque recoin habité, comme si le Sénégal tout entier - ses familles, ses marchandises, ses destins - s'était donné rendez-vous sur ce pont. Ma cabine trouvée, une douche prise, je ressortais vers 21 heures pour découvrir une vie nocturne insoupçonnée : un orchestre jouait, des rires fusaient, une ambiance bigarrée régnait sur le navire, comme si la traversée elle-même n'était qu'un prétexte à cette fête improvisée. Rien, dans cette nuit-là, ne laissait deviner ce qu'une autre nuit, un an plus tard, réserverait à d'autres passagers, tout aussi insouciants.</p> <p> Explorer Des Cartes</p> <p> Je m'étais couché tôt, ce soir-là - le travail m'attendait dès que je poserais le pied à terre. Au réveil, le bateau longeait déjà l'île de Karabane. De petites pirogues venaient y chercher les passagers arrivés à destination, tandis que d'autres déposaient à bord ceux qui, de l'île, souhaitaient rejoindre Ziguinchor. Autour de cette manœuvre s'installait un climat particulier, presque festif : les habitants des îles profitaient de la halte du bateau pour pro",
+      "title": "Le Joola, d'heure en heure, comme un roman (Par Moustapha Diao)",
+      "has_text": true,
+      "url": "https://www.impact.sn/Le-Joola-d-heure-en-heure-comme-un-roman-Par-Moustapha-Diao_a59229.html",
+      "platform": "Web",
+      "outlet": "Impact",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "impact.sn",
+      "created": "2026-09-27T20:21:19.557437+00:00",
+      "day": "2026-09-27",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-27T20:21:21.848000+00:00"
+    },
     {
       "id": "s0357",
       "text": "Il est 7 heures, ce 26 novembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant – de cette insistance particulière qui, avant même que l’on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée de Pauline Bèye : « Tu es où ? » Avant que je ne réponde, elle enchaîne, la voix brisée : « Le Joola a coulé cette nuit. Des milliers de passagers avec lui. »\n\nComme aspergé d’un sceau d’eau glacée, l’information me traverse. Pendant une seconde, rien ne bouge en moi – puis tout se précipite. Je suis debout, réveillé pour de bon, le corps en avance sur l’esprit qui, lui, cherche encore à comprendre ce que ces mots signifient vraiment.\n\nCe bateau, je le connais. Je l’ai pris, quelques mois plus tôt, pour une mission à Ziguinchor. Je me souviens de l’avoir arpenté à peine embarqué, curieux de ce monde flottant : chaque parcelle de fer occupée, chaque recoin habité, comme si le Sénégal tout entier – ses familles, ses marchandises, ses destins – s’était donné rendez-vous sur ce pont. Ma cabine trouvée, une douche prise, je ressortais vers 21 heures pour découvrir une vie nocturne insoupçonnée : un orchestre jouait, des rires fusaient, une ambiance bigarrée régnait sur le navire, comme si la traversée elle-même n’était qu’un prétexte à cette fête improvisée. Rien, dans cette nuit-là, ne laissait deviner ce qu’une autre nuit, un an plus tard, réserverait à d’autres passagers, tout aussi insouciants.\n\nJe m’étais couché tôt, ce soir-là – le travail m’attendait dès que je poserais le pied à terre. Au réveil, le bateau longeait déjà l’île de Karabane, où des pirogues venaient chercher les passagers, faute de pouvoir accoster. Une scène presque paisible, presque banale, de ce type de voyage que l’on fait sans y penser, tant l’habitude et la routine administrative recouvrent l’aventure elle-même.\n\nC’est précisément cette banalité qui, ce matin du 26 septembre, se retourne contre moi. Car ce que Pauline vient de m’annoncer n’est pas un fait divers lo",
@@ -1028,7 +1080,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1057,
+      "owned_reach": 1067,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -1071,7 +1123,7 @@
       "author": "IFRC",
       "created": "2026-09-26T12:23:16.264752+00:00",
       "day": "2026-09-26",
-      "engagement": 64,
+      "engagement": 67,
       "reach": 367663,
       "sentiment": "",
       "country": "",
@@ -1097,7 +1149,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 349,
+      "engagement": 354,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -1121,7 +1173,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 4,
+      "engagement": 1149,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -2755,7 +2807,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 905,
+      "owned_reach": 906,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -2796,7 +2848,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 542,
+      "engagement": 548,
       "reach": 433,
       "sentiment": "",
       "country": "",
@@ -3625,7 +3677,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1097,
+      "owned_reach": 1098,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -10539,15 +10591,15 @@
     },
     {
       "id": "a0155",
-      "text": "La Cruz Roja y astronautas exigen un pacto global para personas ante catastrofes naturales",
+      "text": "  Naciones Unidas, 3 sep (EFE).- La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y un grupo de astronautas\n<p>exigieron este jueves en la ONU impulsar el primer pacto global que proteja a las personas ante las catástrofes naturales.</p> <p> \"Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra\", explicó Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder apuntó que solo el pasado año se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169.700 millones de dólares.</p> <p> \"Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30 %, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras\", declaró.</p> <p> Según dijo, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> \"En catástrofes como la de Nepal, un tratado mundial establecería normas claras para la ayuda internacional y ayudaría a los gobiernos y a los agentes humanitarios a sortear los trámites burocráticos con mayor rapidez\", añadió.</p> <p> La IFRC lamentó que aunque existen acuerdos regionales, bilaterales y sectoriales falta un tratado internacional que unifique normas y procedimientos.</p> <p> \"Esto podría traducirse en un despliegue más rápido de los equipos hum",
       "has_text": true,
       "url": "https://unitel.bo/noticias/agencias/la-cruz-roja-y-astronautas-exigen-un-pacto-global-para-personas-ante-catastrofes-naturales-EG23256020",
       "platform": "Web",
       "outlet": "Unitel",
       "source": "external",
       "language": "Spanish",
-      "language_source": "manual",
-      "author": "Unitel",
+      "language_source": "inferred",
+      "author": "unitel.bo",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -10557,7 +10609,9 @@
       "source_country": "BO",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [],
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "La Cruz Roja y astronautas exigen un pacto global para personas ante catástrofes naturales",
@@ -10641,15 +10695,15 @@
     },
     {
       "id": "a0159",
-      "text": "\"Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar...\n<p> \"Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra\", explicó Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder apuntó que solo el pasado año se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169.700 millones de dólares.</p> <p> \"Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30 %, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras\", declaró.</p> <p> Según dijo, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> \"En catástrofes como la de Nepal, un tratado mundial establecería normas claras para la ayuda internacional y ayudaría a los gobiernos y a los agentes humanitarios a sortear los trámites burocráticos con mayor rapidez\", añadió.</p> <p> La IFRC lamentó que aunque existen acuerdos regionales, bilaterales y sectoriales falta un tratado internacional que unifique normas y procedimientos.</p> <p> \"Esto podría traducirse en un despliegue más rápido de los equipos humanitarios, trámites aduaneros y fronterizos más sencillos para los suministros de prime",
+      "text": "La Cruz Roja y astronautas exigen un pacto global para personas ante catastrofes naturales",
       "has_text": true,
       "url": "https://villaricafm.com.ar/articulo/la-cruz-roja-y-astronautas-exigen-un-pacto-global-para-personas-ante-catastrofes-naturales.php",
       "platform": "Web",
-      "outlet": "Villaricafm",
+      "outlet": "Villarica FM",
       "source": "external",
       "language": "Spanish",
-      "language_source": "inferred",
-      "author": "villaricafm.com.ar",
+      "language_source": "manual",
+      "author": "Villarica FM",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -10659,9 +10713,7 @@
       "source_country": "AR",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [
-        "Dr. Sian Proctor"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "La Cruz Roja y astronautas exigen un pacto global para personas ante catástrofes naturales",
@@ -10669,15 +10721,15 @@
     },
     {
       "id": "a0160",
-      "text": "  La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y un grupo de astronautas han exigido este jueves en la\n<p>ONU impulsar el primer pacto global que proteja a las personas ante las catástrofes naturales.</p> <p> «Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra», ha declarado Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, geocientífica y astronauta, quien ha destacado cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder ha apuntado que solo el pasado año se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169.700 millones de dólares.</p> <p> «Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30 %, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras», ha detallado.</p> <p> Según ha dicho, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> «En catástrofes como la de Nepal, un tratado mundial establecería normas claras para la ayuda internacional y ayudaría a los gobiernos y a los agentes humanitarios a sortear los trámites burocráticos con mayor rapidez», ha añadido.</p> <p> La IFRC ha lamentado que aunque existen acuerdos regionales, bilaterales y sectoriales falta un tratado internacional que unifique normas y procedimientos.</p> <p> «Esto podría traducirse en un despliegue más rápido de los equipos hum",
+      "text": "La Cruz Roja y astronautas exigen un pacto global para personas ante catastrofes naturales",
       "has_text": true,
       "url": "https://focoinformativo.site/la-cruz-roja-y-astronautas-exigen-un-pacto-global-para-personas-ante-catastrofes-naturales/",
       "platform": "Web",
-      "outlet": "Focoinformativo",
+      "outlet": "Foco Informativo",
       "source": "external",
       "language": "Spanish",
-      "language_source": "inferred",
-      "author": "focoinformativo.site",
+      "language_source": "manual",
+      "author": "Foco Informativo",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -10687,9 +10739,7 @@
       "source_country": "",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [
-        "Dr. Sian Proctor"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "La Cruz Roja y astronautas exigen un pacto global para personas ante catástrofes naturales",
