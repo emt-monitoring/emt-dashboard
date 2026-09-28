@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-28T16:58:06.407803+00:00",
-    "window_hours": 640,
-    "total": 414,
+    "generated": "2026-09-28T22:28:35.284196+00:00",
+    "window_hours": 646,
+    "total": 415,
     "text_available": 218,
-    "text_masked": 196,
+    "text_masked": 197,
     "earned_media": 160,
-    "social": 254,
+    "social": 255,
     "by_source": {
-      "external": 334,
+      "external": 335,
       "own": 65,
       "movement": 15
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 65,
     "movement_posts": 15,
-    "external_posts": 334,
+    "external_posts": 335,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16915"
+      "EARNED_ENGAGEMENT": "16922"
     },
     "owned_true": {
       "posts": 33,
       "engagement": 2841,
       "video_views": 0,
-      "reach": 70193,
-      "candidates": 1083
+      "reach": 70571,
+      "candidates": 1088
     },
     "owned_error": "",
     "owned_debug": {
@@ -124,8 +124,8 @@
         "https://www.facebook.com/reel/1045989911637258/",
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
         "https://twitter.com/ifrc/status/2101219750961430854",
-        "https://twitter.com/ifrc/status/2099045420030705720",
         "https://www.facebook.com/reel/1335108238700224/",
+        "https://twitter.com/ifrc/status/2099045420030705720",
         "https://twitter.com/jagan_chapagain/status/2095476910717284842",
         "https://twitter.com/jagan_chapagain/status/2095870925501583630",
         "https://www.facebook.com/reel/1045874834746926/",
@@ -134,6 +134,7 @@
         "https://twitter.com/IFRC_MENA/status/2095949379534287229",
         "https://twitter.com/jagan_chapagain/status/2095794860951228777",
         "https://twitter.com/IFRCAfrica/status/2095436649932939472",
+        "https://twitter.com/jagan_chapagain/status/2104608414919803020",
         "https://twitter.com/NenaStoiljkovic/status/2095489170873467370",
         "https://twitter.com/jagan_chapagain/status/2101401670395531519",
         "https://www.youtube.com/shorts/9EXyX6pD1iI",
@@ -144,11 +145,11 @@
         "https://twitter.com/ifrc/status/2095837119092555788",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
-        "https://twitter.com/jagan_chapagain/status/2104608414919803020",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
@@ -161,7 +162,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aba9c772482c671042a6594\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6abae9fa1d14e19e0477cb68\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -171,14 +172,14 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 35610381,
-    "own_reach": 14661050,
+    "total_reach": 35613184,
+    "own_reach": 14662452,
     "movement_reach": 187563,
-    "external_reach": 20761768,
-    "own_engagement": 7140,
+    "external_reach": 20763169,
+    "own_engagement": 7164,
     "movement_engagement": 45,
     "external_engagement": 10689,
-    "amplification": 1.5,
+    "amplification": 1.49,
     "earned_by_platform": {
       "Web": 139,
       "TV": 12,
@@ -440,10 +441,10 @@
       "2026-09-25": 5,
       "2026-09-26": 8,
       "2026-09-27": 5,
-      "2026-09-28": 5
+      "2026-09-28": 6
     },
     "by_platform": {
-      "X": 196,
+      "X": 197,
       "Web": 139,
       "Facebook": 17,
       "Instagram": 15,
@@ -455,7 +456,7 @@
       "Bluesky": 5
     },
     "by_language": {
-      "und": 214,
+      "und": 215,
       "English": 95,
       "French": 63,
       "Spanish": 36,
@@ -463,7 +464,7 @@
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 24,
+      "Dr. Sian Proctor": 23,
       "Julie Payette": 4,
       "Jean-François Clervoy": 3,
       "José Hernández": 2,
@@ -552,7 +553,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 723,
+        "engagement": 724,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -580,7 +581,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 548,
+        "engagement": 549,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -606,7 +607,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 366,
+        "engagement": 371,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -844,6 +845,30 @@
   },
   "items": [
     {
+      "id": "s0153",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/DrPrish/status/2104620057686942140",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@DrPrish",
+      "created": "2026-09-28T22:28:32.845560+00:00",
+      "day": "2026-09-28",
+      "engagement": 0,
+      "reach": 1401,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-28T22:28:35.274157+00:00"
+    },
+    {
       "id": "s0362",
       "text": "NATIONS HEBDO – Il est 7 heures, ce 26 septembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant – de cette insistance particulière qui, avant même que l’on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée d’Amy Pauline Bèye, la secrétaire particulière du ministre : « Tu es où ? » Avant que je ne réponde, elle enchaîne, la voix brisée : « Le Joola a coulé cette nuit. Des milliers de passagers avec lui. »\nComme aspergé d’un un seau d’eau glacée, l’information me traverse. Pendant une seconde, rien ne bouge en moi – puis tout se précipite. Je suis debout, réveillé pour de bon, le corps en avance sur l’esprit qui, lui, cherche encore à comprendre ce que ces mots signifient vraiment.\nCe bateau, je le connais. Je l’ai pris, quelques mois plus tôt, pour une mission à Ziguinchor. Je me souviens de l’avoir arpenté à peine embarqué, curieux de ce monde flottant : chaque parcelle de fer occupée, chaque recoin habité, comme si le Sénégal tout entier – ses familles, ses marchandises, ses destins – s’était donné rendez-vous sur ce pont. Ma cabine trouvée, une douche prise, je ressortais vers 21 heures pour découvrir une vie nocturne insoupçonnée : un orchestre jouait, des rires fusaient, une ambiance bigarrée régnait sur le navire, comme si la traversée elle-même n’était qu’un prétexte à cette fête improvisée. Rien, dans cette nuit-là, ne laissait deviner ce qu’une autre nuit, un an plus tard, réserverait à d’autres passagers, tout aussi insouciants.\nJe m’étais couché tôt, ce soir-là – le travail m’attendait dès que je poserais le pied à terre. Au réveil, le bateau longeait déjà l’île de Karabane. De petites pirogues venaient y chercher les passagers arrivés à destination, tandis que d’autres déposaient à bord ceux qui, de l’île, souhaitaient rejoindre Ziguinchor. Autour de cette manœuvre s’installait un climat particulier, presque festif : les habitants des îles profitaient de la halte du bateau pour proposer aux voyageurs toutes sort",
       "title": "[TRIBUNE-ZOOM] COMMÉMORATION/NAUFRAGE DU JOOLA: le récit d'un drame comme un roman, heure après heure (Par Moustapha Diao)",
@@ -905,15 +930,15 @@
       "author": "@jagan_chapagain",
       "created": "2026-09-28T16:58:04.239164+00:00",
       "day": "2026-09-28",
-      "engagement": 0,
-      "reach": 35879,
+      "engagement": 15,
+      "reach": 37280,
       "sentiment": "",
       "country": "",
       "is_campaign": false,
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 9,
+      "owned_reach": 354,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -938,7 +963,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 44,
+      "owned_reach": 68,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -1203,7 +1228,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1113,
+      "owned_reach": 1118,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -1220,7 +1245,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-26T12:23:16.265614+00:00",
       "day": "2026-09-26",
-      "engagement": 39,
+      "engagement": 41,
       "reach": 780809,
       "sentiment": "",
       "country": "",
@@ -1272,7 +1297,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 366,
+      "engagement": 371,
       "reach": 294,
       "sentiment": "",
       "country": "",
@@ -1685,7 +1710,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 723,
+      "engagement": 724,
       "reach": 583,
       "sentiment": "",
       "country": "",
@@ -2930,7 +2955,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 906,
+      "owned_reach": 907,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -2971,8 +2996,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 548,
-      "reach": 433,
+      "engagement": 549,
+      "reach": 434,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -3800,7 +3825,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 48,
-      "owned_reach": 1098,
+      "owned_reach": 1101,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -10846,15 +10871,15 @@
     },
     {
       "id": "a0160",
-      "text": "  La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y un grupo de astronautas han exigido este jueves en la\n<p>ONU impulsar el primer pacto global que proteja a las personas ante las catástrofes naturales.</p> <p> «Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra», ha declarado Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, geocientífica y astronauta, quien ha destacado cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder ha apuntado que solo el pasado año se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169.700 millones de dólares.</p> <p> «Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30 %, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras», ha detallado.</p> <p> Según ha dicho, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> «En catástrofes como la de Nepal, un tratado mundial establecería normas claras para la ayuda internacional y ayudaría a los gobiernos y a los agentes humanitarios a sortear los trámites burocráticos con mayor rapidez», ha añadido.</p> <p> La IFRC ha lamentado que aunque existen acuerdos regionales, bilaterales y sectoriales falta un tratado internacional que unifique normas y procedimientos.</p> <p> «Esto podría traducirse en un despliegue más rápido de los equipos hum",
+      "text": "La Cruz Roja y astronautas exigen un pacto global para personas ante catastrofes naturales",
       "has_text": true,
       "url": "https://focoinformativo.site/la-cruz-roja-y-astronautas-exigen-un-pacto-global-para-personas-ante-catastrofes-naturales/",
       "platform": "Web",
-      "outlet": "Focoinformativo",
+      "outlet": "Foco Informativo",
       "source": "external",
       "language": "Spanish",
-      "language_source": "inferred",
-      "author": "focoinformativo.site",
+      "language_source": "manual",
+      "author": "Foco Informativo",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -10864,9 +10889,7 @@
       "source_country": "",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [
-        "Dr. Sian Proctor"
-      ],
+      "astronauts": [],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "La Cruz Roja y astronautas exigen un pacto global para personas ante catástrofes naturales",
