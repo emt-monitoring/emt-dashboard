@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-28T01:56:59.836171+00:00",
-  "count": 409,
+  "generated": "2026-09-28T08:30:50.806230+00:00",
+  "count": 410,
   "items": [
+    {
+      "id": "s0280",
+      "text": "  « Qu'est-ce qui va nous arriver ? » La question revient inlassablement, sous des formes à peine différentes, lorsque l'on retourne à Ceuta après notre premier séjour en août 2026.\n<p>Ceux que l'on avait rencontrés quelques semaines plus tôt sont toujours là pour beaucoup d'entre eux, mais le temps a travaillé les corps. Les visages sont plus tirés, certains ont beaucoup maigri, la nervosité affleure dans les gestes, l'épuisement se laisse voir dans une manière de s'asseoir, d'attendre, de guetter une information qui pourrait modifier le cours des jours. D'autres semblent avoir conservé la même tranquillité, la même attention, la même disponibilité aux autres. Rien n'autorise à réunir ces expériences sous un affect unique, mais quelque chose s'est produit. L'attente a cessé d'être un intervalle entre deux événements pour devenir une condition durable, une forme imposée du présent.</p> <p> La question elle-même contient un paradoxe. Beaucoup demandent s'ils pourront bientôt « aller en Espagne », alors qu'ils se trouvent déjà, juridiquement, sur le territoire espagnol. L'expression ne relève pas simplement d'une approximation géographique et désigne la péninsule, la possibilité de poursuivre le voyage. Mais elle dit aussi, plus profondément, l'étrangeté d'une situation dans laquelle on peut avoir franchi une frontière sans avoir véritablement le sentiment d'être arrivé. Être là ne signifie pas encore avoir acquis une place depuis laquelle un avenir puisse commencer. La traversée a eu lieu, mais le mouvement reste suspendu. Les décisions concernant le transfert, l'asile, la minorité, le séjour ou le retour continuent d'être prises ailleurs, selon des temporalités qui échappent largement à ceux dont elles décident pourtant des jours. La question « qu'est-ce qui va nous arriver ? » ne porte donc pas seulement sur ce qui surviendra demain. Elle engage déjà le rapport politique entre celui qui peut disposer de son temps et celui dont le futur dépend de décisions qu'il ne ",
+      "title": "FUERA ! - Ceuta, ou l'épreuve du commun",
+      "has_text": true,
+      "url": "https://lundi.am/FUERA-Ceuta-ou-l-epreuve-du-commun",
+      "platform": "Web",
+      "outlet": "Lundi",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "lundi.am",
+      "created": "2026-09-28T08:30:48.834720+00:00",
+      "day": "2026-09-28",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-28T08:30:50.806230+00:00"
+    },
     {
       "id": "s0359",
       "text": "Il est 7 heures, ce 26 novembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant - de cette insistance particulière qui, avant même que l'on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée d'Amy Pauline Bèye, la secrétaire particulière du ministre : « Tu es où ? » Avant que je ne réponde, elle enchaîne, la voix brisée : « Le Joola a coulé cette nuit. Des milliers de passagers avec lui. »\nComme aspergé d’un un seau d'eau glacée, l’information me traverse. Pendant une seconde, rien ne bouge en moi - puis tout se précipite. Je suis debout, réveillé pour de bon, le corps en avance sur l'esprit qui, lui, cherche encore à comprendre ce que ces mots signifient vraiment.\nCe bateau, je le connais. Je l'ai pris, quelques mois plus tôt, pour une mission à Ziguinchor. Je me souviens de l'avoir arpenté à peine embarqué, curieux de ce monde flottant : chaque parcelle de fer occupée, chaque recoin habité, comme si le Sénégal tout entier - ses familles, ses marchandises, ses destins - s'était donné rendez-vous sur ce pont. Ma cabine trouvée, une douche prise, je ressortais vers 21 heures pour découvrir une vie nocturne insoupçonnée : un orchestre jouait, des rires fusaient, une ambiance bigarrée régnait sur le navire, comme si la traversée elle-même n'était qu'un prétexte à cette fête improvisée. Rien, dans cette nuit-là, ne laissait deviner ce qu'une autre nuit, un an plus tard, réserverait à d'autres passagers, tout aussi insouciants.\nJe m'étais couché tôt, ce soir-là - le travail m'attendait dès que je poserais le pied à terre. Au réveil, le bateau longeait déjà l'île de Karabane. De petites pirogues venaient y chercher les passagers arrivés à destination, tandis que d'autres déposaient à bord ceux qui, de l'île, souhaitaient rejoindre Ziguinchor. Autour de cette manœuvre s'installait un climat particulier, presque festif : les habitants des îles profitaient de la halte du bateau pour proposer aux voyageurs toutes sortes de marchandise",
@@ -232,7 +256,7 @@
       "author": "@ifrc",
       "created": "2026-09-26T12:23:16.267332+00:00",
       "day": "2026-09-26",
-      "engagement": 17,
+      "engagement": 18,
       "reach": 234319,
       "sentiment": "",
       "country": "",
@@ -240,7 +264,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1080,
+      "owned_reach": 1105,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -257,7 +281,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-26T12:23:16.265614+00:00",
       "day": "2026-09-26",
-      "engagement": 36,
+      "engagement": 37,
       "reach": 780809,
       "sentiment": "",
       "country": "",
@@ -309,7 +333,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 357,
+      "engagement": 363,
       "reach": 294,
       "sentiment": "",
       "country": "",
@@ -333,7 +357,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1149,
+      "engagement": 1155,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -722,7 +746,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 721,
+      "engagement": 722,
       "reach": 583,
       "sentiment": "",
       "country": "",
@@ -756,7 +780,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1699,
+      "owned_reach": 1700,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -5450,7 +5474,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1440,
+      "owned_reach": 1442,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -5742,7 +5766,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 33,
-      "owned_reach": 1437,
+      "owned_reach": 1439,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -8443,7 +8467,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 113,
+      "engagement": 117,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -8770,7 +8794,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 808,
+      "owned_reach": 809,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9071,7 +9095,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1432,
+      "owned_reach": 1438,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,

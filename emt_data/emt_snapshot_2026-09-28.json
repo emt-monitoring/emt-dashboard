@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-09-28T01:56:59.846575+00:00",
-    "window_hours": 625,
-    "total": 409,
-    "text_available": 215,
+    "generated": "2026-09-28T08:30:50.818279+00:00",
+    "window_hours": 632,
+    "total": 410,
+    "text_available": 216,
     "text_masked": 194,
-    "earned_media": 157,
+    "earned_media": 158,
     "social": 252,
     "by_source": {
-      "external": 331,
+      "external": 332,
       "own": 63,
       "movement": 15
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 63,
     "movement_posts": 15,
-    "external_posts": 331,
+    "external_posts": 332,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "17981"
+      "EARNED_ENGAGEMENT": "17998"
     },
     "owned_true": {
       "posts": 31,
       "engagement": 2841,
       "video_views": 0,
-      "reach": 70095,
-      "candidates": 1051
+      "reach": 70129,
+      "candidates": 1059
     },
     "owned_error": "",
     "owned_debug": {
@@ -113,8 +113,8 @@
         "https://www.facebook.com/reel/1092294233256699/",
         "https://www.facebook.com/reel/1073056618413903/",
         "https://www.instagram.com/reel/DdOFWi9DXV6/",
-        "https://twitter.com/ifrc/status/2095430937253146779",
         "https://www.youtube.com/shorts/oDDZQ_VYiPY",
+        "https://twitter.com/ifrc/status/2095430937253146779",
         "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "https://www.instagram.com/reel/DddiFXWCHUV/",
         "https://twitter.com/ifrc/status/2095787231713571088",
@@ -142,9 +142,9 @@
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
-        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
@@ -160,7 +160,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ab9c941b3dd7f9d53b2c81e\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aba259ed8c9c45b28feffdf\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -174,12 +174,12 @@
     "own_reach": 14589292,
     "movement_reach": 187563,
     "external_reach": 20761768,
-    "own_engagement": 8259,
+    "own_engagement": 8278,
     "movement_engagement": 45,
     "external_engagement": 10683,
     "amplification": 1.29,
     "earned_by_platform": {
-      "Web": 136,
+      "Web": 137,
       "TV": 12,
       "Print": 9
     },
@@ -202,6 +202,7 @@
     },
     "outlet_reach": {
       "Podchaser": 52916,
+      "Lundi": 0,
       "Impact": 0,
       "ngombabacar37": 0,
       "Daypo": 0,
@@ -214,10 +215,22 @@
       "Humanoid Deep Analyser": 0,
       "Com": 0,
       "Blogspot": 0,
-      "Paperblog": 0,
-      "Vietnam": 0
+      "Paperblog": 0
     },
     "earned_top": [
+      {
+        "url": "https://lundi.am/FUERA-Ceuta-ou-l-epreuve-du-commun",
+        "platform": "Web",
+        "outlet": "Lundi",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "  « Qu'est-ce qui va nous arriver ? » La question revient inlassablement, sous des formes à peine différentes, lorsque l'on retourne à Ceuta après notre premier séjour en août 2026.\n<p>Ceux que l'on avait rencontrés quelques semaines plus tôt sont toujours là pour beaucoup d'entr",
+        "created": "2026-09-28T08:30:48.834720+00:00",
+        "author": "lundi.am",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.impact.sn/Le-naufrage-du-bateau-Le-Joola-d-heure-en-heure-comme-un-roman-Par-Moustapha-Diao_a59229.html",
         "platform": "Web",
@@ -399,19 +412,6 @@
         "author": "Publié par Mardis hongrois de Paris",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.podchaser.com/podcasts/-528281/episodes/-309091408",
-        "platform": "Web",
-        "outlet": "Podchaser",
-        "source": "external",
-        "language": "und",
-        "engagement": 0,
-        "text": "随着气候变化加剧、自然灾害频发，红十字与红新月国际联合会日前发起“地球缺失的条约”（Earth's Missing Treaty）全球倡议，呼吁各国致力于制定首个专门保护灾害中受影响民众的国际条约，为灾害发生前、发生时和发生后提供更有力的国际合作框架。",
-        "created": "2026-09-16T00:05:05.701106+00:00",
-        "author": "United Nations",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 70,
@@ -438,11 +438,12 @@
       "2026-09-23": 2,
       "2026-09-25": 5,
       "2026-09-26": 8,
-      "2026-09-27": 5
+      "2026-09-27": 5,
+      "2026-09-28": 1
     },
     "by_platform": {
       "X": 194,
-      "Web": 136,
+      "Web": 137,
       "Facebook": 17,
       "Instagram": 15,
       "TV": 12,
@@ -455,7 +456,7 @@
     "by_language": {
       "und": 212,
       "English": 95,
-      "French": 60,
+      "French": 61,
       "Spanish": 36,
       "unknown": 6
     },
@@ -524,7 +525,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 1149,
+        "engagement": 1155,
         "text": "Dr. Sian Proctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters.\n\nLearn more at earthsmissingtreaty.org",
         "created": "2026-09-25T20:22:57.162862+00:00",
         "author": "IFRC",
@@ -565,7 +566,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 721,
+        "engagement": 722,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -619,7 +620,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 357,
+        "engagement": 363,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -738,7 +739,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 113,
+        "engagement": 117,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -843,6 +844,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0280",
+      "text": "  « Qu'est-ce qui va nous arriver ? » La question revient inlassablement, sous des formes à peine différentes, lorsque l'on retourne à Ceuta après notre premier séjour en août 2026.\n<p>Ceux que l'on avait rencontrés quelques semaines plus tôt sont toujours là pour beaucoup d'entre eux, mais le temps a travaillé les corps. Les visages sont plus tirés, certains ont beaucoup maigri, la nervosité affleure dans les gestes, l'épuisement se laisse voir dans une manière de s'asseoir, d'attendre, de guetter une information qui pourrait modifier le cours des jours. D'autres semblent avoir conservé la même tranquillité, la même attention, la même disponibilité aux autres. Rien n'autorise à réunir ces expériences sous un affect unique, mais quelque chose s'est produit. L'attente a cessé d'être un intervalle entre deux événements pour devenir une condition durable, une forme imposée du présent.</p> <p> La question elle-même contient un paradoxe. Beaucoup demandent s'ils pourront bientôt « aller en Espagne », alors qu'ils se trouvent déjà, juridiquement, sur le territoire espagnol. L'expression ne relève pas simplement d'une approximation géographique et désigne la péninsule, la possibilité de poursuivre le voyage. Mais elle dit aussi, plus profondément, l'étrangeté d'une situation dans laquelle on peut avoir franchi une frontière sans avoir véritablement le sentiment d'être arrivé. Être là ne signifie pas encore avoir acquis une place depuis laquelle un avenir puisse commencer. La traversée a eu lieu, mais le mouvement reste suspendu. Les décisions concernant le transfert, l'asile, la minorité, le séjour ou le retour continuent d'être prises ailleurs, selon des temporalités qui échappent largement à ceux dont elles décident pourtant des jours. La question « qu'est-ce qui va nous arriver ? » ne porte donc pas seulement sur ce qui surviendra demain. Elle engage déjà le rapport politique entre celui qui peut disposer de son temps et celui dont le futur dépend de décisions qu'il ne ",
+      "title": "FUERA ! - Ceuta, ou l'épreuve du commun",
+      "has_text": true,
+      "url": "https://lundi.am/FUERA-Ceuta-ou-l-epreuve-du-commun",
+      "platform": "Web",
+      "outlet": "Lundi",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "lundi.am",
+      "created": "2026-09-28T08:30:48.834720+00:00",
+      "day": "2026-09-28",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-09-28T08:30:50.806230+00:00"
+    },
     {
       "id": "s0359",
       "text": "Il est 7 heures, ce 26 novembre 2002. Je suis encore couché lorsque le téléphone sonne, insistant - de cette insistance particulière qui, avant même que l'on décroche, annonce déjà une mauvaise nouvelle. Je reconnais la voix affolée d'Amy Pauline Bèye, la secrétaire particulière du ministre : « Tu es où ? » Avant que je ne réponde, elle enchaîne, la voix brisée : « Le Joola a coulé cette nuit. Des milliers de passagers avec lui. »\nComme aspergé d’un un seau d'eau glacée, l’information me traverse. Pendant une seconde, rien ne bouge en moi - puis tout se précipite. Je suis debout, réveillé pour de bon, le corps en avance sur l'esprit qui, lui, cherche encore à comprendre ce que ces mots signifient vraiment.\nCe bateau, je le connais. Je l'ai pris, quelques mois plus tôt, pour une mission à Ziguinchor. Je me souviens de l'avoir arpenté à peine embarqué, curieux de ce monde flottant : chaque parcelle de fer occupée, chaque recoin habité, comme si le Sénégal tout entier - ses familles, ses marchandises, ses destins - s'était donné rendez-vous sur ce pont. Ma cabine trouvée, une douche prise, je ressortais vers 21 heures pour découvrir une vie nocturne insoupçonnée : un orchestre jouait, des rires fusaient, une ambiance bigarrée régnait sur le navire, comme si la traversée elle-même n'était qu'un prétexte à cette fête improvisée. Rien, dans cette nuit-là, ne laissait deviner ce qu'une autre nuit, un an plus tard, réserverait à d'autres passagers, tout aussi insouciants.\nJe m'étais couché tôt, ce soir-là - le travail m'attendait dès que je poserais le pied à terre. Au réveil, le bateau longeait déjà l'île de Karabane. De petites pirogues venaient y chercher les passagers arrivés à destination, tandis que d'autres déposaient à bord ceux qui, de l'île, souhaitaient rejoindre Ziguinchor. Autour de cette manœuvre s'installait un climat particulier, presque festif : les habitants des îles profitaient de la halte du bateau pour proposer aux voyageurs toutes sortes de marchandise",
@@ -1073,7 +1098,7 @@
       "author": "@ifrc",
       "created": "2026-09-26T12:23:16.267332+00:00",
       "day": "2026-09-26",
-      "engagement": 17,
+      "engagement": 18,
       "reach": 234319,
       "sentiment": "",
       "country": "",
@@ -1081,7 +1106,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1080,
+      "owned_reach": 1105,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -1098,7 +1123,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-26T12:23:16.265614+00:00",
       "day": "2026-09-26",
-      "engagement": 36,
+      "engagement": 37,
       "reach": 780809,
       "sentiment": "",
       "country": "",
@@ -1150,7 +1175,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 357,
+      "engagement": 363,
       "reach": 294,
       "sentiment": "",
       "country": "",
@@ -1174,7 +1199,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1149,
+      "engagement": 1155,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -1563,7 +1588,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 721,
+      "engagement": 722,
       "reach": 583,
       "sentiment": "",
       "country": "",
@@ -1597,7 +1622,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1699,
+      "owned_reach": 1700,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -6291,7 +6316,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1440,
+      "owned_reach": 1442,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -6583,7 +6608,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 33,
-      "owned_reach": 1437,
+      "owned_reach": 1439,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -9284,7 +9309,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 113,
+      "engagement": 117,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -9611,7 +9636,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 808,
+      "owned_reach": 809,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -9912,7 +9937,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1432,
+      "owned_reach": 1438,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
