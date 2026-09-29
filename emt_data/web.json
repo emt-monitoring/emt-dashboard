@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:57:11+00:00",
+  "generated_at": "2026-09-29T15:36:25+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -155,38 +155,38 @@
     ],
     [
       "2026-09-28",
-      16,
       18,
-      12
+      20,
+      13
     ],
     [
       "2026-09-29",
-      7,
-      10,
-      5
+      18,
+      25,
+      10
     ]
   ],
-  "avg_duration": 87,
+  "avg_duration": 178,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1240,
-      "views": 1303,
-      "users": 805
+      "sessions": 1251,
+      "views": 1317,
+      "users": 808
     },
     {
       "path": "/earthsmissingtreaty/fr",
       "language": "Français",
-      "sessions": 29,
+      "sessions": 30,
       "views": 31,
       "users": 23
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
-      "sessions": 25,
-      "views": 26,
+      "sessions": 28,
+      "views": 28,
       "users": 22
     },
     {
@@ -199,9 +199,9 @@
     {
       "path": "/earthsmissingtreaty/ar",
       "language": "العربية",
-      "sessions": 15,
-      "views": 19,
-      "users": 12
+      "sessions": 18,
+      "views": 20,
+      "users": 13
     },
     {
       "path": "/el/earthsmissingtreaty",
@@ -270,23 +270,23 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 890
+      "value": 897
     },
     {
       "label": "Organic Social",
-      "value": 180
+      "value": 181
     },
     {
       "label": "Organic Search",
-      "value": 132
+      "value": 135
     },
     {
       "label": "Referral",
-      "value": 113
+      "value": 114
     },
     {
       "label": "Unassigned",
-      "value": 11
+      "value": 12
     },
     {
       "label": "Cross-network",
@@ -296,11 +296,11 @@
   "countries": [
     {
       "label": "United States",
-      "value": 200
+      "value": 201
     },
     {
       "label": "Germany",
-      "value": 188
+      "value": 195
     },
     {
       "label": "Switzerland",

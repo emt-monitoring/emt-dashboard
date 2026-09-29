@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-09-29T08:57:06.839606+00:00",
-    "window_hours": 656,
+    "generated": "2026-09-29T15:36:19.990558+00:00",
+    "window_hours": 663,
     "total": 419,
     "text_available": 220,
     "text_masked": 199,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "16929"
+      "EARNED_ENGAGEMENT": "16934"
     },
     "owned_true": {
       "posts": 33,
       "engagement": 2841,
       "video_views": 0,
-      "reach": 70941,
-      "candidates": 1102
+      "reach": 71033,
+      "candidates": 1139
     },
     "owned_error": "",
     "owned_debug": {
@@ -162,7 +162,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6abb7d42d8c9c45b282ce70b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6abbdadcaa945c94d2f52883\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -176,7 +176,7 @@
     "own_reach": 14664813,
     "movement_reach": 187563,
     "external_reach": 20774295,
-    "own_engagement": 7180,
+    "own_engagement": 7189,
     "movement_engagement": 46,
     "external_engagement": 10689,
     "amplification": 1.49,
@@ -554,7 +554,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 725,
+        "engagement": 726,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -569,7 +569,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 595,
+        "engagement": 597,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -608,7 +608,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 373,
+        "engagement": 374,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -820,7 +820,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 69,
+        "engagement": 70,
         "text": "Dr. Sian Proctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC’s Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters.\n\nLearn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.264752+00:00",
         "author": "IFRC",
@@ -1027,7 +1027,7 @@
       "author": "@jagan_chapagain",
       "created": "2026-09-28T16:58:04.239164+00:00",
       "day": "2026-09-28",
-      "engagement": 22,
+      "engagement": 23,
       "reach": 39613,
       "sentiment": "",
       "country": "",
@@ -1035,7 +1035,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 641,
+      "owned_reach": 724,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -1060,7 +1060,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 78,
+      "owned_reach": 79,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -1325,7 +1325,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1126,
+      "owned_reach": 1133,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -1342,7 +1342,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-26T12:23:16.265614+00:00",
       "day": "2026-09-26",
-      "engagement": 43,
+      "engagement": 46,
       "reach": 780809,
       "sentiment": "",
       "country": "",
@@ -1368,7 +1368,7 @@
       "author": "IFRC",
       "created": "2026-09-26T12:23:16.264752+00:00",
       "day": "2026-09-26",
-      "engagement": 69,
+      "engagement": 70,
       "reach": 367663,
       "sentiment": "",
       "country": "",
@@ -1394,7 +1394,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 373,
+      "engagement": 374,
       "reach": 313,
       "sentiment": "",
       "country": "",
@@ -1807,7 +1807,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 725,
+      "engagement": 726,
       "reach": 592,
       "sentiment": "",
       "country": "",
@@ -2496,7 +2496,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1862,
+      "owned_reach": 1863,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -2562,7 +2562,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 595,
+      "engagement": 597,
       "reach": 455,
       "sentiment": "",
       "country": "",
