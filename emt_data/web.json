@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:24:28+00:00",
+  "generated_at": "2026-10-01T19:45:23+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -173,33 +173,33 @@
     ],
     [
       "2026-10-01",
-      3,
-      2,
-      3
+      19,
+      17,
+      19
     ]
   ],
-  "avg_duration": 0,
+  "avg_duration": 100,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1278,
-      "views": 1342,
-      "users": 821
-    },
-    {
-      "path": "/earthsmissingtreaty/fr",
-      "language": "Français",
-      "sessions": 30,
-      "views": 32,
-      "users": 23
+      "sessions": 1287,
+      "views": 1350,
+      "users": 828
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
-      "sessions": 28,
-      "views": 29,
-      "users": 22
+      "sessions": 35,
+      "views": 33,
+      "users": 28
+    },
+    {
+      "path": "/earthsmissingtreaty/fr",
+      "language": "Français",
+      "sessions": 31,
+      "views": 33,
+      "users": 24
     },
     {
       "path": "/es/earthsmissingtreaty",
@@ -211,9 +211,9 @@
     {
       "path": "/earthsmissingtreaty/ar",
       "language": "العربية",
-      "sessions": 18,
-      "views": 21,
-      "users": 13
+      "sessions": 20,
+      "views": 23,
+      "users": 15
     },
     {
       "path": "/el/earthsmissingtreaty",
@@ -282,7 +282,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 907
+      "value": 912
     },
     {
       "label": "Organic Social",
@@ -290,7 +290,7 @@
     },
     {
       "label": "Organic Search",
-      "value": 149
+      "value": 150
     },
     {
       "label": "Referral",
@@ -298,21 +298,25 @@
     },
     {
       "label": "Unassigned",
-      "value": 5
+      "value": 15
+    },
+    {
+      "label": "Cross-network",
+      "value": 4
     }
   ],
   "countries": [
     {
       "label": "Germany",
-      "value": 205
+      "value": 207
     },
     {
       "label": "United States",
-      "value": 202
+      "value": 203
     },
     {
       "label": "Switzerland",
-      "value": 140
+      "value": 143
     },
     {
       "label": "France",
@@ -328,7 +332,7 @@
     },
     {
       "label": "Hungary",
-      "value": 38
+      "value": 40
     },
     {
       "label": "Lebanon",
@@ -354,11 +358,11 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 116
+      "value": 118
     },
     {
       "label": "click",
-      "value": 59
+      "value": 60
     }
   ],
   "search": null
