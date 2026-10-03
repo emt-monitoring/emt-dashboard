@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-03T05:38:06.612242+00:00",
-    "window_hours": 749,
+    "generated": "2026-10-03T11:26:20.937912+00:00",
+    "window_hours": 755,
     "total": 431,
     "text_available": 230,
     "text_masked": 201,
@@ -60,7 +60,7 @@
       "reach": 0,
       "candidates": 0
     },
-    "owned_error": "TWITTER_IMPRESSIONS p0 -> 401 {\"data\":[],\"errors\":[{\"id\":\"ccb600a0-da1b-403f-8273-4e10b990042a\",\"code\":401,\"message\":\"Unauthorized",
+    "owned_error": "TWITTER_IMPRESSIONS p0 -> 401 {\"data\":[],\"errors\":[{\"id\":\"c7820577-dde0-4476-a8da-1e0e463a14d7\",\"code\":401,\"message\":\"Unauthorized",
     "owned_debug": {
       "total_links": 0,
       "ifrc_rows": 0,
@@ -74,8 +74,8 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "EARNED_ENGAGEMENT -> 401 {\"data\":[],\"errors\":[{\"id\":\"baa78c92-b411-4d8b-9e89-8083a36a4d3b\",\"code\":401,\"message\":\"Unauthorized\"}]}",
-    "reach_error": "ESTIMATED_REACH -> 401 {\"data\":[],\"errors\":[{\"id\":\"0ffa42e4-4cf4-4129-99e2-90f2d027639e\",\"code\":401,\"message\":\"Unauthorized\"}]}",
+    "engagement_error": "EARNED_ENGAGEMENT -> 401 {\"data\":[],\"errors\":[{\"id\":\"b8f08512-4bb0-454d-8473-cbc644de89a1\",\"code\":401,\"message\":\"Unauthorized\"}]}",
+    "reach_error": "ESTIMATED_REACH -> 401 {\"data\":[],\"errors\":[{\"id\":\"a915e4fe-ee5c-4676-bf89-51be0554460e\",\"code\":401,\"message\":\"Unauthorized\"}]}",
     "author_keys_seen": [],
     "metric_keys_seen": {},
     "total_reach": 35631161,
@@ -99,14 +99,14 @@
       "SWI swissinfo.ch": 4,
       "United Nations": 3,
       "RFI": 3,
-      "IFRC": 3,
       "Blogspot": 2,
       "CE Noticias Financieras Spanish": 2,
       "Lundi": 2,
       "Impact": 2,
       "EFE - Spanish Newswire": 2,
       "Com": 2,
-      "Vietnam": 2
+      "Vietnam": 2,
+      "msn.com": 2
     },
     "outlet_reach": {
       "Podchaser": 61709,
@@ -10531,11 +10531,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM?oc=5",
       "platform": "Web",
-      "outlet": "IFRC",
+      "outlet": "ifrc.org",
       "source": "own",
       "language": "English",
       "language_source": "manual",
-      "author": "IFRC",
+      "author": "ifrc.org",
       "created": "2026-09-03T03:55:34+00:00",
       "day": "2026-09-03",
       "engagement": 0,
