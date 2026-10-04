@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-04T17:25:03.808178+00:00",
-    "window_hours": 785,
+    "generated": "2026-10-04T20:22:29.670011+00:00",
+    "window_hours": 788,
     "total": 431,
     "text_available": 230,
     "text_masked": 201,
@@ -60,19 +60,22 @@
       "reach": 0,
       "candidates": 0
     },
-    "owned_error": "TWITTER_IMPRESSIONS p0 -> 401 {\"data\":[],\"errors\":[{\"id\":\"acb9c812-1fd8-4ba3-b936-b010d94b183d\",\"code\":401,\"message\":\"Unauthorized",
+    "owned_error": "TWITTER_IMPRESSIONS p0 -> 401 {\"data\":[],\"errors\":[{\"id\":\"b80fce52-179f-4568-b680-9b693860f5e5\",\"code\":401,\"message\":\"Unauthorized",
     "owned_debug": {
       "total_links": 0,
       "ifrc_rows": 0,
       "channels": {},
-      "wanted": [],
+      "wanted": [
+        "CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM"
+      ],
       "own_urls": [
         "",
-        ""
+        "",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "EARNED_ENGAGEMENT -> 401 {\"data\":[],\"errors\":[{\"id\":\"5de9c619-96ad-4388-a079-0a4eefce2d1c\",\"code\":401,\"message\":\"Unauthorized\"}]}",
-    "reach_error": "ESTIMATED_REACH -> 401 {\"data\":[],\"errors\":[{\"id\":\"aba25526-9619-4020-afc3-1643f82bc3a1\",\"code\":401,\"message\":\"Unauthorized\"}]}",
+    "engagement_error": "EARNED_ENGAGEMENT -> 401 {\"data\":[],\"errors\":[{\"id\":\"8423cb28-9377-47f6-80b8-1e959a969966\",\"code\":401,\"message\":\"Unauthorized\"}]}",
+    "reach_error": "ESTIMATED_REACH -> 401 {\"data\":[],\"errors\":[{\"id\":\"73db8e45-7a10-4b3a-90e7-6fd2c442eefa\",\"code\":401,\"message\":\"Unauthorized\"}]}",
     "author_keys_seen": [],
     "metric_keys_seen": {},
     "total_reach": 35631161,
@@ -95,7 +98,6 @@
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
       "United Nations": 3,
-      "RFI": 3,
       "IFRC": 3,
       "Blogspot": 2,
       "CE Noticias Financieras Spanish": 2,
@@ -103,7 +105,8 @@
       "Impact": 2,
       "EFE - Spanish Newswire": 2,
       "Com": 2,
-      "Vietnam": 2
+      "Vietnam": 2,
+      "msn.com": 2
     },
     "outlet_reach": {
       "Podchaser": 61709,
@@ -10279,11 +10282,11 @@
       "has_text": true,
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTUdGaThqVkhRaHdVSkxEbTZrQ05LNGJaWExENTB4UTUxZG9RYXRJODJlTjNCNURha0FPTTNScFRKRGN3eUN0bkJDUDhCSG5fT2N6cFk0bU13cEVpLWRRZHhrS1ZfT1NVS3dQbmVmUkRfWjBrTzNCWEdrMG1PYi1TZTJQYThlcGd0RllYUW5xTE1fU3hVNDBLLXlvVTdVT1lRUnpIa05XdXFDZWFmaVJJa2hZb09MSjBUWjVhV0tma1djRDJZYzN2bGlKdzRxWVFhMlhUdzlVclBhT3hSNVVQVnNkalFjbEFSTVNGYWlrTQ?oc=5",
       "platform": "Web",
-      "outlet": "RFI",
+      "outlet": "rfi.fr",
       "source": "external",
       "language": "French",
       "language_source": "manual",
-      "author": "RFI",
+      "author": "rfi.fr",
       "created": "2026-09-04T07:00:00+00:00",
       "day": "2026-09-04",
       "engagement": 0,
