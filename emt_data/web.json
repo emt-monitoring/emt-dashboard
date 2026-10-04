@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:47:02+00:00",
+  "generated_at": "2026-10-04T17:25:07+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -191,19 +191,19 @@
     ],
     [
       "2026-10-04",
-      5,
-      5,
-      5
+      6,
+      6,
+      6
     ]
   ],
-  "avg_duration": 177,
+  "avg_duration": 147,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1326,
-      "views": 1390,
-      "users": 851
+      "sessions": 1327,
+      "views": 1391,
+      "users": 852
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -316,11 +316,11 @@
     },
     {
       "label": "Unassigned",
-      "value": 5
+      "value": 4
     },
     {
       "label": "Cross-network",
-      "value": 2
+      "value": 3
     }
   ],
   "countries": [

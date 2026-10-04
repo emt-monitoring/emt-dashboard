@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-04T12:46:58.573735+00:00",
-    "window_hours": 780,
+    "generated": "2026-10-04T17:25:03.808178+00:00",
+    "window_hours": 785,
     "total": 431,
     "text_available": 230,
     "text_masked": 201,
@@ -60,22 +60,19 @@
       "reach": 0,
       "candidates": 0
     },
-    "owned_error": "TWITTER_IMPRESSIONS p0 -> 401 {\"data\":[],\"errors\":[{\"id\":\"2e2249b3-5ce0-4fd8-a496-908df85e157f\",\"code\":401,\"message\":\"Unauthorized",
+    "owned_error": "TWITTER_IMPRESSIONS p0 -> 401 {\"data\":[],\"errors\":[{\"id\":\"acb9c812-1fd8-4ba3-b936-b010d94b183d\",\"code\":401,\"message\":\"Unauthorized",
     "owned_debug": {
       "total_links": 0,
       "ifrc_rows": 0,
       "channels": {},
-      "wanted": [
-        "CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPOUgxYk44V0tnWHRERERiNTRrZWNMbzFYQzExRWtLMEI0RTc2WE4xN1pIZk9Qa2trTUdZbmF0R2cxTVJLa1JqbXRSNGxmTUw1TDNEVElBZWZTeUlNbjdfNVhlWUZLdFJrWFlvcXFfSV9BeDhNT2xvS3B0dFBsRUpUblIyZ3VrRGM"
-      ],
+      "wanted": [],
       "own_urls": [
         "",
-        "",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
+        ""
       ]
     },
-    "engagement_error": "EARNED_ENGAGEMENT -> 401 {\"data\":[],\"errors\":[{\"id\":\"f89531a1-43e8-47f0-8c3f-33e84a0e0d56\",\"code\":401,\"message\":\"Unauthorized\"}]}",
-    "reach_error": "ESTIMATED_REACH -> 401 {\"data\":[],\"errors\":[{\"id\":\"0d8fcc9f-f987-4cee-b784-c23df0dc405a\",\"code\":401,\"message\":\"Unauthorized\"}]}",
+    "engagement_error": "EARNED_ENGAGEMENT -> 401 {\"data\":[],\"errors\":[{\"id\":\"5de9c619-96ad-4388-a079-0a4eefce2d1c\",\"code\":401,\"message\":\"Unauthorized\"}]}",
+    "reach_error": "ESTIMATED_REACH -> 401 {\"data\":[],\"errors\":[{\"id\":\"aba25526-9619-4020-afc3-1643f82bc3a1\",\"code\":401,\"message\":\"Unauthorized\"}]}",
     "author_keys_seen": [],
     "metric_keys_seen": {},
     "total_reach": 35631161,
