@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:31:58+00:00",
+  "generated_at": "2026-10-05T18:46:27+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -191,39 +191,39 @@
     ],
     [
       "2026-10-04",
-      9,
-      9,
-      9
+      10,
+      10,
+      10
     ],
     [
       "2026-10-05",
-      4,
-      5,
-      4
+      16,
+      16,
+      15
     ]
   ],
-  "avg_duration": 29,
+  "avg_duration": 20,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1334,
-      "views": 1399,
-      "users": 858
+      "sessions": 1343,
+      "views": 1407,
+      "users": 863
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
-      "sessions": 36,
-      "views": 36,
-      "users": 28
+      "sessions": 37,
+      "views": 37,
+      "users": 29
     },
     {
       "path": "/earthsmissingtreaty/fr",
       "language": "Français",
-      "sessions": 31,
-      "views": 33,
-      "users": 24
+      "sessions": 34,
+      "views": 36,
+      "users": 25
     },
     {
       "path": "/es/earthsmissingtreaty",
@@ -306,11 +306,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 945
+      "value": 954
     },
     {
       "label": "Organic Social",
-      "value": 184
+      "value": 189
     },
     {
       "label": "Organic Search",
@@ -318,45 +318,45 @@
     },
     {
       "label": "Referral",
-      "value": 130
-    },
-    {
-      "label": "Cross-network",
-      "value": 6
+      "value": 131
     },
     {
       "label": "Unassigned",
-      "value": 5
+      "value": 6
+    },
+    {
+      "label": "Cross-network",
+      "value": 3
     }
   ],
   "countries": [
     {
       "label": "Germany",
-      "value": 214
+      "value": 216
     },
     {
       "label": "United States",
-      "value": 212
+      "value": 215
     },
     {
       "label": "Switzerland",
-      "value": 149
+      "value": 150
     },
     {
       "label": "France",
-      "value": 72
+      "value": 73
     },
     {
       "label": "United Kingdom",
-      "value": 65
+      "value": 66
     },
     {
       "label": "Netherlands",
-      "value": 46
+      "value": 47
     },
     {
       "label": "Hungary",
-      "value": 42
+      "value": 43
     },
     {
       "label": "Lebanon",
