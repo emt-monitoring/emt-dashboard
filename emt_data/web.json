@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:25:00+00:00",
+  "generated_at": "2026-10-06T19:45:30+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -203,25 +203,25 @@
     ],
     [
       "2026-10-06",
-      8,
-      8,
-      7
+      27,
+      30,
+      25
     ]
   ],
-  "avg_duration": 199,
+  "avg_duration": 147,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1357,
-      "views": 1422,
-      "users": 870
+      "sessions": 1375,
+      "views": 1443,
+      "users": 881
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
-      "sessions": 37,
-      "views": 37,
+      "sessions": 38,
+      "views": 38,
       "users": 29
     },
     {
@@ -312,7 +312,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 967
+      "value": 973
     },
     {
       "label": "Organic Social",
@@ -320,29 +320,33 @@
     },
     {
       "label": "Organic Search",
-      "value": 162
+      "value": 163
     },
     {
       "label": "Referral",
-      "value": 132
+      "value": 135
     },
     {
       "label": "Unassigned",
-      "value": 4
+      "value": 14
+    },
+    {
+      "label": "Cross-network",
+      "value": 5
     }
   ],
   "countries": [
     {
       "label": "Germany",
-      "value": 223
+      "value": 225
     },
     {
       "label": "United States",
-      "value": 218
+      "value": 220
     },
     {
       "label": "Switzerland",
-      "value": 150
+      "value": 152
     },
     {
       "label": "France",
@@ -350,7 +354,7 @@
     },
     {
       "label": "United Kingdom",
-      "value": 67
+      "value": 69
     },
     {
       "label": "Netherlands",
@@ -366,7 +370,7 @@
     },
     {
       "label": "Türkiye",
-      "value": 37
+      "value": 38
     },
     {
       "label": "Ireland",
@@ -384,11 +388,11 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 120
+      "value": 124
     },
     {
       "label": "click",
-      "value": 65
+      "value": 66
     }
   ],
   "search": null
