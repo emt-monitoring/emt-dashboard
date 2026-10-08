@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-08T17:33:21.780035+00:00",
-    "window_hours": 881,
+    "generated": "2026-10-08T22:21:28.144546+00:00",
+    "window_hours": 886,
     "total": 456,
     "text_available": 243,
     "text_masked": 213,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "37061"
+      "EARNED_ENGAGEMENT": "37068"
     },
     "owned_true": {
       "posts": 34,
       "engagement": 2849,
       "video_views": 0,
-      "reach": 73884,
-      "candidates": 1525
+      "reach": 73893,
+      "candidates": 1529
     },
     "owned_error": "",
     "owned_debug": {
@@ -135,6 +135,7 @@
         "https://twitter.com/jagan_chapagain/status/2095870925501583630",
         "https://www.facebook.com/reel/1045874834746926/",
         "https://twitter.com/ifrc/status/2103756461994398048",
+        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://twitter.com/ifrc/status/2098404313475297743",
         "https://twitter.com/jagan_chapagain/status/2104608414919803020",
         "https://twitter.com/IFRC_MENA/status/2095949379534287229",
@@ -146,14 +147,14 @@
         "https://twitter.com/NenaStoiljkovic/status/2098504515645276302",
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
-        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
@@ -166,7 +167,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ac7d3c78b8499071532a75d\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ac8173ee679b4de8aafb220\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -180,10 +181,10 @@
     "own_reach": 16157101,
     "movement_reach": 187774,
     "external_reach": 20794132,
-    "own_engagement": 9277,
+    "own_engagement": 9311,
     "movement_engagement": 48,
     "external_engagement": 29127,
-    "amplification": 3.14,
+    "amplification": 3.13,
     "earned_by_platform": {
       "Web": 156,
       "Print": 12,
@@ -596,7 +597,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 750,
+        "engagement": 756,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -650,7 +651,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 465,
+        "engagement": 466,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -1333,7 +1334,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 1,
+      "engagement": 26,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -1365,7 +1366,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2058,
+      "owned_reach": 2064,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -1382,7 +1383,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-08T17:33:18.806097+00:00",
       "day": "2026-10-08",
-      "engagement": 79,
+      "engagement": 81,
       "reach": 780915,
       "sentiment": "",
       "country": "",
@@ -1432,7 +1433,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 465,
+      "engagement": 466,
       "reach": 353,
       "sentiment": "",
       "country": "",
@@ -2698,7 +2699,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 750,
+      "engagement": 756,
       "reach": 641,
       "sentiment": "",
       "country": "",
@@ -7426,7 +7427,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1534,
+      "owned_reach": 1536,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -7718,7 +7719,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 33,
-      "owned_reach": 1446,
+      "owned_reach": 1447,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
