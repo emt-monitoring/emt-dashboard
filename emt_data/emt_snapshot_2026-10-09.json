@@ -1,16 +1,16 @@
 {
   "summary": {
-    "generated": "2026-10-09T02:28:09.057297+00:00",
-    "window_hours": 890,
-    "total": 456,
-    "text_available": 243,
+    "generated": "2026-10-09T09:31:26.855416+00:00",
+    "window_hours": 897,
+    "total": 457,
+    "text_available": 244,
     "text_masked": 213,
     "earned_media": 180,
-    "social": 276,
+    "social": 277,
     "by_source": {
       "external": 369,
       "own": 70,
-      "movement": 17
+      "movement": 18
     },
     "external_social_unattributed": [
       "@6earth97",
@@ -35,7 +35,7 @@
       "@DesastresNo"
     ],
     "own_posts": 70,
-    "movement_posts": 17,
+    "movement_posts": 18,
     "external_posts": 369,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "37824"
+      "EARNED_ENGAGEMENT": "37835"
     },
     "owned_true": {
       "posts": 34,
       "engagement": 2849,
       "video_views": 0,
-      "reach": 73893,
-      "candidates": 1529
+      "reach": 73894,
+      "candidates": 1548
     },
     "owned_error": "",
     "owned_debug": {
@@ -135,7 +135,6 @@
         "https://twitter.com/jagan_chapagain/status/2095870925501583630",
         "https://www.facebook.com/reel/1045874834746926/",
         "https://twitter.com/ifrc/status/2103756461994398048",
-        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://twitter.com/ifrc/status/2098404313475297743",
         "https://twitter.com/jagan_chapagain/status/2104608414919803020",
         "https://twitter.com/IFRC_MENA/status/2095949379534287229",
@@ -147,6 +146,7 @@
         "https://twitter.com/NenaStoiljkovic/status/2098504515645276302",
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
+        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://twitter.com/ifrc/status/2095837119092555788",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
@@ -167,7 +167,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ac8511fb3dd7f9d5376b517\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ac8b4488b849907154dd32a\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -177,12 +177,12 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 37139007,
+    "total_reach": 37271492,
     "own_reach": 16157101,
-    "movement_reach": 187774,
+    "movement_reach": 320259,
     "external_reach": 20794132,
-    "own_engagement": 9318,
-    "movement_engagement": 48,
+    "own_engagement": 9305,
+    "movement_engagement": 50,
     "external_engagement": 29878,
     "amplification": 3.21,
     "earned_by_platform": {
@@ -427,7 +427,7 @@
         "risk_vectors": []
       }
     ],
-    "campaign_named": 74,
+    "campaign_named": 75,
     "treaty_only": 26,
     "by_day": {
       "2026-09-03": 38,
@@ -457,12 +457,13 @@
       "2026-09-30": 7,
       "2026-10-01": 3,
       "2026-10-02": 1,
-      "2026-10-08": 25
+      "2026-10-08": 25,
+      "2026-10-09": 1
     },
     "by_platform": {
       "X": 213,
       "Web": 156,
-      "Facebook": 18,
+      "Facebook": 19,
       "Instagram": 16,
       "Print": 12,
       "TV": 12,
@@ -473,7 +474,7 @@
     },
     "by_language": {
       "und": 231,
-      "English": 102,
+      "English": 103,
       "French": 74,
       "Spanish": 43,
       "unknown": 6
@@ -638,7 +639,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 570,
+        "engagement": 573,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -651,7 +652,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 467,
+        "engagement": 475,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -862,6 +863,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0076",
+      "text": "🌍 Astronautów chroni międzynarodowe porozumienie. Osoby dotknięte katastrofami wciąż nie mają podobnej, kompleksowej ochrony. \n\nJeśli astronauta znajdzie się w niebezpieczeństwie, państwa współdziałają według jasno określonych zasad współpracy. Tymczasem podczas powodzi, pożaru czy trzęsienia ziemi skala potrzeb może bardzo szybko przekroczyć możliwości lokalnych i krajowych służb. Wtedy wsparcie musi docierać także z zagranicy, a wraz z zespołami ratowniczymi i humanitarnymi granice przekraczają sprzęt, leki i inne niezbędne środki. Ich transport może spowalniać biurokracja, procedury celne czy graniczne. \n\nPowodzie w 2023 i 2024 r. pokazały, jak szybko lokalny kryzys może przerodzić się w sytuację wymagającą mobilizacji międzynarodowej. W 2023 r. do Słowenii PCK wysłał transporty zawierające m.in. środki higieniczne oraz żywność  długoterminową oraz skierował Grupy Ratownictwa i Pomocy Humanitarnej PCK do oceny potrzeb na miejscu. Podczas powodzi w południowo-zachodniej Polsce w działania były zaangażowane zespoły ratownicze i humanitarne PCK, ale wsparcie napływało także od partnerów zagranicznych, w tym Niemieckiego Czerwonego Krzyża. Takie doświadczenia pokazują, jak ważne są wcześniej uzgodnione zasady, które pozwalają szybko i sprawnie uruchamiać pomoc międzynarodową. \n\nGlobalnych zasad działań podczas kataklizmów jednak nie ma. Na tę lukę zwraca uwagę kampania International Federation of Red Cross and Red Crescent Societies „Earth’s Missing Treaty” („Brakujący Traktat Ziemi”). Jej celem jest wsparcie prac nad pierwszym kompleksowym porozumieniem poświęconym ochronie ludzi przed katastrofami, w ich trakcie i po ich zakończeniu. \n\nTaki traktat mógłby w praktyce ułatwiać szybsze rozmieszczanie zespołów humanitarnych, usprawniać przekraczanie granic z pomocą rzeczową i ograniczać bariery administracyjne. \n\nKatastrofy zaczynają się lokalnie, ale ich skutki mogą bardzo szybko wymagać współpracy międzynarodowej. Dlatego zasady takiej współpracy warto ustalić wcześn",
+      "title": "",
+      "has_text": true,
+      "url": "https://www.facebook.com/reel/1093289866394106/",
+      "platform": "Facebook",
+      "outlet": "Facebook",
+      "source": "movement",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "Polski Czerwony Krzyż (PCK)",
+      "created": "2026-10-09T09:31:24.743120+00:00",
+      "day": "2026-10-09",
+      "engagement": 2,
+      "reach": 132485,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": true,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-09T09:31:26.843746+00:00"
+    },
     {
       "id": "s0405",
       "text": "Presidents and Secretaries General of the National Red Cross and Red Crescent Societies of Seychelles, Madagascar, Mauritius and Comoros concluded a three-day strategic regional meeting held from 2 to 4 October 2026, reaffirming their commitment to building stronger, more sustainable and accountable National Societies capable of responding effectively to the evolving humanitarian needs of communities across the Indian Ocean.\nThe high-level gathering brought together the leaders of the four National Societies to take stock of shared regional challenges, strengthen cooperation and translate previous commitments into practical priorities for the future of humanitarian action.\nBuilding on previous Leaders’ Meetings, discussions focused on key areas of common interest, including Disaster Law, accountability, organisational sustainability, financial sustainability, resource mobilisation and stronger regional coordination.\nThe meeting comes at a time when National Societies across the Indian Ocean are operating in an increasingly complex humanitarian environment, marked by recurrent disasters, climate-related risks, evolving humanitarian needs and growing expectations from communities and partners, alongside increasingly constrained funding.\nAgainst this backdrop, leaders emphasised that strong governance, effective leadership, accountable systems, committed volunteers and sustainable resources are essential to maintaining community trust and ensuring that National Societies remain capable of delivering quality humanitarian services.\nFinancial sustainability and resource mobilisation were also key discussion points. Leaders explored opportunities to diversify funding, strengthen engagement with local and private-sector partners, and improve approaches to indirect costs, key performance indicators, transparency and organisational sustainability.\nA significant outcome of the meeting was the decision to establish an Indian Ocean National Societies Leaders’ Coordination Allian",
@@ -1334,7 +1359,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 27,
+      "engagement": 1,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -1366,7 +1391,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2064,
+      "owned_reach": 2065,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -1383,7 +1408,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-08T17:33:18.806097+00:00",
       "day": "2026-10-08",
-      "engagement": 82,
+      "engagement": 83,
       "reach": 780915,
       "sentiment": "",
       "country": "",
@@ -1409,7 +1434,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.805948+00:00",
       "day": "2026-10-08",
-      "engagement": 87,
+      "engagement": 88,
       "reach": 367846,
       "sentiment": "",
       "country": "",
@@ -1433,7 +1458,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 467,
+      "engagement": 475,
       "reach": 353,
       "sentiment": "",
       "country": "",
@@ -3985,7 +4010,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 570,
+      "engagement": 573,
       "reach": 440,
       "sentiment": "",
       "country": "",
