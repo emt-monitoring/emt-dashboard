@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-10T18:47:41.519248+00:00",
-    "window_hours": 930,
+    "generated": "2026-10-10T22:22:58.862138+00:00",
+    "window_hours": 934,
     "total": 460,
     "text_available": 247,
     "text_masked": 213,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38081"
+      "EARNED_ENGAGEMENT": "38084"
     },
     "owned_true": {
       "posts": 34,
       "engagement": 2849,
       "video_views": 0,
-      "reach": 73969,
-      "candidates": 1634
+      "reach": 73978,
+      "candidates": 1640
     },
     "owned_error": "",
     "owned_debug": {
@@ -152,6 +152,8 @@
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
+        "https://www.tiktok.com/@ifrc/video/7684266609258614038",
+        "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -165,7 +167,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aca8832e9082577e3b0e7a0\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acaba99f3d2872ecfe16399\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -179,9 +181,9 @@
     "own_reach": 16157113,
     "movement_reach": 320259,
     "external_reach": 20814904,
-    "own_engagement": 9398,
+    "own_engagement": 9402,
     "movement_engagement": 64,
-    "external_engagement": 30075,
+    "external_engagement": 30076,
     "amplification": 3.2,
     "earned_by_platform": {
       "Web": 159,
@@ -191,7 +193,7 @@
     "top_outlets": {
       "KBTCDT2": 10,
       "Podchaser": 9,
-      "United Nations": 4,
+      "United Nations": 5,
       "ReliefWeb": 4,
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
@@ -422,7 +424,7 @@
       }
     ],
     "campaign_named": 75,
-    "treaty_only": 25,
+    "treaty_only": 26,
     "by_day": {
       "2026-09-03": 38,
       "2026-09-04": 177,
@@ -475,7 +477,7 @@
     },
     "by_sentiment": {},
     "astronauts": {
-      "Dr. Sian Proctor": 22,
+      "Dr. Sian Proctor": 24,
       "José Hernández": 6,
       "Julie Payette": 4,
       "Scott Kelly": 3,
@@ -536,7 +538,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 10235,
+        "engagement": 10236,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -646,7 +648,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 494,
+        "engagement": 495,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -711,7 +713,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 196,
+        "engagement": 197,
         "text": "Julie Payette (Canadian Astronaut Julie Payette), Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters. \n\nLearn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T11:23:48.651234+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -1425,7 +1427,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 30,
+      "engagement": 32,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -1524,7 +1526,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 494,
+      "engagement": 495,
       "reach": 365,
       "sentiment": "",
       "country": "",
@@ -2824,7 +2826,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1728,
+      "owned_reach": 1731,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -2841,7 +2843,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 196,
+      "engagement": 197,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -5631,7 +5633,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 10235,
+      "engagement": 10236,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -7518,7 +7520,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1538,
+      "owned_reach": 1540,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -9324,16 +9326,16 @@
     },
     {
       "id": "s0070",
-      "text": "IFRC Disaster Research and Campaign Launch - Press Conference",
+      "text": "  IFRC Disaster Research and Campaign Launch - Press Conference  Summary\n<p> Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch: astronauts at the heart of push for world's first international disaster treaty</p> <p> Description</p> <p> Briefers (in-person) are:</p> <p> Dylan Winder, IFRC Permanent Observer to the UN and Director of</p> <p> Humanitarian Diplomacy and Communications;</p> <p> Dr Sian Proctor, Geoscientist and astronaut; and</p> <p> Isabelle Granger, IFRC Global Lead, Disaster Law.</p>",
       "title": "IFRC Disaster Research and Campaign Launch - Press…",
       "has_text": true,
       "url": "https://webtv.un.org/en/asset/k1h/k1hky0y8ef",
       "platform": "Web",
-      "outlet": "UN Web TV",
+      "outlet": "United Nations",
       "source": "external",
       "language": "English",
-      "language_source": "manual",
-      "author": "UN Web TV",
+      "language_source": "inferred",
+      "author": "webtv.un.org",
       "created": "2026-09-04T11:56:34.598961+00:00",
       "day": "2026-09-04",
       "engagement": 0,
@@ -9341,8 +9343,10 @@
       "sentiment": "",
       "country": "",
       "is_campaign": false,
-      "is_treaty": false,
-      "astronauts": [],
+      "is_treaty": true,
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "self_reported": true,
@@ -10919,7 +10923,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 65,
-      "owned_reach": 1260,
+      "owned_reach": 1262,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -11166,7 +11170,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1452,
+      "owned_reach": 1456,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
@@ -11846,15 +11850,15 @@
     },
     {
       "id": "a0155",
-      "text": "La Cruz Roja y astronautas exigen un pacto global para personas ante catastrofes naturales",
+      "text": "  Naciones Unidas, 3 sep (EFE).- La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y un grupo de astronautas\n<p>exigieron este jueves en la ONU impulsar el primer pacto global que proteja a las personas ante las catástrofes naturales.</p> <p> \"Los tratados internacionales protegen a los astronautas en apuros. Pero si una inundación sacude tu ciudad, todavía no existe un tratado global integral que ayude a los países a recortar la burocracia y coordinar la asistencia internacional en la Tierra\", explicó Dylan Winder, observador permanente de la IFRC ante la ONU, en una rueda de prensa en la sede de Naciones Unidas en Nueva York.</p> <p> Más de una decena de astronautas se han sumado a la iniciativa, entre ellas Sian Proctor, quien también es geocientífica, y que destacó cómo los países se unen para proteger misiones en el espacio pero no en la Tierra.</p> <p> Winder apuntó que solo el pasado año se produjeron más de 350 desastres relacionados con fenómenos naturales que afectaron a más de 110 millones de personas y generaron pérdidas por valor de 169.700 millones de dólares.</p> <p> \"Tan solo 24 horas de aviso previo ante un peligro inminente pueden reducir los daños resultantes hasta en un 30 %, y cada dólar invertido en la reducción del riesgo de desastres y la resiliencia puede ahorrar alrededor de 15 dólares en pérdidas futuras\", declaró.</p> <p> Según dijo, la mortalidad es seis veces menor en los países que cuentan con sistemas integrados de alerta temprana.</p> <p> \"En catástrofes como la de Nepal, un tratado mundial establecería normas claras para la ayuda internacional y ayudaría a los gobiernos y a los agentes humanitarios a sortear los trámites burocráticos con mayor rapidez\", añadió.</p> <p> La IFRC lamentó que aunque existen acuerdos regionales, bilaterales y sectoriales falta un tratado internacional que unifique normas y procedimientos.</p> <p> \"Esto podría traducirse en un despliegue más rápido de los equipos hum",
       "has_text": true,
       "url": "https://unitel.bo/noticias/agencias/la-cruz-roja-y-astronautas-exigen-un-pacto-global-para-personas-ante-catastrofes-naturales-EG23256020",
       "platform": "Web",
       "outlet": "Unitel",
       "source": "external",
       "language": "Spanish",
-      "language_source": "manual",
-      "author": "Unitel",
+      "language_source": "inferred",
+      "author": "unitel.bo",
       "created": "2026-09-03T00:00:00+00:00",
       "day": "2026-09-03",
       "engagement": 0,
@@ -11864,7 +11868,9 @@
       "source_country": "BO",
       "is_campaign": false,
       "is_treaty": false,
-      "astronauts": [],
+      "astronauts": [
+        "Dr. Sian Proctor"
+      ],
       "risk_vectors": [],
       "first_seen": "2026-09-04T11:56:41.328419+00:00",
       "title": "La Cruz Roja y astronautas exigen un pacto global para personas ante catástrofes naturales",
