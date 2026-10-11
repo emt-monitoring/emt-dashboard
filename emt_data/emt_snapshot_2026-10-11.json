@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-11T14:49:46.491254+00:00",
-    "window_hours": 950,
+    "generated": "2026-10-11T19:26:45.567958+00:00",
+    "window_hours": 955,
     "total": 460,
     "text_available": 247,
     "text_masked": 213,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38113"
+      "EARNED_ENGAGEMENT": "38169"
     },
     "owned_true": {
       "posts": 34,
       "engagement": 2849,
       "video_views": 0,
-      "reach": 73981,
-      "candidates": 1664
+      "reach": 73984,
+      "candidates": 1679
     },
     "owned_error": "",
     "owned_debug": {
@@ -148,7 +148,6 @@
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
-        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
@@ -167,7 +166,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acba1f0aa945c94d2ca85ae\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acbe2cdd8295e12ea81cb20\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -181,9 +180,9 @@
     "own_reach": 16157155,
     "movement_reach": 320259,
     "external_reach": 20814904,
-    "own_engagement": 9395,
+    "own_engagement": 9404,
     "movement_engagement": 65,
-    "external_engagement": 30082,
+    "external_engagement": 30129,
     "amplification": 3.2,
     "earned_by_platform": {
       "Web": 159,
@@ -525,7 +524,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "Spanish",
-        "engagement": 19368,
+        "engagement": 19415,
         "text": "¿Qué pide un exastronauta? Un tratado internacional para proteger a víctimas de desastres naturales tras ver la fragilidad de la atmósfera desde el espacio.\r\n\r\nDurante sus 217 vueltas al mundo en órbita, Hernández vio cómo los rayos del sol revelan la fragilidad de nuestra atmósf",
         "created": "2026-10-08T17:33:18.800407+00:00",
         "author": "MILENIO",
@@ -622,7 +621,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 588,
+        "engagement": 593,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -648,7 +647,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 506,
+        "engagement": 509,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -1476,7 +1475,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-08T17:33:18.806097+00:00",
       "day": "2026-10-08",
-      "engagement": 93,
+      "engagement": 94,
       "reach": 780915,
       "sentiment": "",
       "country": "",
@@ -1526,7 +1525,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 506,
+      "engagement": 509,
       "reach": 382,
       "sentiment": "",
       "country": "",
@@ -1550,7 +1549,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19368,
+      "engagement": 19415,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -10897,7 +10896,7 @@
       "risk_vectors": [],
       "owned_engagement": 53,
       "owned_video_views": 0,
-      "owned_reach": 1870,
+      "owned_reach": 1872,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -10949,7 +10948,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3530,
+      "owned_reach": 3531,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -11017,7 +11016,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 588,
+      "engagement": 593,
       "reach": 469,
       "sentiment": "",
       "country": "",
