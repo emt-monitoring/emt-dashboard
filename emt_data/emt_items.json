@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T07:44:45.369989+00:00",
+  "generated": "2026-10-11T14:49:46.479602+00:00",
   "count": 460,
   "items": [
     {
@@ -88,7 +88,7 @@
       "author": "Polski Czerwony Krzyż (PCK)",
       "created": "2026-10-09T09:31:24.743120+00:00",
       "day": "2026-10-09",
-      "engagement": 16,
+      "engagement": 17,
       "reach": 132485,
       "sentiment": "",
       "country": "",
@@ -602,7 +602,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2073,
+      "owned_reach": 2074,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -669,7 +669,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 503,
+      "engagement": 506,
       "reach": 382,
       "sentiment": "",
       "country": "",
@@ -1453,7 +1453,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1185,
+      "owned_reach": 1186,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -1522,7 +1522,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 427,
+      "engagement": 432,
       "reach": 359,
       "sentiment": "",
       "country": "",
@@ -3221,8 +3221,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 580,
-      "reach": 440,
+      "engagement": 582,
+      "reach": 460,
       "sentiment": "",
       "country": "",
       "is_campaign": true,

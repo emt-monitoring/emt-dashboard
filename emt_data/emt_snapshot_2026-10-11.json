@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-11T07:44:45.381524+00:00",
-    "window_hours": 943,
+    "generated": "2026-10-11T14:49:46.491254+00:00",
+    "window_hours": 950,
     "total": 460,
     "text_available": 247,
     "text_masked": 213,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38103"
+      "EARNED_ENGAGEMENT": "38113"
     },
     "owned_true": {
       "posts": 34,
       "engagement": 2849,
       "video_views": 0,
-      "reach": 73979,
-      "candidates": 1647
+      "reach": 73981,
+      "candidates": 1664
     },
     "owned_error": "",
     "owned_debug": {
@@ -148,13 +148,13 @@
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
-        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
@@ -167,7 +167,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acb3e4d0e8e730164ae4ddd\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acba1f0aa945c94d2ca85ae\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -177,14 +177,14 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 37292298,
-    "own_reach": 16157135,
+    "total_reach": 37292318,
+    "own_reach": 16157155,
     "movement_reach": 320259,
     "external_reach": 20814904,
-    "own_engagement": 9385,
-    "movement_engagement": 64,
+    "own_engagement": 9395,
+    "movement_engagement": 65,
     "external_engagement": 30082,
-    "amplification": 3.21,
+    "amplification": 3.2,
     "earned_by_platform": {
       "Web": 159,
       "Print": 12,
@@ -635,7 +635,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 580,
+        "engagement": 582,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -648,7 +648,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 503,
+        "engagement": 506,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -661,7 +661,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 427,
+        "engagement": 432,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -945,7 +945,7 @@
       "author": "Polski Czerwony Krzyż (PCK)",
       "created": "2026-10-09T09:31:24.743120+00:00",
       "day": "2026-10-09",
-      "engagement": 16,
+      "engagement": 17,
       "reach": 132485,
       "sentiment": "",
       "country": "",
@@ -1459,7 +1459,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2073,
+      "owned_reach": 2074,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -1526,7 +1526,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 503,
+      "engagement": 506,
       "reach": 382,
       "sentiment": "",
       "country": "",
@@ -2310,7 +2310,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1185,
+      "owned_reach": 1186,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -2379,7 +2379,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 427,
+      "engagement": 432,
       "reach": 359,
       "sentiment": "",
       "country": "",
@@ -4078,8 +4078,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 580,
-      "reach": 440,
+      "engagement": 582,
+      "reach": 460,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
