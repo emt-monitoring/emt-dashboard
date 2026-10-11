@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-11T19:26:45.567958+00:00",
-    "window_hours": 955,
+    "generated": "2026-10-11T23:06:23.855908+00:00",
+    "window_hours": 959,
     "total": 460,
     "text_available": 247,
     "text_masked": 213,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38169"
+      "EARNED_ENGAGEMENT": "38173"
     },
     "owned_true": {
       "posts": 34,
       "engagement": 2849,
       "video_views": 0,
-      "reach": 73984,
-      "candidates": 1679
+      "reach": 73986,
+      "candidates": 1680
     },
     "owned_error": "",
     "owned_debug": {
@@ -148,6 +148,7 @@
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/ifrc/status/2095837119092555788",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
@@ -166,7 +167,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acbe2cdd8295e12ea81cb20\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acc1650f3d2872ecf0277b9\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -176,13 +177,13 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 37292318,
-    "own_reach": 16157155,
+    "total_reach": 37292325,
+    "own_reach": 16157162,
     "movement_reach": 320259,
     "external_reach": 20814904,
-    "own_engagement": 9404,
+    "own_engagement": 9407,
     "movement_engagement": 65,
-    "external_engagement": 30129,
+    "external_engagement": 30130,
     "amplification": 3.2,
     "earned_by_platform": {
       "Web": 159,
@@ -537,7 +538,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 10236,
+        "engagement": 10237,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -647,7 +648,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 509,
+        "engagement": 511,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -712,7 +713,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 197,
+        "engagement": 198,
         "text": "Julie Payette (Canadian Astronaut Julie Payette), Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters. \n\nLearn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T11:23:48.651234+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -1525,8 +1526,8 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 509,
-      "reach": 382,
+      "engagement": 511,
+      "reach": 389,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -2842,7 +2843,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 197,
+      "engagement": 198,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -5632,7 +5633,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 10236,
+      "engagement": 10237,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -7519,7 +7520,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1540,
+      "owned_reach": 1541,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -11169,7 +11170,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1456,
+      "owned_reach": 1458,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
