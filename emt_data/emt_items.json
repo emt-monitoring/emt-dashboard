@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T23:06:23.847635+00:00",
+  "generated": "2026-10-12T02:17:40.376678+00:00",
   "count": 460,
   "items": [
     {
@@ -570,7 +570,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 2,
+      "engagement": 32,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -693,7 +693,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19415,
+      "engagement": 19416,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -1935,7 +1935,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 759,
+      "engagement": 763,
       "reach": 641,
       "sentiment": "",
       "country": "",
