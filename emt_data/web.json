@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:39:27+00:00",
+  "generated_at": "2026-10-12T19:43:58+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -238,7 +238,7 @@
       8
     ]
   ],
-  "avg_duration": 42,
+  "avg_duration": 84,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
@@ -386,7 +386,7 @@
     },
     {
       "label": "Unassigned",
-      "value": 4
+      "value": 3
     }
   ],
   "countries": [

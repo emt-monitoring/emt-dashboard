@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-12T09:39:24.752583+00:00",
-    "window_hours": 969,
-    "total": 461,
-    "text_available": 248,
+    "generated": "2026-10-12T19:43:54.860199+00:00",
+    "window_hours": 979,
+    "total": 462,
+    "text_available": 249,
     "text_masked": 213,
-    "earned_media": 184,
+    "earned_media": 185,
     "social": 277,
     "by_source": {
-      "external": 373,
+      "external": 374,
       "own": 70,
       "movement": 18
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 70,
     "movement_posts": 18,
-    "external_posts": 373,
+    "external_posts": 374,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38189"
+      "EARNED_ENGAGEMENT": "38256"
     },
     "owned_true": {
       "posts": 34,
-      "engagement": 2849,
+      "engagement": 2852,
       "video_views": 0,
-      "reach": 73987,
-      "candidates": 1698
+      "reach": 74037,
+      "candidates": 1714
     },
     "owned_error": "",
     "owned_debug": {
@@ -125,15 +125,15 @@
         "https://www.facebook.com/reel/1335108238700224/",
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
         "https://www.facebook.com/reel/4368630776737133/",
-        "https://twitter.com/jagan_chapagain/status/2095885257094348808",
         "https://www.facebook.com/reel/1045989911637258/",
+        "https://twitter.com/jagan_chapagain/status/2095885257094348808",
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
         "https://twitter.com/ifrc/status/2106293184116502862",
         "https://twitter.com/ifrc/status/2101219750961430854",
         "https://twitter.com/ifrc/status/2099045420030705720",
         "https://twitter.com/jagan_chapagain/status/2095476910717284842",
-        "https://twitter.com/jagan_chapagain/status/2095870925501583630",
         "https://www.facebook.com/reel/1045874834746926/",
+        "https://twitter.com/jagan_chapagain/status/2095870925501583630",
         "https://twitter.com/ifrc/status/2103756461994398048",
         "https://twitter.com/ifrc/status/2098404313475297743",
         "https://twitter.com/jagan_chapagain/status/2104608414919803020",
@@ -165,7 +165,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6accaaa95a3c1551726881cc\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acd384e1f99ee7d640d08a0\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -175,16 +175,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 37292325,
-    "own_reach": 16157162,
+    "total_reach": 37292354,
+    "own_reach": 16157191,
     "movement_reach": 320259,
     "external_reach": 20814904,
-    "own_engagement": 9422,
+    "own_engagement": 9443,
     "movement_engagement": 66,
-    "external_engagement": 30131,
+    "external_engagement": 30182,
     "amplification": 3.2,
     "earned_by_platform": {
-      "Web": 160,
+      "Web": 161,
       "Print": 12,
       "TV": 12
     },
@@ -207,6 +207,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Mylenecolmar": 0,
       "Theatrum Belli": 0,
       "Justsecurity": 0,
       "Tvmtv": 0,
@@ -219,10 +220,24 @@
       "Europa Press": 0,
       "Secourisme": 0,
       "Over Blog": 0,
-      "Deapress": 0,
-      "Lediplomate": 0
+      "Deapress": 0
     },
     "earned_top": [
+      {
+        "url": "https://mylenecolmar.com/noemi-espinoza-madrid-secretaire-generale-de-lassociation-des-etats-de-la-caraibe-notre-region-peut-choisir-detre-actrice-de-son-propre-avenir/",
+        "platform": "Web",
+        "outlet": "Mylenecolmar",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Au fil de ma carrière, j'ai mené une foule d'interviews qui m'ont marquée. Mes entretiens avec des responsables d'institutions régionales caribéennes figurent dans la liste. En effet, obtenir directement leurs points de vue sur des enjeux de la Grande Caraïbe est bien sûr enthous",
+        "created": "2026-10-12T19:43:52.315602+00:00",
+        "author": "Mylène Colmar",
+        "astronauts": [],
+        "risk_vectors": [
+          "venue_uncertainty"
+        ]
+      },
       {
         "url": "https://theatrum-belli.com/chronicorum-belli-du-12-octobre/",
         "platform": "Web",
@@ -406,19 +421,6 @@
         "author": "deapress.com",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://lediplomate.media/edito-hal-9000-skynet-si-scenario/",
-        "platform": "Web",
-        "outlet": "Lediplomate",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "ÉDITO – De HAL 9000 à Skynet : Et si le scénario Terminator n’était plus seulement de la science-fiction ?\nPar Ulysse J. Capella\nLe 29 août 1997, à 2 h 14 du matin, Skynet devient conscient. Dans l’univers de Terminator, l’humanité a commis une erreur qui semblait pourtant ration",
-        "created": "2026-10-01T14:24:22.700142+00:00",
-        "author": "Ulysse Jean Capella",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 75,
@@ -453,11 +455,11 @@
       "2026-10-02": 1,
       "2026-10-08": 25,
       "2026-10-09": 4,
-      "2026-10-12": 1
+      "2026-10-12": 2
     },
     "by_platform": {
       "X": 213,
-      "Web": 160,
+      "Web": 161,
       "Facebook": 19,
       "Instagram": 16,
       "Print": 12,
@@ -470,7 +472,7 @@
     "by_language": {
       "und": 231,
       "English": 104,
-      "French": 76,
+      "French": 77,
       "Spanish": 44,
       "unknown": 6
     },
@@ -484,11 +486,17 @@
       "Nicole Stott": 2
     },
     "risk_vectors": {
-      "venue_uncertainty": 2,
+      "venue_uncertainty": 3,
       "sovereignty": 2
     },
     "risk_examples": {
       "venue_uncertainty": [
+        {
+          "url": "https://mylenecolmar.com/noemi-espinoza-madrid-secretaire-generale-de-lassociation-des-etats-de-la-caraibe-notre-region-peut-choisir-detre-actrice-de-son-propre-avenir/",
+          "platform": "Web",
+          "text": "Au fil de ma carrière, j'ai mené une foule d'interviews qui m'ont marquée. Mes entretiens avec des responsables d'institutions régionales caribéennes figurent dans la liste. En effet, obtenir directement leurs points de vue sur des enjeux de la Grande Caraïbe est bien sûr enthous",
+          "engagement": 0
+        },
         {
           "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-envoie-des-experts-en-identification-des-victimes-pour-soutenir-les-operations-de-secours-a-la-suite-des-graves-inondations-survenues-le-.html",
           "platform": "Web",
@@ -524,7 +532,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "Spanish",
-        "engagement": 19416,
+        "engagement": 19467,
         "text": "¿Qué pide un exastronauta? Un tratado internacional para proteger a víctimas de desastres naturales tras ver la fragilidad de la atmósfera desde el espacio.\r\n\r\nDurante sus 217 vueltas al mundo en órbita, Hernández vio cómo los rayos del sol revelan la fragilidad de nuestra atmósf",
         "created": "2026-10-08T17:33:18.800407+00:00",
         "author": "MILENIO",
@@ -621,7 +629,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 593,
+        "engagement": 597,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -634,7 +642,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 582,
+        "engagement": 584,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -647,7 +655,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 515,
+        "engagement": 517,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -660,7 +668,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 432,
+        "engagement": 439,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -712,7 +720,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 198,
+        "engagement": 199,
         "text": "Julie Payette (Canadian Astronaut Julie Payette), Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters. \n\nLearn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T11:23:48.651234+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -858,6 +866,32 @@
     ]
   },
   "items": [
+    {
+      "id": "s0410",
+      "text": "Au fil de ma carrière, j'ai mené une foule d'interviews qui m'ont marquée. Mes entretiens avec des responsables d'institutions régionales caribéennes figurent dans la liste. En effet, obtenir directement leurs points de vue sur des enjeux de la Grande Caraïbe est bien sûr enthousiasmant.\n<p> Lorsque la proposition m'a été faite d'interviewer Noemí Espinoza Madrid, Secrétaire générale de l'Association des États de la Caraïbe (AEC), j'ai immédiatement dit oui. Je la suis depuis sa prise de fonction le 1er janvier 2025. À noter qu'elle est la 8e Secrétaire générale et la première Hondurienne à diriger l'organisation.</p> <p> De plus, cela fait des années que j'écris sur l'AEC, puisqu'elle fait partie des organisation régionale majeure avec ses 25 États membres et 10 membres associés. Chaque territoire bordant la mer des Caraïbes y siège !</p> <p> Au cours de cette interview, Noemí Espinoza Madrid est revenue sur son parcours, le Plan stratégique « Grande Caraïbe 2035 » (auquel j'ai déjà consacré un billet de blog et un épisode de mon podcast ), la situation d'Haïti ou encore la place des territoires français.</p> <p> 30 ans de diplomatie</p> <p> Qu'est-ce qui, dans votre parcours, vous a préparée à diriger l'AEC ?</p> <p> Je suis diplomate de carrière au service du gouvernement hondurien depuis 1996, soit 30 ans. Mon parcours a connu bien des détours. J'ai commencé au service extérieur, dans un consulat à New York. J'y suis arrivée très jeune, pour une année seulement. Cette année s'est transformée en 27 ans, avec une courte interruption de deux ans. Après le consulat, j'ai rapidement rejoint la Mission du Honduras auprès des Nations unies, puis j'ai travaillé pour l'ONU elle-même, dans l'une de ses agences de développement.</p> <p> J'ai travaillé dans l'architecture du développement et des droits humains aux niveaux mondial, régional et national. Cette expérience m'a donné une très bonne compréhension des besoins en matière de développement et de droits humains à chaq",
+      "title": "Noemí Espinoza Madrid, Secrétaire générale de l'Association des États de la Caraïbe : « Notre région peut choisir d'être actrice de son propre avenir »",
+      "has_text": true,
+      "url": "https://mylenecolmar.com/noemi-espinoza-madrid-secretaire-generale-de-lassociation-des-etats-de-la-caraibe-notre-region-peut-choisir-detre-actrice-de-son-propre-avenir/",
+      "platform": "Web",
+      "outlet": "Mylenecolmar",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "Mylène Colmar",
+      "created": "2026-10-12T19:43:52.315602+00:00",
+      "day": "2026-10-12",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [
+        "venue_uncertainty"
+      ],
+      "first_seen": "2026-10-12T19:43:54.848794+00:00"
+    },
     {
       "id": "s0410",
       "text": "12 octobre 539 av. J.-C. : l’armée de Cyrus entre dans Babylone.\nLe 16e jour du mois de tashritu de la 17e année du roi Nabonide, soit le 12 octobre 539 avant notre ère dans le calendrier julien, les troupes de Cyrus II entrent dans Babylone sans combat. L’empire néo-babylonien, fondé par Nabopolassar en 626 et porté à son apogée par Nabuchodonosor II, cesse d’exister. Les Perses deviennent maîtres de tout le Proche-Orient, de l’Iran à la frontière de l’Égypte.\nCyrus\nRoi d’Anshan, en Perse, et vassal des Mèdes, Cyrus se soulève contre son suzerain Astyage et s’empare d’Ecbatane vers 550. Il se tourne ensuite vers l’Asie Mineure, bat Crésus et prend Sardes, capitale de la Lydie. Les cités grecques d’Ionie passent sous son autorité. Dans les années qui suivent, il étend sa domination vers l’est, jusqu’en Asie centrale. Babylone, la plus riche et la plus grande ville du monde connu, reste seule en face de lui.\nNabonide\nLe dernier roi de Babylone est un homme âgé, monté sur le trône en 556 à la faveur d’un complot, sans lien avec la dynastie. Fils d’une prêtresse de Harran, il voue au dieu-lune Sîn une dévotion qui indispose le clergé de Marduk, dieu de la ville. Il passe une dizaine d’années dans l’oasis de Tayma, au nord de l’Arabie, laissant le gouvernement à son fils Bel-shar-usur, le Balthazar de la Bible. En son absence, la fête du Nouvel An, qui exige la présence du roi, ne peut être célébrée, ce que les chroniques notent année après année.\nRevenu dans sa capitale, Nabonide prépare la guerre. Il fait transporter à Babylone les statues des dieux des autres villes, pour les soustraire à l’envahisseur ou pour s’assurer de leurs sanctuaires.\nLa campagne\nLa Chronique de Nabonide, tablette cunéiforme conservée au British Museum, en donne le récit le plus proche des faits. Au début du mois de tashritu, Cyrus livre bataille à l’armée d’Akkad à Opis, sur le Tigre. Les Babyloniens sont vaincus ; le texte mentionne un massacre et un butin. Le 14 du mois, soit le 10 octobre,",
@@ -1549,7 +1583,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 515,
+      "engagement": 517,
       "reach": 389,
       "sentiment": "",
       "country": "",
@@ -1573,7 +1607,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19416,
+      "engagement": 19467,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -2350,7 +2384,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-26T12:23:16.265614+00:00",
       "day": "2026-09-26",
-      "engagement": 60,
+      "engagement": 61,
       "reach": 780809,
       "sentiment": "",
       "country": "",
@@ -2402,7 +2436,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 432,
+      "engagement": 439,
       "reach": 359,
       "sentiment": "",
       "country": "",
@@ -2866,7 +2900,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 198,
+      "engagement": 199,
       "reach": 780473,
       "sentiment": "",
       "country": "",
@@ -4002,7 +4036,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-11T17:07:18.259244+00:00",
       "day": "2026-09-11",
-      "engagement": 54,
+      "engagement": 55,
       "reach": 780484,
       "sentiment": "",
       "country": "",
@@ -4027,7 +4061,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-11T17:07:18.258436+00:00",
       "day": "2026-09-11",
-      "engagement": 35,
+      "engagement": 36,
       "reach": 780484,
       "sentiment": "",
       "country": "",
@@ -4101,7 +4135,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 582,
+      "engagement": 584,
       "reach": 460,
       "sentiment": "",
       "country": "",
@@ -10815,7 +10849,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 747,
+      "owned_reach": 749,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -10908,7 +10942,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.583208+00:00",
       "day": "2026-09-04",
-      "engagement": 53,
+      "engagement": 55,
       "reach": 780260,
       "sentiment": "",
       "country": "",
@@ -10916,7 +10950,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 53,
+      "owned_engagement": 55,
       "owned_video_views": 0,
       "owned_reach": 1872,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
@@ -11021,7 +11055,7 @@
       "risk_vectors": [],
       "owned_engagement": 879,
       "owned_video_views": 0,
-      "owned_reach": 20285,
+      "owned_reach": 20304,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -11038,16 +11072,16 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 593,
-      "reach": 469,
+      "engagement": 597,
+      "reach": 498,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 30,
-      "owned_reach": 469,
+      "owned_engagement": 31,
+      "owned_reach": 498,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
