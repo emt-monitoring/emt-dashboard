@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-14T11:34:32.123691+00:00",
-    "window_hours": 1019,
-    "total": 530,
-    "text_available": 260,
+    "generated": "2026-10-14T15:57:23.583830+00:00",
+    "window_hours": 1023,
+    "total": 531,
+    "text_available": 261,
     "text_masked": 270,
-    "earned_media": 188,
+    "earned_media": 189,
     "social": 342,
     "by_source": {
-      "external": 420,
+      "external": 421,
       "own": 87,
       "movement": 23
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 23,
-    "external_posts": 420,
+    "external_posts": 421,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38606"
+      "EARNED_ENGAGEMENT": "38629"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3344,
       "video_views": 0,
-      "reach": 96824,
-      "candidates": 1809
+      "reach": 96925,
+      "candidates": 1835
     },
     "owned_error": "",
     "owned_debug": {
@@ -119,8 +119,8 @@
         "https://twitter.com/ifrc/status/2095430937253146779",
         "https://www.instagram.com/reel/DdvjluOuQdU/",
         "https://www.instagram.com/reel/DdJhdUfx4mp/",
-        "https://www.instagram.com/reel/DddiFXWCHUV/",
         "https://www.instagram.com/reel/DebKc6CxRa-/",
+        "https://www.instagram.com/reel/DddiFXWCHUV/",
         "https://www.facebook.com/reel/1772085957396232/",
         "https://twitter.com/ifrc/status/2095787231713571088",
         "https://www.instagram.com/reel/DeBlNwCu8Wx/",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acf689ec9689797b898ec2c\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acfa636cb24c695586ba84c\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -194,16 +194,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40638712,
-    "own_reach": 19388593,
+    "total_reach": 40638716,
+    "own_reach": 19388597,
     "movement_reach": 339218,
     "external_reach": 20910901,
-    "own_engagement": 10242,
-    "movement_engagement": 68,
-    "external_engagement": 30308,
-    "amplification": 2.96,
+    "own_engagement": 10273,
+    "movement_engagement": 70,
+    "external_engagement": 30314,
+    "amplification": 2.95,
     "earned_by_platform": {
-      "Web": 164,
+      "Web": 165,
       "Print": 12,
       "TV": 12
     },
@@ -226,6 +226,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Stjornarradid": 0,
       "Steven Soarez": 0,
       "Keystone-ATSAujourd'hui à": 0,
       "SDA - Service de base français": 0,
@@ -238,10 +239,22 @@
       "Coordinationsud": 0,
       "Deutschland": 0,
       "Paperity": 0,
-      "Blogspot": 0,
-      "Europa Press": 0
+      "Blogspot": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.stjornarradid.is/frettir/grein/2026-10-14-joint-nordic-statement-protection-of-persons-in-the-event-of-disasters",
+        "platform": "Web",
+        "outlet": "Stjornarradid",
+        "source": "external",
+        "language": "English",
+        "engagement": 0,
+        "text": "Joint Nordic Statement delivered by H.E. Ms. Elina Kalkku, Permanent Representative of Finland to the United Nations 81st session of the United Nations General Assembly, Sixth Committee Agenda item 88: United Nations Conference of Plenipotentiaries on Protection of Persons in the",
+        "created": "2026-10-14T15:57:21.249815+00:00",
+        "author": "stjornarradid.is",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "http://ct.moreover.com/?a=60616072149&p=1yx&v=1&x=4GOx5k7C7pTHssLLohjDaA",
         "platform": "Web",
@@ -427,23 +440,10 @@
         "author": "Publié par Mardis hongrois de Paris",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "http://ct.moreover.com/?a=60565373112&p=1yx&v=1&x=J423oWFTopw18Pl3DOGx2g",
-        "platform": "Web",
-        "outlet": "Europa Press",
-        "source": "external",
-        "language": "Spanish",
-        "engagement": 0,
-        "text": "VALLADOLID 7 Oct. (EUROPA PRESS) -\n\nLa Guardia Civil de Valladolid y la Universidad Europea Miguel de Cervantes (UEMC) celebrarán desde esta mañana jornada divulgativa bajo el título 'Intervención Psicológica y Operativa en Emergencias y Catástrofes' y que ...",
-        "created": "2026-10-08T17:33:18.833399+00:00",
-        "author": "Europa Press",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 82,
-    "treaty_only": 26,
+    "treaty_only": 27,
     "by_day": {
       "2026-09-03": 38,
       "2026-09-04": 177,
@@ -476,11 +476,11 @@
       "2026-10-09": 4,
       "2026-10-12": 2,
       "2026-10-13": 57,
-      "2026-10-14": 11
+      "2026-10-14": 12
     },
     "by_platform": {
       "X": 270,
-      "Web": 164,
+      "Web": 165,
       "Facebook": 23,
       "Instagram": 20,
       "Print": 12,
@@ -492,7 +492,7 @@
     },
     "by_language": {
       "und": 289,
-      "English": 111,
+      "English": 112,
       "French": 79,
       "Spanish": 45,
       "unknown": 6
@@ -689,7 +689,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 443,
+        "engagement": 448,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -702,7 +702,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 304,
+        "engagement": 322,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -857,6 +857,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.instagram.com/reel/DebKc6CxRa-/",
+        "platform": "Instagram",
+        "outlet": "Instagram",
+        "source": "own",
+        "language": "English",
+        "engagement": 106,
+        "text": "Astronauts are protected by an international treaty. People facing disasters are not.\n\nThis International Day for Disaster Risk Reduction, the IFRC is calling for Earth’s Missing Treaty: a global disaster treaty to strengthen preparedness, protect people most at risk and establis",
+        "created": "2026-10-13T09:11:59.092725+00:00",
+        "author": "IFRC",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.instagram.com/reel/DddiFXWCHUV/",
         "platform": "Instagram",
         "outlet": "Instagram",
@@ -870,23 +883,34 @@
           "Julie Payette"
         ],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.instagram.com/reel/DebKc6CxRa-/",
-        "platform": "Instagram",
-        "outlet": "Instagram",
-        "source": "own",
-        "language": "English",
-        "engagement": 104,
-        "text": "Astronauts are protected by an international treaty. People facing disasters are not.\n\nThis International Day for Disaster Risk Reduction, the IFRC is calling for Earth’s Missing Treaty: a global disaster treaty to strengthen preparedness, protect people most at risk and establis",
-        "created": "2026-10-13T09:11:59.092725+00:00",
-        "author": "IFRC",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ]
   },
   "items": [
+    {
+      "id": "s0385",
+      "text": "Joint Nordic Statement delivered by H.E. Ms. Elina Kalkku, Permanent Representative of Finland to the United Nations 81st session of the United Nations General Assembly, Sixth Committee Agenda item 88: United Nations Conference of Plenipotentiaries on Protection of Persons in the Event of Disasters 13 October 2026\n<p>Chair, I have the honour to speak on behalf of the five Nordic countries, Denmark, Iceland, Norway, Sweden – and my own country, Finland.</p> <p>We are witnessing an increase in the number and scale of disasters across the globe causing immense suffering and damage. This will continue to be further exacerbated by climate change. The currently strengthening El Niño, occurring against the backdrop of long-term climate warming, is expected to increase the risks of drought, flooding, extreme heat and other hazards in several regions, with potentially serious humanitarian consequences. We need to face these challenges together. The decision taken by this Committee and the resolution adopted by General Assembly to move forward with the elaboration of a legally binding instrument on the protection of persons in the event of disasters is an important step and opportunity for further progress in this area of international law.</p> <p>The Nordic countries are firm supporters of further strengthening the international disaster relief and humanitarian assistance system. Enhanced international cooperation in all phases of disasters will help reduce risks and ensure that the needs of persons affected by disaster are met in a timely manner. The Nordic countries consider that the draft articles, as adopted by the International Law Commission, provide a solid basis for negotiations. We have also submitted joint written proposals for amendments to the draft articles.</p> <p>Chair, Balancing the sovereign rights of the affected State and the need for international assistance in order to protect persons affected by disasters is at the very heart of the negotiations on the ",
+      "title": "Joint Nordic Statement: Protection of Persons in the Event of Disasters",
+      "has_text": true,
+      "url": "https://www.stjornarradid.is/frettir/grein/2026-10-14-joint-nordic-statement-protection-of-persons-in-the-event-of-disasters",
+      "platform": "Web",
+      "outlet": "Stjornarradid",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "stjornarradid.is",
+      "created": "2026-10-14T15:57:21.249815+00:00",
+      "day": "2026-10-14",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": true,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-14T15:57:23.575160+00:00"
+    },
     {
       "id": "s0481",
       "text": "",
@@ -1021,7 +1045,7 @@
       "author": "@redcross_sagar",
       "created": "2026-10-14T05:58:30.025969+00:00",
       "day": "2026-10-14",
-      "engagement": 0,
+      "engagement": 2,
       "reach": 211,
       "sentiment": "",
       "country": "",
@@ -1502,7 +1526,7 @@
       "author": "maldivianrc",
       "created": "2026-10-13T21:48:08.712178+00:00",
       "day": "2026-10-13",
-      "engagement": 37,
+      "engagement": 43,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -1726,7 +1750,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 372,
+      "owned_reach": 375,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1799,7 +1823,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 157,
+      "owned_reach": 162,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2112,7 +2136,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 162,
+      "owned_reach": 168,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2137,7 +2161,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 194,
+      "owned_reach": 203,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2187,7 +2211,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 323,
+      "owned_reach": 330,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2212,7 +2236,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 772,
+      "owned_reach": 802,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2237,7 +2261,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 687,
+      "owned_reach": 718,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2254,7 +2278,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 72,
+      "engagement": 77,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -2264,7 +2288,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18785,
+      "owned_reach": 18789,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2281,7 +2305,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 304,
+      "engagement": 322,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2506,7 +2530,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 948,
+      "owned_reach": 954,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2523,7 +2547,7 @@
       "author": "IFRC",
       "created": "2026-10-13T09:11:59.092725+00:00",
       "day": "2026-10-13",
-      "engagement": 104,
+      "engagement": 106,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -3151,7 +3175,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 34,
+      "engagement": 35,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -4103,7 +4127,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 443,
+      "engagement": 448,
       "reach": 381,
       "sentiment": "",
       "country": "",
@@ -5803,7 +5827,7 @@
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
       "engagement": 586,
-      "reach": 460,
+      "reach": 464,
       "sentiment": "",
       "country": "",
       "is_campaign": true,

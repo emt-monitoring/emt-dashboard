@@ -1,7 +1,31 @@
 {
-  "generated": "2026-10-14T11:34:32.112590+00:00",
-  "count": 530,
+  "generated": "2026-10-14T15:57:23.575160+00:00",
+  "count": 531,
   "items": [
+    {
+      "id": "s0385",
+      "text": "Joint Nordic Statement delivered by H.E. Ms. Elina Kalkku, Permanent Representative of Finland to the United Nations 81st session of the United Nations General Assembly, Sixth Committee Agenda item 88: United Nations Conference of Plenipotentiaries on Protection of Persons in the Event of Disasters 13 October 2026\n<p>Chair, I have the honour to speak on behalf of the five Nordic countries, Denmark, Iceland, Norway, Sweden – and my own country, Finland.</p> <p>We are witnessing an increase in the number and scale of disasters across the globe causing immense suffering and damage. This will continue to be further exacerbated by climate change. The currently strengthening El Niño, occurring against the backdrop of long-term climate warming, is expected to increase the risks of drought, flooding, extreme heat and other hazards in several regions, with potentially serious humanitarian consequences. We need to face these challenges together. The decision taken by this Committee and the resolution adopted by General Assembly to move forward with the elaboration of a legally binding instrument on the protection of persons in the event of disasters is an important step and opportunity for further progress in this area of international law.</p> <p>The Nordic countries are firm supporters of further strengthening the international disaster relief and humanitarian assistance system. Enhanced international cooperation in all phases of disasters will help reduce risks and ensure that the needs of persons affected by disaster are met in a timely manner. The Nordic countries consider that the draft articles, as adopted by the International Law Commission, provide a solid basis for negotiations. We have also submitted joint written proposals for amendments to the draft articles.</p> <p>Chair, Balancing the sovereign rights of the affected State and the need for international assistance in order to protect persons affected by disasters is at the very heart of the negotiations on the ",
+      "title": "Joint Nordic Statement: Protection of Persons in the Event of Disasters",
+      "has_text": true,
+      "url": "https://www.stjornarradid.is/frettir/grein/2026-10-14-joint-nordic-statement-protection-of-persons-in-the-event-of-disasters",
+      "platform": "Web",
+      "outlet": "Stjornarradid",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "stjornarradid.is",
+      "created": "2026-10-14T15:57:21.249815+00:00",
+      "day": "2026-10-14",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": true,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-14T15:57:23.575160+00:00"
+    },
     {
       "id": "s0481",
       "text": "",
@@ -136,7 +160,7 @@
       "author": "@redcross_sagar",
       "created": "2026-10-14T05:58:30.025969+00:00",
       "day": "2026-10-14",
-      "engagement": 0,
+      "engagement": 2,
       "reach": 211,
       "sentiment": "",
       "country": "",
@@ -617,7 +641,7 @@
       "author": "maldivianrc",
       "created": "2026-10-13T21:48:08.712178+00:00",
       "day": "2026-10-13",
-      "engagement": 37,
+      "engagement": 43,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -841,7 +865,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 372,
+      "owned_reach": 375,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -914,7 +938,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 157,
+      "owned_reach": 162,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1227,7 +1251,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 162,
+      "owned_reach": 168,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1252,7 +1276,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 194,
+      "owned_reach": 203,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1302,7 +1326,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 323,
+      "owned_reach": 330,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1327,7 +1351,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 772,
+      "owned_reach": 802,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1352,7 +1376,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 687,
+      "owned_reach": 718,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1369,7 +1393,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 72,
+      "engagement": 77,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1379,7 +1403,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18785,
+      "owned_reach": 18789,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1396,7 +1420,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 304,
+      "engagement": 322,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1621,7 +1645,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 948,
+      "owned_reach": 954,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -1638,7 +1662,7 @@
       "author": "IFRC",
       "created": "2026-10-13T09:11:59.092725+00:00",
       "day": "2026-10-13",
-      "engagement": 104,
+      "engagement": 106,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2266,7 +2290,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 34,
+      "engagement": 35,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3218,7 +3242,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 443,
+      "engagement": 448,
       "reach": 381,
       "sentiment": "",
       "country": "",
@@ -4918,7 +4942,7 @@
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
       "engagement": 586,
-      "reach": 460,
+      "reach": 464,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
