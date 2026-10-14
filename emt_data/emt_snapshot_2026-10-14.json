@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-14T20:05:54.062637+00:00",
-    "window_hours": 1028,
-    "total": 537,
-    "text_available": 264,
-    "text_masked": 273,
-    "earned_media": 192,
-    "social": 345,
+    "generated": "2026-10-14T23:09:08.007013+00:00",
+    "window_hours": 1031,
+    "total": 539,
+    "text_available": 265,
+    "text_masked": 274,
+    "earned_media": 193,
+    "social": 346,
     "by_source": {
-      "external": 427,
+      "external": 429,
       "own": 87,
       "movement": 23
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 23,
-    "external_posts": 427,
+    "external_posts": 429,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38639"
+      "EARNED_ENGAGEMENT": "38646"
     },
     "owned_true": {
-      "posts": 46,
+      "posts": 45,
       "engagement": 3344,
       "video_views": 0,
-      "reach": 97027,
-      "candidates": 1835
+      "reach": 96901,
+      "candidates": 1842
     },
     "owned_error": "",
     "owned_debug": {
@@ -137,9 +137,9 @@
         "https://twitter.com/ifrc/status/2101219750961430854",
         "https://twitter.com/ifrc/status/2099045420030705720",
         "https://twitter.com/jagan_chapagain/status/2095476910717284842",
+        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://www.facebook.com/reel/1045874834746926/",
         "https://twitter.com/jagan_chapagain/status/2095870925501583630",
-        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://twitter.com/jagan_chapagain/status/2109982270345875570",
         "https://twitter.com/ifrc/status/2103756461994398048",
         "https://twitter.com/ifrc/status/2098404313475297743",
@@ -167,10 +167,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
-        "https://twitter.com/IFRC_MENA/status/2109965108017340511",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -184,7 +183,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6acfe079970412d1e380f085\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad00b70c9689797b8ae1bc9\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -194,17 +193,17 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40652748,
-    "own_reach": 19398168,
+    "total_reach": 40657864,
+    "own_reach": 19398175,
     "movement_reach": 339218,
-    "external_reach": 20915362,
-    "own_engagement": 10301,
+    "external_reach": 20920471,
+    "own_engagement": 10314,
     "movement_engagement": 70,
-    "external_engagement": 30317,
+    "external_engagement": 30319,
     "amplification": 2.94,
     "earned_by_platform": {
       "Web": 168,
-      "Print": 12,
+      "Print": 13,
       "TV": 12
     },
     "top_outlets": {
@@ -215,17 +214,18 @@
       "ReliefWeb": 4,
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
+      "Global: Government News and Documents; Political and Economic Organizations News": 3,
       "msn.com": 3,
       "RFI": 3,
       "IFRC": 3,
       "SDA - Service de base français": 2,
       "Theatrum Belli": 2,
       "CE Noticias Financieras Spanish": 2,
-      "Lundi": 2,
-      "Impact": 2
+      "Lundi": 2
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Global: Government News and Documents; Political and Economic Organizations News": 0,
       "Europa": 0,
       "Blogspot": 0,
       "Prime Minister's Office": 0,
@@ -238,10 +238,22 @@
       "Justsecurity": 0,
       "Tvmtv": 0,
       "Redcrossseychelles": 0,
-      "msn.com": 0,
-      "Coordinationsud": 0
+      "msn.com": 0
     },
     "earned_top": [
+      {
+        "url": "https://ct.moreover.com/?a=60620199893&p=4vg&v=1&x=Pj_nQfp7lyLwZZdrHlipbg",
+        "platform": "Print",
+        "outlet": "Global: Government News and Documents; Political and Economic Organizations News",
+        "source": "external",
+        "language": "English",
+        "engagement": 0,
+        "text": "ABSTRACT\n\n\n\nEuropean External Action Service:- CHECK AGAINST DELIVERY - I have the honour to speak on behalf of the European Union and its Member States. The Candidate Countries North Macedonia, Montenegro*, Serbia*, Albania*, Ukraine, the Republic of Moldova, Bosnia and Herzegov",
+        "created": "2026-10-14T23:09:05.560049+00:00",
+        "author": "Global: Government News and Documents; Political and Economic Organizations News",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-un-general-assembly-6th-committee-protection-persons-event-disasters_en",
         "platform": "Web",
@@ -427,23 +439,10 @@
           "José Hernández"
         ],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.coordinationsud.org/offre-emploi/senior-medical-officer-vivier-urgentiste-international/",
-        "platform": "Web",
-        "outlet": "Coordinationsud",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "Dans le cadre de sa contribution à la réponse sanitaire d’urgence du Mouvement international de la Croix-Rouge et du Croissant-Rouge, la Croix-Rouge française (CRF), via sa Direction des Opérations Internationales (DOI) et son Pôle Urgences Internationales (PUI), mobilise des cap",
-        "created": "2026-10-08T17:33:18.866758+00:00",
-        "author": "coordinationsud.org",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 82,
-    "treaty_only": 28,
+    "treaty_only": 29,
     "by_day": {
       "2026-09-03": 38,
       "2026-09-04": 177,
@@ -476,14 +475,14 @@
       "2026-10-09": 4,
       "2026-10-12": 2,
       "2026-10-13": 57,
-      "2026-10-14": 18
+      "2026-10-14": 20
     },
     "by_platform": {
-      "X": 273,
+      "X": 274,
       "Web": 168,
       "Facebook": 23,
       "Instagram": 20,
-      "Print": 12,
+      "Print": 13,
       "TV": 12,
       "YouTube": 10,
       "TikTok": 8,
@@ -491,8 +490,8 @@
       "Bluesky": 5
     },
     "by_language": {
-      "und": 292,
-      "English": 114,
+      "und": 293,
+      "English": 115,
       "French": 80,
       "Spanish": 45,
       "unknown": 6
@@ -566,7 +565,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "English",
-        "engagement": 10239,
+        "engagement": 10241,
         "text": "Hybrid Press Briefing by the International Federation of Red Cross and Red Crescent Societies (IFRC) on the new IFRC disaster research and campaign launch:  astronauts at the heart of push for world's first international disaster treaty.\n\nBriefers (in-person) are:\n\nDylan Winder, ",
         "created": "2026-09-05T13:48:24.921807+00:00",
         "author": "United Nations",
@@ -581,7 +580,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 1190,
+        "engagement": 1191,
         "text": "Dr. Sian Proctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters.\n\nLearn more at earthsmissingtreaty.org",
         "created": "2026-09-25T20:22:57.162862+00:00",
         "author": "IFRC",
@@ -702,7 +701,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 329,
+        "engagement": 332,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -715,7 +714,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 280,
+        "engagement": 281,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts.\n\nIn the latest episode of IFRC Weekly News, Melis Figanmeşe, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-14T10:55:20.878041+00:00",
         "author": "IFRC",
@@ -887,6 +886,54 @@
     ]
   },
   "items": [
+    {
+      "id": "s0489",
+      "text": "ABSTRACT\n\n\n\nEuropean External Action Service:- CHECK AGAINST DELIVERY - I have the honour to speak on behalf of the European Union and its Member States. The Candidate Countries North Macedonia, Montenegro*, Serbia*, Albania*, Ukraine, the Republic of Moldova, Bosnia and Herzegovina* and Georgia, as well as Armenia, Andorra, Monaco and San Marino align themselves with this statement.  [...]\n\nFULL TEXT\n\n\n\n       EU Statement – UN General Assembly 6th Committee: Protection of Persons in the event of disasters     \n\n\n\n- CHECK AGAINST DELIVERY -\n\n         I have the honour to speak on behalf of the European Union and its Member States.       \n\n         The Candidate Countries North Macedonia, Montenegro*, Serbia*, Albania*, Ukraine, the Republic of Moldova, Bosnia and Herzegovina* and Georgia, as well as Armenia, Andorra, Monaco and San Marino align themselves with this statement.       \n\n         Mister/Madam Chair,       \n\n         Having actively contributed to the work of the International Law Commission and to the debates that preceded the adoption of Resolutions 79/128 and 80/169 of the General Assembly, the European Union and its Member States express their continued full support for and commitment to the success of the upcoming United Nations Conference of Plenipotentiaries on Protection of Persons in the Event of Disasters.       \n\n         We thank the Kingdom of Thailand for having taken over the task of hosting the Conference.       \n\n         The Convention that will be elaborated at this Conference could constitute a major legal development, reflecting our shared commitment to the protection of persons in the event of disasters; to saving lives and helping people in need.       \n\n         But it now lies in the hands of all delegations to achieve these objectives.       \n\n         The successful outcome of the Preparatory Committee has prepared the ground for fruitful negotiations, in particular on two grounds.       \n\n         First, we welcome that conse",
+      "title": "European External Action Service - EU Statement – UN General Assembly 6th Committee: Protection of Persons in the event of disasters",
+      "has_text": true,
+      "url": "https://ct.moreover.com/?a=60620199893&p=4vg&v=1&x=Pj_nQfp7lyLwZZdrHlipbg",
+      "platform": "Print",
+      "outlet": "Global: Government News and Documents; Political and Economic Organizations News",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "Global: Government News and Documents; Political and Economic Organizations News",
+      "created": "2026-10-14T23:09:05.560049+00:00",
+      "day": "2026-10-14",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": true,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-14T23:09:07.992319+00:00"
+    },
+    {
+      "id": "s0202",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/DrAAlMadani/status/2110433967711408592",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@DrAAlMadani",
+      "created": "2026-10-14T23:09:05.475472+00:00",
+      "day": "2026-10-14",
+      "engagement": 0,
+      "reach": 5109,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-14T23:09:07.992319+00:00"
+    },
     {
       "id": "s0488",
       "text": "  12 October 2026, New York - Statement on behalf of the European Union and its Member States by Mr.\n<p>Friedrich Erlbacher, Minister Counsellor, Delegation of the European Union to the United Nations, at the 81st UN General Assembly Sixth Committee on the Agenda item 88: \"Protection of Persons in the event of disasters\"</p> <p> – CHECK AGAINST DELIVERY –</p> <p> I have the honour to speak on behalf of the European Union and its Member States.</p> <p> The Candidate Countries North Macedonia, Montenegro*, Serbia*, Albania*, Ukraine, the Republic of Moldova, Bosnia and Herzegovina* and Georgia, as well as Armenia, Andorra, Monaco and San Marino align themselves with this statement.</p> <p> Mister/Madam Chair,</p> <p> Having actively contributed to the work of the International Law Commission and to the debates that preceded the adoption of Resolutions 79/128 and 80/169 of the General Assembly, the European Union and its Member States express their continued full support for and commitment to the success of the upcoming United Nations Conference of Plenipotentiaries on Protection of Persons in the Event of Disasters.</p> <p> We thank the Kingdom of Thailand for having taken over the task of hosting the Conference.</p> <p> The Convention that will be elaborated at this Conference could constitute a major legal development, reflecting our shared commitment to the protection of persons in the event of disasters; to saving lives and helping people in need.</p> <p> But it now lies in the hands of all delegations to achieve these objectives.</p> <p> The successful outcome of the Preparatory Committee has prepared the ground for fruitful negotiations, in particular on two grounds.</p> <p> First, we welcome that consensus could be found on Rules of Procedure to be recommended for adoption at the Conference. This will allow the Conference to concentrate on substance as of day one and to deliberate in an open, inclusive, transparent and efficient process. The EU and its Member S",
@@ -1894,7 +1941,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 384,
+      "owned_reach": 385,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2280,7 +2327,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 175,
+      "owned_reach": 177,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2305,7 +2352,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 217,
+      "owned_reach": 220,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2355,7 +2402,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 346,
+      "owned_reach": 347,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2380,7 +2427,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 819,
+      "owned_reach": 829,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2405,7 +2452,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 735,
+      "owned_reach": 740,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2422,7 +2469,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 81,
+      "engagement": 83,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -2432,7 +2479,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18789,
+      "owned_reach": 18791,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2449,7 +2496,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 329,
+      "engagement": 332,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2642,7 +2689,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T09:11:59.096078+00:00",
       "day": "2026-10-13",
-      "engagement": 73,
+      "engagement": 78,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -2674,7 +2721,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 971,
+      "owned_reach": 976,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3319,7 +3366,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 35,
+      "engagement": 36,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3912,7 +3959,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 923,
+      "owned_reach": 927,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -4295,7 +4342,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1190,
+      "engagement": 1191,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -5149,7 +5196,7 @@
       "author": "IFRC",
       "created": "2026-09-14T10:55:20.878041+00:00",
       "day": "2026-09-14",
-      "engagement": 280,
+      "engagement": 281,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -7525,7 +7572,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 10239,
+      "engagement": 10241,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -12910,7 +12957,7 @@
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
       "engagement": 597,
-      "reach": 498,
+      "reach": 505,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -12918,7 +12965,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 31,
-      "owned_reach": 498,
+      "owned_reach": 505,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
