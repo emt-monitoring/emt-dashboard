@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:48:15+00:00",
+  "generated_at": "2026-10-14T01:03:00+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -245,24 +245,24 @@
     ],
     [
       "2026-10-13",
-      36,
       57,
-      29
+      83,
+      46
     ]
   ],
-  "avg_duration": 195,
+  "avg_duration": 163,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1489,
-      "views": 1575,
-      "users": 948
+      "sessions": 1510,
+      "views": 1601,
+      "users": 962
     },
     {
       "path": "/earthsmissingtreaty/es",
       "language": "Español",
-      "sessions": 42,
+      "sessions": 43,
       "views": 44,
       "users": 32
     },
@@ -382,15 +382,15 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 1028
+      "value": 1042
+    },
+    {
+      "label": "Organic Social",
+      "value": 213
     },
     {
       "label": "Organic Search",
       "value": 212
-    },
-    {
-      "label": "Organic Social",
-      "value": 208
     },
     {
       "label": "Referral",
@@ -398,21 +398,21 @@
     },
     {
       "label": "Unassigned",
-      "value": 4
+      "value": 9
     }
   ],
   "countries": [
     {
       "label": "Germany",
-      "value": 247
+      "value": 248
     },
     {
       "label": "United States",
-      "value": 228
+      "value": 232
     },
     {
       "label": "Switzerland",
-      "value": 159
+      "value": 161
     },
     {
       "label": "France",
@@ -432,7 +432,7 @@
     },
     {
       "label": "Lebanon",
-      "value": 44
+      "value": 45
     },
     {
       "label": "Türkiye",
@@ -454,7 +454,7 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 133
+      "value": 138
     },
     {
       "label": "click",
