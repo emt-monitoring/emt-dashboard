@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T23:09:07.992319+00:00",
+  "generated": "2026-10-15T01:43:58.444819+00:00",
   "count": 539,
   "items": [
     {
@@ -1057,7 +1057,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 385,
+      "owned_reach": 387,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1130,7 +1130,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 166,
+      "owned_reach": 170,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1443,7 +1443,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 177,
+      "owned_reach": 183,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1468,7 +1468,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 220,
+      "owned_reach": 224,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1518,7 +1518,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 347,
+      "owned_reach": 349,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1543,7 +1543,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 829,
+      "owned_reach": 835,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1560,7 +1560,7 @@
       "author": "@jagan_chapagain",
       "created": "2026-10-13T17:05:17.914572+00:00",
       "day": "2026-10-13",
-      "engagement": 35,
+      "engagement": 36,
       "reach": 61613,
       "sentiment": "",
       "country": "",
@@ -1568,7 +1568,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 740,
+      "owned_reach": 742,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1612,7 +1612,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 332,
+      "engagement": 334,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1837,7 +1837,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 976,
+      "owned_reach": 983,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2605,7 +2605,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19530,
+      "engagement": 19531,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -8575,7 +8575,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1544,
+      "owned_reach": 1545,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
