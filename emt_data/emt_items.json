@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T01:43:58.444819+00:00",
+  "generated": "2026-10-15T07:13:55.557879+00:00",
   "count": 539,
   "items": [
     {
@@ -1443,7 +1443,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 183,
+      "owned_reach": 184,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1468,7 +1468,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 224,
+      "owned_reach": 227,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1518,7 +1518,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 349,
+      "owned_reach": 352,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1535,7 +1535,7 @@
       "author": "@ifrc",
       "created": "2026-10-13T17:05:17.914698+00:00",
       "day": "2026-10-13",
-      "engagement": 47,
+      "engagement": 51,
       "reach": 312612,
       "sentiment": "",
       "country": "",
@@ -1543,7 +1543,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 835,
+      "owned_reach": 851,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1568,7 +1568,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 742,
+      "owned_reach": 752,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1612,7 +1612,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 334,
+      "engagement": 342,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1837,7 +1837,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 983,
+      "owned_reach": 991,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3847,7 +3847,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 774,
+      "engagement": 777,
       "reach": 641,
       "sentiment": "",
       "country": "",
