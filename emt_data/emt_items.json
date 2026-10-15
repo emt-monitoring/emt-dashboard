@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T07:13:55.557879+00:00",
+  "generated": "2026-10-15T12:48:33.867692+00:00",
   "count": 539,
   "items": [
     {
@@ -833,7 +833,7 @@
       "author": "maldivianrc",
       "created": "2026-10-13T21:48:08.712178+00:00",
       "day": "2026-10-13",
-      "engagement": 44,
+      "engagement": 49,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -1130,7 +1130,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 170,
+      "owned_reach": 173,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1435,7 +1435,7 @@
       "author": "@IFRC_MENA",
       "created": "2026-10-13T17:05:17.921484+00:00",
       "day": "2026-10-13",
-      "engagement": 6,
+      "engagement": 7,
       "reach": 21591,
       "sentiment": "",
       "country": "",
@@ -1443,7 +1443,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 184,
+      "owned_reach": 196,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1468,7 +1468,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 227,
+      "owned_reach": 230,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1510,7 +1510,7 @@
       "author": "@IFRCAfrica",
       "created": "2026-10-13T17:05:17.915511+00:00",
       "day": "2026-10-13",
-      "engagement": 15,
+      "engagement": 16,
       "reach": 27172,
       "sentiment": "",
       "country": "",
@@ -1518,7 +1518,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 352,
+      "owned_reach": 372,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1543,7 +1543,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 851,
+      "owned_reach": 864,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1568,7 +1568,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 752,
+      "owned_reach": 766,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1585,7 +1585,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 83,
+      "engagement": 84,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1612,7 +1612,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 342,
+      "engagement": 351,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1805,7 +1805,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T09:11:59.096078+00:00",
       "day": "2026-10-13",
-      "engagement": 78,
+      "engagement": 79,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1837,7 +1837,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 991,
+      "owned_reach": 996,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -1854,7 +1854,7 @@
       "author": "IFRC",
       "created": "2026-10-13T09:11:59.092725+00:00",
       "day": "2026-10-13",
-      "engagement": 108,
+      "engagement": 109,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2581,7 +2581,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 527,
+      "engagement": 536,
       "reach": 434,
       "sentiment": "",
       "country": "",
