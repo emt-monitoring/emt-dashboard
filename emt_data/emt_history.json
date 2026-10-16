@@ -1623,20 +1623,20 @@
       "updated": "2026-10-15T23:47:17.786672+00:00"
     },
     "2026-10-16": {
-      "total": 539,
-      "text_available": 265,
+      "total": 540,
+      "text_available": 266,
       "text_masked": 274,
       "earned_media": 193,
-      "social": 346,
+      "social": 347,
       "own_posts": 87,
-      "movement_posts": 23,
+      "movement_posts": 24,
       "external_posts": 429,
-      "campaign_named": 82,
+      "campaign_named": 83,
       "treaty_only": 29,
       "by_platform": {
         "X": 274,
         "Web": 168,
-        "Facebook": 23,
+        "Facebook": 24,
         "Instagram": 20,
         "Print": 13,
         "TV": 12,
@@ -1647,7 +1647,7 @@
       },
       "by_language": {
         "und": 293,
-        "English": 115,
+        "English": 116,
         "French": 80,
         "Spanish": 45,
         "unknown": 6
@@ -1657,7 +1657,7 @@
         "venue_uncertainty": 3,
         "sovereignty": 2
       },
-      "updated": "2026-10-16T08:57:29.668873+00:00"
+      "updated": "2026-10-16T13:52:42.912209+00:00"
     }
   }
 }
