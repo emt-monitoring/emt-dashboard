@@ -1,7 +1,31 @@
 {
-  "generated": "2026-10-16T17:55:35.355502+00:00",
-  "count": 540,
+  "generated": "2026-10-16T20:48:44.562815+00:00",
+  "count": 541,
   "items": [
+    {
+      "id": "s0303",
+      "text": "La dissuasion nucléaire n’est ni une assurance tous risques ni une garantie de paix. Ses limites justifient-elles pour autant son abandon ? En réponse à Marc Finaud, une réflexion sur les dangers de l’arme, la prolifération et les garanties nécessaires à un désarmement crédible pour la France et ses partenaires.\nDans sa tribune du 10 octobre, Marc Finaud, ancien diplomate et vice-président d’Initiatives pour le désarmement nucléaire, appelle à débattre des dangers de la dissuasion. Il pose une question essentielle : jusqu’où peut-on fonder la sécurité d’un pays sur une menace dont l’exécution aurait des conséquences catastrophiques ? Il me semble toutefois nécessaire de distinguer deux propositions : la dissuasion peut échouer, ce qui est incontestable ; elle serait donc inutile, ce qui reste à démontrer. Une politique de défense doit être appréciée au regard des risques qu’elle comporte, mais aussi de ceux que provoquerait son abandon.\nLe souvenir du Pacifique\nJe résidais au Japon lors de la dernière campagne française d’essais nucléaires, en 1995 et 1996, et mes déplacements professionnels me conduisaient en Australie, en Nouvelle-Zélande et dans d’autres pays de la région. Il était alors difficile d’être français. Ce souvenir personnel montre combien une décision prise à Paris pouvait peser, à des milliers de kilomètres, sur les relations et l’image de notre pays.\nLa crise diplomatique était réelle. Le 6 septembre 1995, le Premier ministre australien Paul Keating condamnait le premier essai de cette nouvelle campagne française. La Nouvelle-Zélande soutenait une flottille de protestation et cherchait à faire réexaminer le dossier devant la Cour internationale de justice. Ces réactions traduisaient une contestation politique et morale, au-delà des seules discussions techniques sur les essais souterrains.\nLes appels au boycott alourdissaient également le climat commercial. Ils ne permettent pas pour autant d’établir un montant global de pertes : le gouvernement fran",
+      "title": "Dissuasion nucléaire et sécurité de la France",
+      "has_text": true,
+      "url": "https://ltdn.org/dissuasion-nucleaire-et-securite-de-la-france/",
+      "platform": "Web",
+      "outlet": "Ltdn",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "La Tribune des Nations – Site indépendant d'analyse géopolitique et d'actualités internationales",
+      "created": "2026-10-16T20:48:42.275014+00:00",
+      "day": "2026-10-16",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-16T20:48:44.562815+00:00"
+    },
     {
       "id": "s0084",
       "text": "Dezastrele sunt inevitabile. Întârzierile nu sunt.\n\nReducerea riscului de dezastre începe cu mult înainte de apariția unei situații de urgență.\nReguli clare, o cooperare mai strânsă și o pregătire mai bună pot contribui la salvarea de vieți atunci când dezastrele copleșesc comunitățile. Cu toate acestea, nu există încă un tratat internațional cuprinzător care să stabilească modul în care țările ar trebui să colaboreze pentru a proteja populația înainte, în timpul și după dezastre.\n\nDe aceea, eforturile depuse în vederea elaborării unui nou Tratat privind protecția persoanelor în caz de dezastre sunt esențiale.\n\nPentru că lumea nu ar trebui să aștepte următorul dezastru major pentru a decide că trebuie să colaboreze și pentru a stabili cum va colabora.\n\nAjută-ne să răspândim mesajul! Află mai multe despre campanie aici ➡️ https://disasterlaw.ifrc.org/earthsmissingtreaty",
@@ -16,7 +40,7 @@
       "author": "Crucea Rosie Romana",
       "created": "2026-10-16T13:52:40.595945+00:00",
       "day": "2026-10-16",
-      "engagement": 9,
+      "engagement": 11,
       "reach": 88968,
       "sentiment": "",
       "country": "",
@@ -1467,7 +1491,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 218,
+      "owned_reach": 219,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1592,7 +1616,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 803,
+      "owned_reach": 805,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1609,7 +1633,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 90,
+      "engagement": 91,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1619,7 +1643,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18795,
+      "owned_reach": 18797,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1636,7 +1660,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 372,
+      "engagement": 375,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1861,7 +1885,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1020,
+      "owned_reach": 1021,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2629,7 +2653,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19532,
+      "engagement": 19534,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -3389,7 +3413,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1187,
+      "owned_reach": 1188,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -5034,7 +5058,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 228,
+      "engagement": 4,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -11596,7 +11620,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 119,
+      "engagement": 3,
       "reach": 88900,
       "sentiment": "",
       "country": "",
