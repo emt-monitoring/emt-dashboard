@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-17T06:01:05.370398+00:00",
-    "window_hours": 1086,
+    "generated": "2026-10-17T10:27:13.806062+00:00",
+    "window_hours": 1090,
     "total": 542,
     "text_available": 268,
     "text_masked": 274,
@@ -51,27 +51,27 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38741"
+      "EARNED_ENGAGEMENT": "38749"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3343,
       "video_views": 0,
-      "reach": 97398,
-      "candidates": 1968
+      "reach": 97415,
+      "candidates": 1973
     },
     "owned_error": "",
     "owned_debug": {
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1101,
-        "TWITTER": 349,
-        "INSTAGRAM": 385,
-        "THREADS": 16,
-        "LINKEDIN": 55,
+        "FACEBOOK": 1105,
+        "TWITTER": 348,
+        "INSTAGRAM": 384,
         "WECHAT": 6,
+        "THREADS": 15,
         "BLUESKY": 18,
+        "LINKEDIN": 54,
         "VK": 20,
         "TIKTOK": 20,
         "YOUTUBE": 30
@@ -141,13 +141,13 @@
         "https://www.facebook.com/reel/1045874834746926/",
         "https://twitter.com/jagan_chapagain/status/2095870925501583630",
         "https://twitter.com/jagan_chapagain/status/2109982270345875570",
+        "https://twitter.com/ifrc/status/2109894672147513379",
         "https://twitter.com/ifrc/status/2103756461994398048",
         "https://twitter.com/IFRCAfrica/status/2109972174215778814",
         "https://twitter.com/ifrc/status/2098404313475297743",
         "https://twitter.com/jagan_chapagain/status/2104608414919803020",
         "https://twitter.com/IFRC_MENA/status/2095949379534287229",
         "https://twitter.com/jagan_chapagain/status/2095794860951228777",
-        "https://twitter.com/ifrc/status/2109894672147513379",
         "https://twitter.com/IFRCAfrica/status/2095436649932939472",
         "https://twitter.com/IFRCAsiaPacific/status/2110185201729184140",
         "https://twitter.com/IFRC_MENA/status/2109965256164339895",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad30eee341571714605f6e9\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad34d55c9689797b816c90a\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -194,11 +194,11 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40746833,
-    "own_reach": 19398176,
+    "total_reach": 40746695,
+    "own_reach": 19398038,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10430,
+    "own_engagement": 10438,
     "movement_engagement": 83,
     "external_engagement": 30335,
     "amplification": 2.91,
@@ -622,7 +622,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 780,
+        "engagement": 783,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -637,7 +637,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 636,
+        "engagement": 638,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -702,7 +702,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 380,
+        "engagement": 382,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -821,7 +821,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 119,
+        "engagement": 120,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -2014,7 +2014,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 401,
+      "owned_reach": 402,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2087,7 +2087,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 179,
+      "owned_reach": 180,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2400,7 +2400,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 219,
+      "owned_reach": 220,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2425,7 +2425,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 236,
+      "owned_reach": 238,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2475,7 +2475,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 383,
+      "owned_reach": 386,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2500,7 +2500,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 884,
+      "owned_reach": 887,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2525,7 +2525,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 809,
+      "owned_reach": 812,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2569,7 +2569,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 380,
+      "engagement": 382,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2787,14 +2787,14 @@
       "created": "2026-10-13T09:11:59.095948+00:00",
       "day": "2026-10-13",
       "engagement": 21,
-      "reach": 234247,
+      "reach": 234109,
       "sentiment": "",
       "country": "",
       "is_campaign": false,
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1023,
+      "owned_reach": 1026,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -4804,7 +4804,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 780,
+      "engagement": 783,
       "reach": 641,
       "sentiment": "",
       "country": "",
@@ -5559,7 +5559,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 636,
+      "engagement": 638,
       "reach": 470,
       "sentiment": "",
       "country": "",
@@ -12529,7 +12529,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 119,
+      "engagement": 120,
       "reach": 88900,
       "sentiment": "",
       "country": "",
