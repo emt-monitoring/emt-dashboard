@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-17T01:28:19.180248+00:00",
-    "window_hours": 1081,
-    "total": 541,
-    "text_available": 267,
+    "generated": "2026-10-17T06:01:05.370398+00:00",
+    "window_hours": 1086,
+    "total": 542,
+    "text_available": 268,
     "text_masked": 274,
-    "earned_media": 194,
+    "earned_media": 195,
     "social": 347,
     "by_source": {
-      "external": 430,
+      "external": 431,
       "own": 87,
       "movement": 24
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 24,
-    "external_posts": 430,
+    "external_posts": 431,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,27 +51,27 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38738"
+      "EARNED_ENGAGEMENT": "38741"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3343,
       "video_views": 0,
-      "reach": 97384,
-      "candidates": 1967
+      "reach": 97398,
+      "candidates": 1968
     },
     "owned_error": "",
     "owned_debug": {
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1105,
-        "TWITTER": 348,
-        "INSTAGRAM": 384,
+        "FACEBOOK": 1101,
+        "TWITTER": 349,
+        "INSTAGRAM": 385,
+        "THREADS": 16,
+        "LINKEDIN": 55,
         "WECHAT": 6,
-        "THREADS": 15,
         "BLUESKY": 18,
-        "LINKEDIN": 54,
         "VK": 20,
         "TIKTOK": 20,
         "YOUTUBE": 30
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad2cf160cc39eb9c68488d5\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad30eee341571714605f6e9\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,12 +198,12 @@
     "own_reach": 19398176,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10427,
-    "movement_engagement": 82,
+    "own_engagement": 10430,
+    "movement_engagement": 83,
     "external_engagement": 30335,
     "amplification": 2.91,
     "earned_by_platform": {
-      "Web": 169,
+      "Web": 170,
       "Print": 13,
       "TV": 12
     },
@@ -226,6 +226,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Etcetera": 0,
       "Ltdn": 0,
       "Global: Government News and Documents; Political and Economic Organizations News": 0,
       "Europa": 0,
@@ -238,10 +239,22 @@
       "Mylenecolmar": 0,
       "Theatrum Belli": 0,
       "Justsecurity": 0,
-      "Tvmtv": 0,
-      "Redcrossseychelles": 0
+      "Tvmtv": 0
     },
     "earned_top": [
+      {
+        "url": "https://etcetera.com.mx/opinion/sucesion-oms",
+        "platform": "Web",
+        "outlet": "Etcetera",
+        "source": "external",
+        "language": "Spanish",
+        "engagement": 0,
+        "text": "GeopolíticaOpinión\nLa sucesión en la OMS\nSi bien los ojos del mundo están puestos en la elección de la próximo o del próximo secretario general de la Organización de las Naciones Unidas (ONU), quien sustituirá al portugués Antonio Guterres en el cargo a partir del 1 de enero de 2",
+        "created": "2026-10-17T06:01:03.088944+00:00",
+        "author": "María Cristina Rosas",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://ltdn.org/dissuasion-nucleaire-et-securite-de-la-france/",
         "platform": "Web",
@@ -425,19 +438,6 @@
         "author": "Alessandro Cattelan",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://redcrossseychelles.sc/indian-ocean-red-cross-and-red-crescent-leaders-conclude-strategic-regional-meeting-with-new-commitments-for-stronger-regional-cooperation/",
-        "platform": "Web",
-        "outlet": "Redcrossseychelles",
-        "source": "movement",
-        "language": "English",
-        "engagement": 0,
-        "text": "Presidents and Secretaries General of the National Red Cross and Red Crescent Societies of Seychelles, Madagascar, Mauritius and Comoros concluded a three-day strategic regional meeting held from 2 to 4 October 2026, reaffirming their commitment to building stronger, more sustain",
-        "created": "2026-10-08T17:33:18.889033+00:00",
-        "author": "Website Administrator",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 83,
@@ -475,11 +475,12 @@
       "2026-10-12": 2,
       "2026-10-13": 57,
       "2026-10-14": 20,
-      "2026-10-16": 2
+      "2026-10-16": 2,
+      "2026-10-17": 1
     },
     "by_platform": {
       "X": 274,
-      "Web": 169,
+      "Web": 170,
       "Facebook": 24,
       "Instagram": 20,
       "Print": 13,
@@ -493,7 +494,7 @@
       "und": 293,
       "English": 116,
       "French": 81,
-      "Spanish": 45,
+      "Spanish": 46,
       "unknown": 6
     },
     "by_sentiment": {},
@@ -701,7 +702,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 377,
+        "engagement": 380,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -887,6 +888,30 @@
   },
   "items": [
     {
+      "id": "s0493",
+      "text": "GeopolíticaOpinión\nLa sucesión en la OMS\nSi bien los ojos del mundo están puestos en la elección de la próximo o del próximo secretario general de la Organización de las Naciones Unidas (ONU), quien sustituirá al portugués Antonio Guterres en el cargo a partir del 1 de enero de 2027, hay otro importante proceso sucesorio que quizá no ha tenido los reflectores del mundo, pero que es, sin lugar a dudas, crucial: la elección de la próxima o el próximo director general de la Organización Mundial de la Salud (OMS) toda vez que el mandato de su actual titular, el Doctor Tedros Adhanom Gebreyesus llegará a su fin el 15 de agosto del próximo año.\nAl igual que la ONU, la OMS ha estado en el ojo de la tormenta, en particular ante la pandemia del SARS-CoV2 y también, de cara a la necesidad de hacer más con menos, tras el retiro de Estados Unidos de la institución y de los fondos que solía aportar al organismo sanitario. Curiosamente Estados Unidos no se retiró de la Organización Panamericana de la Salud (OPS) posiblemente por ser éste un organismo regional en que Washington es hegemónico.\nEl pasado 24 de septiembre venció el plazo para nominar candidatos y hasta ese momento había siete inscritos. El próximo mes de noviembre se llevará a cabo un foro en que participarán las y los candidatos y se publicarán las propuestas de cada uno de ellos para su gestión al frente de la OMS en el caso de ser electos. En enero de 2027, el Consejo Ejecutivo de la OMS votará para reducir la lista a un máximo de tres finalistas. Finalmente, en mayo de 2027, la Asamblea Mundial de la Salud elegirá por votación secreta al nuevo director general. Quien resulte favorecida/o comenzará su gestión el 16 de agosto de 2027.\n¿Quiénes son las y los candidatos y quiénes los han nominado? En primer lugar se tiene a la ex ministra de salud de Catar, la Doctora Hanan Mohammed Al-Kuwari. A continuación, figura la Doctora Hanan Balkhy, postulada por Arabia Saudita y actual directora de la OMS para la Oficina del",
+      "title": "La sucesión en la OMS",
+      "has_text": true,
+      "url": "https://etcetera.com.mx/opinion/sucesion-oms",
+      "platform": "Web",
+      "outlet": "Etcetera",
+      "source": "external",
+      "language": "Spanish",
+      "language_source": "inferred",
+      "author": "María Cristina Rosas",
+      "created": "2026-10-17T06:01:03.088944+00:00",
+      "day": "2026-10-17",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-17T06:01:05.360607+00:00"
+    },
+    {
       "id": "s0303",
       "text": "La dissuasion nucléaire n’est ni une assurance tous risques ni une garantie de paix. Ses limites justifient-elles pour autant son abandon ? En réponse à Marc Finaud, une réflexion sur les dangers de l’arme, la prolifération et les garanties nécessaires à un désarmement crédible pour la France et ses partenaires.\nDans sa tribune du 10 octobre, Marc Finaud, ancien diplomate et vice-président d’Initiatives pour le désarmement nucléaire, appelle à débattre des dangers de la dissuasion. Il pose une question essentielle : jusqu’où peut-on fonder la sécurité d’un pays sur une menace dont l’exécution aurait des conséquences catastrophiques ? Il me semble toutefois nécessaire de distinguer deux propositions : la dissuasion peut échouer, ce qui est incontestable ; elle serait donc inutile, ce qui reste à démontrer. Une politique de défense doit être appréciée au regard des risques qu’elle comporte, mais aussi de ceux que provoquerait son abandon.\nLe souvenir du Pacifique\nJe résidais au Japon lors de la dernière campagne française d’essais nucléaires, en 1995 et 1996, et mes déplacements professionnels me conduisaient en Australie, en Nouvelle-Zélande et dans d’autres pays de la région. Il était alors difficile d’être français. Ce souvenir personnel montre combien une décision prise à Paris pouvait peser, à des milliers de kilomètres, sur les relations et l’image de notre pays.\nLa crise diplomatique était réelle. Le 6 septembre 1995, le Premier ministre australien Paul Keating condamnait le premier essai de cette nouvelle campagne française. La Nouvelle-Zélande soutenait une flottille de protestation et cherchait à faire réexaminer le dossier devant la Cour internationale de justice. Ces réactions traduisaient une contestation politique et morale, au-delà des seules discussions techniques sur les essais souterrains.\nLes appels au boycott alourdissaient également le climat commercial. Ils ne permettent pas pour autant d’établir un montant global de pertes : le gouvernement fran",
       "title": "Dissuasion nucléaire et sécurité de la France",
@@ -924,7 +949,7 @@
       "author": "Crucea Rosie Romana",
       "created": "2026-10-16T13:52:40.595945+00:00",
       "day": "2026-10-16",
-      "engagement": 11,
+      "engagement": 12,
       "reach": 88968,
       "sentiment": "",
       "country": "",
@@ -2475,7 +2500,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 883,
+      "owned_reach": 884,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2500,7 +2525,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 807,
+      "owned_reach": 809,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2527,7 +2552,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18797,
+      "owned_reach": 18802,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2544,7 +2569,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 377,
+      "engagement": 380,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -4813,7 +4838,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1732,
+      "owned_reach": 1733,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -10752,7 +10777,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 0,
-      "owned_reach": 31,
+      "owned_reach": 32,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13157,7 +13182,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1458,
+      "owned_reach": 1466,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
