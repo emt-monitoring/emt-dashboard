@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-17T10:27:13.806062+00:00",
-    "window_hours": 1090,
+    "generated": "2026-10-17T13:53:28.532477+00:00",
+    "window_hours": 1093,
     "total": 542,
     "text_available": 268,
     "text_masked": 274,
@@ -51,14 +51,14 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38749"
+      "EARNED_ENGAGEMENT": "38754"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3343,
       "video_views": 0,
-      "reach": 97415,
-      "candidates": 1973
+      "reach": 97429,
+      "candidates": 1979
     },
     "owned_error": "",
     "owned_debug": {
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad34d55c9689797b816c90a\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad37db4341571714611413f\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,10 +198,10 @@
     "own_reach": 19398038,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10438,
+    "own_engagement": 10444,
     "movement_engagement": 83,
     "external_engagement": 30335,
-    "amplification": 2.91,
+    "amplification": 2.9,
     "earned_by_platform": {
       "Web": 170,
       "Print": 13,
@@ -676,7 +676,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 547,
+        "engagement": 551,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -702,7 +702,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 382,
+        "engagement": 383,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -2014,7 +2014,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 402,
+      "owned_reach": 403,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2087,7 +2087,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 180,
+      "owned_reach": 182,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2400,7 +2400,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 220,
+      "owned_reach": 223,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2475,7 +2475,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 386,
+      "owned_reach": 387,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2500,7 +2500,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 887,
+      "owned_reach": 890,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2569,7 +2569,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 382,
+      "engagement": 383,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2794,7 +2794,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1026,
+      "owned_reach": 1028,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3471,7 +3471,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2081,
+      "owned_reach": 2082,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -3488,7 +3488,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-08T17:33:18.806097+00:00",
       "day": "2026-10-08",
-      "engagement": 94,
+      "engagement": 95,
       "reach": 780915,
       "sentiment": "",
       "country": "",
@@ -3538,7 +3538,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 547,
+      "engagement": 551,
       "reach": 434,
       "sentiment": "",
       "country": "",
@@ -5493,7 +5493,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1881,
+      "owned_reach": 1882,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
