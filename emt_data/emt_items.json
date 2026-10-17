@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T21:40:00.436396+00:00",
+  "generated": "2026-10-17T23:54:36.281374+00:00",
   "count": 542,
   "items": [
     {
@@ -1515,7 +1515,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 237,
+      "owned_reach": 244,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1909,7 +1909,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1029,
+      "owned_reach": 1030,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2677,7 +2677,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19534,
+      "engagement": 19535,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -5082,7 +5082,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 4,
+      "engagement": 228,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -12127,7 +12127,7 @@
       "risk_vectors": [],
       "owned_engagement": 877,
       "owned_video_views": 0,
-      "owned_reach": 20312,
+      "owned_reach": 20325,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
