@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T16:56:51.375800+00:00",
+  "generated": "2026-10-17T19:09:43.724318+00:00",
   "count": 542,
   "items": [
     {
@@ -1202,7 +1202,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 182,
+      "owned_reach": 185,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1657,7 +1657,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 94,
+      "engagement": 95,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1684,7 +1684,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 384,
+      "engagement": 385,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -3506,8 +3506,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 452,
-      "reach": 382,
+      "engagement": 456,
+      "reach": 384,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
