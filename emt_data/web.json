@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:00:39+00:00",
+  "generated_at": "2026-10-18T08:45:58+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -269,19 +269,19 @@
     ],
     [
       "2026-10-17",
-      4,
-      4,
-      4
+      7,
+      7,
+      7
     ]
   ],
-  "avg_duration": 339,
+  "avg_duration": 194,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1579,
-      "views": 1673,
-      "users": 999
+      "sessions": 1583,
+      "views": 1676,
+      "users": 1001
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -406,11 +406,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 1093
+      "value": 1095
     },
     {
       "label": "Organic Search",
-      "value": 223
+      "value": 224
     },
     {
       "label": "Organic Social",
@@ -428,15 +428,15 @@
   "countries": [
     {
       "label": "Germany",
-      "value": 260
+      "value": 261
     },
     {
       "label": "United States",
-      "value": 239
+      "value": 240
     },
     {
       "label": "Switzerland",
-      "value": 167
+      "value": 168
     },
     {
       "label": "France",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T04:00:36.235521+00:00",
+  "generated": "2026-10-18T08:45:53.915264+00:00",
   "count": 543,
   "items": [
     {
@@ -88,7 +88,7 @@
       "author": "Crucea Rosie Romana",
       "created": "2026-10-16T13:52:40.595945+00:00",
       "day": "2026-10-16",
-      "engagement": 12,
+      "engagement": 13,
       "reach": 88968,
       "sentiment": "",
       "country": "",
@@ -1153,7 +1153,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 403,
+      "owned_reach": 404,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1226,7 +1226,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 185,
+      "owned_reach": 187,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1539,7 +1539,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 249,
+      "owned_reach": 259,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1564,7 +1564,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 238,
+      "owned_reach": 240,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1614,7 +1614,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 389,
+      "owned_reach": 390,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1639,7 +1639,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 896,
+      "owned_reach": 899,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1708,7 +1708,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 387,
+      "engagement": 388,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1933,7 +1933,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1030,
+      "owned_reach": 1033,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2578,7 +2578,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 36,
+      "engagement": 2,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3554,7 +3554,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1191,
+      "engagement": 5,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3943,7 +3943,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 783,
+      "engagement": 784,
       "reach": 641,
       "sentiment": "",
       "country": "",
@@ -12074,7 +12074,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 65,
-      "owned_reach": 1262,
+      "owned_reach": 1264,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
