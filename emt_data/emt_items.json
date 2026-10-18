@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T08:45:53.915264+00:00",
+  "generated": "2026-10-18T13:08:47.878306+00:00",
   "count": 543,
   "items": [
     {
@@ -88,7 +88,7 @@
       "author": "Crucea Rosie Romana",
       "created": "2026-10-16T13:52:40.595945+00:00",
       "day": "2026-10-16",
-      "engagement": 13,
+      "engagement": 14,
       "reach": 88968,
       "sentiment": "",
       "country": "",
@@ -1153,7 +1153,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 404,
+      "owned_reach": 407,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1226,7 +1226,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 187,
+      "owned_reach": 188,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1539,7 +1539,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 259,
+      "owned_reach": 260,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1614,7 +1614,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 390,
+      "owned_reach": 391,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1639,7 +1639,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 899,
+      "owned_reach": 900,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1664,7 +1664,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 818,
+      "owned_reach": 819,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1681,7 +1681,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 96,
+      "engagement": 102,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1708,7 +1708,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 388,
+      "engagement": 393,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1901,7 +1901,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T09:11:59.096078+00:00",
       "day": "2026-10-13",
-      "engagement": 87,
+      "engagement": 88,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1933,7 +1933,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1033,
+      "owned_reach": 1037,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -1950,7 +1950,7 @@
       "author": "IFRC",
       "created": "2026-10-13T09:11:59.092725+00:00",
       "day": "2026-10-13",
-      "engagement": 114,
+      "engagement": 115,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2578,7 +2578,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 2,
+      "engagement": 36,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -2677,7 +2677,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 551,
+      "engagement": 557,
       "reach": 434,
       "sentiment": "",
       "country": "",
@@ -3554,7 +3554,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 5,
+      "engagement": 1191,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -4698,7 +4698,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 638,
+      "engagement": 640,
       "reach": 470,
       "sentiment": "",
       "country": "",
