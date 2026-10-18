@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-18T16:46:12.784256+00:00",
-    "window_hours": 1120,
+    "generated": "2026-10-18T19:21:51.895340+00:00",
+    "window_hours": 1123,
     "total": 543,
     "text_available": 269,
     "text_masked": 274,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38784"
+      "EARNED_ENGAGEMENT": "38786"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3343,
       "video_views": 0,
-      "reach": 97534,
+      "reach": 97540,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad4f7b360e4310b30da4bcd\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad51c26445604d3dfd50489\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,8 +198,8 @@
     "own_reach": 19398040,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10487,
-    "movement_engagement": 85,
+    "own_engagement": 10489,
+    "movement_engagement": 86,
     "external_engagement": 30336,
     "amplification": 2.89,
     "earned_by_platform": {
@@ -664,7 +664,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 592,
+        "engagement": 594,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -2039,7 +2039,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 410,
+      "owned_reach": 411,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2500,7 +2500,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 391,
+      "owned_reach": 392,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2550,7 +2550,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 820,
+      "owned_reach": 823,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2819,7 +2819,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1039,
+      "owned_reach": 1040,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2982,7 +2982,7 @@
       "author": "Polski Czerwony Krzyż (PCK)",
       "created": "2026-10-09T09:31:24.743120+00:00",
       "day": "2026-10-09",
-      "engagement": 21,
+      "engagement": 22,
       "reach": 132485,
       "sentiment": "",
       "country": "",
@@ -6115,7 +6115,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 592,
+      "engagement": 594,
       "reach": 464,
       "sentiment": "",
       "country": "",
