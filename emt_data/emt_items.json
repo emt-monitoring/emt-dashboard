@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T00:03:42.089468+00:00",
+  "generated": "2026-10-19T04:25:44.405074+00:00",
   "count": 543,
   "items": [
     {
@@ -1153,7 +1153,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 412,
+      "owned_reach": 413,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1226,7 +1226,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 188,
+      "owned_reach": 189,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1539,7 +1539,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 260,
+      "owned_reach": 261,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1564,7 +1564,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 241,
+      "owned_reach": 242,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1664,7 +1664,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 825,
+      "owned_reach": 828,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1681,7 +1681,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 102,
+      "engagement": 103,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1691,7 +1691,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18802,
+      "owned_reach": 18803,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1933,7 +1933,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1041,
+      "owned_reach": 1042,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3171,7 +3171,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 927,
+      "owned_reach": 928,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -4408,7 +4408,7 @@
       "author": "IFRC",
       "created": "2026-09-14T10:55:20.878041+00:00",
       "day": "2026-09-14",
-      "engagement": 283,
+      "engagement": 285,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -11668,7 +11668,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 121,
+      "engagement": 125,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -11995,7 +11995,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 817,
+      "owned_reach": 818,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12021,7 +12021,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 90,
-      "owned_reach": 4669,
+      "owned_reach": 4670,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12048,7 +12048,7 @@
       "risk_vectors": [],
       "owned_engagement": 54,
       "owned_video_views": 0,
-      "owned_reach": 1872,
+      "owned_reach": 1878,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12091,7 +12091,7 @@
       "author": "@ifrc",
       "created": "2026-09-04T11:56:34.582833+00:00",
       "day": "2026-09-04",
-      "engagement": 76,
+      "engagement": 75,
       "reach": 234369,
       "sentiment": "",
       "country": "",
@@ -12099,8 +12099,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 70,
-      "owned_reach": 3536,
+      "owned_engagement": 69,
+      "owned_reach": 3537,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12168,7 +12168,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 600,
+      "engagement": 601,
       "reach": 505,
       "sentiment": "",
       "country": "",
