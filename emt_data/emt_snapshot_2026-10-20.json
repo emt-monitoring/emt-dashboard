@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-20T15:48:36.398881+00:00",
-    "window_hours": 1167,
+    "generated": "2026-10-20T19:56:46.926024+00:00",
+    "window_hours": 1171,
     "total": 545,
     "text_available": 271,
     "text_masked": 274,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38826"
+      "EARNED_ENGAGEMENT": "38827"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3342,
       "video_views": 0,
-      "reach": 97706,
+      "reach": 97715,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad78d30341571714680c2d2\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad7c75cbeb509c4d828a59d\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,7 +198,7 @@
     "own_reach": 19398080,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10525,
+    "own_engagement": 10529,
     "movement_engagement": 86,
     "external_engagement": 30340,
     "amplification": 2.88,
@@ -706,7 +706,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 403,
+        "engagement": 404,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -2529,7 +2529,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 398,
+      "owned_reach": 400,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2554,7 +2554,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 922,
+      "owned_reach": 924,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2596,7 +2596,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 102,
+      "engagement": 104,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -2623,7 +2623,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 403,
+      "engagement": 404,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2848,7 +2848,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1054,
+      "owned_reach": 1055,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3525,7 +3525,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2086,
+      "owned_reach": 2090,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -12978,7 +12978,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.583208+00:00",
       "day": "2026-09-04",
-      "engagement": 54,
+      "engagement": 55,
       "reach": 780260,
       "sentiment": "",
       "country": "",
