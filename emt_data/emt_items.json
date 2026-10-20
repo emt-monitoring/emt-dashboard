@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-20T01:00:20.036037+00:00",
-  "count": 544,
+  "generated": "2026-10-20T05:48:35.937377+00:00",
+  "count": 545,
   "items": [
     {
       "id": "s0305",
@@ -1179,7 +1179,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 414,
+      "owned_reach": 415,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1252,7 +1252,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 191,
+      "owned_reach": 192,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1565,7 +1565,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 264,
+      "owned_reach": 265,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1590,7 +1590,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 246,
+      "owned_reach": 247,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1665,7 +1665,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 914,
+      "owned_reach": 916,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1690,7 +1690,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 840,
+      "owned_reach": 842,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1707,7 +1707,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 103,
+      "engagement": 102,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1717,7 +1717,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18808,
+      "owned_reach": 18809,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1734,7 +1734,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 400,
+      "engagement": 401,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1959,7 +1959,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1051,
+      "owned_reach": 1053,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -1976,7 +1976,7 @@
       "author": "IFRC",
       "created": "2026-10-13T09:11:59.092725+00:00",
       "day": "2026-10-13",
-      "engagement": 115,
+      "engagement": 116,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2604,7 +2604,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 37,
+      "engagement": 36,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3008,6 +3008,31 @@
       "first_seen": "2026-09-30T11:04:45.746360+00:00"
     },
     {
+      "id": "g0511",
+      "text": "Perry County Commissioners announce Red Cross shelter closure, flood disaster assistance plan",
+      "has_text": true,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQaFFOeGt4QTdoYkkxcklyRGVNb0NDRk5oRENyYVk0TDNkNlVKdEs1Q2JqT2xMMWs1ZzNKX2tJT3F2V3Npd21tN3JoeTJDN0taVUpNN3JBbE1zSTRSVENSMi1MWnlMVGl0WGh4aW5xMjA4NmFNbEdtaXdVekR2TFZ5RkFTQnhheWM5QlZMaHN0QXBJSEpZVlJ3c0E0R1VfTERoQkVlX0lLLTlxTUpPUVNpSHZvQ0lXSTN0RWt5Ti1ycGp3elVERVpVcW9XaXJtS1RWRG1maHdBZjBwbUswQko2S2JCRmVCWllrd2FrNktlV0tzQTlYV2VBRmJtSUpQa2JT?oc=5",
+      "platform": "Web",
+      "outlet": "Perry County Tribune",
+      "source": "external",
+      "language": "English",
+      "language_source": "manual",
+      "author": "Perry County Tribune",
+      "created": "2026-09-30T09:00:00+00:00",
+      "day": "2026-09-30",
+      "engagement": 0,
+      "reach": 0,
+      "self_reported": true,
+      "discovery": "gnews",
+      "sentiment": "",
+      "source_country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-20T05:48:35.937377+00:00"
+    },
+    {
       "id": "s0288",
       "text": "My guest today is Jagan Chapagain, Secretary General of the International Federation of Red Cross and Red Crescent Societies, the IFRC, which is calling on countries to adopt a new treaty that would set standards and rules of the road for helping people caught in natural disasters. We spoke on the day of the massive flash floods in Nepal, which he argues underscore the need to streamline how governments and NGOs cooperate when a sudden disaster strikes.",
       "title": "Why the Red Cross Wants a New Treaty for People Caught in Disasters.",
@@ -3197,7 +3222,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 928,
+      "owned_reach": 931,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -11694,7 +11719,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 128,
+      "engagement": 127,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -12021,7 +12046,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 818,
+      "owned_reach": 824,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12047,7 +12072,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 90,
-      "owned_reach": 4670,
+      "owned_reach": 4677,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12074,7 +12099,7 @@
       "risk_vectors": [],
       "owned_engagement": 54,
       "owned_video_views": 0,
-      "owned_reach": 1878,
+      "owned_reach": 1879,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12126,7 +12151,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 69,
-      "owned_reach": 3537,
+      "owned_reach": 3538,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {

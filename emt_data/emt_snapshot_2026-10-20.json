@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-20T01:00:20.048407+00:00",
-    "window_hours": 1152,
-    "total": 544,
-    "text_available": 270,
+    "generated": "2026-10-20T05:48:35.950877+00:00",
+    "window_hours": 1157,
+    "total": 545,
+    "text_available": 271,
     "text_masked": 274,
-    "earned_media": 197,
+    "earned_media": 198,
     "social": 347,
     "by_source": {
-      "external": 433,
+      "external": 434,
       "own": 87,
       "movement": 24
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 24,
-    "external_posts": 433,
+    "external_posts": 434,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38820"
+      "EARNED_ENGAGEMENT": "38821"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3342,
       "video_views": 0,
-      "reach": 97653,
+      "reach": 97682,
       "candidates": 2000
     },
     "owned_error": "",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad6bcf80cc39eb9c6edbba1\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad70090c9689797b87b91c7\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,12 +198,12 @@
     "own_reach": 19398080,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10520,
+    "own_engagement": 10519,
     "movement_engagement": 86,
     "external_engagement": 30340,
     "amplification": 2.88,
     "earned_by_platform": {
-      "Web": 171,
+      "Web": 172,
       "Print": 14,
       "TV": 12
     },
@@ -469,7 +469,7 @@
       "2026-09-27": 5,
       "2026-09-28": 6,
       "2026-09-29": 4,
-      "2026-09-30": 7,
+      "2026-09-30": 8,
       "2026-10-01": 3,
       "2026-10-02": 1,
       "2026-10-08": 25,
@@ -484,7 +484,7 @@
     },
     "by_platform": {
       "X": 274,
-      "Web": 171,
+      "Web": 172,
       "Facebook": 24,
       "Instagram": 20,
       "Print": 14,
@@ -496,7 +496,7 @@
     },
     "by_language": {
       "und": 293,
-      "English": 118,
+      "English": 119,
       "French": 81,
       "Spanish": 46,
       "unknown": 6
@@ -706,7 +706,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 400,
+        "engagement": 401,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -794,19 +794,6 @@
         "risk_vectors": []
       },
       {
-        "url": "https://www.youtube.com/shorts/oDDZQ_VYiPY",
-        "platform": "YouTube",
-        "outlet": "Youtube",
-        "source": "own",
-        "language": "English",
-        "engagement": 128,
-        "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
-        "created": "2026-09-04T11:56:34.585479+00:00",
-        "author": "IFRC",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
         "url": "https://www.instagram.com/reel/Dc1IAPeR26z/",
         "platform": "Instagram",
         "outlet": "Instagram",
@@ -816,6 +803,19 @@
         "text": "There is a missing treaty! 🚀🌍\n\nHumanity has made treaties to protect and regulate many things, from migrating birds to coffee crossing borders to astronauts returning safely to Earth.\n\nIn 1968, governments created the Rescue Agreement, requiring countries to help astronauts in di",
         "created": "2026-09-04T11:56:34.582406+00:00",
         "author": "Dr. Sian “Leo” Proctor (Space Artist & Astronaut)",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "https://www.youtube.com/shorts/oDDZQ_VYiPY",
+        "platform": "YouTube",
+        "outlet": "Youtube",
+        "source": "own",
+        "language": "English",
+        "engagement": 127,
+        "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
+        "created": "2026-09-04T11:56:34.585479+00:00",
+        "author": "IFRC",
         "astronauts": [],
         "risk_vectors": []
       },
@@ -838,7 +838,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 115,
+        "engagement": 116,
         "text": "Astronauts are protected by an international treaty. People facing disasters are not.\n\nThis International Day for Disaster Risk Reduction, the IFRC is calling for Earth’s Missing Treaty: a global disaster treaty to strengthen preparedness, protect people most at risk and establis",
         "created": "2026-10-13T09:11:59.092725+00:00",
         "author": "IFRC",
@@ -2068,7 +2068,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 414,
+      "owned_reach": 415,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2141,7 +2141,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 191,
+      "owned_reach": 192,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2454,7 +2454,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 264,
+      "owned_reach": 265,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2479,7 +2479,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 246,
+      "owned_reach": 247,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2554,7 +2554,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 914,
+      "owned_reach": 916,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2579,7 +2579,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 840,
+      "owned_reach": 842,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2596,7 +2596,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 103,
+      "engagement": 102,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -2606,7 +2606,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18808,
+      "owned_reach": 18809,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2623,7 +2623,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 400,
+      "engagement": 401,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2848,7 +2848,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1051,
+      "owned_reach": 1053,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2865,7 +2865,7 @@
       "author": "IFRC",
       "created": "2026-10-13T09:11:59.092725+00:00",
       "day": "2026-10-13",
-      "engagement": 115,
+      "engagement": 116,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -3493,7 +3493,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 37,
+      "engagement": 36,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3897,6 +3897,31 @@
       "first_seen": "2026-09-30T11:04:45.746360+00:00"
     },
     {
+      "id": "g0511",
+      "text": "Perry County Commissioners announce Red Cross shelter closure, flood disaster assistance plan",
+      "has_text": true,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQaFFOeGt4QTdoYkkxcklyRGVNb0NDRk5oRENyYVk0TDNkNlVKdEs1Q2JqT2xMMWs1ZzNKX2tJT3F2V3Npd21tN3JoeTJDN0taVUpNN3JBbE1zSTRSVENSMi1MWnlMVGl0WGh4aW5xMjA4NmFNbEdtaXdVekR2TFZ5RkFTQnhheWM5QlZMaHN0QXBJSEpZVlJ3c0E0R1VfTERoQkVlX0lLLTlxTUpPUVNpSHZvQ0lXSTN0RWt5Ti1ycGp3elVERVpVcW9XaXJtS1RWRG1maHdBZjBwbUswQko2S2JCRmVCWllrd2FrNktlV0tzQTlYV2VBRmJtSUpQa2JT?oc=5",
+      "platform": "Web",
+      "outlet": "Perry County Tribune",
+      "source": "external",
+      "language": "English",
+      "language_source": "manual",
+      "author": "Perry County Tribune",
+      "created": "2026-09-30T09:00:00+00:00",
+      "day": "2026-09-30",
+      "engagement": 0,
+      "reach": 0,
+      "self_reported": true,
+      "discovery": "gnews",
+      "sentiment": "",
+      "source_country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-20T05:48:35.937377+00:00"
+    },
+    {
       "id": "s0288",
       "text": "My guest today is Jagan Chapagain, Secretary General of the International Federation of Red Cross and Red Crescent Societies, the IFRC, which is calling on countries to adopt a new treaty that would set standards and rules of the road for helping people caught in natural disasters. We spoke on the day of the massive flash floods in Nepal, which he argues underscore the need to streamline how governments and NGOs cooperate when a sudden disaster strikes.",
       "title": "Why the Red Cross Wants a New Treaty for People Caught in Disasters.",
@@ -4086,7 +4111,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 928,
+      "owned_reach": 931,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -12583,7 +12608,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 128,
+      "engagement": 127,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -12910,7 +12935,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 818,
+      "owned_reach": 824,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12936,7 +12961,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 90,
-      "owned_reach": 4670,
+      "owned_reach": 4677,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12963,7 +12988,7 @@
       "risk_vectors": [],
       "owned_engagement": 54,
       "owned_video_views": 0,
-      "owned_reach": 1878,
+      "owned_reach": 1879,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13015,7 +13040,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 69,
-      "owned_reach": 3537,
+      "owned_reach": 3538,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
