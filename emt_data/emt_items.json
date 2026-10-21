@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T17:35:20.909399+00:00",
+  "generated": "2026-10-21T20:51:53.581560+00:00",
   "count": 546,
   "items": [
     {
@@ -138,7 +138,7 @@
       "author": "Crucea Rosie Romana",
       "created": "2026-10-16T13:52:40.595945+00:00",
       "day": "2026-10-16",
-      "engagement": 14,
+      "engagement": 17,
       "reach": 88968,
       "sentiment": "",
       "country": "",
@@ -1276,7 +1276,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 192,
+      "owned_reach": 193,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1589,7 +1589,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 265,
+      "owned_reach": 266,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1614,7 +1614,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 247,
+      "owned_reach": 248,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1731,7 +1731,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 102,
+      "engagement": 103,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -2660,7 +2660,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2090,
+      "owned_reach": 2094,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -3629,7 +3629,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1191,
+      "engagement": 1192,
       "reach": 89000,
       "sentiment": "",
       "country": "",
