@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-21T12:14:50.096921+00:00",
-    "window_hours": 1188,
-    "total": 545,
-    "text_available": 271,
+    "generated": "2026-10-21T17:35:20.918099+00:00",
+    "window_hours": 1193,
+    "total": 546,
+    "text_available": 272,
     "text_masked": 274,
     "earned_media": 198,
-    "social": 347,
+    "social": 348,
     "by_source": {
-      "external": 434,
+      "external": 435,
       "own": 87,
       "movement": 24
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 24,
-    "external_posts": 434,
+    "external_posts": 435,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38843"
+      "EARNED_ENGAGEMENT": "38853"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3342,
       "video_views": 0,
-      "reach": 97759,
+      "reach": 97763,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad8ac8d60e4310b30489e01\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ad8f7b6beb509c4d852da3b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,10 +198,10 @@
     "own_reach": 19398080,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10544,
+    "own_engagement": 10556,
     "movement_engagement": 86,
-    "external_engagement": 30341,
-    "amplification": 2.88,
+    "external_engagement": 30343,
+    "amplification": 2.87,
     "earned_by_platform": {
       "Web": 172,
       "Print": 14,
@@ -443,7 +443,7 @@
       }
     ],
     "campaign_named": 83,
-    "treaty_only": 30,
+    "treaty_only": 31,
     "by_day": {
       "2026-09-03": 38,
       "2026-09-04": 177,
@@ -480,13 +480,14 @@
       "2026-10-16": 2,
       "2026-10-17": 1,
       "2026-10-18": 1,
-      "2026-10-19": 1
+      "2026-10-19": 1,
+      "2026-10-21": 1
     },
     "by_platform": {
       "X": 274,
       "Web": 172,
       "Facebook": 24,
-      "Instagram": 20,
+      "Instagram": 21,
       "Print": 14,
       "TV": 12,
       "YouTube": 10,
@@ -496,7 +497,7 @@
     },
     "by_language": {
       "und": 293,
-      "English": 119,
+      "English": 120,
       "French": 81,
       "Spanish": 46,
       "unknown": 6
@@ -641,7 +642,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 644,
+        "engagement": 645,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -680,7 +681,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 562,
+        "engagement": 566,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -706,7 +707,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 410,
+        "engagement": 413,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -799,7 +800,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 129,
+        "engagement": 131,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -891,6 +892,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0101",
+      "text": "⚖️ A global treaty to protect people in disasters?\n\nRight now, no binding global treaty sets out how people affected by disasters must be protected. That may change. At the UN General Assembly's legal committee, the EU and its Member States fully backed a diplomatic conference that will negotiate a legally binding instrument on the protection of persons in the event of disasters. The conference meets in Bangkok from 25 January to 12 February 2027.\n\nKey takeaways:\n• From soft law to hard law: the UN General Assembly convened the conference in resolution 80/169 (December 2025)\n• EU experience counts: the EU bases its positions on its own disaster relief framework, including the EU Civil Protection Mechanism, activated more than 880 times since 2001\n• Not only states: the EU welcomed the participation of civil society and the Red Cross and Red Crescent movement\n\nFor Uzbekistan and Central Asia, where earthquakes, floods and mudflows cross borders, a global treaty could shape how help is requested, offered and received. These are the questions we study in RiskGovEU.\n\nWhat right should a disaster treaty guarantee first? Tell us below 👇\n\nCo-Funded by the European Union.\n\n#RiskGovEU #JeanMonnet #ErasmusPlus #DisasterLaw #HumanRights #InternationalLaw #EUatUN #CentralAsia",
+      "title": "",
+      "has_text": true,
+      "url": "https://www.instagram.com/p/DewfVQEChl5/",
+      "platform": "Instagram",
+      "outlet": "Instagram",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "Instagram User",
+      "created": "2026-10-21T17:35:18.368592+00:00",
+      "day": "2026-10-21",
+      "engagement": 2,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": true,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-21T17:35:20.909399+00:00"
+    },
     {
       "id": "s0305",
       "text": "OFFICE OF THE SPOKESMAN FOR THE UNITED NATIONS SECRETARY      GENERAL REGULAR NEWS BRIEFING, AS RELEASED BY THE U.N.\n\nSEPTEMBER 3, 2026\n\nSPEAKERS:      STEPHANE DUJARRIC, SPOKESMAN FOR THE U.N. SECRETARY GENERAL\n\n[*]      DUJARRIC:  All right, good afternoon.\n\nJust as a reminder, after you are done with me, there will be a hybrid press briefing here by the International Federation of Red Cross and Red Crescent Societies (IFRC). Joining you will be Dylan Winder, the Permanent Observer of the IFRC to the UN; Isabelle Granger, the IFRC Global Lead on Disaster Law; and Dr. Sian Proctor, geoscientist and an astronaut. We don't get many astronauts in this briefing room. They are here to brief you on the new IFRC disaster research campaign launch:  \"Astronauts at the heart of push for the world's first international disaster treaty.\" And she is wearing her uniform, so that's even more interesting.\n\nAll right, this morning, as you saw, there was a vote in the General Assembly on the merger that accomplishes one of the goals of the Secretary-General had set under his UN80 reforms. The Secretary-General will speak to the GA at 3 p.m. this afternoon to discuss progress of UN80, and we'll share those remarks with you. And I do have a statement on the vote.\n\nAnd that is that the Secretary-General welcomes today's General Assembly decision to merge the United Nations System Staff College with the United Nations Institute for Training and Research (UNITAR), replacing them with a single new entity:  the UN Institute for Capability and Learning Innovation (UNICLI). This decision is an important step towards the Secretary-General's UN80 Initiative, and part of the broader consolidation of the UN system's training and research capacities. The adoption of this decision during the eightieth session of the General Assembly carries particular significance.\n\nToday's decision creates a stronger, a more integrated platform of learning and capability development, and institutional transformat",
@@ -2529,7 +2554,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 405,
+      "owned_reach": 406,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2554,7 +2579,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 927,
+      "owned_reach": 928,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2623,7 +2648,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 410,
+      "engagement": 413,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2848,7 +2873,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1059,
+      "owned_reach": 1060,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3493,7 +3518,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 38,
+      "engagement": 39,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3542,7 +3567,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-08T17:33:18.806097+00:00",
       "day": "2026-10-08",
-      "engagement": 95,
+      "engagement": 96,
       "reach": 780915,
       "sentiment": "",
       "country": "",
@@ -3592,7 +3617,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 562,
+      "engagement": 566,
       "reach": 465,
       "sentiment": "",
       "country": "",
@@ -5572,7 +5597,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1885,
+      "owned_reach": 1886,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
@@ -5638,7 +5663,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 644,
+      "engagement": 645,
       "reach": 470,
       "sentiment": "",
       "country": "",
@@ -12608,7 +12633,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 129,
+      "engagement": 131,
       "reach": 88900,
       "sentiment": "",
       "country": "",
