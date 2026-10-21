@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T01:27:43.171244+00:00",
+  "generated": "2026-10-21T06:27:54.798676+00:00",
   "count": 545,
   "items": [
     {
@@ -1640,7 +1640,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 400,
+      "owned_reach": 401,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1665,7 +1665,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 925,
+      "owned_reach": 926,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1690,7 +1690,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 843,
+      "owned_reach": 844,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1707,7 +1707,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 104,
+      "engagement": 102,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1734,7 +1734,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 406,
+      "engagement": 408,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -1959,7 +1959,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1055,
+      "owned_reach": 1057,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3222,7 +3222,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 931,
+      "owned_reach": 933,
       "first_seen": "2026-09-28T16:58:06.398785+00:00"
     },
     {
@@ -11996,7 +11996,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 752,
+      "owned_reach": 753,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12046,7 +12046,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 824,
+      "owned_reach": 825,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12071,8 +12071,8 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 90,
-      "owned_reach": 4677,
+      "owned_engagement": 89,
+      "owned_reach": 4680,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12099,7 +12099,7 @@
       "risk_vectors": [],
       "owned_engagement": 54,
       "owned_video_views": 0,
-      "owned_reach": 1879,
+      "owned_reach": 1883,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12151,7 +12151,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 69,
-      "owned_reach": 3538,
+      "owned_reach": 3541,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
