@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T23:57:13.280653+00:00",
+  "generated": "2026-10-22T04:12:30.133329+00:00",
   "count": 547,
   "items": [
     {
@@ -1715,7 +1715,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 928,
+      "owned_reach": 931,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1757,7 +1757,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 103,
+      "engagement": 102,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1765,9 +1765,9 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 466,
+      "owned_engagement": 468,
       "owned_video_views": 0,
-      "owned_reach": 18809,
+      "owned_reach": 18812,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1784,7 +1784,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 413,
+      "engagement": 414,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2009,7 +2009,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1060,
+      "owned_reach": 1061,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -2777,7 +2777,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19537,
+      "engagement": 19538,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -3562,7 +3562,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1196,
+      "owned_reach": 1198,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -6885,7 +6885,7 @@
       "author": "United Nations",
       "created": "2026-09-05T13:48:24.921807+00:00",
       "day": "2026-09-05",
-      "engagement": 10245,
+      "engagement": 10247,
       "reach": 3310000,
       "sentiment": "",
       "country": "",
@@ -12122,7 +12122,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4680,
+      "owned_reach": 4682,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12200,7 +12200,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 69,
+      "owned_engagement": 68,
       "owned_reach": 3541,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
