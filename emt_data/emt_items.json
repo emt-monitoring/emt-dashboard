@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T18:46:25.763046+00:00",
+  "generated": "2026-10-22T22:13:49.841741+00:00",
   "count": 548,
   "items": [
     {
@@ -188,7 +188,7 @@
       "author": "Crucea Rosie Romana",
       "created": "2026-10-16T13:52:40.595945+00:00",
       "day": "2026-10-16",
-      "engagement": 17,
+      "engagement": 18,
       "reach": 88968,
       "sentiment": "",
       "country": "",
@@ -1714,7 +1714,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 408,
+      "owned_reach": 410,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1739,7 +1739,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 932,
+      "owned_reach": 933,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1781,7 +1781,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 103,
+      "engagement": 102,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1808,7 +1808,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 417,
+      "engagement": 418,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -2196,7 +2196,7 @@
       "author": "Polski Czerwony Krzyż (PCK)",
       "created": "2026-10-09T09:31:24.743120+00:00",
       "day": "2026-10-09",
-      "engagement": 22,
+      "engagement": 23,
       "reach": 132485,
       "sentiment": "",
       "country": "",
@@ -2710,7 +2710,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2094,
+      "owned_reach": 2095,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -5231,7 +5231,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 231,
+      "engagement": 4,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -11793,7 +11793,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 131,
+      "engagement": 3,
       "reach": 88900,
       "sentiment": "",
       "country": "",
