@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-22T14:38:05.968491+00:00",
-    "window_hours": 1214,
+    "generated": "2026-10-22T18:46:25.777035+00:00",
+    "window_hours": 1218,
     "total": 548,
     "text_available": 274,
     "text_masked": 274,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38862"
+      "EARNED_ENGAGEMENT": "38867"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3342,
       "video_views": 0,
-      "reach": 97794,
+      "reach": 97796,
       "candidates": 2000
     },
     "owned_error": "",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ada1f9ce1d7aea102452b50\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ada59e0012d2196aa3a53e0\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -194,11 +194,11 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40746737,
-    "own_reach": 19398080,
+    "total_reach": 40746749,
+    "own_reach": 19398092,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10562,
+    "own_engagement": 10568,
     "movement_engagement": 89,
     "external_engagement": 30346,
     "amplification": 2.87,
@@ -654,7 +654,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 645,
+        "engagement": 646,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -693,7 +693,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 566,
+        "engagement": 570,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -2666,7 +2666,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 845,
+      "owned_reach": 847,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2683,7 +2683,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 102,
+      "engagement": 103,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -3679,7 +3679,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 566,
+      "engagement": 570,
       "reach": 465,
       "sentiment": "",
       "country": "",
@@ -5725,8 +5725,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 645,
-      "reach": 470,
+      "engagement": 646,
+      "reach": 482,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
