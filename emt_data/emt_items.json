@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T22:13:49.841741+00:00",
+  "generated": "2026-10-23T00:51:46.195848+00:00",
   "count": 548,
   "items": [
     {
@@ -2678,7 +2678,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 39,
+      "engagement": 40,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -3679,7 +3679,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1192,
+      "engagement": 1193,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -5231,7 +5231,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 4,
+      "engagement": 231,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -6183,7 +6183,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 47,
-      "owned_reach": 1121,
+      "owned_reach": 1122,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -11793,7 +11793,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 3,
+      "engagement": 132,
       "reach": 88900,
       "sentiment": "",
       "country": "",
