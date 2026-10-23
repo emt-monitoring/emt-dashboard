@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-23T11:22:03.858479+00:00",
-    "window_hours": 1235,
-    "total": 548,
-    "text_available": 274,
+    "generated": "2026-10-23T15:51:28.471576+00:00",
+    "window_hours": 1239,
+    "total": 549,
+    "text_available": 275,
     "text_masked": 274,
-    "earned_media": 200,
+    "earned_media": 201,
     "social": 348,
     "by_source": {
-      "external": 437,
+      "external": 438,
       "own": 87,
       "movement": 24
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 24,
-    "external_posts": 437,
+    "external_posts": 438,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,7 +51,7 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38875"
+      "EARNED_ENGAGEMENT": "38877"
     },
     "owned_true": {
       "posts": 46,
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adb433134157171461a249a\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adb825a90faa55c16fc4c16\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,12 +198,12 @@
     "own_reach": 19398092,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10576,
+    "own_engagement": 10579,
     "movement_engagement": 91,
     "external_engagement": 30346,
     "amplification": 2.87,
     "earned_by_platform": {
-      "Web": 174,
+      "Web": 175,
       "Print": 14,
       "TV": 12
     },
@@ -226,6 +226,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Commons Media": 0,
       "Kohenavocats": 0,
       "Lecentrisme": 0,
       "Political Transcript Wire": 0,
@@ -238,10 +239,24 @@
       "Prime Minister's Office": 0,
       "Stjornarradid": 0,
       "Steven Soarez": 0,
-      "Keystone-ATSAujourd'hui à": 0,
-      "SDA - Service de base français": 0
+      "Keystone-ATSAujourd'hui à": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.commons-media.fr/international/effondrement-dun-immeuble-en-construction-a-nairobi-les-secours-recherchent-deventuelles-victimes-a-eastleigh/",
+        "platform": "Web",
+        "outlet": "Commons Media",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Un immeuble de plusieurs étages en construction s’est effondré vendredi 23 octobre 2026 dans le quartier d’Eastleigh, à Nairobi, la capitale du Kenya. Des opérations de recherche et de sauvetage ont été engagées, tandis que des personnes étaient redoutées prisonnières des décombr",
+        "created": "2026-10-23T15:51:22.297687+00:00",
+        "author": "La rédaction de Commons",
+        "astronauts": [],
+        "risk_vectors": [
+          "venue_uncertainty"
+        ]
+      },
       {
         "url": "https://kohenavocats.com/dons-catastrophes-syndicats-votes-15-octobre-texte-reel/",
         "platform": "Web",
@@ -427,21 +442,6 @@
         "author": "SDA - Service de base français",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://mylenecolmar.com/noemi-espinoza-madrid-secretaire-generale-de-lassociation-des-etats-de-la-caraibe-notre-region-peut-choisir-detre-actrice-de-son-propre-avenir/",
-        "platform": "Web",
-        "outlet": "Mylenecolmar",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "Au fil de ma carrière, j'ai mené une foule d'interviews qui m'ont marquée. Mes entretiens avec des responsables d'institutions régionales caribéennes figurent dans la liste. En effet, obtenir directement leurs points de vue sur des enjeux de la Grande Caraïbe est bien sûr enthous",
-        "created": "2026-10-12T19:43:52.315602+00:00",
-        "author": "Mylène Colmar",
-        "astronauts": [],
-        "risk_vectors": [
-          "venue_uncertainty"
-        ]
       }
     ],
     "campaign_named": 83,
@@ -484,11 +484,12 @@
       "2026-10-18": 1,
       "2026-10-19": 1,
       "2026-10-21": 2,
-      "2026-10-22": 1
+      "2026-10-22": 1,
+      "2026-10-23": 1
     },
     "by_platform": {
       "X": 274,
-      "Web": 174,
+      "Web": 175,
       "Facebook": 24,
       "Instagram": 21,
       "Print": 14,
@@ -501,7 +502,7 @@
     "by_language": {
       "und": 293,
       "English": 120,
-      "French": 83,
+      "French": 84,
       "Spanish": 46,
       "unknown": 6
     },
@@ -515,20 +516,18 @@
       "Nicole Stott": 2
     },
     "risk_vectors": {
-      "venue_uncertainty": 3,
+      "venue_uncertainty": 4,
       "sovereignty": 2,
       "neutrality": 1
     },
     "risk_examples": {
-      "neutrality": [
-        {
-          "url": "http://www.lecentrisme.com/2026/10/propos-centristes-union-europeenne.html",
-          "platform": "Web",
-          "text": "  V oici une sélection, ce 21 octobre -2026, des derniers propos tenus par des centristes dans les médias ou sur les réseaux sociaux dans\n<p>l'Union européenne.</p> <p> ► Institutions européennes</p> <p> ● Commission européenne (commissaires centristes) [Nota: les propos tenus pa",
-          "engagement": 0
-        }
-      ],
       "venue_uncertainty": [
+        {
+          "url": "https://www.commons-media.fr/international/effondrement-dun-immeuble-en-construction-a-nairobi-les-secours-recherchent-deventuelles-victimes-a-eastleigh/",
+          "platform": "Web",
+          "text": "Un immeuble de plusieurs étages en construction s’est effondré vendredi 23 octobre 2026 dans le quartier d’Eastleigh, à Nairobi, la capitale du Kenya. Des opérations de recherche et de sauvetage ont été engagées, tandis que des personnes étaient redoutées prisonnières des décombr",
+          "engagement": 0
+        },
         {
           "url": "https://mylenecolmar.com/noemi-espinoza-madrid-secretaire-generale-de-lassociation-des-etats-de-la-caraibe-notre-region-peut-choisir-detre-actrice-de-son-propre-avenir/",
           "platform": "Web",
@@ -545,6 +544,14 @@
           "url": "https://www.globalgovernmentforum.com/climate-disasters-are-ravaging-government-budgets-aid-works-best-when-paid-upfront/",
           "platform": "Web",
           "text": "  Image by magnific  When a cyclone destroyed Chompa Munda's home in coastal Bangladesh in 2019, she and her son went days without food.\n<p>When the next one came in 2024, her phone lit up hours before it made landfall.</p> <p> A US$43 transfer was sent straight to her bank accou",
+          "engagement": 0
+        }
+      ],
+      "neutrality": [
+        {
+          "url": "http://www.lecentrisme.com/2026/10/propos-centristes-union-europeenne.html",
+          "platform": "Web",
+          "text": "  V oici une sélection, ce 21 octobre -2026, des derniers propos tenus par des centristes dans les médias ou sur les réseaux sociaux dans\n<p>l'Union européenne.</p> <p> ► Institutions européennes</p> <p> ● Commission européenne (commissaires centristes) [Nota: les propos tenus pa",
           "engagement": 0
         }
       ],
@@ -639,7 +646,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 786,
+        "engagement": 787,
         "text": "Julie Payette, Canadian Astronaut and President of the Association of Space Explorers, joins the IFRC's call for the protection of people before, during and after disasters.  Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
         "created": "2026-09-19T14:42:42.016871+00:00",
         "author": "We are humanitarians",
@@ -719,7 +726,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 419,
+        "engagement": 420,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -904,6 +911,32 @@
     ]
   },
   "items": [
+    {
+      "id": "s0499",
+      "text": "Un immeuble de plusieurs étages en construction s’est effondré vendredi 23 octobre 2026 dans le quartier d’Eastleigh, à Nairobi, la capitale du Kenya. Des opérations de recherche et de sauvetage ont été engagées, tandis que des personnes étaient redoutées prisonnières des décombres. Aucun bilan humain confirmé ne figure dans les premières informations consultées. La hauteur exacte du bâtiment reste également incertaine.\nDes recherches engagées dans le quartier d’Eastleigh Selon le message de la Croix-Rouge kényane reproduit dans l’article initial, l’effondrement s’est produit le long de Yusuf Haji Avenue, au niveau de la 9e Rue. L’organisation indique que ses équipes travaillent avec plusieurs partenaires institutionnels pour appuyer les recherches. Le déclenchement des secours dans ce secteur d’Eastleigh est également rapporté par le média kényan KBC.\nLa Croix-Rouge demande au public de rester à distance afin de laisser les intervenants travailler en sécurité. Cet appel constitue l’une des principales consignes relayées dans le texte d’origine : il concerne l’accès au site et le déroulement des opérations, sans apporter d’indication chiffrée sur les personnes éventuellement ensevelies.\nLa prudence s’impose donc concernant le bilan. La crainte que des personnes soient piégées ne constitue pas une confirmation du nombre de victimes, ni de leur état. Les premières publications consultées font état de cette inquiétude, mais ne permettent pas d’établir combien de personnes se trouvaient dans le bâtiment ou à proximité au moment de sa chute.\nDes images spectaculaires, mais une hauteur à confirmer Des vidéos diffusées en ligne montrent la structure s’effondrer, puis un épais nuage de poussière envahir les alentours. K24, qui rapporte ces images, décrit une chute rapide des planchers et une visibilité ensuite masquée par la poussière. Ces séquences donnent à voir la violence de l’effondrement, mais ne suffisent pas à en déterminer les causes ou les conséquences humaines.\nL",
+      "title": "Effondrement d'un immeuble en construction à Nairobi : les secours recherchent d'éventuelles victimes à Eastleigh",
+      "has_text": true,
+      "url": "https://www.commons-media.fr/international/effondrement-dun-immeuble-en-construction-a-nairobi-les-secours-recherchent-deventuelles-victimes-a-eastleigh/",
+      "platform": "Web",
+      "outlet": "Commons Media",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "La rédaction de Commons",
+      "created": "2026-10-23T15:51:22.297687+00:00",
+      "day": "2026-10-23",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [
+        "venue_uncertainty"
+      ],
+      "first_seen": "2026-10-23T15:51:28.457521+00:00"
+    },
     {
       "id": "s0395",
       "text": "I. Deux votes après l’article 3 que le premier récit du 15 octobre ne raconte pas Le jeudi 15 octobre 2026, l’Assemblée nationale a adopté en séance publique, après l’article 3 du projet de loi de finances pour 2027 , trois amendements qui touchent directement les dons des particuliers : l’amendement n° I-1029, qui transforme la réduction d’impôt dite « Coluche » en crédit d’impôt, l’amendement n° I-1769, qui porte à 75 % la réduction pour les dons versés dans les six mois d’une catastrophe naturelle, et l’amendement n° I-195, qui ouvre la réduction de 66 % aux dons versés aux organisations syndicales représentatives. Les pages officielles de ces amendements affichent pour chacun le sort « Adopté » à la date du 15 octobre 2026.\nNotre article du 20 octobre a déjà expliqué en détail le premier de ces trois votes, celui qui concerne les Restos du Cœur, la Croix-Rouge ou le Secours populaire. Le présent article traite exclusivement des deux autres, que ce premier récit ne couvre pas : que change vraiment, pour votre budget et votre déclaration, l’extension du taux de 75 % aux sinistrés des catastrophes naturelles, et que change l’ouverture de la réduction aux syndicats ? La réponse tient en une phrase : à ce stade, rien n’est définitif, mais deux régimes distincts se dessinent, l’un soumis à un décret d’application et à une fenêtre de six mois, l’autre à la représentativité du syndicat bénéficiaire et au plafond de 20 % du revenu imposable.\nCette réserve n’est pas une formule. Ces votes restent provisoires : les pages officielles de l’Assemblée indiquent pour ce texte le stade de « 1ère lecture (1ère assemblée saisie) », et les députés examinent le texte en séance publique depuis le 13 octobre 2026, comme le rappelle le panorama officiel du projet de loi de finances pour 2027 . Autrement dit, tout ce qui suit décrit des amendements adoptés par la seule Assemblée nationale, en première lecture, pas le droit applicable à votre déclaration de revenus 2026 ni, à ce jour, à ",
@@ -2683,7 +2716,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 102,
+      "engagement": 103,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -2710,7 +2743,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 419,
+      "engagement": 420,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -4970,7 +5003,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 786,
+      "engagement": 787,
       "reach": 641,
       "sentiment": "",
       "country": "",
