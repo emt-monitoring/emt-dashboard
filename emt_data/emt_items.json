@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T05:52:46.361820+00:00",
+  "generated": "2026-10-23T11:22:03.846845+00:00",
   "count": 548,
   "items": [
     {
@@ -1739,7 +1739,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 936,
+      "owned_reach": 937,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1791,7 +1791,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18819,
+      "owned_reach": 18832,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1808,7 +1808,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 418,
+      "engagement": 419,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -4102,7 +4102,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1741,
+      "owned_reach": 1742,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -12173,7 +12173,7 @@
       "risk_vectors": [],
       "owned_engagement": 54,
       "owned_video_views": 0,
-      "owned_reach": 1886,
+      "owned_reach": 1889,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12293,7 +12293,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 601,
+      "engagement": 603,
       "reach": 505,
       "sentiment": "",
       "country": "",
@@ -12446,7 +12446,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1488,
+      "owned_reach": 1490,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
