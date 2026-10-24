@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T06:20:21.382739+00:00",
+  "generated": "2026-10-24T11:28:46.198066+00:00",
   "count": 549,
   "items": [
     {
@@ -2059,7 +2059,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1062,
+      "owned_reach": 1064,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -4128,7 +4128,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1742,
+      "owned_reach": 1744,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -12096,7 +12096,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 753,
+      "owned_reach": 754,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12146,7 +12146,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 825,
+      "owned_reach": 827,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12172,7 +12172,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4682,
+      "owned_reach": 4685,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12251,7 +12251,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 68,
-      "owned_reach": 3541,
+      "owned_reach": 3544,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12319,8 +12319,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 603,
-      "reach": 505,
+      "engagement": 604,
+      "reach": 509,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -12328,7 +12328,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 31,
-      "owned_reach": 505,
+      "owned_reach": 509,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12472,7 +12472,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1490,
+      "owned_reach": 1492,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,

@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-24T06:20:21.397102+00:00",
-    "window_hours": 1254,
+    "generated": "2026-10-24T11:28:46.210225+00:00",
+    "window_hours": 1259,
     "total": 549,
     "text_available": 275,
     "text_masked": 274,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38883"
+      "EARNED_ENGAGEMENT": "38884"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3340,
       "video_views": 0,
-      "reach": 97873,
+      "reach": 97891,
       "candidates": 2000
     },
     "owned_error": "",
@@ -128,8 +128,8 @@
         "https://www.facebook.com/reel/1912811270099854/",
         "https://www.facebook.com/reel/1335108238700224/",
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
-        "https://www.facebook.com/reel/4368630776737133/",
         "https://www.facebook.com/reel/1045989911637258/",
+        "https://www.facebook.com/reel/4368630776737133/",
         "https://twitter.com/jagan_chapagain/status/2095885257094348808",
         "https://twitter.com/ifrc/status/2109986566919614677",
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adc4e0390faa55c1611c0f9\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adc96431f99ee7d64061b30\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -194,11 +194,11 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40746749,
-    "own_reach": 19398092,
+    "total_reach": 40746753,
+    "own_reach": 19398096,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10585,
+    "own_engagement": 10586,
     "movement_engagement": 91,
     "external_engagement": 30346,
     "amplification": 2.87,
@@ -674,7 +674,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 603,
+        "engagement": 604,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -2968,7 +2968,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1062,
+      "owned_reach": 1064,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -5037,7 +5037,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1742,
+      "owned_reach": 1744,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -13005,7 +13005,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 753,
+      "owned_reach": 754,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13055,7 +13055,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 825,
+      "owned_reach": 827,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13081,7 +13081,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4682,
+      "owned_reach": 4685,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13160,7 +13160,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 68,
-      "owned_reach": 3541,
+      "owned_reach": 3544,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13228,8 +13228,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 603,
-      "reach": 505,
+      "engagement": 604,
+      "reach": 509,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -13237,7 +13237,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 31,
-      "owned_reach": 505,
+      "owned_reach": 509,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13381,7 +13381,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1490,
+      "owned_reach": 1492,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
