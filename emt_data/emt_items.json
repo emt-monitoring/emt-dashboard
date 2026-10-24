@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T11:28:46.198066+00:00",
+  "generated": "2026-10-24T14:47:01.713967+00:00",
   "count": 549,
   "items": [
     {
@@ -1740,7 +1740,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 410,
+      "owned_reach": 411,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1765,7 +1765,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 937,
+      "owned_reach": 941,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1790,7 +1790,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 847,
+      "owned_reach": 848,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1807,7 +1807,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 103,
+      "engagement": 102,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -1834,7 +1834,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 420,
+      "engagement": 423,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -4094,7 +4094,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 787,
+      "engagement": 788,
       "reach": 641,
       "sentiment": "",
       "country": "",
@@ -8822,7 +8822,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1558,
+      "owned_reach": 1560,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -9114,7 +9114,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 33,
-      "owned_reach": 1454,
+      "owned_reach": 1455,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
