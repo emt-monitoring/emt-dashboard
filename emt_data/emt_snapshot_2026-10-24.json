@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-24T20:32:33.295409+00:00",
-    "window_hours": 1268,
-    "total": 549,
-    "text_available": 275,
+    "generated": "2026-10-24T22:41:45.940624+00:00",
+    "window_hours": 1270,
+    "total": 550,
+    "text_available": 276,
     "text_masked": 274,
-    "earned_media": 201,
+    "earned_media": 202,
     "social": 348,
     "by_source": {
-      "external": 438,
+      "external": 439,
       "own": 87,
       "movement": 24
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 24,
-    "external_posts": 438,
+    "external_posts": 439,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -57,7 +57,7 @@
       "posts": 46,
       "engagement": 3340,
       "video_views": 0,
-      "reach": 97902,
+      "reach": 97903,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6add15b5970412d1e32ad517\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6add34011f99ee7d6414e570\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -203,15 +203,15 @@
     "external_engagement": 30346,
     "amplification": 2.86,
     "earned_by_platform": {
-      "Web": 175,
+      "Web": 176,
       "Print": 14,
       "TV": 12
     },
     "top_outlets": {
       "KBTCDT2": 10,
       "Podchaser": 9,
+      "Blogspot": 5,
       "United Nations": 5,
-      "Blogspot": 4,
       "ReliefWeb": 4,
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
@@ -226,6 +226,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Blogspot": 0,
       "Commons Media": 0,
       "Kohenavocats": 0,
       "Lecentrisme": 0,
@@ -235,13 +236,25 @@
       "Ltdn": 0,
       "Global: Government News and Documents; Political and Economic Organizations News": 0,
       "Europa": 0,
-      "Blogspot": 0,
       "Prime Minister's Office": 0,
       "Stjornarradid": 0,
       "Steven Soarez": 0,
       "Keystone-ATSAujourd'hui à": 0
     },
     "earned_top": [
+      {
+        "url": "http://mardishongrois.blogspot.com/2026/10/prochaine-rencontre-des-mardis-hongrois_0130157011.html",
+        "platform": "Web",
+        "outlet": "Blogspot",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Blog des Mardis hongrois de Paris\nsamedi 24 octobre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Paris\n",
+        "created": "2026-10-24T22:41:41.913753+00:00",
+        "author": "Mardis hongrois de Paris (noreply@blogger.com)",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.commons-media.fr/international/effondrement-dun-immeuble-en-construction-a-nairobi-les-secours-recherchent-deventuelles-victimes-a-eastleigh/",
         "platform": "Web",
@@ -429,19 +442,6 @@
         "author": "Keystone-ATSAujourd'hui à",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "http://ct.moreover.com/?a=60605931863&p=1yx&v=1&x=dwS8hn3bPJSzno-vMijEVw",
-        "platform": "Web",
-        "outlet": "SDA - Service de base français",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "Bonjour à toutes et à tous. Keystone-ATS vous souhaite un excellent début de journée et vous donne un premier aperçu de l'actualité, avec les primeurs dénichées dans la presse. Sans oublier les anniversaires et le dicton du jour! Pour contacter le desk: 058 909 50 30, suisse@keys",
-        "created": "2026-10-13T09:11:59.175379+00:00",
-        "author": "SDA - Service de base français",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 83,
@@ -485,11 +485,12 @@
       "2026-10-19": 1,
       "2026-10-21": 2,
       "2026-10-22": 1,
-      "2026-10-23": 1
+      "2026-10-23": 1,
+      "2026-10-24": 1
     },
     "by_platform": {
       "X": 274,
-      "Web": 175,
+      "Web": 176,
       "Facebook": 24,
       "Instagram": 21,
       "Print": 14,
@@ -502,7 +503,7 @@
     "by_language": {
       "und": 293,
       "English": 120,
-      "French": 84,
+      "French": 85,
       "Spanish": 46,
       "unknown": 6
     },
@@ -911,6 +912,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0309",
+      "text": "Blog des Mardis hongrois de Paris\nsamedi 24 octobre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Paris\nNous suivre sur Facebook\nQui êtes-vous ?\nMardis hongrois de Paris\nAssociation laïque qui a pour but de réunir les personnes intéressées par la Hongrie, qu’elles en soient originaires ou non, quelles que soient leurs opinions philosophiques, politiques ou religieuses. Elle a aussi pour but de permettre leur rencontre à Paris, l’échange d’informations, le partage des cultures, la conversation magyare et toutes autres activités communes. Contact : mardishongrois(AT)hotmail.com Suivez nous sur Bluesky : @mardishongrois.bsky.social *********************** Petite précision nécessaire compte tenu de demandes récurrentes qui nous parviennent. L'association des Mardis hongrois se veut laïque, ouverte à tous, mais se refusant à relayer ou favoriser quelque prosélytisme religieux, mystique, sectaire, philosophique ou politique que ce soit. Par conséquent toute demande visant à faire de la publicité à des évènements de ce type ou utilisant de tels supports sera automatiquement rejetée sans autre justification.\nAfficher mon profil complet\nCalendrier des soirées des Mardis hongrois de Paris\n- mardi 27 octobre 2026\n- mardi 10 novembre 2026\n- mardi 24 novembre 2026\n- mardi 8 décembre 2026\n- mardi 22 décembre 2026\n- mardi 5 janvier 2027\n- mardi 19 janvier 2027\n- mardi 2 février 2027\n- mardi 16 février 2027\nUn mardi sur deux\nà partir de 20h\nau café Le Zimmer, 1, place du Châtelet 75001 Paris\nMétro - Châtelet\nPárizsi magyar találkozó minden második kedden\neste 8 órakor kezdődik\n. Helyszin :\nZimmer kávéházban, 1, place du Châtelet\nMétro Châtelet\n************\nLes Mardis hongrois sur France 2 émission\nTélématin\nLes Mardis hongrois de Paris sur\nFrance Inter\nLes Mardis hongrois de Paris sur\nYoutube\nLes Mardis hongr",
+      "title": "Prochaine rencontre des Mardis hongrois de Paris le 27 octobre 2026 à partir de 20 h au Café Le Zimmer",
+      "has_text": true,
+      "url": "http://mardishongrois.blogspot.com/2026/10/prochaine-rencontre-des-mardis-hongrois_0130157011.html",
+      "platform": "Web",
+      "outlet": "Blogspot",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "Mardis hongrois de Paris (noreply@blogger.com)",
+      "created": "2026-10-24T22:41:41.913753+00:00",
+      "day": "2026-10-24",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-24T22:41:45.927947+00:00"
+    },
     {
       "id": "s0499",
       "text": "Un immeuble de plusieurs étages en construction s’est effondré vendredi 23 octobre 2026 dans le quartier d’Eastleigh, à Nairobi, la capitale du Kenya. Des opérations de recherche et de sauvetage ont été engagées, tandis que des personnes étaient redoutées prisonnières des décombres. Aucun bilan humain confirmé ne figure dans les premières informations consultées. La hauteur exacte du bâtiment reste également incertaine.\nDes recherches engagées dans le quartier d’Eastleigh Selon le message de la Croix-Rouge kényane reproduit dans l’article initial, l’effondrement s’est produit le long de Yusuf Haji Avenue, au niveau de la 9e Rue. L’organisation indique que ses équipes travaillent avec plusieurs partenaires institutionnels pour appuyer les recherches. Le déclenchement des secours dans ce secteur d’Eastleigh est également rapporté par le média kényan KBC.\nLa Croix-Rouge demande au public de rester à distance afin de laisser les intervenants travailler en sécurité. Cet appel constitue l’une des principales consignes relayées dans le texte d’origine : il concerne l’accès au site et le déroulement des opérations, sans apporter d’indication chiffrée sur les personnes éventuellement ensevelies.\nLa prudence s’impose donc concernant le bilan. La crainte que des personnes soient piégées ne constitue pas une confirmation du nombre de victimes, ni de leur état. Les premières publications consultées font état de cette inquiétude, mais ne permettent pas d’établir combien de personnes se trouvaient dans le bâtiment ou à proximité au moment de sa chute.\nDes images spectaculaires, mais une hauteur à confirmer Des vidéos diffusées en ligne montrent la structure s’effondrer, puis un épais nuage de poussière envahir les alentours. K24, qui rapporte ces images, décrit une chute rapide des planchers et une visibilité ensuite masquée par la poussière. Ces séquences donnent à voir la violence de l’effondrement, mais ne suffisent pas à en déterminer les causes ou les conséquences humaines.\nL",
@@ -3645,7 +3670,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2097,
+      "owned_reach": 2098,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
