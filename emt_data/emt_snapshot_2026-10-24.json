@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-24T14:47:01.730085+00:00",
-    "window_hours": 1262,
+    "generated": "2026-10-24T18:00:38.823386+00:00",
+    "window_hours": 1266,
     "total": 549,
     "text_available": 275,
     "text_masked": 274,
@@ -51,7 +51,7 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38888"
+      "EARNED_ENGAGEMENT": "38891"
     },
     "owned_true": {
       "posts": 46,
@@ -65,13 +65,13 @@
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1105,
-        "TWITTER": 348,
-        "INSTAGRAM": 384,
+        "FACEBOOK": 1101,
+        "TWITTER": 349,
+        "INSTAGRAM": 385,
+        "THREADS": 16,
+        "LINKEDIN": 55,
         "WECHAT": 6,
-        "THREADS": 15,
         "BLUESKY": 18,
-        "LINKEDIN": 54,
         "VK": 20,
         "TIKTOK": 20,
         "YOUTUBE": 30
@@ -128,8 +128,8 @@
         "https://www.facebook.com/reel/1912811270099854/",
         "https://www.facebook.com/reel/1335108238700224/",
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
-        "https://www.facebook.com/reel/1045989911637258/",
         "https://www.facebook.com/reel/4368630776737133/",
+        "https://www.facebook.com/reel/1045989911637258/",
         "https://twitter.com/jagan_chapagain/status/2095885257094348808",
         "https://twitter.com/ifrc/status/2109986566919614677",
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adcc4bd012d2196aa823264\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adcf22abeb509c4d8e75261\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -198,10 +198,10 @@
     "own_reach": 19398096,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10589,
+    "own_engagement": 10592,
     "movement_engagement": 91,
     "external_engagement": 30346,
-    "amplification": 2.87,
+    "amplification": 2.86,
     "earned_by_platform": {
       "Web": 175,
       "Print": 14,
@@ -661,7 +661,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 647,
+        "engagement": 650,
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi joins IFRC to call for the protection of people in disasters. Learn more at earthsmissingtreaty.org #Eart",
         "created": "2026-09-13T11:30:23.375707+00:00",
         "author": "We are humanitarians",
@@ -5758,7 +5758,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 647,
+      "engagement": 650,
       "reach": 482,
       "sentiment": "",
       "country": "",
