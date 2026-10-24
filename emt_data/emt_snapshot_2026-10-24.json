@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-24T18:00:38.823386+00:00",
-    "window_hours": 1266,
+    "generated": "2026-10-24T20:32:33.295409+00:00",
+    "window_hours": 1268,
     "total": 549,
     "text_available": 275,
     "text_masked": 274,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38891"
+      "EARNED_ENGAGEMENT": "38896"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3340,
       "video_views": 0,
-      "reach": 97900,
+      "reach": 97902,
       "candidates": 2000
     },
     "owned_error": "",
@@ -65,13 +65,13 @@
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1101,
-        "TWITTER": 349,
-        "INSTAGRAM": 385,
-        "THREADS": 16,
-        "LINKEDIN": 55,
+        "FACEBOOK": 1105,
+        "TWITTER": 348,
+        "INSTAGRAM": 384,
         "WECHAT": 6,
+        "THREADS": 15,
         "BLUESKY": 18,
+        "LINKEDIN": 54,
         "VK": 20,
         "TIKTOK": 20,
         "YOUTUBE": 30
@@ -184,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adcf22abeb509c4d8e75261\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6add15b5970412d1e32ad517\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -194,11 +194,11 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40746753,
-    "own_reach": 19398096,
+    "total_reach": 40746767,
+    "own_reach": 19398110,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10592,
+    "own_engagement": 10597,
     "movement_engagement": 91,
     "external_engagement": 30346,
     "amplification": 2.86,
@@ -700,7 +700,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 573,
+        "engagement": 577,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -739,7 +739,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 284,
+        "engagement": 285,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts.\n\nIn the latest episode of IFRC Weekly News, Melis Figanmeşe, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-14T10:55:20.878041+00:00",
         "author": "IFRC",
@@ -3712,8 +3712,8 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 573,
-      "reach": 465,
+      "engagement": 577,
+      "reach": 479,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -5468,7 +5468,7 @@
       "author": "IFRC",
       "created": "2026-09-14T10:55:20.878041+00:00",
       "day": "2026-09-14",
-      "engagement": 284,
+      "engagement": 285,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -5692,7 +5692,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1887,
+      "owned_reach": 1889,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
