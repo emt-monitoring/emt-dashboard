@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-24T01:27:32.478997+00:00",
-    "window_hours": 1249,
+    "generated": "2026-10-24T06:20:21.397102+00:00",
+    "window_hours": 1254,
     "total": 549,
     "text_available": 275,
     "text_masked": 274,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38882"
+      "EARNED_ENGAGEMENT": "38883"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3340,
       "video_views": 0,
-      "reach": 97854,
+      "reach": 97873,
       "candidates": 2000
     },
     "owned_error": "",
@@ -167,6 +167,7 @@
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
+        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
@@ -183,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adc0955970412d1e312b735\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adc4e0390faa55c1611c0f9\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -197,7 +198,7 @@
     "own_reach": 19398092,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10584,
+    "own_engagement": 10585,
     "movement_engagement": 91,
     "external_engagement": 30346,
     "amplification": 2.87,
@@ -712,7 +713,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 463,
+        "engagement": 464,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -2725,7 +2726,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18832,
+      "owned_reach": 18834,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -4520,7 +4521,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1200,
+      "owned_reach": 1201,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -4589,7 +4590,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 463,
+      "engagement": 464,
       "reach": 389,
       "sentiment": "",
       "country": "",
@@ -13210,7 +13211,7 @@
       "risk_vectors": [],
       "owned_engagement": 879,
       "owned_video_views": 0,
-      "owned_reach": 20351,
+      "owned_reach": 20367,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {

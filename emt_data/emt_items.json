@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T01:27:32.464847+00:00",
+  "generated": "2026-10-24T06:20:21.382739+00:00",
   "count": 549,
   "items": [
     {
@@ -1817,7 +1817,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18832,
+      "owned_reach": 18834,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3612,7 +3612,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1200,
+      "owned_reach": 1201,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -3681,7 +3681,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 463,
+      "engagement": 464,
       "reach": 389,
       "sentiment": "",
       "country": "",
@@ -12302,7 +12302,7 @@
       "risk_vectors": [],
       "owned_engagement": 879,
       "owned_video_views": 0,
-      "owned_reach": 20351,
+      "owned_reach": 20367,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {

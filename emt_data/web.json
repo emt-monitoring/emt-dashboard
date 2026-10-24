@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:27:36+00:00",
+  "generated_at": "2026-10-24T06:20:24+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -308,16 +308,22 @@
       13,
       14,
       11
+    ],
+    [
+      "2026-10-24",
+      3,
+      3,
+      3
     ]
   ],
-  "avg_duration": 52,
+  "avg_duration": 62,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1676,
-      "views": 1779,
-      "users": 1052
+      "sessions": 1678,
+      "views": 1781,
+      "users": 1054
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -376,6 +382,13 @@
       "users": 2
     },
     {
+      "path": "/ar/earthsmissingtreaty/fr",
+      "language": "Français",
+      "sessions": 2,
+      "views": 2,
+      "users": 2
+    },
+    {
       "path": "/el/earthsmissingtreaty/es",
       "language": "Español",
       "sessions": 2,
@@ -418,13 +431,6 @@
       "users": 2
     },
     {
-      "path": "/ar/earthsmissingtreaty/fr",
-      "language": "Français",
-      "sessions": 1,
-      "views": 1,
-      "users": 1
-    },
-    {
       "path": "/el/earthsmissingtreaty/ar",
       "language": "العربية",
       "sessions": 1,
@@ -442,7 +448,7 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 1159
+      "value": 1162
     },
     {
       "label": "Organic Search",
