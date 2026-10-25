@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-25T11:05:50.766413+00:00",
-    "window_hours": 1283,
-    "total": 552,
-    "text_available": 278,
+    "generated": "2026-10-25T14:56:25.990968+00:00",
+    "window_hours": 1286,
+    "total": 553,
+    "text_available": 279,
     "text_masked": 274,
-    "earned_media": 204,
+    "earned_media": 205,
     "social": 348,
     "by_source": {
-      "external": 441,
+      "external": 442,
       "own": 87,
       "movement": 24
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 24,
-    "external_posts": 441,
+    "external_posts": 442,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38908"
+      "EARNED_ENGAGEMENT": "38911"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3342,
       "video_views": 0,
-      "reach": 97932,
+      "reach": 97938,
       "candidates": 2000
     },
     "owned_error": "",
@@ -167,7 +167,6 @@
         "https://twitter.com/AttaDurraniIFRC/status/2095450802273796160",
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
-        "https://www.instagram.com/reel/DdJgFMBB5eM/",
         "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
@@ -185,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adde26360e4310b3000bf58\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ade187590faa55c163b011c\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -199,12 +198,12 @@
     "own_reach": 19398110,
     "movement_reach": 428186,
     "external_reach": 20920471,
-    "own_engagement": 10609,
+    "own_engagement": 10612,
     "movement_engagement": 91,
     "external_engagement": 30347,
     "amplification": 2.86,
     "earned_by_platform": {
-      "Web": 178,
+      "Web": 179,
       "Print": 14,
       "TV": 12
     },
@@ -227,6 +226,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Bruxelleskorner": 0,
       "Juanita Pérez": 0,
       "Elespanol": 0,
       "Blogspot": 0,
@@ -239,10 +239,22 @@
       "Ltdn": 0,
       "Global: Government News and Documents; Political and Economic Organizations News": 0,
       "Europa": 0,
-      "Prime Minister's Office": 0,
-      "Stjornarradid": 0
+      "Prime Minister's Office": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.bruxelleskorner.com/haber/lessentiel-de-lactualite-mondiale-samedi-24-octobre-2026-15893",
+        "platform": "Web",
+        "outlet": "Bruxelleskorner",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "BRUXELLES KORNER\nREVUE DE PRESSE INTERNATIONALE | ÉDITION DU 25 OCTOBRE 2026\nL’ESSENTIEL DE L’ACTUALITÉ MONDIALE\nSAMEDI 24 OCTOBRE 2026\nBelgique • Europe • Türkiye • Russie–Ukraine • Asie centrale • Caucase • Balkans • Moyen-Orient • Afrique • Asie • Amériques\nPar Kadir Duran — B",
+        "created": "2026-10-25T14:56:23.737116+00:00",
+        "author": "BRUXELLES KORNER COPYRIGHT 2015-2026",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "http://ct.moreover.com/?a=60697844637&p=1yx&v=1&x=XIgrghPtzxiFu-Vukn51FQ",
         "platform": "Web",
@@ -430,19 +442,6 @@
         "author": "Prime Minister's Office",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.stjornarradid.is/frettir/grein/2026-10-14-joint-nordic-statement-protection-of-persons-in-the-event-of-disasters",
-        "platform": "Web",
-        "outlet": "Stjornarradid",
-        "source": "external",
-        "language": "English",
-        "engagement": 0,
-        "text": "Joint Nordic Statement delivered by H.E. Ms. Elina Kalkku, Permanent Representative of Finland to the United Nations 81st session of the United Nations General Assembly, Sixth Committee Agenda item 88: United Nations Conference of Plenipotentiaries on Protection of Persons in the",
-        "created": "2026-10-14T15:57:21.249815+00:00",
-        "author": "stjornarradid.is",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 83,
@@ -488,11 +487,11 @@
       "2026-10-22": 1,
       "2026-10-23": 1,
       "2026-10-24": 1,
-      "2026-10-25": 2
+      "2026-10-25": 3
     },
     "by_platform": {
       "X": 274,
-      "Web": 178,
+      "Web": 179,
       "Facebook": 24,
       "Instagram": 21,
       "Print": 14,
@@ -505,7 +504,7 @@
     "by_language": {
       "und": 293,
       "English": 120,
-      "French": 85,
+      "French": 86,
       "Spanish": 48,
       "unknown": 6
     },
@@ -729,7 +728,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 423,
+        "engagement": 426,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -914,6 +913,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0207",
+      "text": "BRUXELLES KORNER\nREVUE DE PRESSE INTERNATIONALE | ÉDITION DU 25 OCTOBRE 2026\nL’ESSENTIEL DE L’ACTUALITÉ MONDIALE\nSAMEDI 24 OCTOBRE 2026\nBelgique • Europe • Türkiye • Russie–Ukraine • Asie centrale • Caucase • Balkans • Moyen-Orient • Afrique • Asie • Amériques\nPar Kadir Duran — Bruxelles Korner\nComprendre aujourd’hui. Anticiper demain.\nÀ LA UNE\nDe Bruxelles à Paris, la contestation sociale s'étend pendant que les grandes puissances renforcent leurs stratégies d'influence\nL'actualité internationale du samedi 24 octobre 2026 révèle trois évolutions majeures : la montée des tensions sociales en Europe, la militarisation des infrastructures stratégiques et la recomposition des équilibres diplomatiques.\nEn Belgique, plusieurs centaines de personnes ont manifesté à Bruxelles contre les politiques gouvernementales, les réformes de l'enseignement et les violences policières dénoncées par certains collectifs. Neuf personnes ont été interpellées. La tempête Austen a parallèlement mobilisé les services de secours dans plusieurs régions.\nEn Europe, la France a connu une nouvelle journée de mobilisation massive. Le ministère de l'Intérieur a recensé 410 000 manifestants, tandis que les syndicats revendiquent une participation nettement supérieure. Des affrontements ont éclaté à Paris et Marseille. Des manifestations ont également eu lieu en Italie, au Portugal et en Albanie.\nEn Türkiye, Recep Tayyip Erdoğan a appelé à une réforme du Conseil de sécurité des Nations unies. Ankara a également relancé son différend avec Athènes concernant la désignation des responsables religieux de la minorité turque en Thrace occidentale.\nSur le front Russie–Ukraine, Kiev affirme avoir retrouvé les capacités opérationnelles de ses communications satellitaires après plusieurs jours de restrictions. Parallèlement, des installations industrielles russes ont été touchées par des drones ukrainiens.\nEn Asie centrale, le Kazakhstan et l'Ouzbékistan préparent une coopération transfrontalière contre la pol",
+      "title": "L'ESSENTIEL DE L'ACTUALITÉ MONDIALE SAMEDI 24 OCTOBRE 2026",
+      "has_text": true,
+      "url": "https://www.bruxelleskorner.com/haber/lessentiel-de-lactualite-mondiale-samedi-24-octobre-2026-15893",
+      "platform": "Web",
+      "outlet": "Bruxelleskorner",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "BRUXELLES KORNER COPYRIGHT 2015-2026",
+      "created": "2026-10-25T14:56:23.737116+00:00",
+      "day": "2026-10-25",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-25T14:56:25.979097+00:00"
+    },
     {
       "id": "s0502",
       "text": "La historia de la asistencia humanitaria moderna no se entiende sin la figura deClara Barton. Conocida como el Ángel del Campo de Batalla, su vida fue una lucha constante contra las convenciones sociales de una época que relegaba a la mujer a las labores del ...",
@@ -2801,7 +2824,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18834,
+      "owned_reach": 18839,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2818,7 +2841,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 423,
+      "engagement": 426,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -9806,7 +9829,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1560,
+      "owned_reach": 1561,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
