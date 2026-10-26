@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-26T01:33:02.562634+00:00",
-    "window_hours": 1297,
+    "generated": "2026-10-26T06:50:10.827004+00:00",
+    "window_hours": 1302,
     "total": 553,
     "text_available": 279,
     "text_masked": 274,
@@ -51,7 +51,7 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38914"
+      "EARNED_ENGAGEMENT": "38915"
     },
     "owned_true": {
       "posts": 46,
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adeadaa90faa55c1649e107\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adef80590faa55c1654ece3\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -195,13 +195,13 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40746767,
-    "own_reach": 19398110,
+    "total_reach": 40746775,
+    "own_reach": 19398118,
     "movement_reach": 428186,
     "external_reach": 20920471,
     "own_engagement": 10615,
     "movement_engagement": 91,
-    "external_engagement": 30347,
+    "external_engagement": 30348,
     "amplification": 2.86,
     "earned_by_platform": {
       "Web": 179,
@@ -580,7 +580,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "Spanish",
-        "engagement": 19538,
+        "engagement": 19539,
         "text": "¿Qué pide un exastronauta? Un tratado internacional para proteger a víctimas de desastres naturales tras ver la fragilidad de la atmósfera desde el espacio.\r\n\r\nDurante sus 217 vueltas al mundo en órbita, Hernández vio cómo los rayos del sol revelan la fragilidad de nuestra atmósf",
         "created": "2026-10-08T17:33:18.800407+00:00",
         "author": "MILENIO",
@@ -3835,7 +3835,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19538,
+      "engagement": 19539,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -4690,7 +4690,7 @@
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
       "engagement": 471,
-      "reach": 389,
+      "reach": 397,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
