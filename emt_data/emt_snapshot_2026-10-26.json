@@ -1,16 +1,16 @@
 {
   "summary": {
-    "generated": "2026-10-26T19:51:22.099198+00:00",
-    "window_hours": 1315,
-    "total": 553,
-    "text_available": 279,
+    "generated": "2026-10-26T23:40:41.387300+00:00",
+    "window_hours": 1319,
+    "total": 555,
+    "text_available": 281,
     "text_masked": 274,
-    "earned_media": 205,
-    "social": 348,
+    "earned_media": 206,
+    "social": 349,
     "by_source": {
-      "external": 442,
+      "external": 443,
       "own": 87,
-      "movement": 24
+      "movement": 25
     },
     "external_social_unattributed": [
       "@6earth97",
@@ -35,8 +35,8 @@
       "@DeepakAdk"
     ],
     "own_posts": 87,
-    "movement_posts": 24,
-    "external_posts": 442,
+    "movement_posts": 25,
+    "external_posts": 443,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,7 +51,7 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38919"
+      "EARNED_ENGAGEMENT": "38954"
     },
     "owned_true": {
       "posts": 46,
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adfaf0d60e4310b303c8f6d\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6adfe4dbc9689797b8a6ade3\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -195,16 +195,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40746775,
+    "total_reach": 40770975,
     "own_reach": 19398118,
-    "movement_reach": 428186,
+    "movement_reach": 452386,
     "external_reach": 20920471,
-    "own_engagement": 10619,
-    "movement_engagement": 91,
+    "own_engagement": 10624,
+    "movement_engagement": 230,
     "external_engagement": 30348,
     "amplification": 2.86,
     "earned_by_platform": {
-      "Web": 179,
+      "Web": 180,
       "Print": 14,
       "TV": 12
     },
@@ -216,17 +216,18 @@
       "ReliefWeb": 4,
       "Bluewin": 4,
       "SWI swissinfo.ch": 4,
+      "Theatrum Belli": 3,
       "Global: Government News and Documents; Political and Economic Organizations News": 3,
       "msn.com": 3,
       "RFI": 3,
       "IFRC": 3,
       "Political Transcript Wire": 2,
       "SDA - Service de base français": 2,
-      "Theatrum Belli": 2,
       "CE Noticias Financieras Spanish": 2
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Theatrum Belli": 0,
       "Bruxelleskorner": 0,
       "Juanita Pérez": 0,
       "Elespanol": 0,
@@ -239,10 +240,22 @@
       "Etcetera": 0,
       "Ltdn": 0,
       "Global: Government News and Documents; Political and Economic Organizations News": 0,
-      "Europa": 0,
-      "Prime Minister's Office": 0
+      "Europa": 0
     },
     "earned_top": [
+      {
+        "url": "https://theatrum-belli.com/chronicorum-belli-du-26-octobre/",
+        "platform": "Web",
+        "outlet": "Theatrum Belli",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "26 octobre 1440 : exécution de Gilles de Rais à Nantes (Bretagne).\nMaréchal de France à 25 ans, compagnon de Jeanne d’Arc à Orléans, Jargeau et Patay, le baron de Rais est pendu puis livré au bûcher à Nantes, condamné pour hérésie, sodomie et le meurtre de nombreux enfants.\nNé ve",
+        "created": "2026-10-26T23:40:39.197810+00:00",
+        "author": "Theatrum Belli",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.bruxelleskorner.com/haber/lessentiel-de-lactualite-mondiale-samedi-24-octobre-2026-15893",
         "platform": "Web",
@@ -430,22 +443,9 @@
         "author": "noreply@blogger.com (Mardis hongrois de Paris)",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "http://ct.moreover.com/?a=60619764376&p=1yx&v=1&x=LXCUNJNl7aRq1I5-QL_BrA",
-        "platform": "Web",
-        "outlet": "Prime Minister's Office",
-        "source": "external",
-        "language": "English",
-        "engagement": 0,
-        "text": "Joint Nordic Statement delivered by H.E. Ms. Elina Kalkku, \nPermanent Representative of Finland to the United Nations\n81st session of the United Nations General Assembly, Sixth Committee\nAgenda item 88: United Nations Conference of Plenipotentiaries\non Protection ...",
-        "created": "2026-10-14T20:05:50.968347+00:00",
-        "author": "Prime Minister's Office",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
-    "campaign_named": 83,
+    "campaign_named": 84,
     "treaty_only": 31,
     "by_day": {
       "2026-09-03": 38,
@@ -488,16 +488,17 @@
       "2026-10-22": 1,
       "2026-10-23": 1,
       "2026-10-24": 1,
-      "2026-10-25": 3
+      "2026-10-25": 3,
+      "2026-10-26": 2
     },
     "by_platform": {
       "X": 274,
-      "Web": 179,
+      "Web": 180,
       "Facebook": 24,
       "Instagram": 21,
       "Print": 14,
       "TV": 12,
-      "YouTube": 10,
+      "YouTube": 11,
       "TikTok": 8,
       "LinkedIn": 6,
       "Bluesky": 5
@@ -505,8 +506,8 @@
     "by_language": {
       "und": 293,
       "English": 120,
-      "French": 86,
-      "Spanish": 48,
+      "French": 87,
+      "Spanish": 49,
       "unknown": 6
     },
     "by_sentiment": {},
@@ -703,7 +704,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 579,
+        "engagement": 583,
         "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
         "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
@@ -817,12 +818,25 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.youtube.com/shorts/561pVcHkHZ4",
+        "platform": "YouTube",
+        "outlet": "Youtube",
+        "source": "movement",
+        "language": "Spanish",
+        "engagement": 139,
+        "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
+        "created": "2026-10-26T23:40:39.063808+00:00",
+        "author": "Croce Rossa Italiana",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.youtube.com/shorts/oDDZQ_VYiPY",
         "platform": "YouTube",
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 132,
+        "engagement": 133,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -895,25 +909,58 @@
         "author": "IFRC",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.instagram.com/reel/DddiFXWCHUV/",
-        "platform": "Instagram",
-        "outlet": "Instagram",
-        "source": "own",
-        "language": "English",
-        "engagement": 106,
-        "text": "Julie Payette (@juliepayette50), Canadian Astronaut and President of the @ase_astronauts, joins the @IFRC's call for the protection of people before, during and after disasters. Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
-        "created": "2026-09-19T11:23:48.650393+00:00",
-        "author": "IFRC",
-        "astronauts": [
-          "Julie Payette"
-        ],
-        "risk_vectors": []
       }
     ]
   },
   "items": [
+    {
+      "id": "s0505",
+      "text": "26 octobre 1440 : exécution de Gilles de Rais à Nantes (Bretagne).\nMaréchal de France à 25 ans, compagnon de Jeanne d’Arc à Orléans, Jargeau et Patay, le baron de Rais est pendu puis livré au bûcher à Nantes, condamné pour hérésie, sodomie et le meurtre de nombreux enfants.\nNé vers 1404-1405 à Champtocé-sur-Loire, orphelin jeune, Gilles de Montmorency-Laval est élevé par son grand-père maternel, Jean de Craon. Par héritage et par son mariage avec Catherine de Thouars, il devient l’un des plus riches seigneurs de l’Ouest. Il combat d’abord dans les querelles de succession bretonnes, puis pour la duchesse d’Anjou contre les Anglais. En 1429, il est affecté à la garde de Jeanne d’Arc et participe avec elle à la délivrance d’Orléans, puis aux victoires de Jargeau et de Patay. Lors du sacre de Charles VII à Reims, le 17 juillet, il est fait maréchal de France. Il est encore aux côtés de Jeanne devant Paris en septembre.\nAprès la capture de la Pucelle, il se retire sur ses terres de Machecoul et de Tiffauges. Il y dilapide sa fortune en fêtes, en représentations comme le Mystère du siège d’Orléans, puis en recherches d’alchimie. Sa famille obtient du roi l’interdiction de vendre ses biens, dont une partie passe au duc de Bretagne Jean V et à l’évêque de Nantes, Jean de Malestroit.\nLe 15 mai 1440, il fait saisir un clerc dans l’église de Saint-Étienne-de-Mer-Morte, à la suite d’un différend sur la vente d’un château. Ce coup de force déclenche une enquête de l’évêque, qui recueille les témoignages de familles dont les enfants ont disparu autour de ses châteaux. Gilles est arrêté à Machecoul le 15 septembre avec deux serviteurs, Henriet et Poitou. Jugé par le tribunal ecclésiastique, puis par la cour séculière du duc, il passe aux aveux sous la menace de la torture. Condamné le 25 octobre, il est exécuté le lendemain dans la prairie de Biesse avec ses deux complices. Son corps est retiré du bûcher avant d’être consumé et inhumé, à sa demande, dans l’église des Carmes de Nan",
+      "title": "CHRONICORUM BELLI du 26 octobre",
+      "has_text": true,
+      "url": "https://theatrum-belli.com/chronicorum-belli-du-26-octobre/",
+      "platform": "Web",
+      "outlet": "Theatrum Belli",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "Theatrum Belli",
+      "created": "2026-10-26T23:40:39.197810+00:00",
+      "day": "2026-10-26",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-26T23:40:41.373178+00:00"
+    },
+    {
+      "id": "s0019",
+      "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato sulla protezione delle persone in caso di catastrofi.",
+      "title": "campagna IFRC: Earths Missing Treaty",
+      "has_text": true,
+      "url": "https://www.youtube.com/shorts/561pVcHkHZ4",
+      "platform": "YouTube",
+      "outlet": "Youtube",
+      "source": "movement",
+      "language": "Spanish",
+      "language_source": "inferred",
+      "author": "Croce Rossa Italiana",
+      "created": "2026-10-26T23:40:39.063808+00:00",
+      "day": "2026-10-26",
+      "engagement": 139,
+      "reach": 24200,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": true,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-26T23:40:41.373178+00:00"
+    },
     {
       "id": "s0207",
       "text": "BRUXELLES KORNER\nREVUE DE PRESSE INTERNATIONALE | ÉDITION DU 25 OCTOBRE 2026\nL’ESSENTIEL DE L’ACTUALITÉ MONDIALE\nSAMEDI 24 OCTOBRE 2026\nBelgique • Europe • Türkiye • Russie–Ukraine • Asie centrale • Caucase • Balkans • Moyen-Orient • Afrique • Asie • Amériques\nPar Kadir Duran — Bruxelles Korner\nComprendre aujourd’hui. Anticiper demain.\nÀ LA UNE\nDe Bruxelles à Paris, la contestation sociale s'étend pendant que les grandes puissances renforcent leurs stratégies d'influence\nL'actualité internationale du samedi 24 octobre 2026 révèle trois évolutions majeures : la montée des tensions sociales en Europe, la militarisation des infrastructures stratégiques et la recomposition des équilibres diplomatiques.\nEn Belgique, plusieurs centaines de personnes ont manifesté à Bruxelles contre les politiques gouvernementales, les réformes de l'enseignement et les violences policières dénoncées par certains collectifs. Neuf personnes ont été interpellées. La tempête Austen a parallèlement mobilisé les services de secours dans plusieurs régions.\nEn Europe, la France a connu une nouvelle journée de mobilisation massive. Le ministère de l'Intérieur a recensé 410 000 manifestants, tandis que les syndicats revendiquent une participation nettement supérieure. Des affrontements ont éclaté à Paris et Marseille. Des manifestations ont également eu lieu en Italie, au Portugal et en Albanie.\nEn Türkiye, Recep Tayyip Erdoğan a appelé à une réforme du Conseil de sécurité des Nations unies. Ankara a également relancé son différend avec Athènes concernant la désignation des responsables religieux de la minorité turque en Thrace occidentale.\nSur le front Russie–Ukraine, Kiev affirme avoir retrouvé les capacités opérationnelles de ses communications satellitaires après plusieurs jours de restrictions. Parallèlement, des installations industrielles russes ont été touchées par des drones ukrainiens.\nEn Asie centrale, le Kazakhstan et l'Ouzbékistan préparent une coopération transfrontalière contre la pol",
@@ -3811,7 +3858,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 579,
+      "engagement": 583,
       "reach": 479,
       "sentiment": "",
       "country": "",
@@ -12827,7 +12874,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 132,
+      "engagement": 133,
       "reach": 88900,
       "sentiment": "",
       "country": "",
