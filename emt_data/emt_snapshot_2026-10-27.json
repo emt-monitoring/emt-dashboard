@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-27T09:59:42.500137+00:00",
-    "window_hours": 1329,
+    "generated": "2026-10-27T15:48:42.219409+00:00",
+    "window_hours": 1335,
     "total": 557,
     "text_available": 281,
     "text_masked": 276,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "37914"
+      "EARNED_ENGAGEMENT": "38981"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3344,
       "video_views": 0,
-      "reach": 97975,
+      "reach": 98004,
       "candidates": 2000
     },
     "owned_error": "",
@@ -99,6 +99,7 @@
         "2095837119092555788"
       ],
       "own_urls": [
+        "https://www.youtube.com/shorts/9EXyX6pD1iI",
         "https://www.facebook.com/reel/2620770065007963/",
         "https://www.instagram.com/reel/Dc0Z9VxRkW0/",
         "https://www.tiktok.com/@ifrc/video/7686875236062579971",
@@ -116,6 +117,7 @@
         "https://www.youtube.com/shorts/oDDZQ_VYiPY",
         "https://www.instagram.com/reel/DdOFWi9DXV6/",
         "https://www.instagram.com/reel/DebKc6CxRa-/",
+        "https://twitter.com/ifrc/status/2095430937253146779",
         "https://www.instagram.com/reel/DdvjluOuQdU/",
         "https://www.instagram.com/reel/DdJhdUfx4mp/",
         "https://www.instagram.com/reel/DddiFXWCHUV/",
@@ -124,7 +126,6 @@
         "https://twitter.com/ifrc/status/2095787231713571088",
         "https://www.instagram.com/reel/DeBlNwCu8Wx/",
         "https://www.facebook.com/reel/1912811270099854/",
-        "https://twitter.com/ifrc/status/2095430937253146779",
         "https://www.facebook.com/reel/1335108238700224/",
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
         "https://www.facebook.com/reel/4368630776737133/",
@@ -134,6 +135,7 @@
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
         "https://twitter.com/ifrc/status/2106293184116502862",
         "https://twitter.com/ifrc/status/2101219750961430854",
+        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://twitter.com/ifrc/status/2099045420030705720",
         "https://twitter.com/jagan_chapagain/status/2095476910717284842",
         "https://www.facebook.com/reel/1045874834746926/",
@@ -152,14 +154,12 @@
         "https://twitter.com/NenaStoiljkovic/status/2095489170873467370",
         "https://twitter.com/jagan_chapagain/status/2101401670395531519",
         "https://twitter.com/IFRC_MENA/status/2109942100879925693",
-        "https://www.youtube.com/shorts/9EXyX6pD1iI",
         "https://twitter.com/IFRCAsiaPacific/status/2109923368099266572",
         "https://twitter.com/IFRC_MENA/status/2109941779445223544",
         "https://twitter.com/CMRassiIFRC/status/2095523164327493664",
         "https://twitter.com/NenaStoiljkovic/status/2098504515645276302",
         "https://twitter.com/NenaStoiljkovic/status/2110024581809373322",
         "https://twitter.com/IFRC_MENA/status/2109965108017340511",
-        "https://www.youtube.com/shorts/mhqciPjr9Ig",
         "https://twitter.com/DylanWinderIFRC/status/2095562202434424924",
         "https://twitter.com/ifrc/status/2098400325786824780",
         "https://twitter.com/DylanWinderIFRC/status/2110027113206370758",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae075ed012d2196aaebe50b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae0c7bc8c8fe9001f82329b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -195,14 +195,14 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40838373,
-    "own_reach": 19443050,
+    "total_reach": 40815907,
+    "own_reach": 19420584,
     "movement_reach": 452386,
     "external_reach": 20942937,
-    "own_engagement": 9404,
-    "movement_engagement": 240,
+    "own_engagement": 10632,
+    "movement_engagement": 251,
     "external_engagement": 30348,
-    "amplification": 3.23,
+    "amplification": 2.85,
     "earned_by_platform": {
       "Web": 180,
       "Print": 14,
@@ -605,6 +605,21 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.youtube.com/shorts/9EXyX6pD1iI",
+        "platform": "YouTube",
+        "outlet": "Youtube",
+        "source": "own",
+        "language": "English",
+        "engagement": 1193,
+        "text": "Dr. Sian Proctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters.\n\nLearn more at earthsmissingtreaty.org",
+        "created": "2026-09-25T20:22:57.162862+00:00",
+        "author": "IFRC",
+        "astronauts": [
+          "Dr. Sian Proctor"
+        ],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.facebook.com/reel/2620770065007963/",
         "platform": "Facebook",
         "outlet": "Facebook",
@@ -664,7 +679,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 606,
+        "engagement": 607,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -791,6 +806,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.youtube.com/shorts/561pVcHkHZ4",
+        "platform": "YouTube",
+        "outlet": "Youtube",
+        "source": "movement",
+        "language": "Spanish",
+        "engagement": 159,
+        "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
+        "created": "2026-10-26T23:40:39.063808+00:00",
+        "author": "Croce Rossa Italiana",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.facebook.com/reel/1073056618413903/",
         "platform": "Facebook",
         "outlet": "Facebook",
@@ -800,19 +828,6 @@
         "text": "\"If we can promise (to rescue) three astronauts, why can't we promise something similar to the millions of people on Earth facing disaster right now?\" Astronaut Dr. Soyeon Yi  joins IFRC to call for the protection of people in disasters. \n\nLearn more at earthsmissingtreaty.org #E",
         "created": "2026-09-13T11:30:23.379705+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.youtube.com/shorts/561pVcHkHZ4",
-        "platform": "YouTube",
-        "outlet": "Youtube",
-        "source": "movement",
-        "language": "Spanish",
-        "engagement": 148,
-        "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
-        "created": "2026-10-26T23:40:39.063808+00:00",
-        "author": "Croce Rossa Italiana",
         "astronauts": [],
         "risk_vectors": []
       },
@@ -894,21 +909,6 @@
         "created": "2026-09-11T17:07:18.255358+00:00",
         "author": "IFRC",
         "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.instagram.com/reel/DddiFXWCHUV/",
-        "platform": "Instagram",
-        "outlet": "Instagram",
-        "source": "own",
-        "language": "English",
-        "engagement": 106,
-        "text": "Julie Payette (@juliepayette50), Canadian Astronaut and President of the @ase_astronauts, joins the @IFRC's call for the protection of people before, during and after disasters. Learn more at earthsmissingtreaty.org #EarthsMissingTreaty",
-        "created": "2026-09-19T11:23:48.650393+00:00",
-        "author": "IFRC",
-        "astronauts": [
-          "Julie Payette"
-        ],
         "risk_vectors": []
       }
     ]
@@ -1000,7 +1000,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 148,
+      "engagement": 159,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -2844,7 +2844,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 413,
+      "owned_reach": 416,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2921,7 +2921,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18842,
+      "owned_reach": 18859,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3808,7 +3808,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 2,
+      "engagement": 41,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -4809,7 +4809,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 5,
+      "engagement": 1193,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -5232,7 +5232,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1744,
+      "owned_reach": 1746,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -9926,7 +9926,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1561,
+      "owned_reach": 1562,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -11171,7 +11171,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 0,
-      "owned_reach": 32,
+      "owned_reach": 33,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13200,7 +13200,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 10,
-      "owned_reach": 754,
+      "owned_reach": 756,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13347,7 +13347,7 @@
       "created": "2026-09-04T11:56:34.582833+00:00",
       "day": "2026-09-04",
       "engagement": 77,
-      "reach": 256835,
+      "reach": 234369,
       "sentiment": "",
       "country": "",
       "is_campaign": false,
@@ -13423,7 +13423,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 606,
+      "engagement": 607,
       "reach": 509,
       "sentiment": "",
       "country": "",
@@ -13576,7 +13576,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1492,
+      "owned_reach": 1498,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
