@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T15:48:42.203980+00:00",
+  "generated": "2026-10-27T20:33:05.142476+00:00",
   "count": 557,
   "items": [
     {
@@ -88,7 +88,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 159,
+      "engagement": 158,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -1957,7 +1957,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 942,
+      "owned_reach": 944,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1982,7 +1982,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 849,
+      "owned_reach": 850,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -1999,7 +1999,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 102,
+      "engagement": 103,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -4286,7 +4286,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 789,
+      "engagement": 792,
       "reach": 641,
       "sentiment": "",
       "country": "",
@@ -5449,7 +5449,7 @@
       "author": "IFRC",
       "created": "2026-09-11T17:07:18.262544+00:00",
       "day": "2026-09-11",
-      "engagement": 231,
+      "engagement": 232,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -8715,7 +8715,7 @@
       "author": "@IFRC_MENA",
       "created": "2026-09-04T19:04:26.981096+00:00",
       "day": "2026-09-04",
-      "engagement": 23,
+      "engagement": 25,
       "reach": 21673,
       "sentiment": "",
       "country": "",
@@ -8723,7 +8723,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 24,
+      "owned_engagement": 25,
       "owned_reach": 0,
       "first_seen": "2026-09-04T19:04:29.089996+00:00"
     },
@@ -12011,7 +12011,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 133,
+      "engagement": 134,
       "reach": 88900,
       "sentiment": "",
       "country": "",
