@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T23:40:41.373178+00:00",
+  "generated": "2026-10-27T04:32:53.333679+00:00",
   "count": 555,
   "items": [
     {
@@ -40,7 +40,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 139,
+      "engagement": 147,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -358,7 +358,7 @@
       "author": "Crucea Rosie Romana",
       "created": "2026-10-16T13:52:40.595945+00:00",
       "day": "2026-10-16",
-      "engagement": 18,
+      "engagement": 19,
       "reach": 88968,
       "sentiment": "",
       "country": "",
@@ -2880,7 +2880,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2098,
+      "owned_reach": 2100,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -5524,7 +5524,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 598,
+      "engagement": 599,
       "reach": 468,
       "sentiment": "",
       "country": "",
