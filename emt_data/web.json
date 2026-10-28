@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:17:50+00:00",
+  "generated_at": "2026-10-28T21:52:23+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -335,19 +335,19 @@
     ],
     [
       "2026-10-28",
-      10,
-      14,
-      9
+      20,
+      25,
+      18
     ]
   ],
-  "avg_duration": 347,
+  "avg_duration": 290,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1744,
-      "views": 1872,
-      "users": 1086
+      "sessions": 1752,
+      "views": 1882,
+      "users": 1091
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -366,9 +366,9 @@
     {
       "path": "/earthsmissingtreaty/ar",
       "language": "العربية",
-      "sessions": 23,
-      "views": 27,
-      "users": 18
+      "sessions": 24,
+      "views": 28,
+      "users": 19
     },
     {
       "path": "/es/earthsmissingtreaty",
@@ -479,11 +479,11 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 1200
+      "value": 1206
     },
     {
       "label": "Organic Search",
-      "value": 261
+      "value": 263
     },
     {
       "label": "Organic Social",
@@ -491,17 +491,17 @@
     },
     {
       "label": "Referral",
-      "value": 160
+      "value": 162
     },
     {
       "label": "Unassigned",
-      "value": 9
+      "value": 6
     }
   ],
   "countries": [
     {
       "label": "Germany",
-      "value": 290
+      "value": 295
     },
     {
       "label": "United States",
@@ -509,7 +509,7 @@
     },
     {
       "label": "Switzerland",
-      "value": 178
+      "value": 180
     },
     {
       "label": "United Kingdom",
@@ -536,11 +536,11 @@
       "value": 41
     },
     {
-      "label": "Japan",
-      "value": 35
+      "label": "South Africa",
+      "value": 36
     },
     {
-      "label": "South Africa",
+      "label": "Japan",
       "value": 35
     },
     {
@@ -551,7 +551,7 @@
   "actions": [
     {
       "label": "file_download",
-      "value": 163
+      "value": 164
     },
     {
       "label": "click",
