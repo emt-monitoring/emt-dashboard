@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T23:56:15.389721+00:00",
+  "generated": "2026-10-28T05:05:12.088336+00:00",
   "count": 557,
   "items": [
     {
@@ -88,7 +88,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 161,
+      "engagement": 164,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -2928,7 +2928,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2100,
+      "owned_reach": 2103,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -5573,7 +5573,7 @@
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
       "engagement": 599,
-      "reach": 468,
+      "reach": 474,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
