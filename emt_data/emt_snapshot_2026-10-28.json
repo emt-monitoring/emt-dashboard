@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-28T05:05:12.102467+00:00",
-    "window_hours": 1349,
-    "total": 557,
-    "text_available": 281,
+    "generated": "2026-10-28T11:14:39.743619+00:00",
+    "window_hours": 1355,
+    "total": 559,
+    "text_available": 283,
     "text_masked": 276,
-    "earned_media": 206,
+    "earned_media": 208,
     "social": 351,
     "by_source": {
-      "external": 445,
+      "external": 447,
       "own": 87,
       "movement": 25
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 25,
-    "external_posts": 445,
+    "external_posts": 447,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "38995"
+      "EARNED_ENGAGEMENT": "39005"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 98012,
+      "reach": 98063,
       "candidates": 2000
     },
     "owned_error": "",
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae1825c3e9d52103c848b9a\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae1d8f2332ed1f168af143c\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -195,23 +195,23 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 40815913,
-    "own_reach": 19420590,
+    "total_reach": 40815916,
+    "own_reach": 19420593,
     "movement_reach": 452386,
     "external_reach": 20942937,
-    "own_engagement": 10644,
-    "movement_engagement": 256,
-    "external_engagement": 30348,
+    "own_engagement": 10645,
+    "movement_engagement": 262,
+    "external_engagement": 30351,
     "amplification": 2.85,
     "earned_by_platform": {
-      "Web": 180,
+      "Web": 182,
       "Print": 14,
       "TV": 12
     },
     "top_outlets": {
       "KBTCDT2": 10,
       "Podchaser": 9,
-      "Blogspot": 5,
+      "Blogspot": 6,
       "United Nations": 5,
       "ReliefWeb": 4,
       "Bluewin": 4,
@@ -227,11 +227,12 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Cri": 0,
+      "Blogspot": 0,
       "Theatrum Belli": 0,
       "Bruxelleskorner": 0,
       "Juanita Pérez": 0,
       "Elespanol": 0,
-      "Blogspot": 0,
       "Commons Media": 0,
       "Kohenavocats": 0,
       "Lecentrisme": 0,
@@ -239,10 +240,35 @@
       "Blogalstudies": 0,
       "Etcetera": 0,
       "Ltdn": 0,
-      "Global: Government News and Documents; Political and Economic Organizations News": 0,
-      "Europa": 0
+      "Global: Government News and Documents; Political and Economic Organizations News": 0
     },
     "earned_top": [
+      {
+        "url": "https://cri.it/2026/10/28/earths-missing-treaty-la-campagna-ifrc-sulla-protezione-delle-persone-in-caso-di-catastrofi/",
+        "platform": "Web",
+        "outlet": "Cri",
+        "source": "external",
+        "language": "Spanish",
+        "engagement": 0,
+        "text": "CRI impegnata nel coordinamento del Gruppo di Società Nazionali di Croce Rossa e Mezzaluna Rossa a supporto del nuovo trattato\n<p>Manca poco all’appuntamento di gennaio 2027 che vedrà l’apertura conferenza diplomatica sul</p> <p>Trattato sulla protezione delle persone in caso di ",
+        "created": "2026-10-28T11:14:37.670172+00:00",
+        "author": "cri.it",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
+        "url": "http://mardishongrois.blogspot.com/2026/10/soiree-des-mardis-hongrois-de-paris-du_0155007914.html",
+        "platform": "Web",
+        "outlet": "Blogspot",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Blog des Mardis hongrois de Paris\nmercredi 28 octobre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Pari",
+        "created": "2026-10-28T11:14:37.669579+00:00",
+        "author": "noreply@blogger.com (Mardis hongrois de Paris)",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://theatrum-belli.com/chronicorum-belli-du-26-octobre/",
         "platform": "Web",
@@ -417,35 +443,9 @@
         "author": "Global: Government News and Documents; Political and Economic Organizations News",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-un-general-assembly-6th-committee-protection-persons-event-disasters_en",
-        "platform": "Web",
-        "outlet": "Europa",
-        "source": "external",
-        "language": "English",
-        "engagement": 0,
-        "text": "  12 October 2026, New York - Statement on behalf of the European Union and its Member States by Mr.\n<p>Friedrich Erlbacher, Minister Counsellor, Delegation of the European Union to the United Nations, at the 81st UN General Assembly Sixth Committee on the Agenda item 88: \"Protec",
-        "created": "2026-10-14T20:05:50.987052+00:00",
-        "author": "eeas.europa.eu",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "http://mardishongrois.blogspot.com/2026/10/soiree-des-mardis-hongrois-de-paris-du.html",
-        "platform": "Web",
-        "outlet": "Blogspot",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "Blog des Mardis hongrois de Paris\nmercredi 14 octobre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Pari",
-        "created": "2026-10-14T20:05:50.986197+00:00",
-        "author": "noreply@blogger.com (Mardis hongrois de Paris)",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
-    "campaign_named": 84,
+    "campaign_named": 85,
     "treaty_only": 31,
     "by_day": {
       "2026-09-03": 38,
@@ -490,11 +490,12 @@
       "2026-10-24": 1,
       "2026-10-25": 3,
       "2026-10-26": 2,
-      "2026-10-27": 2
+      "2026-10-27": 2,
+      "2026-10-28": 2
     },
     "by_platform": {
       "X": 276,
-      "Web": 180,
+      "Web": 182,
       "Facebook": 24,
       "Instagram": 21,
       "Print": 14,
@@ -507,8 +508,8 @@
     "by_language": {
       "und": 295,
       "English": 120,
-      "French": 87,
-      "Spanish": 49,
+      "French": 88,
+      "Spanish": 50,
       "unknown": 6
     },
     "by_sentiment": {},
@@ -582,7 +583,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "Spanish",
-        "engagement": 19539,
+        "engagement": 19542,
         "text": "¿Qué pide un exastronauta? Un tratado internacional para proteger a víctimas de desastres naturales tras ver la fragilidad de la atmósfera desde el espacio.\r\n\r\nDurante sus 217 vueltas al mundo en órbita, Hernández vio cómo los rayos del sol revelan la fragilidad de nuestra atmósf",
         "created": "2026-10-08T17:33:18.800407+00:00",
         "author": "MILENIO",
@@ -798,7 +799,7 @@
         "outlet": "Youtube",
         "source": "movement",
         "language": "Spanish",
-        "engagement": 164,
+        "engagement": 170,
         "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
         "created": "2026-10-26T23:40:39.063808+00:00",
         "author": "Croce Rossa Italiana",
@@ -837,7 +838,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 134,
+        "engagement": 135,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -914,6 +915,54 @@
     ]
   },
   "items": [
+    {
+      "id": "s0509",
+      "text": "CRI impegnata nel coordinamento del Gruppo di Società Nazionali di Croce Rossa e Mezzaluna Rossa a supporto del nuovo trattato\n<p>Manca poco all’appuntamento di gennaio 2027 che vedrà l’apertura conferenza diplomatica sul</p> <p>Trattato sulla protezione delle persone in caso di catastrofi, che si terrà a Bangkok presso la sede regionale delle Nazioni Unite.</p> <p>L’incontro rappresenterà il momento conclusivo di un percorso avviato nel 2016, e che ha visto il momento di svolta nel 2024, quando l’Assemblea Generale ONUa deciso all’unanimità di elaborare e adottare uno strumento giuridicamente vincolante sulla “protezione delle persone in caso di catastrofi” (</p> <p>Protection of Persons in the Event of Disasters</p> <p>– PPED), basato sul Progetto di articoli adottato dalla Commissione di diritto internazionale.</p> <p>Molti sono i temi di rilevanza globale e di diretto interesse per il Movimento Internazionale di Croce Rossa e Mezzaluna Rossa. Al centro dei negoziati ci saranno, infatti, la tutela dei diritti fondamentali e della dignità umana in caso di grandi calamità, il riconoscimento di un obbligo di cooperazione internazionale – comprendente anche i membri del nostro Movimento, le facilitazioni utili a consentire un’assistenza umanitaria internazionale rapida, efficace e basata sui Principi fondamentali di umanità, neutralità e imparzialità, nonché un vincolo per gli Stati ad attivarsi in un’ottica di riduzione del rischio.</p> <p>A due mesi dalla discussione del documento finale, con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato.</p> <p>La campagna sottolinea – infatti – un concetto tanto semplice quanto difficile da accettare: gli astronauti sono tutelati da un trattato internazionale che stabilisce l’obbligo globale di soccorre",
+      "title": "Earths Missing Treaty: la campagna IFRC sulla protezione delle persone in caso di catastrofi",
+      "has_text": true,
+      "url": "https://cri.it/2026/10/28/earths-missing-treaty-la-campagna-ifrc-sulla-protezione-delle-persone-in-caso-di-catastrofi/",
+      "platform": "Web",
+      "outlet": "Cri",
+      "source": "external",
+      "language": "Spanish",
+      "language_source": "inferred",
+      "author": "cri.it",
+      "created": "2026-10-28T11:14:37.670172+00:00",
+      "day": "2026-10-28",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": true,
+      "is_treaty": true,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-28T11:14:39.730762+00:00"
+    },
+    {
+      "id": "s0508",
+      "text": "Blog des Mardis hongrois de Paris\nmercredi 28 octobre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Paris\nNous suivre sur Facebook\nQui êtes-vous ?\nMardis hongrois de Paris\nAssociation laïque qui a pour but de réunir les personnes intéressées par la Hongrie, qu’elles en soient originaires ou non, quelles que soient leurs opinions philosophiques, politiques ou religieuses. Elle a aussi pour but de permettre leur rencontre à Paris, l’échange d’informations, le partage des cultures, la conversation magyare et toutes autres activités communes. Contact : mardishongrois(AT)hotmail.com Suivez nous sur Bluesky : @mardishongrois.bsky.social *********************** Petite précision nécessaire compte tenu de demandes récurrentes qui nous parviennent. L'association des Mardis hongrois se veut laïque, ouverte à tous, mais se refusant à relayer ou favoriser quelque prosélytisme religieux, mystique, sectaire, philosophique ou politique que ce soit. Par conséquent toute demande visant à faire de la publicité à des évènements de ce type ou utilisant de tels supports sera automatiquement rejetée sans autre justification.\nAfficher mon profil complet\nCalendrier des soirées des Mardis hongrois de Paris\n- mardi 10 novembre 2026\n- mardi 24 novembre 2026\n- mardi 8 décembre 2026\n- mardi 22 décembre 2026\n- mardi 5 janvier 2027\n- mardi 19 janvier 2027\n- mardi 2 février 2027\n- mardi 16 février 2027\n- mardi 2 mars 2026\nUn mardi sur deux\nà partir de 20h\nau café Le Zimmer, 1, place du Châtelet 75001 Paris\nMétro - Châtelet\nPárizsi magyar találkozó minden második kedden\neste 8 órakor kezdődik\n. Helyszin :\nZimmer kávéházban, 1, place du Châtelet\nMétro Châtelet\n************\nLes Mardis hongrois sur France 2 émission\nTélématin\nLes Mardis hongrois de Paris sur\nFrance Inter\nLes Mardis hongrois de Paris sur\nYoutube\nLes Mardis hongroi",
+      "title": "Soirée des Mardis hongrois de Paris du 27 octobre 2026 - Les images !",
+      "has_text": true,
+      "url": "http://mardishongrois.blogspot.com/2026/10/soiree-des-mardis-hongrois-de-paris-du_0155007914.html",
+      "platform": "Web",
+      "outlet": "Blogspot",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "noreply@blogger.com (Mardis hongrois de Paris)",
+      "created": "2026-10-28T11:14:37.669579+00:00",
+      "day": "2026-10-28",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-28T11:14:39.730762+00:00"
+    },
     {
       "id": "s0507",
       "text": "",
@@ -1000,7 +1049,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 164,
+      "engagement": 170,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -3163,7 +3212,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1070,
+      "owned_reach": 1073,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -3931,7 +3980,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19539,
+      "engagement": 19542,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -4716,7 +4765,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1202,
+      "owned_reach": 1205,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -4786,7 +4835,7 @@
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
       "engagement": 474,
-      "reach": 397,
+      "reach": 400,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -6443,7 +6492,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 927,
+      "owned_reach": 947,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -7313,7 +7362,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 47,
-      "owned_reach": 1124,
+      "owned_reach": 1125,
       "first_seen": "2026-09-09T16:21:21.345486+00:00"
     },
     {
@@ -12923,7 +12972,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 134,
+      "engagement": 135,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -13276,7 +13325,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4689,
+      "owned_reach": 4690,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13355,7 +13404,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3557,
+      "owned_reach": 3580,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
