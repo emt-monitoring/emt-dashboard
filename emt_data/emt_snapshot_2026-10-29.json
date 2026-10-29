@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-10-29T15:28:43.297641+00:00",
-    "window_hours": 1383,
-    "total": 575,
-    "text_available": 294,
+    "generated": "2026-10-29T20:29:41.620412+00:00",
+    "window_hours": 1388,
+    "total": 576,
+    "text_available": 295,
     "text_masked": 281,
-    "earned_media": 215,
+    "earned_media": 216,
     "social": 360,
     "by_source": {
-      "external": 458,
+      "external": 459,
       "own": 87,
       "movement": 30
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 30,
-    "external_posts": 458,
+    "external_posts": 459,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39061"
+      "EARNED_ENGAGEMENT": "39084"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 98099,
+      "reach": 98109,
       "candidates": 2000
     },
     "owned_error": "",
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae365fc2234631a405ccf26\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae3ac953d5c4925a4669532\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -199,12 +199,12 @@
     "own_reach": 19420593,
     "movement_reach": 1327262,
     "external_reach": 20960531,
-    "own_engagement": 10662,
-    "movement_engagement": 434,
+    "own_engagement": 10664,
+    "movement_engagement": 455,
     "external_engagement": 30396,
     "amplification": 2.85,
     "earned_by_platform": {
-      "Web": 189,
+      "Web": 190,
       "Print": 14,
       "TV": 12
     },
@@ -227,6 +227,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Diarioavancetabasco": 0,
       "Infoensenadanoticias": 0,
       "Blogspot": 0,
       "Bruxelleskorner": 0,
@@ -239,10 +240,22 @@
       "Juanita Pérez": 0,
       "Elespanol": 0,
       "Commons Media": 0,
-      "Kohenavocats": 0,
-      "Lecentrisme": 0
+      "Kohenavocats": 0
     },
     "earned_top": [
+      {
+        "url": "https://diarioavancetabasco.com/?p=508801",
+        "platform": "Web",
+        "outlet": "Diarioavancetabasco",
+        "source": "external",
+        "language": "Spanish",
+        "engagement": 0,
+        "text": "  David Morales/AVANCE  El 29 de octubre de 1863 concluyó en Ginebra, Suiza, una conferencia internacional que estableció las bases del movimiento\n<p>de la Cruz Roja, una de las iniciativas humanitarias más importantes de la historia moderna. Representantes de distintos países ac",
+        "created": "2026-10-29T20:29:39.444493+00:00",
+        "author": "diarioavancetabasco.com",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://infoensenadanoticias.com.ar/efemerides/efemerides-del-29-de-octubre-de-2026",
         "platform": "Web",
@@ -424,21 +437,6 @@
         "author": "Mardis hongrois de Paris (noreply@blogger.com)",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.commons-media.fr/international/effondrement-dun-immeuble-en-construction-a-nairobi-les-secours-recherchent-deventuelles-victimes-a-eastleigh/",
-        "platform": "Web",
-        "outlet": "Commons Media",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "Un immeuble de plusieurs étages en construction s’est effondré vendredi 23 octobre 2026 dans le quartier d’Eastleigh, à Nairobi, la capitale du Kenya. Des opérations de recherche et de sauvetage ont été engagées, tandis que des personnes étaient redoutées prisonnières des décombr",
-        "created": "2026-10-23T15:51:22.297687+00:00",
-        "author": "La rédaction de Commons",
-        "astronauts": [],
-        "risk_vectors": [
-          "venue_uncertainty"
-        ]
       }
     ],
     "campaign_named": 90,
@@ -488,11 +486,11 @@
       "2026-10-26": 2,
       "2026-10-27": 2,
       "2026-10-28": 12,
-      "2026-10-29": 6
+      "2026-10-29": 7
     },
     "by_platform": {
       "X": 281,
-      "Web": 189,
+      "Web": 190,
       "Facebook": 26,
       "Instagram": 23,
       "Print": 14,
@@ -506,7 +504,7 @@
       "und": 301,
       "English": 124,
       "French": 90,
-      "Spanish": 54,
+      "Spanish": 55,
       "unknown": 6
     },
     "by_sentiment": {},
@@ -608,7 +606,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 1193,
+        "engagement": 1194,
         "text": "Dr. Sian Proctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters.\n\nLearn more at earthsmissingtreaty.org",
         "created": "2026-09-25T20:22:57.162862+00:00",
         "author": "IFRC",
@@ -796,7 +794,7 @@
         "outlet": "Youtube",
         "source": "movement",
         "language": "Spanish",
-        "engagement": 189,
+        "engagement": 192,
         "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
         "created": "2026-10-26T23:40:39.063808+00:00",
         "author": "Croce Rossa Italiana",
@@ -830,12 +828,25 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.instagram.com/reel/DfCTKO0gZn7/",
+        "platform": "Instagram",
+        "outlet": "Instagram",
+        "source": "movement",
+        "language": "Spanish",
+        "engagement": 145,
+        "text": "🚀🌍 Gli astronauti sono tutelati da un trattato internazionale. Le persone colpite da disastri sulla Terra ancora no. \n\nÈ il messaggio di #EarthsMissingTreaty, la campagna dell'ifrc che punta a rafforzare il proprio appello alle autorità internazionali in vista della conferenza ne",
+        "created": "2026-10-28T17:17:44.787155+00:00",
+        "author": "Croce Rossa Italiana",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.youtube.com/shorts/oDDZQ_VYiPY",
         "platform": "YouTube",
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 136,
+        "engagement": 137,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -852,19 +863,6 @@
         "text": "There is a missing treaty! 🚀🌍\n\nHumanity has made treaties to protect and regulate many things, from migrating birds to coffee crossing borders to astronauts returning safely to Earth.\n\nIn 1968, governments created the Rescue Agreement, requiring countries to help astronauts in di",
         "created": "2026-09-04T11:56:34.582406+00:00",
         "author": "Dr. Sian “Leo” Proctor (Space Artist & Astronaut)",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.instagram.com/reel/DfCTKO0gZn7/",
-        "platform": "Instagram",
-        "outlet": "Instagram",
-        "source": "movement",
-        "language": "Spanish",
-        "engagement": 127,
-        "text": "🚀🌍 Gli astronauti sono tutelati da un trattato internazionale. Le persone colpite da disastri sulla Terra ancora no. \n\nÈ il messaggio di #EarthsMissingTreaty, la campagna dell'ifrc che punta a rafforzare il proprio appello alle autorità internazionali in vista della conferenza ne",
-        "created": "2026-10-28T17:17:44.787155+00:00",
-        "author": "Croce Rossa Italiana",
         "astronauts": [],
         "risk_vectors": []
       },
@@ -912,6 +910,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0218",
+      "text": "  David Morales/AVANCE  El 29 de octubre de 1863 concluyó en Ginebra, Suiza, una conferencia internacional que estableció las bases del movimiento\n<p>de la Cruz Roja, una de las iniciativas humanitarias más importantes de la historia moderna. Representantes de distintos países acordaron medidas para mejorar la atención de los soldados heridos en combate y promover la creación de sociedades de socorro que auxiliaran a las víctimas de la guerra, sin distinción de nacionalidad.</p> <p> El origen de esta iniciativa se remonta a junio de 1859, cuando el empresario suizo Henry Dunant presenció las consecuencias de la batalla de Solferino, librada en el norte de Italia entre los ejércitos de Francia y Cerdeña contra las fuerzas austriacas. Miles de soldados quedaron heridos o murieron sin recibir atención suficiente. Ante el sufrimiento que observó, Dunant organizó ayuda con habitantes de la región y promovió la asistencia a los combatientes sin importar el bando al que pertenecieran.</p> <p> De aquella experiencia surgió su libro Recuerdo de Solferino , publicado en 1862. En sus páginas propuso establecer sociedades de socorro en tiempos de paz, preparadas para atender a los heridos durante los conflictos armados, así como impulsar acuerdos internacionales que protegieran al personal sanitario y a quienes necesitaran asistencia.</p> <p> Sus propuestas fueron retomadas por la Sociedad Ginebrina de Utilidad Pública, que en febrero de 1863 constituyó un comité de cinco integrantes, entre ellos Dunant, el general Guillaume-Henri Dufour y el jurista Gustave Moynier. Este grupo convocó una conferencia internacional que se celebró del 26 al 29 de octubre de ese año. Durante las sesiones se aprobaron resoluciones para crear comités nacionales de socorro y adoptar una insignia común que permitiera identificar al personal médico en los campos de batalla.</p> <p> La cruz roja sobre fondo blanco fue elegida como emblema distintivo. Su función era facilitar la identificación de los se",
+      "title": "La conferencia que sentó las bases de la Cruz Roja Internacional La conferencia que sentó las bases de la Cruz Roja Internacional",
+      "has_text": true,
+      "url": "https://diarioavancetabasco.com/?p=508801",
+      "platform": "Web",
+      "outlet": "Diarioavancetabasco",
+      "source": "external",
+      "language": "Spanish",
+      "language_source": "inferred",
+      "author": "diarioavancetabasco.com",
+      "created": "2026-10-29T20:29:39.444493+00:00",
+      "day": "2026-10-29",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-10-29T20:29:41.603720+00:00"
+    },
     {
       "id": "s0523",
       "text": "Cada 29 de octubre, la historia registra hechos que marcaron civilizaciones, naciones y culturas a lo largo del tiempo. Desde batallas decisivas hasta descubrimientos científicos, pasando por nacimientos de figuras que cambiaron el mundo: un día como hoy fue escenario de momentos que todavía resuenan en el presente.\nEfemérides argentinas del 29 de octubre de 2026\n- 1762 – Pedro de Cevallos, gobernador de Buenos Aires, reconquista Colonia del Sacramento para España.\n- 1839 – en la villa de Dolores (a 100 km al sur de la ciudad de Buenos Aires), fracasa un movimiento armado para derribar al Gobierno popular de Juan Manuel de Rosas.\n- 1923 – Luis Bras, dibujante, diseñador gráfico y cineasta argentino, pionero de la animación (f. 1995).\n- 1952 – Guillermo Maldonado, piloto argentino de automovilismo.\n- 1965 – Horacio Rodríguez Larreta, político argentino.\n- 1969 – en la Antártida, el Gobierno argentino funda la base Marambio.\n- 1972 – un avión de la Lufthansa es secuestrado por integrantes del grupo terrorista Septiembre Negro. Ese mismo día por la noche en los Andes argentinos, un alud de nieve sepulta el fuselaje del accidentado Vuelo 571 de la Fuerza Aérea Uruguaya, matando a ocho de los 27 supervivientes del accidente inicial. Entre el 22 y el 23 de diciembre, 16 personas fueron rescatadas con vida de las montañas.\n- 1996 – Emilia Mernes, actriz y cantante\nargentina. - 1996 – Nicolás Campisi, futbolista argentino.\n- 1998 – Tomás Giménez, futbolista argentino.\nEl 29 de octubre de 1929, se produjo el famoso Jueves Negro, un evento que marcó el inicio de la Gran Depresión en los Estados Unidos. En este día, la bolsa de valores de Nueva York sufrió una caída drástica, lo que llevó a una crisis económica que afectó a millones de personas en todo el mundo. Este colapso financiero cambió el curso de la historia económica durante varias décadas.\nEn el mundo: 29 de octubre de 2026\n- -539 – Caída de Babilonia. Ciro el Grande anexa el territorio a\nPersia, terminando con más d",
@@ -1286,7 +1308,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-28T17:17:44.787155+00:00",
       "day": "2026-10-28",
-      "engagement": 127,
+      "engagement": 145,
       "reach": 219184,
       "sentiment": "",
       "country": "",
@@ -1430,7 +1452,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 189,
+      "engagement": 192,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -2886,7 +2908,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 195,
+      "owned_reach": 196,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3199,7 +3221,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 268,
+      "owned_reach": 270,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3274,7 +3296,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 418,
+      "owned_reach": 421,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3299,7 +3321,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 948,
+      "owned_reach": 950,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3341,7 +3363,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-10-13T17:05:17.912748+00:00",
       "day": "2026-10-13",
-      "engagement": 104,
+      "engagement": 103,
       "reach": 781353,
       "sentiment": "",
       "country": "",
@@ -4238,7 +4260,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 41,
+      "engagement": 42,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -5239,7 +5261,7 @@
       "author": "IFRC",
       "created": "2026-09-25T20:22:57.162862+00:00",
       "day": "2026-09-25",
-      "engagement": 1193,
+      "engagement": 1194,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -10356,7 +10378,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1564,
+      "owned_reach": 1566,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -13353,7 +13375,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 136,
+      "engagement": 137,
       "reach": 88900,
       "sentiment": "",
       "country": "",
