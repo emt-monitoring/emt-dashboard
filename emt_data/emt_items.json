@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T18:47:08.185077+00:00",
+  "generated": "2026-10-30T22:54:07.295136+00:00",
   "count": 580,
   "items": [
     {
@@ -496,7 +496,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-28T17:17:44.787155+00:00",
       "day": "2026-10-28",
-      "engagement": 200,
+      "engagement": 204,
       "reach": 219184,
       "sentiment": "",
       "country": "",
@@ -2484,7 +2484,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 421,
+      "owned_reach": 425,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2534,7 +2534,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 854,
+      "owned_reach": 855,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2578,7 +2578,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 428,
+      "engagement": 430,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -4838,7 +4838,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 795,
+      "engagement": 796,
       "reach": 641,
       "sentiment": "",
       "country": "",
@@ -4889,7 +4889,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-19T11:23:48.651234+00:00",
       "day": "2026-09-19",
-      "engagement": 198,
+      "engagement": 196,
       "reach": 780473,
       "sentiment": "",
       "country": "",
