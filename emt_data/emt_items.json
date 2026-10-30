@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T13:24:21.699530+00:00",
+  "generated": "2026-10-30T18:47:08.185077+00:00",
   "count": 580,
   "items": [
     {
@@ -328,7 +328,7 @@
       "author": "maldivianrc",
       "created": "2026-10-28T17:17:44.840918+00:00",
       "day": "2026-10-28",
-      "engagement": 39,
+      "engagement": 40,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -472,7 +472,7 @@
       "author": "Croce Rossa Italiana - Italian Red Cross",
       "created": "2026-10-28T17:17:44.791148+00:00",
       "day": "2026-10-28",
-      "engagement": 33,
+      "engagement": 36,
       "reach": 540296,
       "sentiment": "",
       "country": "",
@@ -496,7 +496,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-28T17:17:44.787155+00:00",
       "day": "2026-10-28",
-      "engagement": 184,
+      "engagement": 200,
       "reach": 219184,
       "sentiment": "",
       "country": "",
@@ -2803,7 +2803,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1074,
+      "owned_reach": 1077,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -4872,7 +4872,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1747,
+      "owned_reach": 1748,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -12916,7 +12916,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4690,
+      "owned_reach": 4692,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12995,7 +12995,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3589,
+      "owned_reach": 3592,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13063,8 +13063,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 609,
-      "reach": 509,
+      "engagement": 610,
+      "reach": 515,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -13072,7 +13072,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 31,
-      "owned_reach": 509,
+      "owned_reach": 515,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {

@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-30T13:24:21.716372+00:00",
-    "window_hours": 1405,
+    "generated": "2026-10-30T18:47:08.199471+00:00",
+    "window_hours": 1410,
     "total": 580,
     "text_available": 299,
     "text_masked": 281,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39151"
+      "EARNED_ENGAGEMENT": "39168"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3344,
       "video_views": 0,
-      "reach": 98111,
+      "reach": 98126,
       "candidates": 2000
     },
     "owned_error": "",
@@ -140,13 +140,13 @@
         "https://twitter.com/jagan_chapagain/status/2095476910717284842",
         "https://www.facebook.com/reel/1045874834746926/",
         "https://twitter.com/jagan_chapagain/status/2095870925501583630",
+        "https://twitter.com/ifrc/status/2109894672147513379",
         "https://twitter.com/jagan_chapagain/status/2109982270345875570",
         "https://twitter.com/ifrc/status/2103756461994398048",
         "https://twitter.com/IFRCAfrica/status/2109972174215778814",
         "https://twitter.com/ifrc/status/2098404313475297743",
         "https://twitter.com/jagan_chapagain/status/2104608414919803020",
         "https://twitter.com/IFRC_MENA/status/2095949379534287229",
-        "https://twitter.com/ifrc/status/2109894672147513379",
         "https://twitter.com/jagan_chapagain/status/2095794860951228777",
         "https://twitter.com/IFRCAfrica/status/2095436649932939472",
         "https://twitter.com/IFRCAsiaPacific/status/2110185201729184140",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae49a660b859c50d0e6e052\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae4e607332ed1f1681a7c40\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -195,13 +195,13 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 41708386,
-    "own_reach": 19420593,
+    "total_reach": 41708392,
+    "own_reach": 19420599,
     "movement_reach": 1327262,
     "external_reach": 20960531,
-    "own_engagement": 10685,
-    "movement_engagement": 511,
-    "external_engagement": 30404,
+    "own_engagement": 10686,
+    "movement_engagement": 530,
+    "external_engagement": 30405,
     "amplification": 2.85,
     "earned_by_platform": {
       "Web": 194,
@@ -676,7 +676,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 609,
+        "engagement": 610,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -775,6 +775,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.instagram.com/reel/DfCTKO0gZn7/",
+        "platform": "Instagram",
+        "outlet": "Instagram",
+        "source": "movement",
+        "language": "Spanish",
+        "engagement": 200,
+        "text": "🚀🌍 Gli astronauti sono tutelati da un trattato internazionale. Le persone colpite da disastri sulla Terra ancora no. \n\nÈ il messaggio di #EarthsMissingTreaty, la campagna dell'ifrc che punta a rafforzare il proprio appello alle autorità internazionali in vista della conferenza ne",
+        "created": "2026-10-28T17:17:44.787155+00:00",
+        "author": "Croce Rossa Italiana",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.facebook.com/reel/1092294233256699/",
         "platform": "Facebook",
         "outlet": "Facebook",
@@ -798,19 +811,6 @@
         "engagement": 196,
         "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
         "created": "2026-10-26T23:40:39.063808+00:00",
-        "author": "Croce Rossa Italiana",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.instagram.com/reel/DfCTKO0gZn7/",
-        "platform": "Instagram",
-        "outlet": "Instagram",
-        "source": "movement",
-        "language": "Spanish",
-        "engagement": 184,
-        "text": "🚀🌍 Gli astronauti sono tutelati da un trattato internazionale. Le persone colpite da disastri sulla Terra ancora no. \n\nÈ il messaggio di #EarthsMissingTreaty, la campagna dell'ifrc che punta a rafforzare il proprio appello alle autorità internazionali in vista della conferenza ne",
-        "created": "2026-10-28T17:17:44.787155+00:00",
         "author": "Croce Rossa Italiana",
         "astronauts": [],
         "risk_vectors": []
@@ -1237,7 +1237,7 @@
       "author": "maldivianrc",
       "created": "2026-10-28T17:17:44.840918+00:00",
       "day": "2026-10-28",
-      "engagement": 39,
+      "engagement": 40,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -1381,7 +1381,7 @@
       "author": "Croce Rossa Italiana - Italian Red Cross",
       "created": "2026-10-28T17:17:44.791148+00:00",
       "day": "2026-10-28",
-      "engagement": 33,
+      "engagement": 36,
       "reach": 540296,
       "sentiment": "",
       "country": "",
@@ -1405,7 +1405,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-28T17:17:44.787155+00:00",
       "day": "2026-10-28",
-      "engagement": 184,
+      "engagement": 200,
       "reach": 219184,
       "sentiment": "",
       "country": "",
@@ -3712,7 +3712,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1074,
+      "owned_reach": 1077,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -5781,7 +5781,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1747,
+      "owned_reach": 1748,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -13825,7 +13825,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4690,
+      "owned_reach": 4692,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13904,7 +13904,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3589,
+      "owned_reach": 3592,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13972,8 +13972,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 609,
-      "reach": 509,
+      "engagement": 610,
+      "reach": 515,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -13981,7 +13981,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 31,
-      "owned_reach": 509,
+      "owned_reach": 515,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
