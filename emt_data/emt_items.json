@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T15:13:48.161502+00:00",
+  "generated": "2026-10-31T19:30:19.269234+00:00",
   "count": 580,
   "items": [
     {
@@ -12943,7 +12943,7 @@
       "risk_vectors": [],
       "owned_engagement": 55,
       "owned_video_views": 0,
-      "owned_reach": 1897,
+      "owned_reach": 1899,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13063,7 +13063,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 610,
+      "engagement": 612,
       "reach": 515,
       "sentiment": "",
       "country": "",
@@ -13071,7 +13071,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 31,
+      "owned_engagement": 32,
       "owned_reach": 515,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
@@ -13216,7 +13216,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1498,
+      "owned_reach": 1500,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,

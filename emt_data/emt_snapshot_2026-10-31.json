@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-31T15:13:48.176654+00:00",
-    "window_hours": 1431,
+    "generated": "2026-10-31T19:30:19.283578+00:00",
+    "window_hours": 1435,
     "total": 580,
     "text_available": 299,
     "text_masked": 281,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39190"
+      "EARNED_ENGAGEMENT": "39192"
     },
     "owned_true": {
-      "posts": 46,
-      "engagement": 3344,
+      "posts": 45,
+      "engagement": 3345,
       "video_views": 0,
-      "reach": 98175,
+      "reach": 97763,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,11 +168,10 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
-        "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
@@ -185,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae6058c8d13c8a304f1b063\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae6419c60092f463ed1bccc\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -199,7 +198,7 @@
     "own_reach": 19420599,
     "movement_reach": 1327262,
     "external_reach": 20960531,
-    "own_engagement": 10693,
+    "own_engagement": 10695,
     "movement_engagement": 545,
     "external_engagement": 30408,
     "amplification": 2.84,
@@ -676,7 +675,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 610,
+        "engagement": 612,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -13852,7 +13851,7 @@
       "risk_vectors": [],
       "owned_engagement": 55,
       "owned_video_views": 0,
-      "owned_reach": 1897,
+      "owned_reach": 1899,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13972,7 +13971,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 610,
+      "engagement": 612,
       "reach": 515,
       "sentiment": "",
       "country": "",
@@ -13980,7 +13979,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 31,
+      "owned_engagement": 32,
       "owned_reach": 515,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
@@ -14125,7 +14124,7 @@
       "engagement": 35,
       "reach": 0,
       "owned_engagement": 70,
-      "owned_reach": 1498,
+      "owned_reach": 1500,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
