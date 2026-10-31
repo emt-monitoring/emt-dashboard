@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T19:30:19.269234+00:00",
+  "generated": "2026-10-31T22:44:46.252205+00:00",
   "count": 580,
   "items": [
     {
@@ -4872,7 +4872,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1748,
+      "owned_reach": 1749,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {

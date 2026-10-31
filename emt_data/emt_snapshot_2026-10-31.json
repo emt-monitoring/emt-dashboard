@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-31T19:30:19.283578+00:00",
-    "window_hours": 1435,
+    "generated": "2026-10-31T22:44:46.268491+00:00",
+    "window_hours": 1438,
     "total": 580,
     "text_available": 299,
     "text_masked": 281,
@@ -54,10 +54,10 @@
       "EARNED_ENGAGEMENT": "39192"
     },
     "owned_true": {
-      "posts": 45,
+      "posts": 46,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 97763,
+      "reach": 98179,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,10 +168,11 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
+        "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
@@ -184,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae6419c60092f463ed1bccc\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae66f3e8d13c8a304fbc41e\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -5780,7 +5781,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1748,
+      "owned_reach": 1749,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
