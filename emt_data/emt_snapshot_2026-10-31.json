@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-10-31T08:45:13.893849+00:00",
-    "window_hours": 1424,
+    "generated": "2026-10-31T15:13:48.176654+00:00",
+    "window_hours": 1431,
     "total": 580,
     "text_available": 299,
     "text_masked": 281,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39187"
+      "EARNED_ENGAGEMENT": "39190"
     },
     "owned_true": {
-      "posts": 45,
+      "posts": 46,
       "engagement": 3344,
       "video_views": 0,
-      "reach": 97716,
+      "reach": 98175,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,10 +168,11 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
+        "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
@@ -184,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae5aa76394926f99c8616eb\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae6058c8d13c8a304f1b063\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -199,8 +200,8 @@
     "movement_reach": 1327262,
     "external_reach": 20960531,
     "own_engagement": 10693,
-    "movement_engagement": 542,
-    "external_engagement": 30407,
+    "movement_engagement": 545,
+    "external_engagement": 30408,
     "amplification": 2.84,
     "earned_by_platform": {
       "Web": 194,
@@ -779,7 +780,7 @@
         "outlet": "Instagram",
         "source": "movement",
         "language": "Spanish",
-        "engagement": 208,
+        "engagement": 211,
         "text": "🚀🌍 Gli astronauti sono tutelati da un trattato internazionale. Le persone colpite da disastri sulla Terra ancora no. \n\nÈ il messaggio di #EarthsMissingTreaty, la campagna dell'ifrc che punta a rafforzare il proprio appello alle autorità internazionali in vista della conferenza ne",
         "created": "2026-10-28T17:17:44.787155+00:00",
         "author": "Croce Rossa Italiana",
@@ -1236,7 +1237,7 @@
       "author": "maldivianrc",
       "created": "2026-10-28T17:17:44.840918+00:00",
       "day": "2026-10-28",
-      "engagement": 41,
+      "engagement": 42,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -1404,7 +1405,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-28T17:17:44.787155+00:00",
       "day": "2026-10-28",
-      "engagement": 208,
+      "engagement": 211,
       "reach": 219184,
       "sentiment": "",
       "country": "",
@@ -13824,7 +13825,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4692,
+      "owned_reach": 4693,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13903,7 +13904,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3592,
+      "owned_reach": 3593,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13954,7 +13955,7 @@
       "risk_vectors": [],
       "owned_engagement": 878,
       "owned_video_views": 0,
-      "owned_reach": 20385,
+      "owned_reach": 20427,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {

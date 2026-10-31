@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T08:45:13.880129+00:00",
+  "generated": "2026-10-31T15:13:48.161502+00:00",
   "count": 580,
   "items": [
     {
@@ -328,7 +328,7 @@
       "author": "maldivianrc",
       "created": "2026-10-28T17:17:44.840918+00:00",
       "day": "2026-10-28",
-      "engagement": 41,
+      "engagement": 42,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -496,7 +496,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-28T17:17:44.787155+00:00",
       "day": "2026-10-28",
-      "engagement": 208,
+      "engagement": 211,
       "reach": 219184,
       "sentiment": "",
       "country": "",
@@ -12916,7 +12916,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4692,
+      "owned_reach": 4693,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -12995,7 +12995,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3592,
+      "owned_reach": 3593,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13046,7 +13046,7 @@
       "risk_vectors": [],
       "owned_engagement": 878,
       "owned_video_views": 0,
-      "owned_reach": 20385,
+      "owned_reach": 20427,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
