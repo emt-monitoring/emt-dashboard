@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-11-01T20:24:48.051015+00:00",
-    "window_hours": 1460,
+    "generated": "2026-11-01T23:49:34.291232+00:00",
+    "window_hours": 1463,
     "total": 580,
     "text_available": 299,
     "text_masked": 281,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39212"
+      "EARNED_ENGAGEMENT": "39213"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 98223,
+      "reach": 98226,
       "candidates": 2000
     },
     "owned_error": "",
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae79fe43d5c4925a4d4267c\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae7cfe4a98b84d4e345db9b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -199,7 +199,7 @@
     "own_reach": 19420599,
     "movement_reach": 1327262,
     "external_reach": 20960531,
-    "own_engagement": 10709,
+    "own_engagement": 10710,
     "movement_engagement": 555,
     "external_engagement": 30410,
     "amplification": 2.84,
@@ -728,7 +728,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 430,
+        "engagement": 431,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -3005,7 +3005,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 196,
+      "owned_reach": 197,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3318,7 +3318,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 270,
+      "owned_reach": 271,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3487,7 +3487,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 430,
+      "engagement": 431,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -10475,7 +10475,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1566,
+      "owned_reach": 1567,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {

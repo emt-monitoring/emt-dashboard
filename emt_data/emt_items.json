@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T20:24:48.037330+00:00",
+  "generated": "2026-11-01T23:49:34.276041+00:00",
   "count": 580,
   "items": [
     {
@@ -2096,7 +2096,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 196,
+      "owned_reach": 197,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2409,7 +2409,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 270,
+      "owned_reach": 271,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2578,7 +2578,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 430,
+      "engagement": 431,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -9566,7 +9566,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1566,
+      "owned_reach": 1567,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
