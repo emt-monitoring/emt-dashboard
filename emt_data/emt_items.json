@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T15:55:13.466119+00:00",
+  "generated": "2026-11-01T20:24:48.037330+00:00",
   "count": 580,
   "items": [
     {
@@ -2434,7 +2434,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 251,
+      "owned_reach": 252,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2559,9 +2559,9 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 466,
+      "owned_engagement": 465,
       "owned_video_views": 0,
-      "owned_reach": 18865,
+      "owned_reach": 18869,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -12933,7 +12933,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.583208+00:00",
       "day": "2026-09-04",
-      "engagement": 55,
+      "engagement": 56,
       "reach": 780260,
       "sentiment": "",
       "country": "",
@@ -12941,7 +12941,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 55,
+      "owned_engagement": 56,
       "owned_video_views": 0,
       "owned_reach": 1899,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
