@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-11-01T02:02:20.440868+00:00",
-    "window_hours": 1442,
+    "generated": "2026-11-01T08:58:40.985023+00:00",
+    "window_hours": 1448,
     "total": 580,
     "text_available": 299,
     "text_masked": 281,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39197"
+      "EARNED_ENGAGEMENT": "39206"
     },
     "owned_true": {
-      "posts": 46,
+      "posts": 45,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 98179,
+      "reach": 97764,
       "candidates": 2000
     },
     "owned_error": "",
@@ -65,13 +65,13 @@
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1102,
+        "FACEBOOK": 1105,
         "TWITTER": 348,
-        "INSTAGRAM": 385,
-        "THREADS": 16,
-        "LINKEDIN": 55,
+        "INSTAGRAM": 384,
         "WECHAT": 6,
+        "THREADS": 15,
         "BLUESKY": 18,
+        "LINKEDIN": 54,
         "VK": 20,
         "TIKTOK": 20,
         "YOUTUBE": 30
@@ -134,8 +134,8 @@
         "https://twitter.com/ifrc/status/2109986566919614677",
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
         "https://twitter.com/ifrc/status/2106293184116502862",
-        "https://twitter.com/ifrc/status/2101219750961430854",
         "https://www.youtube.com/shorts/mhqciPjr9Ig",
+        "https://twitter.com/ifrc/status/2101219750961430854",
         "https://twitter.com/ifrc/status/2099045420030705720",
         "https://twitter.com/jagan_chapagain/status/2095476910717284842",
         "https://www.facebook.com/reel/1045874834746926/",
@@ -172,7 +172,6 @@
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
-        "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
@@ -185,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae69d7dbfc7482ecfa6a9b0\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae6ff1cbfc7482ecfae49c7\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -199,8 +198,8 @@
     "own_reach": 19420599,
     "movement_reach": 1327262,
     "external_reach": 20960531,
-    "own_engagement": 10700,
-    "movement_engagement": 545,
+    "own_engagement": 10704,
+    "movement_engagement": 555,
     "external_engagement": 30408,
     "amplification": 2.84,
     "earned_by_platform": {
@@ -684,6 +683,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.tiktok.com/@ifrc/video/7692071841501924611",
+        "platform": "TikTok",
+        "outlet": "Tiktok",
+        "source": "own",
+        "language": "English",
+        "engagement": 604,
+        "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
+        "created": "2026-10-08T17:33:18.803267+00:00",
+        "author": "We are humanitarians",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.tiktok.com/@ifrc/video/7684271318954446103",
         "platform": "TikTok",
         "outlet": "Tiktok",
@@ -692,19 +704,6 @@
         "engagement": 604,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
-        "author": "We are humanitarians",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.tiktok.com/@ifrc/video/7692071841501924611",
-        "platform": "TikTok",
-        "outlet": "Tiktok",
-        "source": "own",
-        "language": "English",
-        "engagement": 601,
-        "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
-        "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
         "astronauts": [],
         "risk_vectors": []
@@ -793,7 +792,7 @@
         "outlet": "Youtube",
         "source": "movement",
         "language": "Spanish",
-        "engagement": 200,
+        "engagement": 206,
         "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
         "created": "2026-10-26T23:40:39.063808+00:00",
         "author": "Croce Rossa Italiana",
@@ -1381,7 +1380,7 @@
       "author": "Croce Rossa Italiana - Italian Red Cross",
       "created": "2026-10-28T17:17:44.791148+00:00",
       "day": "2026-10-28",
-      "engagement": 36,
+      "engagement": 40,
       "reach": 540296,
       "sentiment": "",
       "country": "",
@@ -1549,7 +1548,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 200,
+      "engagement": 206,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -4357,7 +4356,7 @@
       "author": "IFRC",
       "created": "2026-10-08T17:33:18.812861+00:00",
       "day": "2026-10-08",
-      "engagement": 43,
+      "engagement": 44,
       "reach": 89000,
       "sentiment": "",
       "country": "",
@@ -4456,7 +4455,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 601,
+      "engagement": 604,
       "reach": 479,
       "sentiment": "",
       "country": "",
