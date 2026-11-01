@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T08:58:40.952517+00:00",
+  "generated": "2026-11-01T15:55:13.466119+00:00",
   "count": 580,
   "items": [
     {
@@ -2561,7 +2561,7 @@
       "risk_vectors": [],
       "owned_engagement": 466,
       "owned_video_views": 0,
-      "owned_reach": 18859,
+      "owned_reach": 18865,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3571,7 +3571,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19548,
+      "engagement": 19550,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -4356,7 +4356,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1205,
+      "owned_reach": 1206,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -4425,7 +4425,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 480,
+      "engagement": 482,
       "reach": 400,
       "sentiment": "",
       "country": "",
@@ -6083,7 +6083,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 958,
+      "owned_reach": 959,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -6124,7 +6124,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 604,
+      "engagement": 606,
       "reach": 474,
       "sentiment": "",
       "country": "",
@@ -12995,7 +12995,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3593,
+      "owned_reach": 3598,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13046,7 +13046,7 @@
       "risk_vectors": [],
       "owned_engagement": 878,
       "owned_video_views": 0,
-      "owned_reach": 20427,
+      "owned_reach": 20453,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:58:44+00:00",
+  "generated_at": "2026-11-01T15:55:17+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -359,19 +359,19 @@
     ],
     [
       "2026-11-01",
-      1,
-      1,
-      1
+      2,
+      2,
+      2
     ]
   ],
-  "avg_duration": 0,
+  "avg_duration": 41,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1787,
-      "views": 1927,
-      "users": 1113
+      "sessions": 1788,
+      "views": 1928,
+      "users": 1114
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -511,7 +511,7 @@
     },
     {
       "label": "Organic Social",
-      "value": 238
+      "value": 239
     },
     {
       "label": "Referral",
@@ -541,7 +541,7 @@
     },
     {
       "label": "France",
-      "value": 82
+      "value": 83
     },
     {
       "label": "Hungary",
