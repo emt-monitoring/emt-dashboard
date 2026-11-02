@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-11-02T13:46:48.601147+00:00",
-    "window_hours": 1477,
-    "total": 580,
-    "text_available": 299,
+    "generated": "2026-11-02T22:40:57.999228+00:00",
+    "window_hours": 1486,
+    "total": 581,
+    "text_available": 300,
     "text_masked": 281,
-    "earned_media": 220,
+    "earned_media": 221,
     "social": 360,
     "by_source": {
-      "external": 463,
+      "external": 464,
       "own": 87,
       "movement": 30
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 30,
-    "external_posts": 463,
+    "external_posts": 464,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39241"
+      "EARNED_ENGAGEMENT": "39244"
     },
     "owned_true": {
-      "posts": 46,
-      "engagement": 3345,
+      "posts": 45,
+      "engagement": 3346,
       "video_views": 0,
-      "reach": 98226,
+      "reach": 97814,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,11 +168,10 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
-        "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
         "https://twitter.com/KClarksonIFRC/status/2098192326179139624",
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750124178127611084",
@@ -185,7 +184,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae894298d13c8a304325976\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae911500b859c50d0622b3b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -199,12 +198,12 @@
     "own_reach": 19420599,
     "movement_reach": 1327262,
     "external_reach": 20960531,
-    "own_engagement": 10715,
+    "own_engagement": 10719,
     "movement_engagement": 571,
     "external_engagement": 30421,
     "amplification": 2.84,
     "earned_by_platform": {
-      "Web": 194,
+      "Web": 195,
       "Print": 14,
       "TV": 12
     },
@@ -227,6 +226,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Veroniquechemla": 0,
       "Heraldo": 0,
       "Adprensa": 0,
       "Europa": 0,
@@ -239,10 +239,22 @@
       "Lotusarise": 0,
       "Lecourrierdesstrateges": 0,
       "Cri": 0,
-      "Theatrum Belli": 0,
-      "Juanita Pérez": 0
+      "Theatrum Belli": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.veroniquechemla.info/2021/11/lirlande.html",
+        "platform": "Web",
+        "outlet": "Veroniquechemla",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "L'Irlande est divisée entre l'État d'Irlande, État souverain occupant la plus grande partie de l'île, républicain et dont la capitale est Dublin, et l'Irlande du Nord, qui fait partie du Royaume-Uni et a pour capitale Belfast. Au nombre d'environ 2500, les juifs ont enregistré un",
+        "created": "2026-11-02T22:40:53.889170+00:00",
+        "author": "noreply@blogger.com (Véronique Chemla)",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.heraldo.es/noticias/nacional/2026/10/30/accidente-tren-toledo-choca-ave-iryo-pasajeros-renfe-muertos-heridos-ultima-hora-directo-2063563.html",
         "platform": "Web",
@@ -424,19 +436,6 @@
         "author": "noreply@blogger.com (Mardis hongrois de Paris)",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://theatrum-belli.com/chronicorum-belli-du-26-octobre/",
-        "platform": "Web",
-        "outlet": "Theatrum Belli",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "26 octobre 1440 : exécution de Gilles de Rais à Nantes (Bretagne).\nMaréchal de France à 25 ans, compagnon de Jeanne d’Arc à Orléans, Jargeau et Patay, le baron de Rais est pendu puis livré au bûcher à Nantes, condamné pour hérésie, sodomie et le meurtre de nombreux enfants.\nNé ve",
-        "created": "2026-10-26T23:40:39.197810+00:00",
-        "author": "Theatrum Belli",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 90,
@@ -487,11 +486,12 @@
       "2026-10-27": 2,
       "2026-10-28": 12,
       "2026-10-29": 7,
-      "2026-10-30": 4
+      "2026-10-30": 4,
+      "2026-11-02": 1
     },
     "by_platform": {
       "X": 281,
-      "Web": 194,
+      "Web": 195,
       "Facebook": 26,
       "Instagram": 23,
       "Print": 14,
@@ -504,7 +504,7 @@
     "by_language": {
       "und": 301,
       "English": 124,
-      "French": 91,
+      "French": 92,
       "Spanish": 58,
       "unknown": 6
     },
@@ -847,7 +847,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 140,
+        "engagement": 143,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -911,6 +911,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0415",
+      "text": "L'Irlande est divisée entre l'État d'Irlande, État souverain occupant la plus grande partie de l'île, républicain et dont la capitale est Dublin, et l'Irlande du Nord, qui fait partie du Royaume-Uni et a pour capitale Belfast. Au nombre d'environ 2500, les juifs ont enregistré une hausse du nombre d'actes antisémites depuis l'agressions djihadiste du 7 octobre 2023 en Israël. Arte diffusera le 9 novembre 2026 à 22 h 35 «\nTravail forcé, enfants volés : l’Irlande au tribunal», documentaire d’Aoife Kelleher et de Rachel Lysaght.\nUne des îles britanniques, l'Irlande est localisée dans l'océan Atlantique Nord. La mer d'Irlande la sépare à l'est de la Grande-Bretagne.\nL'île est divisée entre l'État d'Irlande, État souverain occupant la plus grande partie de l'île, républicain et dont la capitale est Dublin, et l'Irlande du Nord, qui fait partie du Royaume-Uni et a pour capitale Belfast.\n\"Colonisée par les Celtes au VIe siècle avant l'ère commune, l'Irlande est christianisée par saint Patrick au Ve siècle. Au Moyen Âge, l'île est régulièrement attaquée et colonisée par les Vikings, puis subit les invasions normandes et anglaises. L'île devient un État client en étant unifié en un seul royaume par l'Angleterre en 1542, et partage le même monarque que l'Angleterre et l'Écosse à partir de l'Union des Couronnes en 1603. Elle est rattachée à la Grande-Bretagne en 1800 par un Acte d'union, donnant naissance au Royaume-Uni de Grande-Bretagne et d'Irlande.\"\nL'échec du projet de Home Rule entraine la guerre d'indépendance irlandaise et la division de l'Irlande. Avec le Traité anglo-irlandais, l‘île devient indépendante en 1922, mais l'Irlande du Nord quitte le nouvel État libre d'Irlande le lendemain de sa fondation ; seule reste indépendante l’Irlande du Sud.\nDans les années 1970-1980, l'Irlande du Nord est divisée par une guerre civile dénommée Troubles entre unionistes (partisans de l'appartenance au Royaume-Uni) et nationalistes (luttant pour la réunification de l'île). En 1998",
+      "title": "L'Irlande",
+      "has_text": true,
+      "url": "https://www.veroniquechemla.info/2021/11/lirlande.html",
+      "platform": "Web",
+      "outlet": "Veroniquechemla",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "noreply@blogger.com (Véronique Chemla)",
+      "created": "2026-11-02T22:40:53.889170+00:00",
+      "day": "2026-11-02",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-11-02T22:40:57.984371+00:00"
+    },
     {
       "id": "s0528",
       "text": "Accidente de trenes en Urda (Toledo), en directo: balance de muertos, heridos, investigación y última hora de la tragedia\nBasado en hechos observados y verificados directamente por nuestros periodistas o por fuentes informadas.\nAñádenos en Google\nElígenos como tu fuente preferida en Google.\nAl menos 69 personas fallecidas y decenas de heridos graves es el balance provisional del accidente de tren ocurrido este miércoles 28 de octubre en Urda (Toledo), un trágico siniestro que se ha producido al colisionar dos trenes de alta velocidad por causas que aún se investigan. El incidente, que tuvo lugar a las 8.54, se produjo cuando un tren AVE (con 378 pasajeros registrados por Renfe) que viajaba hacia Sevilla embistió a un tren Iryo (con 174 personas a bordo, incluido un bebé), que al parecer se encontraba detenido en la vía.\nEl choque causó el descarrilamiento de varios vagones.\nLas familias afectadas pueden solicitar información en unos teléfonos de Renfe (900 10 10 20) e Iryo (900 001 403). También pueden informarse a través del teléfono del servicio de emergencias de Castilla La Mancha, que es 900 122 112.\nEste jueves, el Partido Popular ha confirmado la muerte de la exministra de Trabajo Fátima Báñez, quien viajaba en el tren Iryo contra el que colisionó el AVE.\nSánchez cree que la confianza en la alta velocidad está \"quebrada\"\nEl presidente del Gobierno, Pedro Sánchez, ha asegurado este viernes que el Ejecutivo no se limitará a investigar las causas del accidente ferroviario que causó al menos 69 fallecidos en Urda (Toledo), sino que va a \"ofrecer soluciones\" para restaurar la \"confianza quebrada\" del sistema de alta velocidad en España. &gt;&gt;&gt; LEER MÁS.\nEl trabajador de Adif que ordenó al AVE reanudar no declara\nEl trabajador del centro de control de Adif que dio la orden al tren AVE de reanudar la circulación con \"marcha normal\" se ha negado a declarar ante la Guardia Civil, han confirmado fuentes próximas a la investigación. Este operario se ha acogido, por",
@@ -3393,7 +3417,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 425,
+      "owned_reach": 427,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -13472,7 +13496,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 140,
+      "engagement": 143,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -13904,7 +13928,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3598,
+      "owned_reach": 3599,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -14122,9 +14146,9 @@
       "author": "IFRC",
       "created": "2026-09-03T12:29:43.927000+00:00",
       "day": "2026-09-03",
-      "engagement": 35,
+      "engagement": 36,
       "reach": 0,
-      "owned_engagement": 70,
+      "owned_engagement": 72,
       "owned_reach": 1500,
       "sentiment": "",
       "source_country": "",
