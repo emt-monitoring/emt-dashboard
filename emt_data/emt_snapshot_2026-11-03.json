@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-11-03T11:46:58.452589+00:00",
-    "window_hours": 1499,
-    "total": 583,
-    "text_available": 302,
+    "generated": "2026-11-03T19:20:52.158631+00:00",
+    "window_hours": 1507,
+    "total": 584,
+    "text_available": 303,
     "text_masked": 281,
-    "earned_media": 223,
+    "earned_media": 224,
     "social": 360,
     "by_source": {
-      "external": 465,
+      "external": 466,
       "own": 87,
       "movement": 31
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 31,
-    "external_posts": 465,
+    "external_posts": 466,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39263"
+      "EARNED_ENGAGEMENT": "39264"
     },
     "owned_true": {
       "posts": 46,
-      "engagement": 3346,
+      "engagement": 3345,
       "video_views": 0,
-      "reach": 98231,
+      "reach": 98238,
       "candidates": 2000
     },
     "owned_error": "",
@@ -128,8 +128,8 @@
         "https://www.instagram.com/reel/DeBlNwCu8Wx/",
         "https://www.facebook.com/reel/1335108238700224/",
         "https://www.instagram.com/reel/Dc0-SpqvSGM/",
-        "https://www.facebook.com/reel/4368630776737133/",
         "https://www.facebook.com/reel/1045989911637258/",
+        "https://www.facebook.com/reel/4368630776737133/",
         "https://twitter.com/jagan_chapagain/status/2095885257094348808",
         "https://twitter.com/ifrc/status/2109986566919614677",
         "https://twitter.com/jagan_chapagain/status/2097644061695885541",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6ae9c9943e9d52103c7e08a7\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aea33f33e9d52103c9152c6\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -201,17 +201,17 @@
     "external_reach": 20960531,
     "own_engagement": 10722,
     "movement_engagement": 586,
-    "external_engagement": 30423,
+    "external_engagement": 30424,
     "amplification": 2.84,
     "earned_by_platform": {
-      "Web": 197,
+      "Web": 198,
       "Print": 14,
       "TV": 12
     },
     "top_outlets": {
       "KBTCDT2": 10,
+      "Blogspot": 9,
       "Podchaser": 9,
-      "Blogspot": 8,
       "United Nations": 5,
       "ReliefWeb": 4,
       "Bluewin": 4,
@@ -227,13 +227,13 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Blogspot": 0,
       "Org": 0,
       "Institut Rousseau": 0,
       "Veroniquechemla": 0,
       "Heraldo": 0,
       "Adprensa": 0,
       "Europa": 0,
-      "Blogspot": 0,
       "Diarioavancetabasco": 0,
       "Infoensenadanoticias": 0,
       "Bruxelleskorner": 0,
@@ -243,6 +243,19 @@
       "Cri": 0
     },
     "earned_top": [
+      {
+        "url": "http://mardishongrois.blogspot.com/2026/11/prochaine-rencontre-des-mardis-hongrois.html",
+        "platform": "Web",
+        "outlet": "Blogspot",
+        "source": "external",
+        "language": "French",
+        "engagement": 0,
+        "text": "Blog des Mardis hongrois de Paris\nmardi 3 novembre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Paris\nN",
+        "created": "2026-11-03T19:20:49.840284+00:00",
+        "author": "noreply@blogger.com (Mardis hongrois de Paris)",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.redcross.org.nz/about-us/news/our-stories/treaties-protect-astronauts-but-not-people-in-disasters-why-red-cross-wants-that-to-change",
         "platform": "Web",
@@ -424,19 +437,6 @@
         "author": "lotusarise.com",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.lecourrierdesstrateges.fr/faut-il-sinquieter-des-appels-gouvernementaux-a-preparer-la-survie/",
-        "platform": "Web",
-        "outlet": "Lecourrierdesstrateges",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "Par Élise Rochefort\nLe 27 octobre 2026, la préfecture de la région Normandie a invité les habitants de la Seine-Maritime à préparer un « kit d'urgence 72 heures ». Cinq jours plus tôt, le 22 octobre, le gouvernement britannique avait diffusé, dans le cadre de sa campagne « Be Rea",
-        "created": "2026-10-28T17:17:44.810513+00:00",
-        "author": "Rédaction",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 91,
@@ -489,11 +489,11 @@
       "2026-10-29": 7,
       "2026-10-30": 4,
       "2026-11-02": 1,
-      "2026-11-03": 2
+      "2026-11-03": 3
     },
     "by_platform": {
       "X": 281,
-      "Web": 197,
+      "Web": 198,
       "Facebook": 26,
       "Instagram": 23,
       "Print": 14,
@@ -506,7 +506,7 @@
     "by_language": {
       "und": 301,
       "English": 125,
-      "French": 93,
+      "French": 94,
       "Spanish": 58,
       "unknown": 6
     },
@@ -581,7 +581,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "Spanish",
-        "engagement": 19562,
+        "engagement": 19563,
         "text": "¿Qué pide un exastronauta? Un tratado internacional para proteger a víctimas de desastres naturales tras ver la fragilidad de la atmósfera desde el espacio.\r\n\r\nDurante sus 217 vueltas al mundo en órbita, Hernández vio cómo los rayos del sol revelan la fragilidad de nuestra atmósf",
         "created": "2026-10-08T17:33:18.800407+00:00",
         "author": "MILENIO",
@@ -624,7 +624,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 878,
+        "engagement": 877,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -678,7 +678,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 612,
+        "engagement": 613,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -913,6 +913,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0221",
+      "text": "Blog des Mardis hongrois de Paris\nmardi 3 novembre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Paris\nNous suivre sur Facebook\nQui êtes-vous ?\nMardis hongrois de Paris\nAssociation laïque qui a pour but de réunir les personnes intéressées par la Hongrie, qu’elles en soient originaires ou non, quelles que soient leurs opinions philosophiques, politiques ou religieuses. Elle a aussi pour but de permettre leur rencontre à Paris, l’échange d’informations, le partage des cultures, la conversation magyare et toutes autres activités communes. Contact : mardishongrois(AT)hotmail.com Suivez nous sur Bluesky : @mardishongrois.bsky.social *********************** Petite précision nécessaire compte tenu de demandes récurrentes qui nous parviennent. L'association des Mardis hongrois se veut laïque, ouverte à tous, mais se refusant à relayer ou favoriser quelque prosélytisme religieux, mystique, sectaire, philosophique ou politique que ce soit. Par conséquent toute demande visant à faire de la publicité à des évènements de ce type ou utilisant de tels supports sera automatiquement rejetée sans autre justification.\nAfficher mon profil complet\nCalendrier des soirées des Mardis hongrois de Paris\n- mardi 10 novembre 2026\n- mardi 24 novembre 2026\n- mardi 8 décembre 2026\n- mardi 22 décembre 2026\n- mardi 5 janvier 2027\n- mardi 19 janvier 2027 - Invité Adam Biro pour son livre \"Ádám, tu peux rester au lit, il y a la révolution\"\n- mardi 2 février 2027\n- mardi 16 février 2027\n- mardi 2 mars 2026\nUn mardi sur deux\nà partir de 20h\nau café Le Zimmer, 1, place du Châtelet 75001 Paris\nMétro - Châtelet\nPárizsi magyar találkozó minden második kedden\neste 8 órakor kezdődik\n. Helyszin :\nZimmer kávéházban, 1, place du Châtelet\nMétro Châtelet\n************\nLes Mardis hongrois sur France 2 émission\nTélématin\nLes Mardis hongrois de",
+      "title": "Prochaine rencontre des Mardis hongrois de Paris le 10 novembre 2026 à partir de 20 h au Café Le Zimmer",
+      "has_text": true,
+      "url": "http://mardishongrois.blogspot.com/2026/11/prochaine-rencontre-des-mardis-hongrois.html",
+      "platform": "Web",
+      "outlet": "Blogspot",
+      "source": "external",
+      "language": "French",
+      "language_source": "inferred",
+      "author": "noreply@blogger.com (Mardis hongrois de Paris)",
+      "created": "2026-11-03T19:20:49.840284+00:00",
+      "day": "2026-11-03",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-11-03T19:20:52.143572+00:00"
+    },
     {
       "id": "s0530",
       "text": "Treaties protect astronauts, but not people in disasters: Why Red Cross wants that to change\n3 November 2026\nInternational treaties already set out protections for astronauts in distress. But when disaster strikes here on Earth, there is still no comprehensive global treaty specifically focused on protecting people.\nThat could be about to change.\nThe International Federation of Red Cross and Red Crescent Societies (IFRC) has launched its Earth’s Missing Treaty campaign, backed by astronauts from around the world, to build support for a new global treaty to protect people before, during and after disasters.\nUN Member States have agreed to negotiate the world’s first comprehensive global treaty dedicated to protecting people before, during and after disasters, with the Red Cross and Red Crescent playing a leading role in its development.\nThe proposed Treaty on the Protection of Persons in the Event of Disasters aims to strengthen disaster preparedness and response and help lifesaving assistance reach people quickly and effectively when disaster strikes.\nThe treaty could help address legal and administrative barriers that can delay humanitarian teams, specialist equipment and lifesaving supplies when disasters strike. It could also simplify customs and border procedures and make cooperation between governments and humanitarian organisations more predictable.\nWhy this matters for Aotearoa New Zealand\nIn Aotearoa New Zealand, communities have experienced the devastating impacts of earthquakes, floods and severe weather events, highlighting the importance of strong disaster preparedness as well as response and recovery arrangements.\nNew Zealand Red Cross Secretary General Sarah Stuart-Black says “the proposed treaty comes at an important time, as disasters continue to have devastating impacts on millions of people around the world.”\n“The IFRC pioneered work in disaster law and has spent more than 20 years working alongside governments around the world to strengthen their ",
@@ -3786,7 +3810,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1077,
+      "owned_reach": 1079,
       "first_seen": "2026-10-13T09:12:01.060584+00:00"
     },
     {
@@ -4554,7 +4578,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19562,
+      "engagement": 19563,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -5339,7 +5363,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1206,
+      "owned_reach": 1207,
       "first_seen": "2026-09-26T12:23:18.499628+00:00"
     },
     {
@@ -13899,7 +13923,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4693,
+      "owned_reach": 4696,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13978,7 +14002,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3599,
+      "owned_reach": 3600,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -14019,7 +14043,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 878,
+      "engagement": 877,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -14027,7 +14051,7 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 878,
+      "owned_engagement": 877,
       "owned_video_views": 0,
       "owned_reach": 20453,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
@@ -14046,7 +14070,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 612,
+      "engagement": 613,
       "reach": 515,
       "sentiment": "",
       "country": "",
