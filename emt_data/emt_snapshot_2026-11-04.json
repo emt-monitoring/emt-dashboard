@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-11-04T00:09:52.816742+00:00",
-    "window_hours": 1512,
-    "total": 584,
-    "text_available": 303,
+    "generated": "2026-11-04T06:54:51.297120+00:00",
+    "window_hours": 1518,
+    "total": 585,
+    "text_available": 304,
     "text_masked": 281,
-    "earned_media": 224,
+    "earned_media": 225,
     "social": 360,
     "by_source": {
-      "external": 466,
+      "external": 467,
       "own": 87,
       "movement": 31
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 87,
     "movement_posts": 31,
-    "external_posts": 466,
+    "external_posts": 467,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -57,7 +57,7 @@
       "posts": 46,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 98248,
+      "reach": 98252,
       "candidates": 2000
     },
     "owned_error": "",
@@ -168,9 +168,9 @@
         "https://www.podchaser.com/podcasts/ifrc-weekly-news-6273161/episodes/e",
         "https://twitter.com/jagan_chapagain/status/2104608169557213461",
         "https://www.instagram.com/reel/DdJgFMBB5eM/",
+        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://www.tiktok.com/@ifrc/video/7684266609258614038",
         "https://twitter.com/AttaDurraniIFRC/status/2098445435778044342",
-        "https://www.ifrc.org/press-release/astronauts-ifrc-campaign-internatio",
         "https://twitter.com/IFRC_es/status/2095512166698828093",
         "https://twitter.com/ifrc/status/2109986368025677846",
         "https://twitter.com/DylanWinderIFRC/status/2095548053272863061",
@@ -185,7 +185,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aea77ab0b859c50d08e870e\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aead696bfc7482ecf1fb92b\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -204,7 +204,7 @@
     "external_engagement": 30424,
     "amplification": 2.84,
     "earned_by_platform": {
-      "Web": 198,
+      "Web": 199,
       "Print": 14,
       "TV": 12
     },
@@ -227,6 +227,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "Reportdifesa": 0,
       "Blogspot": 0,
       "Org": 0,
       "Institut Rousseau": 0,
@@ -239,10 +240,22 @@
       "Bruxelleskorner": 0,
       "Divulgadoresdelmisterio": 0,
       "Lotusarise": 0,
-      "Lecourrierdesstrateges": 0,
-      "Cri": 0
+      "Lecourrierdesstrateges": 0
     },
     "earned_top": [
+      {
+        "url": "https://www.reportdifesa.it/speciale-4-novembre-a-firenze-oggi-le-celebrazioni-della-giornata-dellunita-nazionale-e-delle-forze-armate-limpegno-dei-militari-nellalluvione-del-1966/",
+        "platform": "Web",
+        "outlet": "Reportdifesa",
+        "source": "external",
+        "language": "Spanish",
+        "engagement": 0,
+        "text": " FIRENZE (dal nostro inviato). L’armistizio di Villa Giusti venne firmato il 3 novembre 1918 nella villa del Conte\n<p>Vettor Giusti del Giardino, a Padova, fra l’Impero austro-ungarico e l’Italia.</p> <p>L’armistizio di Villa Giusti</p> <p>Entrò in vigore a partire dal giorno dop",
+        "created": "2026-11-04T06:54:49.339416+00:00",
+        "author": "Luca Tatarelli",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "http://mardishongrois.blogspot.com/2026/11/prochaine-rencontre-des-mardis-hongrois.html",
         "platform": "Web",
@@ -424,19 +437,6 @@
         "author": "News & Media | Maldivian Red Crescent",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://lotusarise.com/disaster-management-india-dm-act-sendai-public-administration-optional/",
-        "platform": "Web",
-        "outlet": "Lotusarise",
-        "source": "external",
-        "language": "English",
-        "engagement": 0,
-        "text": "  Values in public service; Regulatory Commissions; National Human Rights Commission; Problems of administration in coalition regimes; Citizen administration interface; Corruption and administration; Disaster management.\n<p> This article: Disaster management: concepts (hazard, ex",
-        "created": "2026-10-28T17:17:44.810950+00:00",
-        "author": "lotusarise.com",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 91,
@@ -489,11 +489,12 @@
       "2026-10-29": 7,
       "2026-10-30": 4,
       "2026-11-02": 1,
-      "2026-11-03": 3
+      "2026-11-03": 3,
+      "2026-11-04": 1
     },
     "by_platform": {
       "X": 281,
-      "Web": 198,
+      "Web": 199,
       "Facebook": 26,
       "Instagram": 23,
       "Print": 14,
@@ -507,7 +508,7 @@
       "und": 301,
       "English": 125,
       "French": 94,
-      "Spanish": 58,
+      "Spanish": 59,
       "unknown": 6
     },
     "by_sentiment": {},
@@ -913,6 +914,30 @@
     ]
   },
   "items": [
+    {
+      "id": "s0326",
+      "text": " FIRENZE (dal nostro inviato). L’armistizio di Villa Giusti venne firmato il 3 novembre 1918 nella villa del Conte\n<p>Vettor Giusti del Giardino, a Padova, fra l’Impero austro-ungarico e l’Italia.</p> <p>L’armistizio di Villa Giusti</p> <p>Entrò in vigore a partire dal giorno dopo, il 4 novembre 1918.</p> <p>Ad armistizio concluso, si ritrovarono prigionieri di guerra in mano italiana 3 Comandanti di Corpo d’Armata, 10 Divisioni e 21 Brigate. 24 Generali e un Maggior Generale (“</p> <p>Generaloberst ” – Colonnello Generale – è un grado militare tedesco, che non ha corrispettivi in italiano) seguirono il destino delle loro truppe verso la prigionia. Gli italiani fecero prigionieri, complessivamente, 427 mila uomini.</p> <p>Il Generale Armando Diaz</p> <p>Fame, freddo e malattie mieterono migliaia di vittime, che si aggiunsero ai morti durante le operazioni militari.</p> <p>Da parte austro-tedesca, tale fenomeno (la cattura in massa di soldati austroungarici) fu sottoposto all’esame di una commissione, che giunse alla conclusione che non potesse essersi trattato di “grave infrazione agli obblighi di servizio”. In particolare fu ascoltata con attenzione dalla commissione la deposizione del Generale von Waldstätten.</p> <p>IL 4 NOVEMBRE OGGI</p> <p>Le celebrazioni della Giornata dell’Unità nazionale e delle Forze Armate si celebra, quest’anno, a Firenze, alla presenza del Presidente della Repubblica, Sergio Mattarella.</p> <p>“Forze Armate a difesa della nostra libertà” è il claim scelto quest’anno per accompagnare le celebrazioni. E’ un messaggio che richiama il valore inestimabile della libertà: un bene prezioso, che non può mai essere dato per scontato e che le donne e gli uomini delle Forze Armate contribuiscono a difendere ogni giorno, fino all’estremo sacrificio.</p> <p>Il Presidente della Repubblica, Sergio Mattarella, al Milite Ignoto</p> <p>Il 4 Novembre è un’occasione per ricordare i valori e gli eventi che hanno segnato il nostro Paese e il sacrificio di quan",
+      "title": "SPECIALE 4 NOVEMBRE. A Firenze oggi le celebrazioni della Giornata dell’Unità nazionale e delle Forze Armate. L’impegno dei militari nell’alluvione del 1966",
+      "has_text": true,
+      "url": "https://www.reportdifesa.it/speciale-4-novembre-a-firenze-oggi-le-celebrazioni-della-giornata-dellunita-nazionale-e-delle-forze-armate-limpegno-dei-militari-nellalluvione-del-1966/",
+      "platform": "Web",
+      "outlet": "Reportdifesa",
+      "source": "external",
+      "language": "Spanish",
+      "language_source": "inferred",
+      "author": "Luca Tatarelli",
+      "created": "2026-11-04T06:54:49.339416+00:00",
+      "day": "2026-11-04",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-11-04T06:54:51.279816+00:00"
+    },
     {
       "id": "s0221",
       "text": "Blog des Mardis hongrois de Paris\nmardi 3 novembre 2026\nAucun commentaire:\nEnregistrer un commentaire\nRemarque : Seul un membre de ce blog est autorisé à enregistrer un commentaire.\nInscription à :\nPublier les commentaires (Atom)\nNous suivre sur Bluesky\nMardis hongrois de Paris\nNous suivre sur Facebook\nQui êtes-vous ?\nMardis hongrois de Paris\nAssociation laïque qui a pour but de réunir les personnes intéressées par la Hongrie, qu’elles en soient originaires ou non, quelles que soient leurs opinions philosophiques, politiques ou religieuses. Elle a aussi pour but de permettre leur rencontre à Paris, l’échange d’informations, le partage des cultures, la conversation magyare et toutes autres activités communes. Contact : mardishongrois(AT)hotmail.com Suivez nous sur Bluesky : @mardishongrois.bsky.social *********************** Petite précision nécessaire compte tenu de demandes récurrentes qui nous parviennent. L'association des Mardis hongrois se veut laïque, ouverte à tous, mais se refusant à relayer ou favoriser quelque prosélytisme religieux, mystique, sectaire, philosophique ou politique que ce soit. Par conséquent toute demande visant à faire de la publicité à des évènements de ce type ou utilisant de tels supports sera automatiquement rejetée sans autre justification.\nAfficher mon profil complet\nCalendrier des soirées des Mardis hongrois de Paris\n- mardi 10 novembre 2026\n- mardi 24 novembre 2026\n- mardi 8 décembre 2026\n- mardi 22 décembre 2026\n- mardi 5 janvier 2027\n- mardi 19 janvier 2027 - Invité Adam Biro pour son livre \"Ádám, tu peux rester au lit, il y a la révolution\"\n- mardi 2 février 2027\n- mardi 16 février 2027\n- mardi 2 mars 2026\nUn mardi sur deux\nà partir de 20h\nau café Le Zimmer, 1, place du Châtelet 75001 Paris\nMétro - Châtelet\nPárizsi magyar találkozó minden második kedden\neste 8 órakor kezdődik\n. Helyszin :\nZimmer kávéházban, 1, place du Châtelet\nMétro Châtelet\n************\nLes Mardis hongrois sur France 2 émission\nTélématin\nLes Mardis hongrois de",
@@ -3516,7 +3541,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 950,
+      "owned_reach": 952,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3541,7 +3566,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 857,
+      "owned_reach": 858,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -6534,7 +6559,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1891,
+      "owned_reach": 1892,
       "first_seen": "2026-09-13T11:30:25.394635+00:00"
     },
     {
