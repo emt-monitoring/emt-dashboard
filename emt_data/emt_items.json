@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T19:20:52.143572+00:00",
+  "generated": "2026-11-04T00:09:52.806190+00:00",
   "count": 584,
   "items": [
     {
@@ -2192,7 +2192,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 197,
+      "owned_reach": 198,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2505,7 +2505,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 271,
+      "owned_reach": 272,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2530,7 +2530,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 252,
+      "owned_reach": 253,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -4968,7 +4968,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 1749,
+      "owned_reach": 1752,
       "first_seen": "2026-09-19T11:23:50.724192+00:00"
     },
     {
@@ -9662,7 +9662,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 54,
-      "owned_reach": 1567,
+      "owned_reach": 1568,
       "first_seen": "2026-09-04T16:07:38.476709+00:00"
     },
     {
@@ -9954,7 +9954,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 33,
-      "owned_reach": 1456,
+      "owned_reach": 1457,
       "first_seen": "2026-09-04T14:43:43.872445+00:00"
     },
     {
@@ -12986,7 +12986,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 828,
+      "owned_reach": 830,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
