@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T01:44:09.559243+00:00",
+  "generated": "2026-11-05T09:16:05.417167+00:00",
   "count": 587,
   "items": [
     {
@@ -808,7 +808,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 232,
+      "engagement": 233,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -2702,7 +2702,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 858,
+      "owned_reach": 859,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2746,7 +2746,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 431,
+      "engagement": 432,
       "reach": 368099,
       "sentiment": "",
       "country": "",
@@ -3715,7 +3715,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 607,
+      "engagement": 609,
       "reach": 479,
       "sentiment": "",
       "country": "",
@@ -5006,7 +5006,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-19T14:42:42.016871+00:00",
       "day": "2026-09-19",
-      "engagement": 799,
+      "engagement": 804,
       "reach": 641,
       "sentiment": "",
       "country": "",
@@ -5761,7 +5761,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-13T11:30:23.375707+00:00",
       "day": "2026-09-13",
-      "engagement": 660,
+      "engagement": 662,
       "reach": 482,
       "sentiment": "",
       "country": "",
