@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-11-05T17:35:16.300597+00:00",
-    "window_hours": 1553,
+    "generated": "2026-11-05T22:48:47.679101+00:00",
+    "window_hours": 1558,
     "total": 594,
     "text_available": 309,
     "text_masked": 285,
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39286"
+      "EARNED_ENGAGEMENT": "39288"
     },
     "owned_true": {
       "posts": 46,
-      "engagement": 3347,
+      "engagement": 3345,
       "video_views": 0,
-      "reach": 98275,
+      "reach": 98304,
       "candidates": 2000
     },
     "owned_error": "",
@@ -186,7 +186,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aecbe340b859c50d0d20136\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aed079f0e1fc98b37641595\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -200,9 +200,9 @@
     "own_reach": 19654608,
     "movement_reach": 1327262,
     "external_reach": 20965769,
-    "own_engagement": 10756,
+    "own_engagement": 10757,
     "movement_engagement": 590,
-    "external_engagement": 30426,
+    "external_engagement": 30440,
     "amplification": 2.83,
     "earned_by_platform": {
       "Web": 200,
@@ -627,7 +627,7 @@
         "outlet": "Facebook",
         "source": "own",
         "language": "English",
-        "engagement": 878,
+        "engagement": 877,
         "text": "Disasters leave no time to negotiate how help arrives.\n\nAs devastating floods in Nepal show, damaged infrastructure and difficult access can make reaching people in need an immense challenge.\n\nIf these things can be defined before a disaster happens, governments and humanitarian ",
         "created": "2026-09-04T11:56:34.581790+00:00",
         "author": "International Federation of Red Cross and Red Crescent Societies",
@@ -681,7 +681,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 614,
+        "engagement": 616,
         "text": "Astronauts in distress on their way home are protected by an international treaty. Multiple countries are obliged to come to their aid. People caught in disasters on Earth? No equivalent global protection. That's Earth's Missing Treaty. As we speak, countries are discussing a new",
         "created": "2026-09-04T11:56:34.581567+00:00",
         "author": "We are humanitarians",
@@ -852,7 +852,7 @@
         "outlet": "Youtube",
         "source": "own",
         "language": "English",
-        "engagement": 143,
+        "engagement": 144,
         "text": "Astronauts in distress on their way home are protected by an international treaty.\nMultiple countries are obliged to come to their aid.\nPeople caught in disasters on Earth?\nNo equivalent global protection.\nThat's Earth's Missing Treaty.\n\nAs we speak, countries are discussing a ne",
         "created": "2026-09-04T11:56:34.585479+00:00",
         "author": "IFRC",
@@ -978,7 +978,7 @@
       "author": "maldivianrc",
       "created": "2026-11-05T17:35:14.113881+00:00",
       "day": "2026-11-05",
-      "engagement": 0,
+      "engagement": 14,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -13813,7 +13813,7 @@
       "author": "IFRC",
       "created": "2026-09-04T11:56:34.585479+00:00",
       "day": "2026-09-04",
-      "engagement": 143,
+      "engagement": 144,
       "reach": 88900,
       "sentiment": "",
       "country": "",
@@ -14166,7 +14166,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 89,
-      "owned_reach": 4698,
+      "owned_reach": 4700,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -14183,7 +14183,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.583208+00:00",
       "day": "2026-09-04",
-      "engagement": 56,
+      "engagement": 55,
       "reach": 780260,
       "sentiment": "",
       "country": "",
@@ -14191,9 +14191,9 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 56,
+      "owned_engagement": 55,
       "owned_video_views": 0,
-      "owned_reach": 1899,
+      "owned_reach": 1903,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -14245,7 +14245,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 70,
-      "owned_reach": 3601,
+      "owned_reach": 3602,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -14286,7 +14286,7 @@
       "author": "International Federation of Red Cross and Red Crescent Societies",
       "created": "2026-09-04T11:56:34.581790+00:00",
       "day": "2026-09-04",
-      "engagement": 878,
+      "engagement": 877,
       "reach": 780233,
       "sentiment": "",
       "country": "",
@@ -14294,9 +14294,9 @@
       "is_treaty": true,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_engagement": 878,
+      "owned_engagement": 877,
       "owned_video_views": 0,
-      "owned_reach": 20453,
+      "owned_reach": 20475,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -14313,7 +14313,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 614,
+      "engagement": 616,
       "reach": 515,
       "sentiment": "",
       "country": "",
