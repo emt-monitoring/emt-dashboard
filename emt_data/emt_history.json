@@ -2378,21 +2378,21 @@
       "updated": "2026-11-04T21:27:49.280245+00:00"
     },
     "2026-11-05": {
-      "total": 587,
-      "text_available": 306,
-      "text_masked": 281,
+      "total": 594,
+      "text_available": 309,
+      "text_masked": 285,
       "earned_media": 226,
-      "social": 361,
-      "own_posts": 87,
-      "movement_posts": 31,
-      "external_posts": 469,
-      "campaign_named": 92,
-      "treaty_only": 32,
+      "social": 368,
+      "own_posts": 88,
+      "movement_posts": 32,
+      "external_posts": 474,
+      "campaign_named": 93,
+      "treaty_only": 34,
       "by_platform": {
-        "X": 281,
+        "X": 285,
         "Web": 200,
-        "Facebook": 26,
-        "Instagram": 24,
+        "Facebook": 28,
+        "Instagram": 25,
         "Print": 14,
         "TV": 12,
         "YouTube": 11,
@@ -2401,8 +2401,8 @@
         "Bluesky": 5
       },
       "by_language": {
-        "und": 301,
-        "English": 126,
+        "und": 305,
+        "English": 129,
         "French": 94,
         "Spanish": 60,
         "unknown": 6
@@ -2413,7 +2413,7 @@
         "sovereignty": 2,
         "neutrality": 1
       },
-      "updated": "2026-11-05T09:16:05.433360+00:00"
+      "updated": "2026-11-05T17:35:16.300597+00:00"
     }
   }
 }
