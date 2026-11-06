@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-11-06T11:24:11.423494+00:00",
-    "window_hours": 1571,
-    "total": 595,
-    "text_available": 310,
+    "generated": "2026-11-06T18:17:52.975222+00:00",
+    "window_hours": 1578,
+    "total": 596,
+    "text_available": 311,
     "text_masked": 285,
     "earned_media": 227,
-    "social": 368,
+    "social": 369,
     "by_source": {
-      "external": 475,
+      "external": 476,
       "own": 88,
       "movement": 32
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 88,
     "movement_posts": 32,
-    "external_posts": 475,
+    "external_posts": 476,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39289"
+      "EARNED_ENGAGEMENT": "39293"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 98321,
+      "reach": 98324,
       "candidates": 2000
     },
     "owned_error": "",
@@ -186,7 +186,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aedb8a70e1fc98b377473a6\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aee19a8a98b84d4e30183f6\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -196,13 +196,13 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 41947664,
-    "own_reach": 19654633,
+    "total_reach": 41947682,
+    "own_reach": 19654651,
     "movement_reach": 1327262,
     "external_reach": 20965769,
-    "own_engagement": 10756,
+    "own_engagement": 10758,
     "movement_engagement": 594,
-    "external_engagement": 30442,
+    "external_engagement": 30445,
     "amplification": 2.83,
     "earned_by_platform": {
       "Web": 201,
@@ -441,7 +441,7 @@
       }
     ],
     "campaign_named": 93,
-    "treaty_only": 34,
+    "treaty_only": 35,
     "by_day": {
       "2026-09-03": 38,
       "2026-09-04": 177,
@@ -493,7 +493,7 @@
       "2026-11-03": 3,
       "2026-11-04": 3,
       "2026-11-05": 7,
-      "2026-11-06": 1
+      "2026-11-06": 2
     },
     "by_platform": {
       "X": 285,
@@ -501,15 +501,15 @@
       "Facebook": 28,
       "Instagram": 25,
       "Print": 14,
+      "YouTube": 12,
       "TV": 12,
-      "YouTube": 11,
       "TikTok": 8,
       "LinkedIn": 6,
       "Bluesky": 5
     },
     "by_language": {
       "und": 305,
-      "English": 130,
+      "English": 131,
       "French": 94,
       "Spanish": 60,
       "unknown": 6
@@ -585,7 +585,7 @@
         "outlet": "Youtube",
         "source": "external",
         "language": "Spanish",
-        "engagement": 19563,
+        "engagement": 19566,
         "text": "¿Qué pide un exastronauta? Un tratado internacional para proteger a víctimas de desastres naturales tras ver la fragilidad de la atmósfera desde el espacio.\r\n\r\nDurante sus 217 vueltas al mundo en órbita, Hernández vio cómo los rayos del sol revelan la fragilidad de nuestra atmósf",
         "created": "2026-10-08T17:33:18.800407+00:00",
         "author": "MILENIO",
@@ -695,7 +695,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 611,
+        "engagement": 612,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
         "author": "We are humanitarians",
@@ -918,6 +918,30 @@
   },
   "items": [
     {
+      "id": "s0544",
+      "text": "It is nothing sinister. All the new recommendations ( which are mainly old Civil Defense lists )  are coming about due to these....\n\n• PPED Preparatory Committee: Held its session from 31 August to 4 September 2026 at UN Headquarters in New York to prepare consolidated draft articles and rules of procedure for the upcoming 2027 conference (following a change from the originally planned Manila location) via the Preparatory Committee - Protection of Persons in the Event of Disasters Page.\n\n• From Knowledge to Action: Communication for a Safer World: The first global UN event dedicated to risk communication took place in Geneva on 14 October 2026, co-hosted by UNDRR, UNESCO, and the IFRC as detailed by UNESCO.\n\n• COP31 Climate Change Conference: Scheduled for 9–20 November 2026 in Antalya, Türkiye, featuring the expected launch of the UN Disaster Risk Financing Platform to mobilize pre-arranged disaster and climate risk funding as outlined by the World Food Programme.\n\n• World Conferences on Disaster Risk Reduction (WCDRR): The landmark framework guiding global disaster risk reduction through 2030 is the Sendai Framework, adopted during the 3rd WCDRR as described by UNDRR.\n\nNote: Many Militaries globally are re-defining readiness due to new risks like AI and some insane weather patterns ( if you know your history, you would understand) . \n\n\nThe fact is in the past when something has gone wrong, everyone seems ill-prepared or incompetent. From Civilians up to Govt organizations. And everyone points fingers at who was to blame. But now they are actually taking action, people freak out. ( the kind of people who said we should already be dead from the Covid vaccine )\n\nThe Greatest and Silent Generations would be so embarrassed. Everyone has turned into a bunch of cry babies. \n\nP.S. There are going to be lots more to come in the next couple of years. Try not to piss your pants every time.",
+      "title": "",
+      "has_text": true,
+      "url": "https://www.youtube.com/watch?v=Kd2yGQhbXO0&lc=Ugz1uHvxQghBQDoglzV4AaABAg",
+      "platform": "YouTube",
+      "outlet": "Youtube",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "@lloydshaw6534",
+      "created": "2026-11-06T18:17:50.525092+00:00",
+      "day": "2026-11-06",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": true,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-11-06T18:17:52.963153+00:00"
+    },
+    {
       "id": "s0333",
       "text": "Humanitarian Aid in International Law: Can States Legally Block Relief?\nIntroduction\nInternational law does not give states an unrestricted right to block humanitarian aid. Governments retain authority over access to their territory, and humanitarian operations generally require consent. During armed conflict, however, that authority is limited by international humanitarian law, which prohibits arbitrary refusals of impartial relief and requires parties to allow and facilitate assistance for civilians in need. In occupied territory, the obligations are more demanding: an occupying power must agree to and facilitate relief schemes when the population is inadequately supplied.\nThe legality of a restriction depends on the circumstances. Authorities may inspect relief consignments, regulate their passage, and impose certain security arrangements. Those powers cannot be exercised in ways that defeat the obligation to facilitate qualifying humanitarian assistance. A state may formally authorize a relief operation yet impose conditions that prevent essential supplies from reaching their intended recipients.\nThe governing rules also differ according to the nature of the emergency. International armed conflicts, non-international armed conflicts, military occupation, and natural disasters engage distinct legal frameworks. Determining when humanitarian assistance may lawfully be refused requires examining those differences, the legal position of humanitarian organizations, and the responsibilities arising when relief is unlawfully obstructed.\n1. What Is Humanitarian Aid in International Law?\nHumanitarian aid refers to assistance intended to alleviate human suffering and meet urgent needs arising from armed conflict, natural disasters, displacement, disease, and other emergencies. It includes food, safe drinking water, medicines, shelter, sanitation, and services necessary to preserve life and health. Unlike longer-term development assistance, humanitarian relief primarily res",
       "title": "Humanitarian Aid in International Law: Can States Legally Block Relief?",
@@ -1099,7 +1123,7 @@
       "author": "@ifrc",
       "created": "2026-11-05T17:35:14.015663+00:00",
       "day": "2026-11-05",
-      "engagement": 13,
+      "engagement": 14,
       "reach": 234009,
       "sentiment": "",
       "country": "",
@@ -4755,7 +4779,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 2106,
+      "owned_reach": 2107,
       "first_seen": "2026-10-08T17:33:21.770784+00:00"
     },
     {
@@ -4846,7 +4870,7 @@
       "author": "MILENIO",
       "created": "2026-10-08T17:33:18.800407+00:00",
       "day": "2026-10-08",
-      "engagement": 19563,
+      "engagement": 19566,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -5701,7 +5725,7 @@
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
       "engagement": 485,
-      "reach": 400,
+      "reach": 409,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
@@ -7358,7 +7382,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 961,
+      "owned_reach": 963,
       "first_seen": "2026-09-11T17:07:20.747479+00:00"
     },
     {
@@ -7399,8 +7423,8 @@
       "author": "We are humanitarians",
       "created": "2026-09-11T17:07:18.253253+00:00",
       "day": "2026-09-11",
-      "engagement": 611,
-      "reach": 474,
+      "engagement": 612,
+      "reach": 483,
       "sentiment": "",
       "country": "",
       "is_campaign": true,
