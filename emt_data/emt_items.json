@@ -1,7 +1,31 @@
 {
-  "generated": "2026-11-05T22:48:47.663345+00:00",
-  "count": 594,
+  "generated": "2026-11-06T03:19:35.334100+00:00",
+  "count": 595,
   "items": [
+    {
+      "id": "s0333",
+      "text": "Humanitarian Aid in International Law: Can States Legally Block Relief?\nIntroduction\nInternational law does not give states an unrestricted right to block humanitarian aid. Governments retain authority over access to their territory, and humanitarian operations generally require consent. During armed conflict, however, that authority is limited by international humanitarian law, which prohibits arbitrary refusals of impartial relief and requires parties to allow and facilitate assistance for civilians in need. In occupied territory, the obligations are more demanding: an occupying power must agree to and facilitate relief schemes when the population is inadequately supplied.\nThe legality of a restriction depends on the circumstances. Authorities may inspect relief consignments, regulate their passage, and impose certain security arrangements. Those powers cannot be exercised in ways that defeat the obligation to facilitate qualifying humanitarian assistance. A state may formally authorize a relief operation yet impose conditions that prevent essential supplies from reaching their intended recipients.\nThe governing rules also differ according to the nature of the emergency. International armed conflicts, non-international armed conflicts, military occupation, and natural disasters engage distinct legal frameworks. Determining when humanitarian assistance may lawfully be refused requires examining those differences, the legal position of humanitarian organizations, and the responsibilities arising when relief is unlawfully obstructed.\n1. What Is Humanitarian Aid in International Law?\nHumanitarian aid refers to assistance intended to alleviate human suffering and meet urgent needs arising from armed conflict, natural disasters, displacement, disease, and other emergencies. It includes food, safe drinking water, medicines, shelter, sanitation, and services necessary to preserve life and health. Unlike longer-term development assistance, humanitarian relief primarily res",
+      "title": "Humanitarian Aid in International Law: Can States Legally Block Relief?",
+      "has_text": true,
+      "url": "https://www.diplomacyandlaw.com/post/humanitarian-aid",
+      "platform": "Web",
+      "outlet": "Diplomacyandlaw",
+      "source": "external",
+      "language": "English",
+      "language_source": "inferred",
+      "author": "Edmarverson A. Santos",
+      "created": "2026-11-06T03:19:33.399484+00:00",
+      "day": "2026-11-06",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-11-06T03:19:35.334100+00:00"
+    },
     {
       "id": "s0542",
       "text": "",
@@ -64,7 +88,7 @@
       "author": "maldivianrc",
       "created": "2026-11-05T17:35:14.113881+00:00",
       "day": "2026-11-05",
-      "engagement": 14,
+      "engagement": 15,
       "reach": 0,
       "sentiment": "",
       "country": "",
@@ -2432,7 +2456,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 198,
+      "owned_reach": 199,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2745,7 +2769,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 272,
+      "owned_reach": 273,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2770,7 +2794,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 253,
+      "owned_reach": 254,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2820,7 +2844,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 427,
+      "owned_reach": 428,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -2897,7 +2921,7 @@
       "risk_vectors": [],
       "owned_engagement": 465,
       "owned_video_views": 0,
-      "owned_reach": 18870,
+      "owned_reach": 18879,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -13226,7 +13250,7 @@
       "astronauts": [],
       "risk_vectors": [],
       "owned_engagement": 36,
-      "owned_reach": 830,
+      "owned_reach": 832,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13552,7 +13576,7 @@
       "engagement": 37,
       "reach": 0,
       "owned_engagement": 74,
-      "owned_reach": 1504,
+      "owned_reach": 1506,
       "sentiment": "",
       "source_country": "",
       "is_campaign": true,
