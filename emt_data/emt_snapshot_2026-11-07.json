@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generated": "2026-11-07T03:05:36.835824+00:00",
-    "window_hours": 1587,
-    "total": 596,
-    "text_available": 311,
-    "text_masked": 285,
-    "earned_media": 227,
-    "social": 369,
+    "generated": "2026-11-07T09:55:13.576800+00:00",
+    "window_hours": 1593,
+    "total": 598,
+    "text_available": 312,
+    "text_masked": 286,
+    "earned_media": 228,
+    "social": 370,
     "by_source": {
-      "external": 476,
+      "external": 478,
       "own": 88,
       "movement": 32
     },
@@ -36,7 +36,7 @@
     ],
     "own_posts": 88,
     "movement_posts": 32,
-    "external_posts": 476,
+    "external_posts": 478,
     "reach_available": true,
     "reach_measurement": "REACH_COUNT",
     "engagement_measurement": "EARNED_ENGAGEMENT",
@@ -51,13 +51,13 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39295"
+      "EARNED_ENGAGEMENT": "39296"
     },
     "owned_true": {
       "posts": 46,
       "engagement": 3345,
       "video_views": 0,
-      "reach": 98328,
+      "reach": 98330,
       "candidates": 2000
     },
     "owned_error": "",
@@ -145,9 +145,9 @@
         "https://twitter.com/ifrc/status/2103756461994398048",
         "https://twitter.com/IFRCAfrica/status/2109972174215778814",
         "https://twitter.com/ifrc/status/2098404313475297743",
+        "https://twitter.com/ifrc/status/2118293050908631387",
         "https://twitter.com/jagan_chapagain/status/2104608414919803020",
         "https://twitter.com/IFRC_MENA/status/2095949379534287229",
-        "https://twitter.com/ifrc/status/2118293050908631387",
         "https://twitter.com/jagan_chapagain/status/2095794860951228777",
         "https://twitter.com/IFRCAfrica/status/2095436649932939472",
         "https://twitter.com/IFRCAsiaPacific/status/2110185201729184140",
@@ -186,7 +186,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aee955aa98b84d4e311a692\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aeef5640e1fc98b379959f6\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -196,16 +196,16 @@
       "userActions"
     ],
     "metric_keys_seen": {},
-    "total_reach": 41947682,
+    "total_reach": 41949476,
     "own_reach": 19654651,
     "movement_reach": 1327262,
-    "external_reach": 20965769,
-    "own_engagement": 10760,
+    "external_reach": 20967563,
+    "own_engagement": 10762,
     "movement_engagement": 594,
     "external_engagement": 30445,
     "amplification": 2.83,
     "earned_by_platform": {
-      "Web": 201,
+      "Web": 202,
       "Print": 14,
       "TV": 12
     },
@@ -228,6 +228,7 @@
     },
     "outlet_reach": {
       "Podchaser": 82481,
+      "El Quicio de la Mancebﾃｭa": 0,
       "Diplomacyandlaw": 0,
       "Avioblog": 0,
       "Reportdifesa": 0,
@@ -240,10 +241,22 @@
       "Europa": 0,
       "Diarioavancetabasco": 0,
       "Infoensenadanoticias": 0,
-      "Bruxelleskorner": 0,
-      "Divulgadoresdelmisterio": 0
+      "Bruxelleskorner": 0
     },
     "earned_top": [
+      {
+        "url": "http://ct.moreover.com/?a=60795688414&p=1zb&v=1&x=BtYje4bvNDilKU1ylnxq3Q",
+        "platform": "Web",
+        "outlet": "El Quicio de la Mancebﾃｭa",
+        "source": "external",
+        "language": "Spanish",
+        "engagement": 0,
+        "text": "•••  •••   Revista de de opinión en prensa  •••  Centenares de inmigrantes en el puerto de La Restinga. (Reuters) Canarias, desbordada tras la llegada de 4.587 inmigrantes en los primeros seis días de noviembre a El Hierro Marlaska ha viajado este viernes a ...",
+        "created": "2026-11-07T09:55:11.713911+00:00",
+        "author": "El Quicio de la Mancebﾃｭa",
+        "astronauts": [],
+        "risk_vectors": []
+      },
       {
         "url": "https://www.diplomacyandlaw.com/post/humanitarian-aid",
         "platform": "Web",
@@ -425,19 +438,6 @@
         "author": "noreply@blogger.com (Mariano Garcia)",
         "astronauts": [],
         "risk_vectors": []
-      },
-      {
-        "url": "https://www.bruxelleskorner.com/haber/limportance-de-ce-jour-jeudi-29-octobre-2026-25-evenements-qui-ont-marque-lhistoire-16044",
-        "platform": "Web",
-        "outlet": "Bruxelleskorner",
-        "source": "external",
-        "language": "French",
-        "engagement": 0,
-        "text": "BRUXELLES KORNER\nL’IMPORTANCE DE CE JOUR — JEUDI 29 OCTOBRE 2026\n25 événements qui ont marqué l’histoire : de la résistance belge sur l’Yser à la naissance de la République de Türkiye, du krach de Wall Street à l’apparition d’Internet\nHistoire | Belgique | Géopolitique | Économie",
-        "created": "2026-10-29T15:28:40.819033+00:00",
-        "author": "BRUXELLES KORNER COPYRIGHT 2015-2026",
-        "astronauts": [],
-        "risk_vectors": []
       }
     ],
     "campaign_named": 93,
@@ -493,11 +493,12 @@
       "2026-11-03": 3,
       "2026-11-04": 3,
       "2026-11-05": 7,
-      "2026-11-06": 2
+      "2026-11-06": 2,
+      "2026-11-07": 2
     },
     "by_platform": {
-      "X": 285,
-      "Web": 201,
+      "X": 286,
+      "Web": 202,
       "Facebook": 28,
       "Instagram": 25,
       "Print": 14,
@@ -508,10 +509,10 @@
       "Bluesky": 5
     },
     "by_language": {
-      "und": 305,
+      "und": 306,
       "English": 131,
       "French": 94,
-      "Spanish": 60,
+      "Spanish": 61,
       "unknown": 6
     },
     "by_sentiment": {},
@@ -734,7 +735,7 @@
         "outlet": "Instagram",
         "source": "own",
         "language": "English",
-        "engagement": 432,
+        "engagement": 433,
         "text": "On this International Day for Disaster Risk Reduction, through its newly launched #EarthsMissingTreaty campaign, the IFRC is advocating for stronger international rules so aid can move faster, cooperation can be clearer, and people can be better protected.\n\nBecause the world shou",
         "created": "2026-10-13T17:05:17.906878+00:00",
         "author": "IFRC",
@@ -917,6 +918,54 @@
     ]
   },
   "items": [
+    {
+      "id": "s0546",
+      "text": "•••  •••   Revista de de opinión en prensa  •••  Centenares de inmigrantes en el puerto de La Restinga. (Reuters) Canarias, desbordada tras la llegada de 4.587 inmigrantes en los primeros seis días de noviembre a El Hierro Marlaska ha viajado este viernes a ...",
+      "title": "071126, sﾃ｡bado: La corrupciﾃｳn sanchista puede llegar a alcanzar a los fondos donados por e la Uniﾃｳn Europea...",
+      "has_text": true,
+      "url": "http://ct.moreover.com/?a=60795688414&p=1zb&v=1&x=BtYje4bvNDilKU1ylnxq3Q",
+      "platform": "Web",
+      "outlet": "El Quicio de la Mancebﾃｭa",
+      "source": "external",
+      "language": "Spanish",
+      "language_source": "inferred",
+      "author": "El Quicio de la Mancebﾃｭa",
+      "created": "2026-11-07T09:55:11.713911+00:00",
+      "day": "2026-11-07",
+      "engagement": 0,
+      "reach": 0,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-11-07T09:55:13.561139+00:00"
+    },
+    {
+      "id": "s0427",
+      "text": "",
+      "title": "",
+      "has_text": false,
+      "url": "https://twitter.com/AchalaNavaratne/status/2118925367939657932",
+      "platform": "X",
+      "outlet": "Twitter",
+      "source": "external",
+      "language": "und",
+      "language_source": "inferred",
+      "author": "@AchalaNavaratne",
+      "created": "2026-11-07T09:55:11.674213+00:00",
+      "day": "2026-11-07",
+      "engagement": 0,
+      "reach": 1794,
+      "sentiment": "",
+      "country": "",
+      "is_campaign": false,
+      "is_treaty": false,
+      "astronauts": [],
+      "risk_vectors": [],
+      "first_seen": "2026-11-07T09:55:13.561139+00:00"
+    },
     {
       "id": "s0544",
       "text": "It is nothing sinister. All the new recommendations ( which are mainly old Civil Defense lists )  are coming about due to these....\n\n• PPED Preparatory Committee: Held its session from 31 August to 4 September 2026 at UN Headquarters in New York to prepare consolidated draft articles and rules of procedure for the upcoming 2027 conference (following a change from the originally planned Manila location) via the Preparatory Committee - Protection of Persons in the Event of Disasters Page.\n\n• From Knowledge to Action: Communication for a Safer World: The first global UN event dedicated to risk communication took place in Geneva on 14 October 2026, co-hosted by UNDRR, UNESCO, and the IFRC as detailed by UNESCO.\n\n• COP31 Climate Change Conference: Scheduled for 9–20 November 2026 in Antalya, Türkiye, featuring the expected launch of the UN Disaster Risk Financing Platform to mobilize pre-arranged disaster and climate risk funding as outlined by the World Food Programme.\n\n• World Conferences on Disaster Risk Reduction (WCDRR): The landmark framework guiding global disaster risk reduction through 2030 is the Sendai Framework, adopted during the 3rd WCDRR as described by UNDRR.\n\nNote: Many Militaries globally are re-defining readiness due to new risks like AI and some insane weather patterns ( if you know your history, you would understand) . \n\n\nThe fact is in the past when something has gone wrong, everyone seems ill-prepared or incompetent. From Civilians up to Govt organizations. And everyone points fingers at who was to blame. But now they are actually taking action, people freak out. ( the kind of people who said we should already be dead from the Covid vaccine )\n\nThe Greatest and Silent Generations would be so embarrassed. Everyone has turned into a bunch of cry babies. \n\nP.S. There are going to be lots more to come in the next couple of years. Try not to piss your pants every time.",
@@ -1123,7 +1172,7 @@
       "author": "@ifrc",
       "created": "2026-11-05T17:35:14.015663+00:00",
       "day": "2026-11-05",
-      "engagement": 14,
+      "engagement": 15,
       "reach": 234009,
       "sentiment": "",
       "country": "",
@@ -3783,7 +3832,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 428,
+      "owned_reach": 429,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3808,7 +3857,7 @@
       "is_treaty": false,
       "astronauts": [],
       "risk_vectors": [],
-      "owned_reach": 953,
+      "owned_reach": 954,
       "first_seen": "2026-10-13T17:05:20.422153+00:00"
     },
     {
@@ -3877,7 +3926,7 @@
       "author": "IFRC",
       "created": "2026-10-13T17:05:17.906878+00:00",
       "day": "2026-10-13",
-      "engagement": 432,
+      "engagement": 433,
       "reach": 368099,
       "sentiment": "",
       "country": "",
