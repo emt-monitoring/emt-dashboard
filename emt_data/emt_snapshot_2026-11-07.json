@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-11-07T09:55:13.576800+00:00",
-    "window_hours": 1593,
+    "generated": "2026-11-07T16:14:08.862364+00:00",
+    "window_hours": 1600,
     "total": 598,
     "text_available": 312,
     "text_masked": 286,
@@ -186,7 +186,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aeef5640e1fc98b379959f6\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6aef4e248d13c8a304fa24b2\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
