@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-11-08T18:02:29.792709+00:00",
-    "window_hours": 1626,
+    "generated": "2026-11-08T21:54:44.182267+00:00",
+    "window_hours": 1629,
     "total": 598,
     "text_available": 312,
     "text_masked": 286,
@@ -51,7 +51,7 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39307"
+      "EARNED_ENGAGEMENT": "39311"
     },
     "owned_true": {
       "posts": 46,
@@ -65,13 +65,13 @@
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1102,
+        "FACEBOOK": 1105,
         "TWITTER": 348,
-        "INSTAGRAM": 385,
-        "THREADS": 16,
-        "LINKEDIN": 55,
+        "INSTAGRAM": 384,
         "WECHAT": 6,
+        "THREADS": 15,
         "BLUESKY": 18,
+        "LINKEDIN": 54,
         "VK": 20,
         "TIKTOK": 20,
         "YOUTUBE": 30
@@ -181,12 +181,10 @@
         "https://www.linkedin.com/feed/update/urn:li:ugcPost:750163701726545510",
         "https://www.linkedin.com/feed/update/urn:li:share:7503410174032801793",
         "",
-        "",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9qcHZPY05ZQTZPO",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
+        ""
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6af0b9178d13c8a3041b47c4\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6af0ef56a98b84d4e3469898\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -200,8 +198,8 @@
     "own_reach": 19654651,
     "movement_reach": 1327262,
     "external_reach": 20967563,
-    "own_engagement": 10769,
-    "movement_engagement": 599,
+    "own_engagement": 10771,
+    "movement_engagement": 601,
     "external_engagement": 30447,
     "amplification": 2.83,
     "earned_by_platform": {
@@ -722,7 +720,7 @@
         "outlet": "Tiktok",
         "source": "own",
         "language": "English",
-        "engagement": 485,
+        "engagement": 487,
         "text": "@drsianproctor is an astronaut, geologist and the first female commercial spaceship pilot. She is also one of IFRC's Disaster Protection Champions calling for #EarthsMissingTreaty - which will protect people before, during and disasters. Learn more at earthsmissingtreaty.org",
         "created": "2026-09-26T12:23:16.260059+00:00",
         "author": "We are humanitarians",
@@ -774,7 +772,7 @@
         "outlet": "Youtube",
         "source": "movement",
         "language": "Spanish",
-        "engagement": 241,
+        "engagement": 243,
         "text": "Con la campagna Earths Missing Treaty, la Federazione Internazionale della Croce Rossa e Mezzaluna Rossa (IFRC) punta lanciare un monito globale, rafforzando il proprio appello alle autorità internazionali in vista della conferenza nel quale si discuterà il contenuto del trattato",
         "created": "2026-10-26T23:40:39.063808+00:00",
         "author": "Croce Rossa Italiana",
@@ -1988,7 +1986,7 @@
       "author": "Croce Rossa Italiana",
       "created": "2026-10-26T23:40:39.063808+00:00",
       "day": "2026-10-26",
-      "engagement": 241,
+      "engagement": 243,
       "reach": 24200,
       "sentiment": "",
       "country": "",
@@ -5773,7 +5771,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-26T12:23:16.260059+00:00",
       "day": "2026-09-26",
-      "engagement": 485,
+      "engagement": 487,
       "reach": 409,
       "sentiment": "",
       "country": "",
