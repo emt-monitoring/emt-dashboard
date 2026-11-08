@@ -2490,6 +2490,44 @@
         "neutrality": 1
       },
       "updated": "2026-11-07T23:51:22.834468+00:00"
+    },
+    "2026-11-08": {
+      "total": 598,
+      "text_available": 312,
+      "text_masked": 286,
+      "earned_media": 228,
+      "social": 370,
+      "own_posts": 88,
+      "movement_posts": 32,
+      "external_posts": 478,
+      "campaign_named": 93,
+      "treaty_only": 35,
+      "by_platform": {
+        "X": 286,
+        "Web": 202,
+        "Facebook": 28,
+        "Instagram": 25,
+        "Print": 14,
+        "YouTube": 12,
+        "TV": 12,
+        "TikTok": 8,
+        "LinkedIn": 6,
+        "Bluesky": 5
+      },
+      "by_language": {
+        "und": 306,
+        "English": 131,
+        "French": 94,
+        "Spanish": 61,
+        "unknown": 6
+      },
+      "by_sentiment": {},
+      "risk_vectors": {
+        "venue_uncertainty": 4,
+        "sovereignty": 2,
+        "neutrality": 1
+      },
+      "updated": "2026-11-08T05:32:31.472787+00:00"
     }
   }
 }
