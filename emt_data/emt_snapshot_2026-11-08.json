@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated": "2026-11-08T12:07:48.313990+00:00",
-    "window_hours": 1620,
+    "generated": "2026-11-08T18:02:29.792709+00:00",
+    "window_hours": 1626,
     "total": 598,
     "text_available": 312,
     "text_masked": 286,
@@ -51,7 +51,7 @@
       "REACTION_COUNT": "unknown",
       "TOTAL_ENGAGEMENT": "unknown",
       "ENGAGEMENT": "unknown",
-      "EARNED_ENGAGEMENT": "39304"
+      "EARNED_ENGAGEMENT": "39307"
     },
     "owned_true": {
       "posts": 46,
@@ -65,13 +65,13 @@
       "total_links": 2000,
       "ifrc_rows": 116,
       "channels": {
-        "FACEBOOK": 1105,
+        "FACEBOOK": 1102,
         "TWITTER": 348,
-        "INSTAGRAM": 384,
+        "INSTAGRAM": 385,
+        "THREADS": 16,
+        "LINKEDIN": 55,
         "WECHAT": 6,
-        "THREADS": 15,
         "BLUESKY": 18,
-        "LINKEDIN": 54,
         "VK": 20,
         "TIKTOK": 20,
         "YOUTUBE": 30
@@ -186,7 +186,7 @@
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4THBnc0ZVNnAtc"
       ]
     },
-    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6af065f5b2d7ebed0f1fedc5\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
+    "engagement_error": "ENGAGEMENT -> 400 {\"data\":[],\"errors\":[{\"id\":\"6af0b9178d13c8a3041b47c4\",\"code\":400,\"message\":\"Unknown measurement: ENGAGEMENT for report: ",
     "reach_error": "",
     "author_keys_seen": [
       "isSenderFollower",
@@ -200,7 +200,7 @@
     "own_reach": 19654651,
     "movement_reach": 1327262,
     "external_reach": 20967563,
-    "own_engagement": 10766,
+    "own_engagement": 10769,
     "movement_engagement": 599,
     "external_engagement": 30447,
     "amplification": 2.83,
@@ -691,6 +691,19 @@
         "risk_vectors": []
       },
       {
+        "url": "https://www.tiktok.com/@ifrc/video/7692071841501924611",
+        "platform": "TikTok",
+        "outlet": "Tiktok",
+        "source": "own",
+        "language": "English",
+        "engagement": 612,
+        "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
+        "created": "2026-10-08T17:33:18.803267+00:00",
+        "author": "We are humanitarians",
+        "astronauts": [],
+        "risk_vectors": []
+      },
+      {
         "url": "https://www.tiktok.com/@ifrc/video/7684271318954446103",
         "platform": "TikTok",
         "outlet": "Tiktok",
@@ -699,19 +712,6 @@
         "engagement": 612,
         "text": "When disaster strikes, legal and logistical barriers can delay life-saving humanitarian assistance when every moment counts. In the latest episode of @IFRC Weekly News, Melis Figanmese, who leads the IFRC’s Earth’s Missing Treaty campaign, explains the urgent need for the world’s",
         "created": "2026-09-11T17:07:18.253253+00:00",
-        "author": "We are humanitarians",
-        "astronauts": [],
-        "risk_vectors": []
-      },
-      {
-        "url": "https://www.tiktok.com/@ifrc/video/7692071841501924611",
-        "platform": "TikTok",
-        "outlet": "Tiktok",
-        "source": "own",
-        "language": "English",
-        "engagement": 609,
-        "text": "We are all part of this thing called humanity together as a team.\" Former Astronaut @stationcdrkelly on #earthsmissingtreaty.  Right now, countries are discussing a potential Treaty that will protect people before, during and after disasters.  Help us spread the word and learn mo",
-        "created": "2026-10-08T17:33:18.803267+00:00",
         "author": "We are humanitarians",
         "astronauts": [],
         "risk_vectors": []
@@ -4895,7 +4895,7 @@
       "author": "We are humanitarians",
       "created": "2026-10-08T17:33:18.803267+00:00",
       "day": "2026-10-08",
-      "engagement": 609,
+      "engagement": 612,
       "reach": 479,
       "sentiment": "",
       "country": "",
