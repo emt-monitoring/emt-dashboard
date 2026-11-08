@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:32:34+00:00",
+  "generated_at": "2026-11-08T12:07:51+00:00",
   "ga4_property": "552276215",
   "start": "2026-09-03",
   "series": [
@@ -401,19 +401,19 @@
     ],
     [
       "2026-11-08",
-      1,
-      2,
-      1
+      6,
+      7,
+      6
     ]
   ],
-  "avg_duration": 74,
+  "avg_duration": 18,
   "by_page": [
     {
       "path": "/earthsmissingtreaty",
       "language": "English",
-      "sessions": 1859,
-      "views": 2001,
-      "users": 1144
+      "sessions": 1864,
+      "views": 2006,
+      "users": 1147
     },
     {
       "path": "/earthsmissingtreaty/es",
@@ -545,15 +545,15 @@
   "channels": [
     {
       "label": "Direct",
-      "value": 1281
+      "value": 1283
     },
     {
       "label": "Organic Search",
-      "value": 276
+      "value": 277
     },
     {
       "label": "Organic Social",
-      "value": 245
+      "value": 247
     },
     {
       "label": "Referral",
@@ -561,7 +561,7 @@
     },
     {
       "label": "Unassigned",
-      "value": 6
+      "value": 7
     }
   ],
   "countries": [
@@ -571,7 +571,7 @@
     },
     {
       "label": "United States",
-      "value": 270
+      "value": 271
     },
     {
       "label": "Switzerland",
@@ -603,11 +603,11 @@
     },
     {
       "label": "South Africa",
-      "value": 36
+      "value": 37
     },
     {
       "label": "Canada",
-      "value": 35
+      "value": 36
     },
     {
       "label": "Ireland",
