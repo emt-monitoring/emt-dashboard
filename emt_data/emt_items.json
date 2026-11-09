@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T21:54:44.172208+00:00",
+  "generated": "2026-11-09T01:34:18.649489+00:00",
   "count": 598,
   "items": [
     {
@@ -13478,7 +13478,7 @@
       "risk_vectors": [],
       "owned_engagement": 877,
       "owned_video_views": 0,
-      "owned_reach": 20483,
+      "owned_reach": 20513,
       "first_seen": "2026-09-04T11:56:41.328419+00:00"
     },
     {
@@ -13495,7 +13495,7 @@
       "author": "We are humanitarians",
       "created": "2026-09-04T11:56:34.581567+00:00",
       "day": "2026-09-04",
-      "engagement": 619,
+      "engagement": 621,
       "reach": 515,
       "sentiment": "",
       "country": "",
